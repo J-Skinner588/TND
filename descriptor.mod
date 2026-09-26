@@ -12,5 +12,3 @@ tags={
 }
 name="TND"
 supported_version="1.15.4"
-
-replace_path = "history/states"
