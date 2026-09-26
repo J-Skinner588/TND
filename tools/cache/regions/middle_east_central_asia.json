@@ -1,0 +1,7879 @@
+[
+ {
+  "id": 1000,
+  "name": "STATE_1000",
+  "file": "1000-East Azerbaijan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER",
+   "AZR"
+  ],
+  "claims": [],
+  "manpower": 3458948,
+  "category": "city",
+  "centroid": [
+   38.0,
+   46.69
+  ],
+  "neighbour_states": [
+   229,
+   230,
+   419,
+   420,
+   1001,
+   1093
+  ],
+  "provinces": [
+   {
+    "id": 1896,
+    "lat": 37.96,
+    "lon": 46.2,
+    "name": "Tabriz",
+    "vp": 5.0,
+    "borders_states": [
+     419
+    ]
+   },
+   {
+    "id": 2071,
+    "lat": 36.88,
+    "lon": 47.24,
+    "borders_states": [
+     419,
+     420,
+     1001
+    ]
+   },
+   {
+    "id": 4755,
+    "lat": 38.55,
+    "lon": 45.71,
+    "borders_states": [
+     230,
+     419,
+     1093
+    ]
+   },
+   {
+    "id": 4825,
+    "lat": 38.7,
+    "lon": 47.0,
+    "borders_states": [
+     229,
+     230,
+     420
+    ]
+   },
+   {
+    "id": 12793,
+    "lat": 37.69,
+    "lon": 47.34,
+    "borders_states": [
+     419,
+     420
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1001,
+  "name": "STATE_1001",
+  "file": "1001-Kurdistan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER",
+   "KUR"
+  ],
+  "claims": [],
+  "manpower": 3249914,
+  "category": "large_town",
+  "centroid": [
+   35.13,
+   46.63
+  ],
+  "neighbour_states": [
+   291,
+   417,
+   419,
+   420,
+   421,
+   676,
+   1000
+  ],
+  "provinces": [
+   {
+    "id": 4943,
+    "lat": 35.83,
+    "lon": 46.28,
+    "name": "Sanandaj",
+    "vp": 5.0,
+    "borders_states": [
+     419,
+     676,
+     1000
+    ]
+   },
+   {
+    "id": 9816,
+    "lat": 35.58,
+    "lon": 47.35,
+    "borders_states": [
+     417,
+     420,
+     1000
+    ]
+   },
+   {
+    "id": 5098,
+    "lat": 34.43,
+    "lon": 45.83,
+    "name": "Kermānshāhān",
+    "vp": 3.0,
+    "borders_states": [
+     291,
+     421,
+     676
+    ]
+   },
+   {
+    "id": 12773,
+    "lat": 34.34,
+    "lon": 47.02,
+    "borders_states": [
+     417,
+     421
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1002,
+  "name": "STATE_1002",
+  "file": "1002-Yazd.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 779979,
+  "category": "town",
+  "centroid": [
+   31.93,
+   54.57
+  ],
+  "neighbour_states": [
+   411,
+   412,
+   414,
+   418,
+   1003
+  ],
+  "provinces": [
+   {
+    "id": 8031,
+    "lat": 31.29,
+    "lon": 54.0,
+    "name": "Yazd",
+    "vp": 1.0,
+    "borders_states": [
+     411,
+     412
+    ]
+   },
+   {
+    "id": 1963,
+    "lat": 32.46,
+    "lon": 54.25,
+    "borders_states": [
+     411,
+     418
+    ]
+   },
+   {
+    "id": 10828,
+    "lat": 31.94,
+    "lon": 55.72,
+    "borders_states": [
+     412,
+     414,
+     418,
+     1003
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1003,
+  "name": "STATE_1003",
+  "file": "1003-South Khorasan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 571985,
+  "category": "pastoral",
+  "centroid": [
+   32.53,
+   58.81
+  ],
+  "neighbour_states": [
+   410,
+   414,
+   415,
+   416,
+   418,
+   1002,
+   1009
+  ],
+  "provinces": [
+   {
+    "id": 12739,
+    "lat": 31.46,
+    "lon": 59.92,
+    "borders_states": [
+     410,
+     414,
+     1009
+    ]
+   },
+   {
+    "id": 12852,
+    "lat": 32.09,
+    "lon": 58.72,
+    "borders_states": [
+     414
+    ]
+   },
+   {
+    "id": 10759,
+    "lat": 32.46,
+    "lon": 57.36,
+    "borders_states": [
+     414,
+     418,
+     1002
+    ]
+   },
+   {
+    "id": 7990,
+    "lat": 33.03,
+    "lon": 59.83,
+    "name": "Birjand",
+    "vp": 1.0,
+    "borders_states": [
+     415,
+     416,
+     1009
+    ]
+   },
+   {
+    "id": 10890,
+    "lat": 33.52,
+    "lon": 58.16,
+    "borders_states": [
+     416,
+     418
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1004,
+  "name": "STATE_1004",
+  "file": "1004-North Khorasan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 935975,
+  "category": "rural",
+  "centroid": [
+   37.26,
+   57.47
+  ],
+  "neighbour_states": [
+   266,
+   416,
+   418,
+   584
+  ],
+  "provinces": [
+   {
+    "id": 7573,
+    "lat": 36.98,
+    "lon": 57.26,
+    "borders_states": [
+     266,
+     416,
+     418
+    ]
+   },
+   {
+    "id": 1521,
+    "lat": 37.29,
+    "lon": 58.59,
+    "borders_states": [
+     416,
+     584
+    ]
+   },
+   {
+    "id": 10351,
+    "lat": 37.94,
+    "lon": 56.59,
+    "borders_states": [
+     266,
+     584
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1005,
+  "name": "STATE_1005",
+  "file": "1005-Qataghan.txt",
+  "owner": "AFG",
+  "cores": [
+   "AFG"
+  ],
+  "claims": [],
+  "manpower": 3645150,
+  "category": "rural",
+  "centroid": [
+   36.23,
+   70.92
+  ],
+  "neighbour_states": [
+   267,
+   442,
+   619,
+   742,
+   787,
+   1006,
+   1007
+  ],
+  "provinces": [
+   {
+    "id": 7519,
+    "lat": 36.73,
+    "lon": 73.55,
+    "borders_states": [
+     442,
+     619,
+     742,
+     787
+    ]
+   },
+   {
+    "id": 10781,
+    "lat": 35.61,
+    "lon": 69.66,
+    "name": "Baghlan",
+    "vp": 1.0,
+    "borders_states": [
+     267,
+     1007
+    ]
+   },
+   {
+    "id": 10826,
+    "lat": 35.12,
+    "lon": 70.91,
+    "borders_states": [
+     267,
+     442,
+     1006
+    ]
+   },
+   {
+    "id": 12314,
+    "lat": 36.63,
+    "lon": 69.54,
+    "borders_states": [
+     742,
+     1007
+    ]
+   },
+   {
+    "id": 12653,
+    "lat": 36.91,
+    "lon": 70.96,
+    "borders_states": [
+     442,
+     742
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1006,
+  "name": "STATE_1006",
+  "file": "1006-Khyber Pass.txt",
+  "owner": "AFG",
+  "cores": [
+   "AFG"
+  ],
+  "claims": [],
+  "manpower": 2737386,
+  "category": "rural",
+  "centroid": [
+   33.18,
+   69.7
+  ],
+  "neighbour_states": [
+   267,
+   442,
+   987,
+   1005,
+   1008
+  ],
+  "provinces": [
+   {
+    "id": 5082,
+    "lat": 32.47,
+    "lon": 69.13,
+    "name": "Gardez",
+    "vp": 1.0,
+    "borders_states": [
+     267,
+     987,
+     1008
+    ]
+   },
+   {
+    "id": 12831,
+    "lat": 33.61,
+    "lon": 70.04,
+    "name": "Jalalabad",
+    "vp": 1.0,
+    "borders_states": [
+     267,
+     442,
+     987,
+     1005
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1007,
+  "name": "STATE_1007",
+  "file": "1007-Maymanah.txt",
+  "owner": "AFG",
+  "cores": [
+   "AFG"
+  ],
+  "claims": [],
+  "manpower": 3389547,
+  "category": "rural",
+  "centroid": [
+   35.77,
+   65.63
+  ],
+  "neighbour_states": [
+   267,
+   415,
+   584,
+   742,
+   830,
+   1005
+  ],
+  "provinces": [
+   {
+    "id": 7448,
+    "lat": 35.55,
+    "lon": 64.12,
+    "borders_states": [
+     415,
+     584
+    ]
+   },
+   {
+    "id": 7584,
+    "lat": 36.58,
+    "lon": 65.82,
+    "borders_states": [
+     267,
+     584,
+     830
+    ]
+   },
+   {
+    "id": 10896,
+    "lat": 34.54,
+    "lon": 64.69,
+    "borders_states": [
+     267,
+     415
+    ]
+   },
+   {
+    "id": 12248,
+    "lat": 36.34,
+    "lon": 67.84,
+    "name": "Kunduz",
+    "vp": 1.0,
+    "borders_states": [
+     267,
+     742,
+     830,
+     1005
+    ]
+   },
+   {
+    "id": 12877,
+    "lat": 35.62,
+    "lon": 65.63,
+    "borders_states": [
+     267
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1008,
+  "name": "STATE_1008",
+  "file": "1008-Qandahar.txt",
+  "owner": "AFG",
+  "cores": [
+   "AFG"
+  ],
+  "claims": [],
+  "manpower": 2119055,
+  "category": "rural",
+  "centroid": [
+   31.29,
+   66.22
+  ],
+  "neighbour_states": [
+   267,
+   415,
+   987,
+   988,
+   1006,
+   1009
+  ],
+  "provinces": [
+   {
+    "id": 4949,
+    "lat": 30.31,
+    "lon": 64.45,
+    "borders_states": [
+     988,
+     1009
+    ]
+   },
+   {
+    "id": 5020,
+    "lat": 30.41,
+    "lon": 65.79,
+    "borders_states": [
+     988
+    ]
+   },
+   {
+    "id": 5064,
+    "lat": 31.63,
+    "lon": 66.28,
+    "name": "Kandahar",
+    "vp": 1.0,
+    "borders_states": [
+     988,
+     1009
+    ]
+   },
+   {
+    "id": 8090,
+    "lat": 31.58,
+    "lon": 68.27,
+    "borders_states": [
+     987,
+     988,
+     1006
+    ]
+   },
+   {
+    "id": 10789,
+    "lat": 32.63,
+    "lon": 67.02,
+    "borders_states": [
+     267,
+     415,
+     1006,
+     1009
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1009,
+  "name": "STATE_1009",
+  "file": "1009-Farah.txt",
+  "owner": "AFG",
+  "cores": [
+   "AFG"
+  ],
+  "claims": [],
+  "manpower": 610814,
+  "category": "pastoral",
+  "centroid": [
+   31.41,
+   62.75
+  ],
+  "neighbour_states": [
+   410,
+   415,
+   988,
+   1003,
+   1008
+  ],
+  "provinces": [
+   {
+    "id": 2017,
+    "lat": 32.13,
+    "lon": 62.92,
+    "name": "Farah",
+    "vp": 1.0,
+    "borders_states": [
+     415
+    ]
+   },
+   {
+    "id": 2062,
+    "lat": 32.04,
+    "lon": 61.31,
+    "borders_states": [
+     410,
+     415,
+     1003
+    ]
+   },
+   {
+    "id": 2078,
+    "lat": 32.18,
+    "lon": 64.6,
+    "borders_states": [
+     415,
+     1008
+    ]
+   },
+   {
+    "id": 1948,
+    "lat": 30.92,
+    "lon": 62.94,
+    "borders_states": [
+     410,
+     1008
+    ]
+   },
+   {
+    "id": 2101,
+    "lat": 29.96,
+    "lon": 62.22,
+    "borders_states": [
+     410,
+     988,
+     1008
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1010,
+  "name": "STATE_1010",
+  "file": "1010-Al Anbar.txt",
+  "owner": "IRQ",
+  "cores": [
+   "IRQ"
+  ],
+  "claims": [],
+  "manpower": 275451,
+  "category": "pastoral",
+  "centroid": [
+   32.82,
+   40.62
+  ],
+  "neighbour_states": [
+   291,
+   455,
+   675,
+   676,
+   680,
+   854
+  ],
+  "provinces": [
+   {
+    "id": 1631,
+    "lat": 32.77,
+    "lon": 39.45,
+    "name": "Trebil",
+    "borders_states": [
+     455,
+     680,
+     854
+    ]
+   },
+   {
+    "id": 4951,
+    "lat": 32.18,
+    "lon": 41.49,
+    "borders_states": [
+     291,
+     675,
+     854
+    ]
+   },
+   {
+    "id": 12413,
+    "lat": 33.77,
+    "lon": 41.11,
+    "name": "Rumadiyah",
+    "vp": 1.0,
+    "borders_states": [
+     291,
+     676,
+     680
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1011,
+  "name": "STATE_1011",
+  "file": "1011-Al Basrah.txt",
+  "owner": "IRQ",
+  "cores": [
+   "IRQ"
+  ],
+  "claims": [],
+  "manpower": 6481768,
+  "category": "large_city",
+  "centroid": [
+   31.35,
+   46.21
+  ],
+  "neighbour_states": [
+   291,
+   413,
+   421,
+   656,
+   675
+  ],
+  "provinces": [
+   {
+    "id": 78,
+    "lat": 32.05,
+    "lon": 46.95,
+    "name": "Amarah",
+    "borders_states": [
+     291,
+     413,
+     421
+    ]
+   },
+   {
+    "id": 2004,
+    "lat": 31.54,
+    "lon": 45.41,
+    "name": "Al Diwaniyah",
+    "borders_states": [
+     291
+    ]
+   },
+   {
+    "id": 2089,
+    "lat": 30.42,
+    "lon": 47.11,
+    "name": "Basrah",
+    "vp": 5.0,
+    "borders_states": [
+     413,
+     656,
+     675
+    ]
+   },
+   {
+    "id": 7977,
+    "lat": 32.07,
+    "lon": 46.0,
+    "name": "Kut",
+    "borders_states": [
+     291
+    ]
+   },
+   {
+    "id": 8001,
+    "lat": 30.91,
+    "lon": 45.26,
+    "name": "Najaf",
+    "vp": 3.0,
+    "borders_states": [
+     291,
+     675
+    ]
+   },
+   {
+    "id": 12726,
+    "lat": 31.12,
+    "lon": 46.69,
+    "name": "Nasiriyah",
+    "vp": 1.0,
+    "borders_states": [
+     413
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1012,
+  "name": "STATE_1012",
+  "file": "1012-Kalat.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [],
+  "manpower": 839516,
+  "category": "rural",
+  "centroid": [
+   27.71,
+   66.52
+  ],
+  "neighbour_states": [
+   443,
+   444,
+   445,
+   988
+  ],
+  "provinces": [
+   {
+    "id": 7049,
+    "lat": 27.15,
+    "lon": 67.27,
+    "borders_states": [
+     443,
+     444
+    ]
+   },
+   {
+    "id": 8098,
+    "lat": 28.61,
+    "lon": 66.77,
+    "name": "Kalat",
+    "vp": 1.0,
+    "borders_states": [
+     443,
+     445,
+     988
+    ]
+   },
+   {
+    "id": 8066,
+    "lat": 27.33,
+    "lon": 66.03,
+    "name": "Khuzdar",
+    "borders_states": [
+     444,
+     988
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1013,
+  "name": "STATE_1013",
+  "file": "1013 -Musamdam.txt",
+  "owner": "OMA",
+  "cores": [
+   "OMA"
+  ],
+  "claims": [],
+  "manpower": 27410,
+  "category": "pastoral",
+  "centroid": [
+   26.26,
+   56.41
+  ],
+  "neighbour_states": [
+   658
+  ],
+  "provinces": [
+   {
+    "id": 13369,
+    "lat": 26.26,
+    "lon": 56.41,
+    "name": "Khasab",
+    "borders_states": [
+     658
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1014,
+  "name": "STATE_1014",
+  "file": "1014 - Bahrain.txt",
+  "owner": "SAU",
+  "cores": [],
+  "claims": [
+   "PER"
+  ],
+  "manpower": 630000,
+  "category": "city",
+  "centroid": [
+   26.37,
+   50.5
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13313,
+    "lat": 26.37,
+    "lon": 50.5,
+    "name": "Manama",
+    "vp": 2.0
+   }
+  ]
+ },
+ {
+  "id": 1015,
+  "name": "STATE_1015",
+  "file": "1015 - Interior Oman.txt",
+  "owner": "OMA",
+  "cores": [
+   "OMA"
+  ],
+  "claims": [],
+  "manpower": 440518,
+  "category": "rural",
+  "centroid": [
+   21.53,
+   56.49
+  ],
+  "neighbour_states": [
+   294,
+   658,
+   678,
+   1016
+  ],
+  "provinces": [
+   {
+    "id": 2018,
+    "lat": 20.42,
+    "lon": 56.1,
+    "borders_states": [
+     294,
+     678,
+     1016
+    ]
+   },
+   {
+    "id": 5049,
+    "lat": 22.6,
+    "lon": 56.87,
+    "name": "Nizwa",
+    "vp": 1.0,
+    "borders_states": [
+     294,
+     658,
+     678
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1016,
+  "name": "STATE_1016",
+  "file": "1016 - Dhofar.txt",
+  "owner": "OMA",
+  "cores": [
+   "OMA"
+  ],
+  "claims": [],
+  "manpower": 195786,
+  "category": "rural",
+  "centroid": [
+   18.38,
+   53.96
+  ],
+  "neighbour_states": [
+   294,
+   659,
+   678,
+   1015
+  ],
+  "provinces": [
+   {
+    "id": 2059,
+    "lat": 18.78,
+    "lon": 53.73,
+    "borders_states": [
+     294,
+     659,
+     678,
+     1015
+    ]
+   },
+   {
+    "id": 2103,
+    "lat": 17.62,
+    "lon": 54.38,
+    "name": "Salalah",
+    "vp": 1.0,
+    "borders_states": [
+     294,
+     659
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1091,
+  "name": "West Bank",
+  "file": "1091-West Bank.txt",
+  "owner": "ISR",
+  "cores": [
+   "ISR",
+   "PAL"
+  ],
+  "claims": [
+   "JOR"
+  ],
+  "manpower": 870000,
+  "category": "large_town",
+  "centroid": [
+   32.31,
+   35.29
+  ],
+  "neighbour_states": [
+   454,
+   455
+  ],
+  "provinces": [
+   {
+    "id": 7107,
+    "lat": 32.31,
+    "lon": 35.29,
+    "borders_states": [
+     454,
+     455
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1092,
+  "name": "Gaza",
+  "file": "1092-Gaza.txt",
+  "owner": "ISR",
+  "cores": [
+   "ISR",
+   "PAL"
+  ],
+  "claims": [],
+  "manpower": 1300000,
+  "category": "city",
+  "centroid": [
+   31.44,
+   34.56
+  ],
+  "neighbour_states": [
+   453,
+   454
+  ],
+  "provinces": [
+   {
+    "id": 4088,
+    "lat": 31.44,
+    "lon": 34.56,
+    "borders_states": [
+     453,
+     454
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1093,
+  "name": "Nakhchivan",
+  "file": "1093-Nakhchivan.txt",
+  "owner": "AZR",
+  "cores": [
+   "AZR"
+  ],
+  "claims": [
+   "ARM"
+  ],
+  "manpower": 354000,
+  "category": "rural",
+  "centroid": [
+   39.5,
+   45.23
+  ],
+  "neighbour_states": [
+   230,
+   419,
+   1000
+  ],
+  "provinces": [
+   {
+    "id": 6997,
+    "lat": 39.5,
+    "lon": 45.23,
+    "name": "Nakhchivan",
+    "borders_states": [
+     230,
+     419,
+     1000
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1094,
+  "name": "Halaib Triangle",
+  "file": "1094-Halaib Triangle.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [
+   "SUD"
+  ],
+  "manpower": 15000,
+  "category": "pastoral",
+  "centroid": [
+   22.24,
+   35.42
+  ],
+  "neighbour_states": [
+   457,
+   883
+  ],
+  "provinces": [
+   {
+    "id": 1977,
+    "lat": 22.24,
+    "lon": 35.42,
+    "name": "Halayeb",
+    "borders_states": [
+     457,
+     883
+    ]
+   }
+  ]
+ },
+ {
+  "id": 229,
+  "name": "Azerbaijan",
+  "file": "229-baku.txt",
+  "owner": "AZR",
+  "cores": [
+   "AZR"
+  ],
+  "claims": [
+   "ARM"
+  ],
+  "manpower": 7680000,
+  "category": "large_city",
+  "centroid": [
+   40.36,
+   47.89
+  ],
+  "neighbour_states": [
+   230,
+   231,
+   232,
+   420,
+   1000
+  ],
+  "provinces": [
+   {
+    "id": 1467,
+    "lat": 40.09,
+    "lon": 46.41,
+    "borders_states": [
+     230
+    ]
+   },
+   {
+    "id": 1536,
+    "lat": 39.9,
+    "lon": 49.22
+   },
+   {
+    "id": 1539,
+    "lat": 40.8,
+    "lon": 45.98,
+    "borders_states": [
+     230,
+     231
+    ]
+   },
+   {
+    "id": 1610,
+    "lat": 40.21,
+    "lon": 47.16
+   },
+   {
+    "id": 4458,
+    "lat": 41.4,
+    "lon": 48.88,
+    "borders_states": [
+     232
+    ]
+   },
+   {
+    "id": 4473,
+    "lat": 38.81,
+    "lon": 48.65,
+    "name": "Astara",
+    "borders_states": [
+     420
+    ]
+   },
+   {
+    "id": 4477,
+    "lat": 40.49,
+    "lon": 47.87
+   },
+   {
+    "id": 4545,
+    "lat": 41.03,
+    "lon": 48.43,
+    "borders_states": [
+     232
+    ]
+   },
+   {
+    "id": 4614,
+    "lat": 40.34,
+    "lon": 48.63
+   },
+   {
+    "id": 6763,
+    "lat": 41.55,
+    "lon": 46.95,
+    "name": "Zaqatala",
+    "borders_states": [
+     231,
+     232
+    ]
+   },
+   {
+    "id": 7495,
+    "lat": 40.7,
+    "lon": 49.28
+   },
+   {
+    "id": 7661,
+    "lat": 40.41,
+    "lon": 49.87,
+    "name": "Baku",
+    "vp": 10.0
+   },
+   {
+    "id": 9715,
+    "lat": 39.52,
+    "lon": 46.88,
+    "borders_states": [
+     230,
+     420,
+     1000
+    ]
+   },
+   {
+    "id": 11645,
+    "lat": 40.98,
+    "lon": 47.38,
+    "borders_states": [
+     231,
+     232
+    ]
+   },
+   {
+    "id": 11674,
+    "lat": 40.77,
+    "lon": 46.68,
+    "name": "Ganja",
+    "vp": 1.0,
+    "borders_states": [
+     231
+    ]
+   },
+   {
+    "id": 11704,
+    "lat": 39.89,
+    "lon": 47.72,
+    "borders_states": [
+     420
+    ]
+   },
+   {
+    "id": 12434,
+    "lat": 39.54,
+    "lon": 48.69,
+    "name": "Lankaran",
+    "borders_states": [
+     420
+    ]
+   }
+  ]
+ },
+ {
+  "id": 230,
+  "name": "Armenia",
+  "file": "230-Armenia.txt",
+  "owner": "ARM",
+  "cores": [
+   "ARM"
+  ],
+  "claims": [],
+  "manpower": 3100000,
+  "category": "city",
+  "centroid": [
+   40.36,
+   45.01
+  ],
+  "neighbour_states": [
+   229,
+   231,
+   354,
+   419,
+   800,
+   1000,
+   1093
+  ],
+  "provinces": [
+   {
+    "id": 3564,
+    "lat": 40.4,
+    "lon": 44.01,
+    "borders_states": [
+     354,
+     800
+    ]
+   },
+   {
+    "id": 4660,
+    "lat": 39.16,
+    "lon": 46.1,
+    "borders_states": [
+     229,
+     1000,
+     1093
+    ]
+   },
+   {
+    "id": 6642,
+    "lat": 39.71,
+    "lon": 45.84,
+    "name": "Goris",
+    "borders_states": [
+     229,
+     1093
+    ]
+   },
+   {
+    "id": 11708,
+    "lat": 41.1,
+    "lon": 45.26,
+    "borders_states": [
+     229,
+     231
+    ]
+   },
+   {
+    "id": 12320,
+    "lat": 40.25,
+    "lon": 44.71,
+    "name": "Yerevan",
+    "vp": 3.0,
+    "borders_states": [
+     419,
+     800,
+     1093
+    ]
+   },
+   {
+    "id": 12380,
+    "lat": 40.98,
+    "lon": 44.51,
+    "borders_states": [
+     231
+    ]
+   },
+   {
+    "id": 12441,
+    "lat": 41.03,
+    "lon": 43.75,
+    "name": "Gyumri",
+    "vp": 1.0,
+    "borders_states": [
+     231,
+     354
+    ]
+   },
+   {
+    "id": 12450,
+    "lat": 40.26,
+    "lon": 45.52,
+    "borders_states": [
+     229,
+     1093
+    ]
+   },
+   {
+    "id": 13123,
+    "lat": 40.65,
+    "lon": 45.14,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 266,
+  "name": "Tehran",
+  "file": "266-Persia.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 15813820,
+  "category": "metropolis",
+  "centroid": [
+   36.63,
+   53.18
+  ],
+  "neighbour_states": [
+   417,
+   418,
+   420,
+   584,
+   1004
+  ],
+  "provinces": [
+   {
+    "id": 4580,
+    "lat": 36.54,
+    "lon": 51.1,
+    "borders_states": [
+     420
+    ]
+   },
+   {
+    "id": 7602,
+    "lat": 37.34,
+    "lon": 55.16,
+    "name": "Esterabad",
+    "borders_states": [
+     418,
+     584,
+     1004
+    ]
+   },
+   {
+    "id": 10385,
+    "lat": 36.57,
+    "lon": 53.35,
+    "borders_states": [
+     418
+    ]
+   },
+   {
+    "id": 10768,
+    "lat": 36.17,
+    "lon": 52.4,
+    "borders_states": [
+     418
+    ]
+   },
+   {
+    "id": 10837,
+    "lat": 35.69,
+    "lon": 51.39,
+    "name": "Tehran",
+    "vp": 10.0,
+    "borders_states": [
+     417,
+     418,
+     420
+    ]
+   }
+  ]
+ },
+ {
+  "id": 267,
+  "name": "Kabul",
+  "file": "267-Afghanistan.txt",
+  "owner": "AFG",
+  "cores": [
+   "AFG"
+  ],
+  "claims": [],
+  "manpower": 5024649,
+  "category": "city",
+  "centroid": [
+   34.53,
+   67.89
+  ],
+  "neighbour_states": [
+   415,
+   1005,
+   1006,
+   1007,
+   1008
+  ],
+  "provinces": [
+   {
+    "id": 7916,
+    "lat": 34.22,
+    "lon": 67.25,
+    "borders_states": [
+     415,
+     1008
+    ]
+   },
+   {
+    "id": 7984,
+    "lat": 34.85,
+    "lon": 66.38,
+    "borders_states": [
+     415,
+     1007
+    ]
+   },
+   {
+    "id": 10737,
+    "lat": 34.53,
+    "lon": 69.17,
+    "name": "Kabul",
+    "vp": 5.0,
+    "borders_states": [
+     1005,
+     1006
+    ]
+   },
+   {
+    "id": 10852,
+    "lat": 35.45,
+    "lon": 67.73,
+    "borders_states": [
+     1005,
+     1007
+    ]
+   },
+   {
+    "id": 12769,
+    "lat": 33.48,
+    "lon": 68.23,
+    "borders_states": [
+     1006,
+     1008
+    ]
+   }
+  ]
+ },
+ {
+  "id": 291,
+  "name": "Baghdad",
+  "file": "291-Iraq.txt",
+  "owner": "IRQ",
+  "cores": [
+   "IRQ"
+  ],
+  "claims": [],
+  "manpower": 10856446,
+  "category": "metropolis",
+  "centroid": [
+   32.91,
+   43.84
+  ],
+  "neighbour_states": [
+   421,
+   675,
+   676,
+   1001,
+   1010,
+   1011
+  ],
+  "provinces": [
+   {
+    "id": 2097,
+    "lat": 33.31,
+    "lon": 44.37,
+    "name": "Baghdad",
+    "vp": 10.0,
+    "borders_states": [
+     676
+    ]
+   },
+   {
+    "id": 3795,
+    "lat": 33.94,
+    "lon": 43.07,
+    "name": "Tikrit",
+    "vp": 2.0,
+    "borders_states": [
+     676,
+     1010
+    ]
+   },
+   {
+    "id": 7994,
+    "lat": 32.25,
+    "lon": 44.76,
+    "name": "Karbala",
+    "vp": 1.0,
+    "borders_states": [
+     1011
+    ]
+   },
+   {
+    "id": 10876,
+    "lat": 32.03,
+    "lon": 43.81,
+    "borders_states": [
+     675,
+     1011
+    ]
+   },
+   {
+    "id": 12046,
+    "lat": 33.11,
+    "lon": 43.85,
+    "name": "Fallujah"
+   },
+   {
+    "id": 12839,
+    "lat": 32.97,
+    "lon": 42.63,
+    "name": "Ramadi",
+    "borders_states": [
+     675,
+     1010
+    ]
+   },
+   {
+    "id": 12855,
+    "lat": 33.04,
+    "lon": 45.33,
+    "borders_states": [
+     421,
+     676,
+     1001,
+     1011
+    ]
+   }
+  ]
+ },
+ {
+  "id": 292,
+  "name": "Nejd",
+  "file": "292-Saudi Arabia.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [],
+  "manpower": 5484245,
+  "category": "metropolis",
+  "centroid": [
+   23.94,
+   45.64
+  ],
+  "neighbour_states": [
+   678,
+   679,
+   856,
+   857,
+   858,
+   859
+  ],
+  "provinces": [
+   {
+    "id": 5024,
+    "lat": 25.37,
+    "lon": 48.28,
+    "borders_states": [
+     678,
+     859
+    ]
+   },
+   {
+    "id": 5093,
+    "lat": 22.0,
+    "lon": 46.53,
+    "borders_states": [
+     678,
+     858
+    ]
+   },
+   {
+    "id": 7995,
+    "lat": 26.47,
+    "lon": 46.59,
+    "borders_states": [
+     857,
+     859
+    ]
+   },
+   {
+    "id": 8004,
+    "lat": 23.68,
+    "lon": 42.84,
+    "borders_states": [
+     679,
+     856,
+     857
+    ]
+   },
+   {
+    "id": 8060,
+    "lat": 22.03,
+    "lon": 44.22,
+    "borders_states": [
+     856,
+     858
+    ]
+   },
+   {
+    "id": 12727,
+    "lat": 24.71,
+    "lon": 46.68,
+    "name": "Riyadh",
+    "vp": 5.0,
+    "borders_states": [
+     678
+    ]
+   },
+   {
+    "id": 12813,
+    "lat": 25.37,
+    "lon": 44.22,
+    "borders_states": [
+     857
+    ]
+   },
+   {
+    "id": 12870,
+    "lat": 23.97,
+    "lon": 44.95
+   }
+  ]
+ },
+ {
+  "id": 293,
+  "name": "Yemen",
+  "file": "293-Yemen.txt",
+  "owner": "YEM",
+  "cores": [
+   "YEM"
+  ],
+  "claims": [],
+  "manpower": 14124937,
+  "category": "large_town",
+  "centroid": [
+   15.33,
+   44.9
+  ],
+  "neighbour_states": [
+   659,
+   856,
+   858,
+   992
+  ],
+  "provinces": [
+   {
+    "id": 1920,
+    "lat": 16.46,
+    "lon": 44.04,
+    "borders_states": [
+     856,
+     858
+    ]
+   },
+   {
+    "id": 1973,
+    "lat": 14.07,
+    "lon": 45.4,
+    "borders_states": [
+     659,
+     992
+    ]
+   },
+   {
+    "id": 4924,
+    "lat": 16.05,
+    "lon": 46.08,
+    "name": "Marib",
+    "borders_states": [
+     659,
+     858
+    ]
+   },
+   {
+    "id": 10752,
+    "lat": 13.63,
+    "lon": 44.05,
+    "name": "Taizz",
+    "borders_states": [
+     992
+    ]
+   },
+   {
+    "id": 10840,
+    "lat": 15.15,
+    "lon": 44.06,
+    "name": "Sana'a",
+    "vp": 3.0
+   }
+  ]
+ },
+ {
+  "id": 294,
+  "name": "Oman",
+  "file": "294-Oman.txt",
+  "owner": "OMA",
+  "cores": [
+   "OMA"
+  ],
+  "claims": [],
+  "manpower": 1566286,
+  "category": "city",
+  "centroid": [
+   21.88,
+   57.69
+  ],
+  "neighbour_states": [
+   658,
+   1015,
+   1016
+  ],
+  "provinces": [
+   {
+    "id": 1947,
+    "lat": 21.34,
+    "lon": 58.3,
+    "borders_states": [
+     1015
+    ]
+   },
+   {
+    "id": 4993,
+    "lat": 24.17,
+    "lon": 56.77,
+    "name": "Sohar",
+    "borders_states": [
+     658,
+     1015
+    ]
+   },
+   {
+    "id": 8002,
+    "lat": 19.11,
+    "lon": 56.47,
+    "borders_states": [
+     1015,
+     1016
+    ]
+   },
+   {
+    "id": 8020,
+    "lat": 22.71,
+    "lon": 59.29,
+    "borders_states": [
+     1015
+    ]
+   },
+   {
+    "id": 10760,
+    "lat": 23.59,
+    "lon": 58.41,
+    "name": "Muscat",
+    "vp": 3.0,
+    "borders_states": [
+     1015
+    ]
+   }
+  ]
+ },
+ {
+  "id": 321,
+  "name": "Goa",
+  "file": "321-Goa.txt",
+  "owner": "RAJ",
+  "cores": [
+   "RAJ"
+  ],
+  "claims": [],
+  "manpower": 1325893,
+  "category": "enclave",
+  "centroid": [
+   15.57,
+   73.75
+  ],
+  "neighbour_states": [
+   983
+  ],
+  "provinces": [
+   {
+    "id": 1273,
+    "lat": 15.57,
+    "lon": 73.75,
+    "name": "Goa",
+    "vp": 1.0,
+    "borders_states": [
+     983
+    ]
+   }
+  ]
+ },
+ {
+  "id": 352,
+  "name": "Hakkari",
+  "file": "352-Hakkari.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR",
+   "KUR"
+  ],
+  "claims": [
+   "ARM"
+  ],
+  "manpower": 1340000,
+  "category": "rural",
+  "centroid": [
+   37.94,
+   42.45
+  ],
+  "neighbour_states": [
+   350,
+   353,
+   419,
+   676,
+   680,
+   800
+  ],
+  "provinces": [
+   {
+    "id": 864,
+    "lat": 38.15,
+    "lon": 43.7,
+    "borders_states": [
+     419,
+     800
+    ]
+   },
+   {
+    "id": 1463,
+    "lat": 37.49,
+    "lon": 44.07,
+    "borders_states": [
+     419,
+     676
+    ]
+   },
+   {
+    "id": 7530,
+    "lat": 37.59,
+    "lon": 42.17,
+    "name": "Cizîr",
+    "vp": 1.0,
+    "borders_states": [
+     350,
+     676,
+     680
+    ]
+   },
+   {
+    "id": 10497,
+    "lat": 38.23,
+    "lon": 41.51,
+    "name": "Sêrt",
+    "vp": 1.0,
+    "borders_states": [
+     350,
+     353,
+     800
+    ]
+   },
+   {
+    "id": 11739,
+    "lat": 38.28,
+    "lon": 40.57,
+    "borders_states": [
+     350,
+     353
+    ]
+   },
+   {
+    "id": 12318,
+    "lat": 38.17,
+    "lon": 42.45,
+    "borders_states": [
+     800
+    ]
+   },
+   {
+    "id": 12476,
+    "lat": 37.63,
+    "lon": 43.08,
+    "name": "Hakkâri",
+    "vp": 1.0,
+    "borders_states": [
+     676
+    ]
+   }
+  ]
+ },
+ {
+  "id": 354,
+  "name": "Trabzon",
+  "file": "354-Trabzon.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [
+   "ARM",
+   "SOV"
+  ],
+  "manpower": 3132000,
+  "category": "large_town",
+  "centroid": [
+   40.59,
+   41.3
+  ],
+  "neighbour_states": [
+   230,
+   231,
+   349,
+   353,
+   355,
+   800
+  ],
+  "provinces": [
+   {
+    "id": 789,
+    "lat": 40.71,
+    "lon": 41.87
+   },
+   {
+    "id": 3714,
+    "lat": 40.75,
+    "lon": 40.53
+   },
+   {
+    "id": 3979,
+    "lat": 40.34,
+    "lon": 39.19,
+    "name": "Gümüşhane",
+    "vp": 3.0,
+    "borders_states": [
+     349,
+     353,
+     355
+    ]
+   },
+   {
+    "id": 6976,
+    "lat": 40.3,
+    "lon": 40.99
+   },
+   {
+    "id": 6991,
+    "lat": 40.28,
+    "lon": 42.02,
+    "borders_states": [
+     800
+    ]
+   },
+   {
+    "id": 7454,
+    "lat": 41.23,
+    "lon": 42.1,
+    "borders_states": [
+     231
+    ]
+   },
+   {
+    "id": 9886,
+    "lat": 40.23,
+    "lon": 40.15,
+    "borders_states": [
+     353
+    ]
+   },
+   {
+    "id": 9932,
+    "lat": 40.79,
+    "lon": 39.47,
+    "name": "Trabzon",
+    "vp": 15.0,
+    "borders_states": [
+     355
+    ]
+   },
+   {
+    "id": 10403,
+    "lat": 41.19,
+    "lon": 42.86,
+    "name": "Ardahan",
+    "borders_states": [
+     230,
+     231
+    ]
+   },
+   {
+    "id": 10472,
+    "lat": 40.5,
+    "lon": 43.16,
+    "name": "Kars",
+    "vp": 5.0,
+    "borders_states": [
+     230,
+     800
+    ]
+   },
+   {
+    "id": 11753,
+    "lat": 41.09,
+    "lon": 41.22,
+    "borders_states": [
+     231
+    ]
+   },
+   {
+    "id": 11853,
+    "lat": 39.77,
+    "lon": 41.23,
+    "name": "Erzurum",
+    "vp": 3.0,
+    "borders_states": [
+     353,
+     800
+    ]
+   }
+  ]
+ },
+ {
+  "id": 405,
+  "name": "Tashkent",
+  "file": "405-Atyrau.txt",
+  "owner": "UZB",
+  "cores": [
+   "UZB"
+  ],
+  "claims": [],
+  "manpower": 13235528,
+  "category": "metropolis",
+  "centroid": [
+   40.69,
+   68.36
+  ],
+  "neighbour_states": [
+   404,
+   585,
+   732,
+   742,
+   830
+  ],
+  "provinces": [
+   {
+    "id": 1459,
+    "lat": 41.3,
+    "lon": 69.24,
+    "name": "Tashkent",
+    "vp": 3.0,
+    "borders_states": [
+     404,
+     732,
+     742
+    ]
+   },
+   {
+    "id": 4629,
+    "lat": 40.35,
+    "lon": 66.66,
+    "borders_states": [
+     585,
+     742,
+     830
+    ]
+   },
+   {
+    "id": 7682,
+    "lat": 40.9,
+    "lon": 67.52,
+    "borders_states": [
+     404,
+     585
+    ]
+   },
+   {
+    "id": 10488,
+    "lat": 40.91,
+    "lon": 70.7,
+    "name": "Kokand",
+    "vp": 1.0,
+    "borders_states": [
+     732,
+     742
+    ]
+   },
+   {
+    "id": 11687,
+    "lat": 40.08,
+    "lon": 68.25,
+    "borders_states": [
+     742
+    ]
+   }
+  ]
+ },
+ {
+  "id": 410,
+  "name": "Sistan",
+  "file": "410-Sistan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 1900030,
+  "category": "rural",
+  "centroid": [
+   27.75,
+   60.27
+  ],
+  "neighbour_states": [
+   412,
+   414,
+   444,
+   988,
+   1003,
+   1009
+  ],
+  "provinces": [
+   {
+    "id": 1889,
+    "lat": 26.63,
+    "lon": 58.45,
+    "borders_states": [
+     412
+    ]
+   },
+   {
+    "id": 2039,
+    "lat": 27.5,
+    "lon": 59.09,
+    "borders_states": [
+     412,
+     414
+    ]
+   },
+   {
+    "id": 2070,
+    "lat": 28.56,
+    "lon": 60.31,
+    "borders_states": [
+     414,
+     988
+    ]
+   },
+   {
+    "id": 4891,
+    "lat": 25.94,
+    "lon": 60.62,
+    "borders_states": [
+     444
+    ]
+   },
+   {
+    "id": 10782,
+    "lat": 27.65,
+    "lon": 62.07,
+    "name": "Iransahr",
+    "vp": 1.0,
+    "borders_states": [
+     444,
+     988
+    ]
+   },
+   {
+    "id": 13082,
+    "lat": 26.95,
+    "lon": 60.96,
+    "borders_states": [
+     444
+    ]
+   },
+   {
+    "id": 12895,
+    "lat": 30.22,
+    "lon": 60.42,
+    "borders_states": [
+     414,
+     988,
+     1003,
+     1009
+    ]
+   }
+  ]
+ },
+ {
+  "id": 411,
+  "name": "Isfahan",
+  "file": "411-Hormozgan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 5438016,
+  "category": "large_city",
+  "centroid": [
+   32.94,
+   52.13
+  ],
+  "neighbour_states": [
+   412,
+   413,
+   417,
+   418,
+   1002
+  ],
+  "provinces": [
+   {
+    "id": 2026,
+    "lat": 32.61,
+    "lon": 51.79,
+    "name": "Isfahan",
+    "vp": 1.0,
+    "borders_states": [
+     1002
+    ]
+   },
+   {
+    "id": 4928,
+    "lat": 31.57,
+    "lon": 51.75,
+    "name": "Yasuj",
+    "vp": 1.0,
+    "borders_states": [
+     412,
+     413,
+     1002
+    ]
+   },
+   {
+    "id": 4983,
+    "lat": 33.56,
+    "lon": 54.11,
+    "borders_states": [
+     418,
+     1002
+    ]
+   },
+   {
+    "id": 5067,
+    "lat": 34.02,
+    "lon": 51.78,
+    "borders_states": [
+     417,
+     418
+    ]
+   },
+   {
+    "id": 8074,
+    "lat": 33.18,
+    "lon": 52.69,
+    "borders_states": [
+     1002
+    ]
+   },
+   {
+    "id": 12756,
+    "lat": 32.81,
+    "lon": 50.26,
+    "borders_states": [
+     413,
+     417
+    ]
+   }
+  ]
+ },
+ {
+  "id": 412,
+  "name": "Fars",
+  "file": "412-Fars.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 5847765,
+  "category": "city",
+  "centroid": [
+   28.95,
+   54.17
+  ],
+  "neighbour_states": [
+   410,
+   411,
+   413,
+   414,
+   1002
+  ],
+  "provinces": [
+   {
+    "id": 4959,
+    "lat": 27.57,
+    "lon": 54.74
+   },
+   {
+    "id": 4966,
+    "lat": 30.52,
+    "lon": 53.13,
+    "borders_states": [
+     411,
+     413,
+     1002
+    ]
+   },
+   {
+    "id": 7982,
+    "lat": 27.79,
+    "lon": 56.84,
+    "name": "Bandar e'Abbas",
+    "vp": 3.0,
+    "borders_states": [
+     410,
+     414
+    ]
+   },
+   {
+    "id": 8117,
+    "lat": 29.84,
+    "lon": 52.51,
+    "name": "Shiraz",
+    "vp": 3.0,
+    "borders_states": [
+     413
+    ]
+   },
+   {
+    "id": 10797,
+    "lat": 29.37,
+    "lon": 51.48,
+    "borders_states": [
+     413
+    ]
+   },
+   {
+    "id": 10881,
+    "lat": 29.18,
+    "lon": 54.4
+   },
+   {
+    "id": 12780,
+    "lat": 30.23,
+    "lon": 55.29,
+    "borders_states": [
+     414,
+     1002
+    ]
+   },
+   {
+    "id": 12832,
+    "lat": 28.28,
+    "lon": 53.0,
+    "name": "Bushehr",
+    "vp": 1.0
+   },
+   {
+    "id": 12863,
+    "lat": 28.73,
+    "lon": 56.41,
+    "borders_states": [
+     414
+    ]
+   },
+   {
+    "id": 13312,
+    "lat": 27.01,
+    "lon": 55.9
+   }
+  ]
+ },
+ {
+  "id": 413,
+  "name": "Khuzestan",
+  "file": "413-Khuzestan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [
+   "IRQ"
+  ],
+  "manpower": 3896777,
+  "category": "city",
+  "centroid": [
+   31.28,
+   49.37
+  ],
+  "neighbour_states": [
+   411,
+   412,
+   417,
+   421,
+   1011
+  ],
+  "provinces": [
+   {
+    "id": 1922,
+    "lat": 32.26,
+    "lon": 49.16,
+    "borders_states": [
+     411,
+     417,
+     421
+    ]
+   },
+   {
+    "id": 5005,
+    "lat": 30.65,
+    "lon": 48.99,
+    "borders_states": [
+     1011
+    ]
+   },
+   {
+    "id": 5089,
+    "lat": 30.8,
+    "lon": 50.58,
+    "borders_states": [
+     411,
+     412
+    ]
+   },
+   {
+    "id": 7953,
+    "lat": 31.37,
+    "lon": 48.41,
+    "name": "Ahvaz",
+    "vp": 1.0,
+    "borders_states": [
+     421,
+     1011
+    ]
+   }
+  ]
+ },
+ {
+  "id": 414,
+  "name": "Kerman",
+  "file": "414-Kerman.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 1975948,
+  "category": "town",
+  "centroid": [
+   30.05,
+   57.74
+  ],
+  "neighbour_states": [
+   410,
+   412,
+   1002,
+   1003
+  ],
+  "provinces": [
+   {
+    "id": 1986,
+    "lat": 28.71,
+    "lon": 58.3,
+    "borders_states": [
+     410,
+     412
+    ]
+   },
+   {
+    "id": 10913,
+    "lat": 29.87,
+    "lon": 57.21,
+    "name": "Kerman",
+    "vp": 1.0,
+    "borders_states": [
+     412
+    ]
+   },
+   {
+    "id": 11249,
+    "lat": 31.1,
+    "lon": 56.85,
+    "borders_states": [
+     412,
+     1002,
+     1003
+    ]
+   },
+   {
+    "id": 12809,
+    "lat": 30.14,
+    "lon": 58.76,
+    "borders_states": [
+     410,
+     1003
+    ]
+   }
+  ]
+ },
+ {
+  "id": 415,
+  "name": "Herat",
+  "file": "415-South Khorasan.txt",
+  "owner": "AFG",
+  "cores": [
+   "AFG"
+  ],
+  "claims": [],
+  "manpower": 1973399,
+  "category": "rural",
+  "centroid": [
+   33.84,
+   63.23
+  ],
+  "neighbour_states": [
+   267,
+   416,
+   584,
+   1003,
+   1007,
+   1008,
+   1009
+  ],
+  "provinces": [
+   {
+    "id": 1995,
+    "lat": 33.63,
+    "lon": 65.9,
+    "borders_states": [
+     267,
+     1007,
+     1008,
+     1009
+    ]
+   },
+   {
+    "id": 4893,
+    "lat": 34.78,
+    "lon": 61.76,
+    "name": "Herat",
+    "vp": 1.0,
+    "borders_states": [
+     416,
+     584
+    ]
+   },
+   {
+    "id": 8053,
+    "lat": 33.36,
+    "lon": 62.87,
+    "borders_states": [
+     1009
+    ]
+   },
+   {
+    "id": 12788,
+    "lat": 33.43,
+    "lon": 64.49,
+    "borders_states": [
+     1007,
+     1009
+    ]
+   },
+   {
+    "id": 12871,
+    "lat": 33.62,
+    "lon": 61.3,
+    "borders_states": [
+     416,
+     1003,
+     1009
+    ]
+   },
+   {
+    "id": 10476,
+    "lat": 34.76,
+    "lon": 63.24,
+    "borders_states": [
+     584,
+     1007
+    ]
+   }
+  ]
+ },
+ {
+  "id": 416,
+  "name": "Khorasan",
+  "file": "416-Razavi Khorasan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 4804672,
+  "category": "large_city",
+  "centroid": [
+   35.48,
+   59.19
+  ],
+  "neighbour_states": [
+   415,
+   418,
+   584,
+   1003,
+   1004
+  ],
+  "provinces": [
+   {
+    "id": 1888,
+    "lat": 34.75,
+    "lon": 59.26,
+    "borders_states": [
+     418,
+     1003
+    ]
+   },
+   {
+    "id": 1957,
+    "lat": 36.02,
+    "lon": 58.66,
+    "borders_states": [
+     1004
+    ]
+   },
+   {
+    "id": 2000,
+    "lat": 35.87,
+    "lon": 60.64,
+    "borders_states": [
+     415,
+     584
+    ]
+   },
+   {
+    "id": 5029,
+    "lat": 36.27,
+    "lon": 59.77,
+    "name": "Mashhad",
+    "vp": 1.0,
+    "borders_states": [
+     584,
+     1004
+    ]
+   },
+   {
+    "id": 5073,
+    "lat": 35.57,
+    "lon": 57.58,
+    "borders_states": [
+     418,
+     1004
+    ]
+   },
+   {
+    "id": 10806,
+    "lat": 34.57,
+    "lon": 60.33,
+    "borders_states": [
+     415,
+     1003
+    ]
+   }
+  ]
+ },
+ {
+  "id": 417,
+  "name": "Hamadan",
+  "file": "417-Golestan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 3910296,
+  "category": "large_town",
+  "centroid": [
+   34.57,
+   49.58
+  ],
+  "neighbour_states": [
+   266,
+   411,
+   413,
+   418,
+   420,
+   421,
+   1001
+  ],
+  "provinces": [
+   {
+    "id": 1982,
+    "lat": 34.26,
+    "lon": 50.16,
+    "borders_states": [
+     411
+    ]
+   },
+   {
+    "id": 2065,
+    "lat": 33.51,
+    "lon": 49.02,
+    "name": "Arak",
+    "vp": 1.0,
+    "borders_states": [
+     411,
+     413,
+     421
+    ]
+   },
+   {
+    "id": 8040,
+    "lat": 34.58,
+    "lon": 48.54,
+    "name": "Hamedan",
+    "vp": 3.0,
+    "borders_states": [
+     421,
+     1001
+    ]
+   },
+   {
+    "id": 8125,
+    "lat": 35.32,
+    "lon": 48.99,
+    "borders_states": [
+     420,
+     1001
+    ]
+   },
+   {
+    "id": 10922,
+    "lat": 35.1,
+    "lon": 50.91,
+    "borders_states": [
+     266,
+     411,
+     418,
+     420
+    ]
+   }
+  ]
+ },
+ {
+  "id": 418,
+  "name": "Semnan",
+  "file": "418-Semnan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 571985,
+  "category": "pastoral",
+  "centroid": [
+   34.97,
+   55.28
+  ],
+  "neighbour_states": [
+   266,
+   411,
+   416,
+   417,
+   1002,
+   1003,
+   1004
+  ],
+  "provinces": [
+   {
+    "id": 8009,
+    "lat": 34.39,
+    "lon": 57.2,
+    "borders_states": [
+     416,
+     1003
+    ]
+   },
+   {
+    "id": 8093,
+    "lat": 35.8,
+    "lon": 54.02,
+    "name": "Shahroud",
+    "vp": 1.0,
+    "borders_states": [
+     266
+    ]
+   },
+   {
+    "id": 10873,
+    "lat": 33.37,
+    "lon": 56.11,
+    "borders_states": [
+     411,
+     1002,
+     1003
+    ]
+   },
+   {
+    "id": 11671,
+    "lat": 36.38,
+    "lon": 55.63,
+    "borders_states": [
+     266,
+     416,
+     1004
+    ]
+   },
+   {
+    "id": 12704,
+    "lat": 34.6,
+    "lon": 54.66,
+    "borders_states": [
+     411
+    ]
+   },
+   {
+    "id": 12748,
+    "lat": 35.26,
+    "lon": 56.08,
+    "borders_states": [
+     416
+    ]
+   },
+   {
+    "id": 12818,
+    "lat": 34.94,
+    "lon": 52.95,
+    "borders_states": [
+     266,
+     411,
+     417
+    ]
+   }
+  ]
+ },
+ {
+  "id": 419,
+  "name": "Tibriz",
+  "file": "419-Azerbaijan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER",
+   "AZR",
+   "KUR"
+  ],
+  "claims": [],
+  "manpower": 2595771,
+  "category": "large_town",
+  "centroid": [
+   37.69,
+   45.26
+  ],
+  "neighbour_states": [
+   230,
+   352,
+   676,
+   800,
+   1000,
+   1001,
+   1093
+  ],
+  "provinces": [
+   {
+    "id": 1636,
+    "lat": 39.11,
+    "lon": 44.61,
+    "borders_states": [
+     230,
+     800,
+     1000,
+     1093
+    ]
+   },
+   {
+    "id": 1822,
+    "lat": 36.74,
+    "lon": 45.26,
+    "name": "Mahabad",
+    "vp": 1.0,
+    "borders_states": [
+     352,
+     676,
+     1001
+    ]
+   },
+   {
+    "id": 7604,
+    "lat": 37.99,
+    "lon": 44.72,
+    "name": "Orumiyeh",
+    "vp": 1.0,
+    "borders_states": [
+     352,
+     800,
+     1000
+    ]
+   },
+   {
+    "id": 12861,
+    "lat": 37.07,
+    "lon": 46.22,
+    "borders_states": [
+     1000,
+     1001
+    ]
+   },
+   {
+    "id": 13120,
+    "lat": 37.66,
+    "lon": 45.39,
+    "type": "lake",
+    "borders_states": [
+     1000
+    ]
+   }
+  ]
+ },
+ {
+  "id": 420,
+  "name": "Gilan",
+  "file": "420-Gilan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER",
+   "AZR"
+  ],
+  "claims": [],
+  "manpower": 5393297,
+  "category": "large_town",
+  "centroid": [
+   37.18,
+   48.86
+  ],
+  "neighbour_states": [
+   229,
+   266,
+   417,
+   1000,
+   1001
+  ],
+  "provinces": [
+   {
+    "id": 4553,
+    "lat": 36.9,
+    "lon": 48.45,
+    "borders_states": [
+     1000
+    ]
+   },
+   {
+    "id": 4609,
+    "lat": 37.29,
+    "lon": 49.06
+   },
+   {
+    "id": 4637,
+    "lat": 36.96,
+    "lon": 50.01,
+    "borders_states": [
+     266
+    ]
+   },
+   {
+    "id": 4901,
+    "lat": 38.0,
+    "lon": 48.42,
+    "name": "Ardabil",
+    "vp": 3.0,
+    "borders_states": [
+     229,
+     1000
+    ]
+   },
+   {
+    "id": 7969,
+    "lat": 36.1,
+    "lon": 49.89,
+    "name": "Karaj",
+    "vp": 5.0,
+    "borders_states": [
+     266,
+     417
+    ]
+   },
+   {
+    "id": 10454,
+    "lat": 38.97,
+    "lon": 47.84,
+    "borders_states": [
+     229,
+     1000
+    ]
+   },
+   {
+    "id": 10523,
+    "lat": 36.18,
+    "lon": 48.47,
+    "borders_states": [
+     417,
+     1000,
+     1001
+    ]
+   }
+  ]
+ },
+ {
+  "id": 421,
+  "name": "Kurdistan",
+  "file": "421-Kurdistan.txt",
+  "owner": "PER",
+  "cores": [
+   "PER"
+  ],
+  "claims": [],
+  "manpower": 2154823,
+  "category": "town",
+  "centroid": [
+   33.15,
+   47.23
+  ],
+  "neighbour_states": [
+   291,
+   413,
+   417,
+   1001,
+   1011
+  ],
+  "provinces": [
+   {
+    "id": 829,
+    "lat": 33.36,
+    "lon": 46.2,
+    "borders_states": [
+     291,
+     1001,
+     1011
+    ]
+   },
+   {
+    "id": 5050,
+    "lat": 33.5,
+    "lon": 47.75,
+    "borders_states": [
+     413,
+     417,
+     1001
+    ]
+   },
+   {
+    "id": 10774,
+    "lat": 32.45,
+    "lon": 47.44,
+    "borders_states": [
+     413,
+     1011
+    ]
+   }
+  ]
+ },
+ {
+  "id": 428,
+  "name": "Gujarat",
+  "file": "428-Gujarat.txt",
+  "owner": "RAJ",
+  "cores": [
+   "RAJ"
+  ],
+  "claims": [],
+  "manpower": 36484331,
+  "category": "large_city",
+  "centroid": [
+   23.09,
+   70.87
+  ],
+  "neighbour_states": [
+   429,
+   433,
+   437,
+   443
+  ],
+  "provinces": [
+   {
+    "id": 1061,
+    "lat": 23.86,
+    "lon": 69.93,
+    "borders_states": [
+     443
+    ]
+   },
+   {
+    "id": 1103,
+    "lat": 24.23,
+    "lon": 72.21,
+    "borders_states": [
+     433
+    ]
+   },
+   {
+    "id": 1144,
+    "lat": 23.15,
+    "lon": 71.17
+   },
+   {
+    "id": 1190,
+    "lat": 23.35,
+    "lon": 68.98
+   },
+   {
+    "id": 4064,
+    "lat": 24.13,
+    "lon": 71.07,
+    "borders_states": [
+     433,
+     443
+    ]
+   },
+   {
+    "id": 4090,
+    "lat": 21.64,
+    "lon": 69.96
+   },
+   {
+    "id": 4132,
+    "lat": 21.37,
+    "lon": 71.05
+   },
+   {
+    "id": 7020,
+    "lat": 24.04,
+    "lon": 68.5,
+    "borders_states": [
+     443
+    ]
+   },
+   {
+    "id": 7165,
+    "lat": 22.85,
+    "lon": 73.6,
+    "borders_states": [
+     429,
+     433,
+     437
+    ]
+   },
+   {
+    "id": 7207,
+    "lat": 22.15,
+    "lon": 71.24
+   },
+   {
+    "id": 9975,
+    "lat": 22.96,
+    "lon": 72.27,
+    "name": "Ahmadabad",
+    "vp": 1.0,
+    "borders_states": [
+     429
+    ]
+   },
+   {
+    "id": 10118,
+    "lat": 22.61,
+    "lon": 70.3,
+    "name": "Jamnagar",
+    "vp": 1.0
+   },
+   {
+    "id": 12037,
+    "lat": 22.28,
+    "lon": 69.21
+   },
+   {
+    "id": 12092,
+    "lat": 23.43,
+    "lon": 72.91,
+    "borders_states": [
+     433
+    ]
+   }
+  ]
+ },
+ {
+  "id": 429,
+  "name": "Bombay",
+  "file": "429-Mumbai.txt",
+  "owner": "RAJ",
+  "cores": [
+   "RAJ"
+  ],
+  "claims": [],
+  "manpower": 68233607,
+  "category": "megalopolis",
+  "centroid": [
+   19.54,
+   73.85
+  ],
+  "neighbour_states": [
+   427,
+   428,
+   436,
+   437,
+   983
+  ],
+  "provinces": [
+   {
+    "id": 1349,
+    "lat": 19.1,
+    "lon": 72.91,
+    "name": "Mumbai",
+    "vp": 20.0
+   },
+   {
+    "id": 4072,
+    "lat": 20.45,
+    "lon": 73.88,
+    "borders_states": [
+     427
+    ]
+   },
+   {
+    "id": 4187,
+    "lat": 20.79,
+    "lon": 72.96
+   },
+   {
+    "id": 4353,
+    "lat": 18.59,
+    "lon": 74.85,
+    "borders_states": [
+     427
+    ]
+   },
+   {
+    "id": 7013,
+    "lat": 19.96,
+    "lon": 72.91
+   },
+   {
+    "id": 7119,
+    "lat": 19.66,
+    "lon": 73.77,
+    "borders_states": [
+     427
+    ]
+   },
+   {
+    "id": 7150,
+    "lat": 21.57,
+    "lon": 73.0,
+    "borders_states": [
+     437
+    ]
+   },
+   {
+    "id": 7177,
+    "lat": 20.81,
+    "lon": 75.18,
+    "borders_states": [
+     427,
+     436,
+     437
+    ]
+   },
+   {
+    "id": 7232,
+    "lat": 17.49,
+    "lon": 73.41,
+    "borders_states": [
+     983
+    ]
+   },
+   {
+    "id": 10019,
+    "lat": 21.17,
+    "lon": 74.02,
+    "borders_states": [
+     437
+    ]
+   },
+   {
+    "id": 10210,
+    "lat": 17.54,
+    "lon": 74.42,
+    "borders_states": [
+     983
+    ]
+   },
+   {
+    "id": 10270,
+    "lat": 18.92,
+    "lon": 73.71,
+    "borders_states": [
+     427
+    ]
+   },
+   {
+    "id": 11952,
+    "lat": 22.14,
+    "lon": 73.08,
+    "borders_states": [
+     428,
+     437
+    ]
+   },
+   {
+    "id": 12142,
+    "lat": 17.8,
+    "lon": 75.58,
+    "borders_states": [
+     427,
+     983
+    ]
+   },
+   {
+    "id": 12182,
+    "lat": 18.18,
+    "lon": 74.17
+   },
+   {
+    "id": 12269,
+    "lat": 18.25,
+    "lon": 73.03
+   }
+  ]
+ },
+ {
+  "id": 433,
+  "name": "Rajahsthan",
+  "file": "433-Manipur.txt",
+  "owner": "RAJ",
+  "cores": [
+   "RAJ"
+  ],
+  "claims": [],
+  "manpower": 52745872,
+  "category": "large_town",
+  "centroid": [
+   26.54,
+   73.93
+  ],
+  "neighbour_states": [
+   428,
+   437,
+   438,
+   439,
+   440,
+   443,
+   986,
+   989,
+   991,
+   1090
+  ],
+  "provinces": [
+   {
+    "id": 1199,
+    "lat": 24.17,
+    "lon": 74.88,
+    "borders_states": [
+     437
+    ]
+   },
+   {
+    "id": 1908,
+    "lat": 26.39,
+    "lon": 74.37,
+    "name": "Jaipur",
+    "vp": 5.0
+   },
+   {
+    "id": 2054,
+    "lat": 27.21,
+    "lon": 76.11,
+    "name": "Jaipur",
+    "vp": 1.0,
+    "borders_states": [
+     439,
+     986
+    ]
+   },
+   {
+    "id": 4149,
+    "lat": 25.47,
+    "lon": 73.49
+   },
+   {
+    "id": 4915,
+    "lat": 26.98,
+    "lon": 77.47,
+    "borders_states": [
+     438,
+     439,
+     991
+    ]
+   },
+   {
+    "id": 4971,
+    "lat": 25.68,
+    "lon": 75.27,
+    "borders_states": [
+     437
+    ]
+   },
+   {
+    "id": 4984,
+    "lat": 26.23,
+    "lon": 72.59
+   },
+   {
+    "id": 7905,
+    "lat": 26.42,
+    "lon": 76.46,
+    "borders_states": [
+     437,
+     991
+    ]
+   },
+   {
+    "id": 7998,
+    "lat": 27.69,
+    "lon": 74.97,
+    "borders_states": [
+     986
+    ]
+   },
+   {
+    "id": 10772,
+    "lat": 29.82,
+    "lon": 74.72,
+    "name": "Lahore",
+    "vp": 15.0,
+    "borders_states": [
+     440,
+     986,
+     989,
+     1090
+    ]
+   },
+   {
+    "id": 10847,
+    "lat": 26.23,
+    "lon": 70.84,
+    "borders_states": [
+     443,
+     989
+    ]
+   },
+   {
+    "id": 12041,
+    "lat": 28.62,
+    "lon": 74.24,
+    "borders_states": [
+     986,
+     989
+    ]
+   },
+   {
+    "id": 12718,
+    "lat": 27.24,
+    "lon": 71.9,
+    "borders_states": [
+     989
+    ]
+   },
+   {
+    "id": 12743,
+    "lat": 23.38,
+    "lon": 74.24,
+    "borders_states": [
+     428,
+     437
+    ]
+   },
+   {
+    "id": 12829,
+    "lat": 24.47,
+    "lon": 73.72,
+    "borders_states": [
+     428
+    ]
+   },
+   {
+    "id": 12844,
+    "lat": 27.36,
+    "lon": 73.59
+   },
+   {
+    "id": 12876,
+    "lat": 28.09,
+    "lon": 72.82,
+    "borders_states": [
+     989
+    ]
+   },
+   {
+    "id": 12886,
+    "lat": 25.22,
+    "lon": 71.72,
+    "borders_states": [
+     428,
+     443
+    ]
+   }
+  ]
+ },
+ {
+  "id": 440,
+  "name": "Punjab",
+  "file": "440-Punjab.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [],
+  "manpower": 72167662,
+  "category": "metropolis",
+  "centroid": [
+   31.05,
+   72.83
+  ],
+  "neighbour_states": [
+   433,
+   441,
+   442,
+   443,
+   445,
+   787,
+   987,
+   989,
+   1090
+  ],
+  "provinces": [
+   {
+    "id": 4979,
+    "lat": 32.18,
+    "lon": 73.86,
+    "borders_states": [
+     441,
+     787
+    ]
+   },
+   {
+    "id": 8007,
+    "lat": 29.72,
+    "lon": 72.25,
+    "borders_states": [
+     989
+    ]
+   },
+   {
+    "id": 8022,
+    "lat": 33.24,
+    "lon": 73.23,
+    "borders_states": [
+     442,
+     787
+    ]
+   },
+   {
+    "id": 8106,
+    "lat": 31.22,
+    "lon": 72.28,
+    "borders_states": [
+     987
+    ]
+   },
+   {
+    "id": 9084,
+    "lat": 30.65,
+    "lon": 73.26,
+    "borders_states": [
+     1090
+    ]
+   },
+   {
+    "id": 10066,
+    "lat": 30.09,
+    "lon": 73.8,
+    "borders_states": [
+     433,
+     989,
+     1090
+    ]
+   },
+   {
+    "id": 10139,
+    "lat": 30.09,
+    "lon": 71.57,
+    "borders_states": [
+     445,
+     987
+    ]
+   },
+   {
+    "id": 10173,
+    "lat": 32.37,
+    "lon": 72.54,
+    "name": "Rawalpindi",
+    "vp": 3.0,
+    "borders_states": [
+     442,
+     987
+    ]
+   },
+   {
+    "id": 10887,
+    "lat": 31.55,
+    "lon": 74.34,
+    "name": "Lahore",
+    "vp": 5.0,
+    "borders_states": [
+     441,
+     1090
+    ]
+   },
+   {
+    "id": 10898,
+    "lat": 28.68,
+    "lon": 71.13,
+    "name": "Harappa",
+    "vp": 1.0,
+    "borders_states": [
+     443,
+     445,
+     989
+    ]
+   }
+  ]
+ },
+ {
+  "id": 442,
+  "name": "Peshawar",
+  "file": "442-Peshawar.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [
+   "AFG"
+  ],
+  "manpower": 18295306,
+  "category": "large_town",
+  "centroid": [
+   34.54,
+   72.16
+  ],
+  "neighbour_states": [
+   440,
+   787,
+   987,
+   1005,
+   1006
+  ],
+  "provinces": [
+   {
+    "id": 4558,
+    "lat": 35.67,
+    "lon": 72.4,
+    "borders_states": [
+     787,
+     1005
+    ]
+   },
+   {
+    "id": 12717,
+    "lat": 33.48,
+    "lon": 71.61,
+    "borders_states": [
+     440,
+     987,
+     1005,
+     1006
+    ]
+   },
+   {
+    "id": 12763,
+    "lat": 34.5,
+    "lon": 72.49,
+    "name": "Peshawar",
+    "vp": 3.0,
+    "borders_states": [
+     440,
+     787,
+     1005
+    ]
+   }
+  ]
+ },
+ {
+  "id": 443,
+  "name": "Sind",
+  "file": "443-Hyderabad.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [],
+  "manpower": 29700438,
+  "category": "metropolis",
+  "centroid": [
+   26.07,
+   68.56
+  ],
+  "neighbour_states": [
+   428,
+   433,
+   440,
+   444,
+   445,
+   989,
+   1012
+  ],
+  "provinces": [
+   {
+    "id": 1147,
+    "lat": 24.83,
+    "lon": 69.67,
+    "borders_states": [
+     428,
+     433
+    ]
+   },
+   {
+    "id": 1971,
+    "lat": 27.75,
+    "lon": 69.55,
+    "borders_states": [
+     440,
+     445,
+     989
+    ]
+   },
+   {
+    "id": 1980,
+    "lat": 25.82,
+    "lon": 69.72,
+    "borders_states": [
+     433,
+     989
+    ]
+   },
+   {
+    "id": 3456,
+    "lat": 24.86,
+    "lon": 67.01,
+    "name": "Karachi",
+    "vp": 3.0,
+    "borders_states": [
+     444
+    ]
+   },
+   {
+    "id": 4003,
+    "lat": 24.68,
+    "lon": 68.02,
+    "borders_states": [
+     428
+    ]
+   },
+   {
+    "id": 4110,
+    "lat": 25.66,
+    "lon": 68.49
+   },
+   {
+    "id": 4382,
+    "lat": 26.53,
+    "lon": 69.02,
+    "borders_states": [
+     989
+    ]
+   },
+   {
+    "id": 7084,
+    "lat": 26.85,
+    "lon": 68.23,
+    "borders_states": [
+     1012
+    ]
+   },
+   {
+    "id": 10108,
+    "lat": 25.75,
+    "lon": 67.42,
+    "borders_states": [
+     444,
+     1012
+    ]
+   },
+   {
+    "id": 10735,
+    "lat": 27.94,
+    "lon": 68.52,
+    "borders_states": [
+     445,
+     1012
+    ]
+   }
+  ]
+ },
+ {
+  "id": 444,
+  "name": "Baluchistan",
+  "file": "444-Karachi.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [],
+  "manpower": 1504986,
+  "category": "rural",
+  "centroid": [
+   26.69,
+   64.06
+  ],
+  "neighbour_states": [
+   410,
+   443,
+   988,
+   1012
+  ],
+  "provinces": [
+   {
+    "id": 1179,
+    "lat": 25.99,
+    "lon": 65.96,
+    "borders_states": [
+     443,
+     1012
+    ]
+   },
+   {
+    "id": 5043,
+    "lat": 27.02,
+    "lon": 64.33,
+    "borders_states": [
+     410,
+     988,
+     1012
+    ]
+   },
+   {
+    "id": 7917,
+    "lat": 25.99,
+    "lon": 64.09
+   },
+   {
+    "id": 12761,
+    "lat": 28.02,
+    "lon": 63.57,
+    "borders_states": [
+     410,
+     988
+    ]
+   },
+   {
+    "id": 12774,
+    "lat": 26.02,
+    "lon": 62.55,
+    "name": "Gwadar",
+    "vp": 1.0,
+    "borders_states": [
+     410
+    ]
+   }
+  ]
+ },
+ {
+  "id": 445,
+  "name": "Quetta",
+  "file": "445-Hindu Kush.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [],
+  "manpower": 4269246,
+  "category": "rural",
+  "centroid": [
+   29.3,
+   69.18
+  ],
+  "neighbour_states": [
+   440,
+   443,
+   987,
+   988,
+   1012
+  ],
+  "provinces": [
+   {
+    "id": 4990,
+    "lat": 29.78,
+    "lon": 69.53,
+    "borders_states": [
+     987,
+     988
+    ]
+   },
+   {
+    "id": 7847,
+    "lat": 29.65,
+    "lon": 68.36,
+    "borders_states": [
+     988
+    ]
+   },
+   {
+    "id": 7903,
+    "lat": 29.0,
+    "lon": 70.34,
+    "borders_states": [
+     440,
+     443,
+     987
+    ]
+   },
+   {
+    "id": 10813,
+    "lat": 28.73,
+    "lon": 68.56,
+    "borders_states": [
+     443,
+     988,
+     1012
+    ]
+   }
+  ]
+ },
+ {
+  "id": 446,
+  "name": "Suez",
+  "file": "446-Cairo.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [],
+  "manpower": 1705600,
+  "category": "city",
+  "centroid": [
+   30.28,
+   32.35
+  ],
+  "neighbour_states": [
+   453,
+   457,
+   907
+  ],
+  "provinces": [
+   {
+    "id": 1155,
+    "lat": 30.67,
+    "lon": 32.63,
+    "borders_states": [
+     453
+    ]
+   },
+   {
+    "id": 4073,
+    "lat": 29.79,
+    "lon": 31.96,
+    "name": "Suez",
+    "vp": 3.0,
+    "borders_states": [
+     457,
+     907
+    ]
+   },
+   {
+    "id": 9947,
+    "lat": 29.95,
+    "lon": 32.48,
+    "borders_states": [
+     453
+    ]
+   },
+   {
+    "id": 12049,
+    "lat": 30.58,
+    "lon": 31.91,
+    "name": "Port Said",
+    "vp": 5.0,
+    "borders_states": [
+     907
+    ]
+   }
+  ]
+ },
+ {
+  "id": 447,
+  "name": "Alexandria",
+  "file": "447-Alexandria.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [],
+  "manpower": 22204780,
+  "category": "large_city",
+  "centroid": [
+   30.86,
+   29.96
+  ],
+  "neighbour_states": [
+   452,
+   552,
+   907
+  ],
+  "provinces": [
+   {
+    "id": 1071,
+    "lat": 30.61,
+    "lon": 28.67,
+    "name": "El-Alamein",
+    "vp": 1.0,
+    "borders_states": [
+     452,
+     552,
+     907
+    ]
+   },
+   {
+    "id": 4076,
+    "lat": 31.2,
+    "lon": 29.92,
+    "name": "Alexandria",
+    "vp": 10.0
+   },
+   {
+    "id": 4145,
+    "lat": 30.77,
+    "lon": 29.36,
+    "borders_states": [
+     907
+    ]
+   },
+   {
+    "id": 7091,
+    "lat": 31.24,
+    "lon": 30.64
+   },
+   {
+    "id": 7164,
+    "lat": 30.77,
+    "lon": 30.22,
+    "borders_states": [
+     907
+    ]
+   },
+   {
+    "id": 10073,
+    "lat": 30.5,
+    "lon": 30.84,
+    "name": "Mansoura",
+    "borders_states": [
+     907
+    ]
+   },
+   {
+    "id": 11964,
+    "lat": 31.2,
+    "lon": 31.17,
+    "name": "Damietta",
+    "borders_states": [
+     907
+    ]
+   }
+  ]
+ },
+ {
+  "id": 452,
+  "name": "Matrouh",
+  "file": "452-Marsa Matruh.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [],
+  "manpower": 202540,
+  "category": "pastoral",
+  "centroid": [
+   30.7,
+   26.47
+  ],
+  "neighbour_states": [
+   273,
+   447,
+   451,
+   552,
+   663
+  ],
+  "provinces": [
+   {
+    "id": 7079,
+    "lat": 31.42,
+    "lon": 25.14,
+    "borders_states": [
+     451,
+     663
+    ]
+   },
+   {
+    "id": 9989,
+    "lat": 31.24,
+    "lon": 25.91,
+    "name": "Sidi Barrani",
+    "vp": 1.0
+   },
+   {
+    "id": 10061,
+    "lat": 30.85,
+    "lon": 27.23,
+    "name": "Marsa Matruh"
+   },
+   {
+    "id": 11910,
+    "lat": 30.69,
+    "lon": 27.97,
+    "borders_states": [
+     447,
+     552
+    ]
+   },
+   {
+    "id": 11967,
+    "lat": 31.01,
+    "lon": 26.56
+   },
+   {
+    "id": 5078,
+    "lat": 30.87,
+    "lon": 25.07,
+    "borders_states": [
+     273,
+     552,
+     663
+    ]
+   },
+   {
+    "id": 12033,
+    "lat": 30.62,
+    "lon": 25.71,
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 12091,
+    "lat": 30.15,
+    "lon": 26.36,
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 7148,
+    "lat": 30.07,
+    "lon": 27.39,
+    "borders_states": [
+     552
+    ]
+   }
+  ]
+ },
+ {
+  "id": 453,
+  "name": "Sinai",
+  "file": "453-Sinai.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [],
+  "manpower": 319800,
+  "category": "pastoral",
+  "centroid": [
+   29.51,
+   33.64
+  ],
+  "neighbour_states": [
+   446,
+   454,
+   1092
+  ],
+  "provinces": [
+   {
+    "id": 1112,
+    "lat": 29.11,
+    "lon": 33.07,
+    "borders_states": [
+     446
+    ]
+   },
+   {
+    "id": 4161,
+    "lat": 30.81,
+    "lon": 33.99,
+    "name": "El-Arīsh",
+    "vp": 3.0,
+    "borders_states": [
+     454,
+     1092
+    ]
+   },
+   {
+    "id": 10002,
+    "lat": 30.06,
+    "lon": 34.13,
+    "borders_states": [
+     454
+    ]
+   },
+   {
+    "id": 10099,
+    "lat": 28.32,
+    "lon": 33.61,
+    "name": "Sharm el-Sheikh",
+    "vp": 1.0
+   },
+   {
+    "id": 11922,
+    "lat": 29.92,
+    "lon": 33.3,
+    "borders_states": [
+     446
+    ]
+   },
+   {
+    "id": 11979,
+    "lat": 30.78,
+    "lon": 33.39,
+    "borders_states": [
+     446
+    ]
+   },
+   {
+    "id": 12073,
+    "lat": 29.22,
+    "lon": 34.06,
+    "borders_states": [
+     454
+    ]
+   }
+  ]
+ },
+ {
+  "id": 454,
+  "name": "Israel",
+  "file": "454-Israel.txt",
+  "owner": "ISR",
+  "cores": [
+   "ISR"
+  ],
+  "claims": [
+   "PAL"
+  ],
+  "manpower": 6912000,
+  "category": "metropolis",
+  "centroid": [
+   31.47,
+   34.98
+  ],
+  "neighbour_states": [
+   453,
+   455,
+   553,
+   554,
+   1091,
+   1092
+  ],
+  "provinces": [
+   {
+    "id": 1,
+    "lat": 31.49,
+    "lon": 35.45,
+    "type": "lake",
+    "borders_states": [
+     455
+    ]
+   },
+   {
+    "id": 1015,
+    "lat": 30.24,
+    "lon": 34.78,
+    "name": "Umm al-Rashrāsh",
+    "borders_states": [
+     453,
+     455
+    ]
+   },
+   {
+    "id": 1065,
+    "lat": 32.87,
+    "lon": 35.27,
+    "name": "An-Nāsira",
+    "vp": 5.0,
+    "borders_states": [
+     455,
+     553,
+     554,
+     1091
+    ]
+   },
+   {
+    "id": 1086,
+    "lat": 31.77,
+    "lon": 35.21,
+    "name": "Jerusalem",
+    "borders_states": [
+     455,
+     1091,
+     1092
+    ]
+   },
+   {
+    "id": 1201,
+    "lat": 32.44,
+    "lon": 34.95,
+    "borders_states": [
+     1091
+    ]
+   },
+   {
+    "id": 4206,
+    "lat": 31.92,
+    "lon": 34.82,
+    "name": "Tel Aviv",
+    "vp": 10.0,
+    "borders_states": [
+     1091,
+     1092
+    ]
+   },
+   {
+    "id": 7176,
+    "lat": 31.07,
+    "lon": 35.08,
+    "borders_states": [
+     455,
+     1092
+    ]
+   },
+   {
+    "id": 11970,
+    "lat": 30.96,
+    "lon": 34.55,
+    "borders_states": [
+     453,
+     1092
+    ]
+   }
+  ]
+ },
+ {
+  "id": 455,
+  "name": "Jordan",
+  "file": "455-Jordan.txt",
+  "owner": "JOR",
+  "cores": [
+   "JOR"
+  ],
+  "claims": [],
+  "manpower": 4650000,
+  "category": "large_city",
+  "centroid": [
+   31.04,
+   36.48
+  ],
+  "neighbour_states": [
+   454,
+   554,
+   680,
+   854,
+   855,
+   1010,
+   1091
+  ],
+  "provinces": [
+   {
+    "id": 1544,
+    "lat": 31.98,
+    "lon": 37.04,
+    "borders_states": [
+     554,
+     854
+    ]
+   },
+   {
+    "id": 4017,
+    "lat": 30.56,
+    "lon": 35.55,
+    "borders_states": [
+     454
+    ]
+   },
+   {
+    "id": 4115,
+    "lat": 29.75,
+    "lon": 35.29,
+    "name": "Aqaba",
+    "borders_states": [
+     454,
+     855
+    ]
+   },
+   {
+    "id": 4440,
+    "lat": 32.33,
+    "lon": 37.85,
+    "name": "Ruwaished",
+    "borders_states": [
+     554,
+     680,
+     854,
+     1010
+    ]
+   },
+   {
+    "id": 4562,
+    "lat": 30.75,
+    "lon": 36.73,
+    "borders_states": [
+     854
+    ]
+   },
+   {
+    "id": 4574,
+    "lat": 31.57,
+    "lon": 36.34,
+    "borders_states": [
+     854
+    ]
+   },
+   {
+    "id": 4591,
+    "lat": 30.93,
+    "lon": 36.2
+   },
+   {
+    "id": 4603,
+    "lat": 29.89,
+    "lon": 37.02,
+    "borders_states": [
+     854,
+     855
+    ]
+   },
+   {
+    "id": 7001,
+    "lat": 32.17,
+    "lon": 36.3,
+    "borders_states": [
+     554
+    ]
+   },
+   {
+    "id": 7151,
+    "lat": 31.93,
+    "lon": 35.79,
+    "name": "Amman",
+    "vp": 1.0,
+    "borders_states": [
+     454,
+     1091
+    ]
+   },
+   {
+    "id": 7170,
+    "lat": 32.47,
+    "lon": 35.74,
+    "name": "Irbid",
+    "borders_states": [
+     454,
+     554,
+     1091
+    ]
+   },
+   {
+    "id": 10089,
+    "lat": 31.29,
+    "lon": 35.73,
+    "borders_states": [
+     454
+    ]
+   },
+   {
+    "id": 11976,
+    "lat": 29.8,
+    "lon": 36.09,
+    "name": "Ma'an",
+    "vp": 1.0,
+    "borders_states": [
+     855
+    ]
+   }
+  ]
+ },
+ {
+  "id": 456,
+  "name": "Aswan",
+  "file": "456-Luxor.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [],
+  "manpower": 11726000,
+  "category": "large_town",
+  "centroid": [
+   24.98,
+   31.78
+  ],
+  "neighbour_states": [
+   457,
+   551,
+   552,
+   907
+  ],
+  "provinces": [
+   {
+    "id": 1028,
+    "lat": 24.7,
+    "lon": 32.22
+   },
+   {
+    "id": 1064,
+    "lat": 25.13,
+    "lon": 32.91,
+    "borders_states": [
+     457
+    ]
+   },
+   {
+    "id": 1151,
+    "lat": 26.49,
+    "lon": 32.02,
+    "name": "Qena",
+    "borders_states": [
+     457
+    ]
+   },
+   {
+    "id": 1206,
+    "lat": 23.81,
+    "lon": 31.97,
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 7030,
+    "lat": 27.6,
+    "lon": 31.0,
+    "borders_states": [
+     457,
+     907
+    ]
+   },
+   {
+    "id": 7073,
+    "lat": 25.71,
+    "lon": 31.87
+   },
+   {
+    "id": 7144,
+    "lat": 27.76,
+    "lon": 30.25,
+    "borders_states": [
+     552,
+     907
+    ]
+   },
+   {
+    "id": 10028,
+    "lat": 27.06,
+    "lon": 31.38,
+    "borders_states": [
+     457
+    ]
+   },
+   {
+    "id": 10097,
+    "lat": 25.16,
+    "lon": 31.2,
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 10844,
+    "lat": 22.87,
+    "lon": 32.38,
+    "borders_states": [
+     457,
+     551
+    ]
+   },
+   {
+    "id": 11974,
+    "lat": 27.08,
+    "lon": 30.52,
+    "name": "Asyut",
+    "vp": 1.0,
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 11999,
+    "lat": 24.19,
+    "lon": 32.85,
+    "name": "Aswan",
+    "vp": 1.0,
+    "borders_states": [
+     457
+    ]
+   },
+   {
+    "id": 12044,
+    "lat": 26.45,
+    "lon": 31.1,
+    "name": "Sohag",
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 12071,
+    "lat": 25.84,
+    "lon": 32.64,
+    "name": "Luxor",
+    "vp": 3.0,
+    "borders_states": [
+     457
+    ]
+   },
+   {
+    "id": 12771,
+    "lat": 22.97,
+    "lon": 31.26,
+    "borders_states": [
+     551,
+     552
+    ]
+   }
+  ]
+ },
+ {
+  "id": 457,
+  "name": "Eastern Desert",
+  "file": "457-Aswan.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [],
+  "manpower": 191880,
+  "category": "pastoral",
+  "centroid": [
+   25.51,
+   33.3
+  ],
+  "neighbour_states": [
+   446,
+   456,
+   551,
+   883,
+   907,
+   1094
+  ],
+  "provinces": [
+   {
+    "id": 1080,
+    "lat": 27.78,
+    "lon": 31.75,
+    "borders_states": [
+     456,
+     907
+    ]
+   },
+   {
+    "id": 4068,
+    "lat": 25.23,
+    "lon": 33.89,
+    "borders_states": [
+     456
+    ]
+   },
+   {
+    "id": 4910,
+    "lat": 22.78,
+    "lon": 33.64,
+    "borders_states": [
+     456,
+     551,
+     883,
+     1094
+    ]
+   },
+   {
+    "id": 5069,
+    "lat": 24.0,
+    "lon": 34.52,
+    "name": "Berenice Troglodytica",
+    "borders_states": [
+     1094
+    ]
+   },
+   {
+    "id": 7156,
+    "lat": 24.05,
+    "lon": 33.51,
+    "borders_states": [
+     456
+    ]
+   },
+   {
+    "id": 9957,
+    "lat": 27.93,
+    "lon": 32.55
+   },
+   {
+    "id": 10126,
+    "lat": 28.76,
+    "lon": 31.99,
+    "borders_states": [
+     446,
+     907
+    ]
+   },
+   {
+    "id": 12002,
+    "lat": 27.09,
+    "lon": 32.74,
+    "name": "Hurghada",
+    "vp": 1.0,
+    "borders_states": [
+     456
+    ]
+   },
+   {
+    "id": 12889,
+    "lat": 26.23,
+    "lon": 33.4,
+    "borders_states": [
+     456
+    ]
+   }
+  ]
+ },
+ {
+  "id": 549,
+  "name": "Kurdufan",
+  "file": "549-Sudan.txt",
+  "owner": "SUD",
+  "cores": [
+   "SUD"
+  ],
+  "claims": [
+   "EGY"
+  ],
+  "manpower": 7047414,
+  "category": "town",
+  "centroid": [
+   12.56,
+   28.5
+  ],
+  "neighbour_states": [
+   551,
+   767,
+   884,
+   885,
+   886,
+   887
+  ],
+  "provinces": [
+   {
+    "id": 2016,
+    "lat": 14.57,
+    "lon": 30.19,
+    "borders_states": [
+     551
+    ]
+   },
+   {
+    "id": 4033,
+    "lat": 9.6,
+    "lon": 27.56,
+    "borders_states": [
+     885,
+     887
+    ]
+   },
+   {
+    "id": 8052,
+    "lat": 11.54,
+    "lon": 26.03,
+    "borders_states": [
+     887
+    ]
+   },
+   {
+    "id": 8084,
+    "lat": 15.12,
+    "lon": 28.63,
+    "borders_states": [
+     551,
+     767
+    ]
+   },
+   {
+    "id": 10739,
+    "lat": 15.12,
+    "lon": 26.72,
+    "name": "Al Fashir",
+    "borders_states": [
+     767,
+     887
+    ]
+   },
+   {
+    "id": 10795,
+    "lat": 13.94,
+    "lon": 31.76,
+    "borders_states": [
+     551,
+     886
+    ]
+   },
+   {
+    "id": 10827,
+    "lat": 12.29,
+    "lon": 28.59
+   },
+   {
+    "id": 10851,
+    "lat": 12.43,
+    "lon": 31.41,
+    "borders_states": [
+     884,
+     886
+    ]
+   },
+   {
+    "id": 12744,
+    "lat": 10.81,
+    "lon": 30.47,
+    "borders_states": [
+     884,
+     885
+    ]
+   }
+  ]
+ },
+ {
+  "id": 550,
+  "name": "Eritrea",
+  "file": "550-Eritrea.txt",
+  "owner": "ERI",
+  "cores": [
+   "ERI"
+  ],
+  "claims": [
+   "ETH"
+  ],
+  "manpower": 2390000,
+  "category": "rural",
+  "centroid": [
+   15.71,
+   38.63
+  ],
+  "neighbour_states": [
+   268,
+   841,
+   842,
+   883,
+   908
+  ],
+  "provinces": [
+   {
+    "id": 5017,
+    "lat": 16.8,
+    "lon": 37.37,
+    "borders_states": [
+     883
+    ]
+   },
+   {
+    "id": 5047,
+    "lat": 17.54,
+    "lon": 38.12,
+    "borders_states": [
+     883
+    ]
+   },
+   {
+    "id": 5091,
+    "lat": 16.21,
+    "lon": 38.66
+   },
+   {
+    "id": 8043,
+    "lat": 13.65,
+    "lon": 41.77,
+    "borders_states": [
+     268,
+     842,
+     908
+    ]
+   },
+   {
+    "id": 12723,
+    "lat": 15.75,
+    "lon": 37.35,
+    "name": "Biscia",
+    "vp": 1.0,
+    "borders_states": [
+     842,
+     883
+    ]
+   },
+   {
+    "id": 12766,
+    "lat": 15.18,
+    "lon": 39.72,
+    "name": "Massaua",
+    "vp": 1.0,
+    "borders_states": [
+     842
+    ]
+   },
+   {
+    "id": 13250,
+    "lat": 15.12,
+    "lon": 38.7,
+    "name": "Asmara",
+    "vp": 3.0,
+    "borders_states": [
+     842
+    ]
+   },
+   {
+    "id": 13251,
+    "lat": 15.13,
+    "lon": 36.9,
+    "borders_states": [
+     841,
+     842,
+     883
+    ]
+   }
+  ]
+ },
+ {
+  "id": 551,
+  "name": "Khartoum",
+  "file": "551-Khartoum.txt",
+  "owner": "SUD",
+  "cores": [
+   "SUD"
+  ],
+  "claims": [
+   "EGY"
+  ],
+  "manpower": 5543966,
+  "category": "large_city",
+  "centroid": [
+   18.91,
+   31.89
+  ],
+  "neighbour_states": [
+   456,
+   457,
+   549,
+   552,
+   767,
+   883,
+   886
+  ],
+  "provinces": [
+   {
+    "id": 2046,
+    "lat": 18.48,
+    "lon": 34.72,
+    "name": "Atbara",
+    "borders_states": [
+     883
+    ]
+   },
+   {
+    "id": 4138,
+    "lat": 21.55,
+    "lon": 29.85,
+    "borders_states": [
+     456,
+     552,
+     767
+    ]
+   },
+   {
+    "id": 4961,
+    "lat": 17.09,
+    "lon": 30.14,
+    "borders_states": [
+     549,
+     767
+    ]
+   },
+   {
+    "id": 4963,
+    "lat": 19.82,
+    "lon": 31.32
+   },
+   {
+    "id": 7925,
+    "lat": 15.94,
+    "lon": 31.41,
+    "borders_states": [
+     549
+    ]
+   },
+   {
+    "id": 7989,
+    "lat": 19.91,
+    "lon": 34.25,
+    "borders_states": [
+     883
+    ]
+   },
+   {
+    "id": 8105,
+    "lat": 21.39,
+    "lon": 31.16,
+    "name": "Wadi Halfa",
+    "borders_states": [
+     456
+    ]
+   },
+   {
+    "id": 10745,
+    "lat": 21.33,
+    "lon": 32.52,
+    "borders_states": [
+     456,
+     457,
+     883
+    ]
+   },
+   {
+    "id": 12796,
+    "lat": 18.78,
+    "lon": 32.16
+   },
+   {
+    "id": 12806,
+    "lat": 15.5,
+    "lon": 32.56,
+    "name": "Khartoum",
+    "vp": 3.0,
+    "borders_states": [
+     549,
+     886
+    ]
+   },
+   {
+    "id": 12826,
+    "lat": 17.63,
+    "lon": 32.33
+   },
+   {
+    "id": 12836,
+    "lat": 19.49,
+    "lon": 29.55,
+    "borders_states": [
+     767
+    ]
+   },
+   {
+    "id": 12881,
+    "lat": 17.15,
+    "lon": 33.48,
+    "borders_states": [
+     883,
+     886
+    ]
+   }
+  ]
+ },
+ {
+  "id": 552,
+  "name": "Western Desert",
+  "file": "552-Western Egypt.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [],
+  "manpower": 181220,
+  "category": "wasteland",
+  "centroid": [
+   25.94,
+   27.63
+  ],
+  "neighbour_states": [
+   273,
+   447,
+   452,
+   456,
+   551,
+   767,
+   907
+  ],
+  "provinces": [
+   {
+    "id": 1143,
+    "lat": 29.26,
+    "lon": 26.93,
+    "borders_states": [
+     452
+    ]
+   },
+   {
+    "id": 2064,
+    "lat": 23.64,
+    "lon": 29.6,
+    "borders_states": [
+     456,
+     551,
+     767
+    ]
+   },
+   {
+    "id": 7216,
+    "lat": 27.9,
+    "lon": 28.54,
+    "borders_states": [
+     456,
+     907
+    ]
+   },
+   {
+    "id": 10127,
+    "lat": 29.39,
+    "lon": 28.42,
+    "borders_states": [
+     447,
+     452,
+     907
+    ]
+   },
+   {
+    "id": 10869,
+    "lat": 28.28,
+    "lon": 26.06,
+    "borders_states": [
+     273
+    ]
+   },
+   {
+    "id": 10907,
+    "lat": 23.81,
+    "lon": 26.46,
+    "borders_states": [
+     273,
+     767
+    ]
+   },
+   {
+    "id": 12099,
+    "lat": 26.14,
+    "lon": 29.62,
+    "borders_states": [
+     456
+    ]
+   },
+   {
+    "id": 12733,
+    "lat": 26.5,
+    "lon": 25.78,
+    "borders_states": [
+     273
+    ]
+   },
+   {
+    "id": 12764,
+    "lat": 29.76,
+    "lon": 25.22,
+    "borders_states": [
+     273,
+     452
+    ]
+   },
+   {
+    "id": 12816,
+    "lat": 26.04,
+    "lon": 27.74
+   }
+  ]
+ },
+ {
+  "id": 553,
+  "name": "Lebanon",
+  "file": "553-Lebanon.txt",
+  "owner": "LEB",
+  "cores": [
+   "LEB"
+  ],
+  "claims": [
+   "SYR"
+  ],
+  "manpower": 3800000,
+  "category": "large_city",
+  "centroid": [
+   33.84,
+   35.61
+  ],
+  "neighbour_states": [
+   454,
+   554,
+   677
+  ],
+  "provinces": [
+   {
+    "id": 792,
+    "lat": 33.89,
+    "lon": 35.5,
+    "name": "Beirut",
+    "vp": 5.0,
+    "borders_states": [
+     554
+    ]
+   },
+   {
+    "id": 1108,
+    "lat": 34.25,
+    "lon": 35.96,
+    "borders_states": [
+     554,
+     677
+    ]
+   },
+   {
+    "id": 11919,
+    "lat": 33.33,
+    "lon": 35.33,
+    "borders_states": [
+     454,
+     554
+    ]
+   }
+  ]
+ },
+ {
+  "id": 554,
+  "name": "Damascus",
+  "file": "554-Syria.txt",
+  "owner": "SYR",
+  "cores": [
+   "SYR"
+  ],
+  "claims": [],
+  "manpower": 4600000,
+  "category": "metropolis",
+  "centroid": [
+   33.32,
+   36.77
+  ],
+  "neighbour_states": [
+   454,
+   455,
+   553,
+   677,
+   680
+  ],
+  "provinces": [
+   {
+    "id": 1074,
+    "lat": 32.97,
+    "lon": 35.93,
+    "borders_states": [
+     454,
+     455,
+     553
+    ]
+   },
+   {
+    "id": 4111,
+    "lat": 33.51,
+    "lon": 36.29,
+    "name": "Damascus",
+    "vp": 5.0,
+    "borders_states": [
+     553
+    ]
+   },
+   {
+    "id": 4486,
+    "lat": 32.74,
+    "lon": 36.66,
+    "name": "Sweida",
+    "borders_states": [
+     455
+    ]
+   },
+   {
+    "id": 4550,
+    "lat": 34.02,
+    "lon": 36.84,
+    "borders_states": [
+     553,
+     677,
+     680
+    ]
+   },
+   {
+    "id": 7184,
+    "lat": 33.28,
+    "lon": 37.33,
+    "borders_states": [
+     455,
+     680
+    ]
+   }
+  ]
+ },
+ {
+  "id": 584,
+  "name": "Ashkhabad",
+  "file": "584-Turkmenistan.txt",
+  "owner": "TMS",
+  "cores": [
+   "TMS"
+  ],
+  "claims": [],
+  "manpower": 3450000,
+  "category": "rural",
+  "centroid": [
+   38.61,
+   59.21
+  ],
+  "neighbour_states": [
+   266,
+   415,
+   416,
+   587,
+   823,
+   830,
+   832,
+   1004,
+   1007
+  ],
+  "provinces": [
+   {
+    "id": 756,
+    "lat": 37.53,
+    "lon": 66.09,
+    "borders_states": [
+     830,
+     1007
+    ]
+   },
+   {
+    "id": 1593,
+    "lat": 38.92,
+    "lon": 54.12
+   },
+   {
+    "id": 1632,
+    "lat": 38.26,
+    "lon": 64.64,
+    "borders_states": [
+     830
+    ]
+   },
+   {
+    "id": 4482,
+    "lat": 37.64,
+    "lon": 62.34
+   },
+   {
+    "id": 4549,
+    "lat": 37.08,
+    "lon": 64.61,
+    "borders_states": [
+     1007
+    ]
+   },
+   {
+    "id": 4563,
+    "lat": 42.04,
+    "lon": 53.75,
+    "borders_states": [
+     587
+    ]
+   },
+   {
+    "id": 4599,
+    "lat": 39.54,
+    "lon": 56.79
+   },
+   {
+    "id": 4958,
+    "lat": 35.83,
+    "lon": 62.03,
+    "borders_states": [
+     415,
+     416,
+     1007
+    ]
+   },
+   {
+    "id": 5003,
+    "lat": 36.48,
+    "lon": 63.24,
+    "borders_states": [
+     1007
+    ]
+   },
+   {
+    "id": 7477,
+    "lat": 40.25,
+    "lon": 53.61
+   },
+   {
+    "id": 7491,
+    "lat": 37.25,
+    "lon": 59.93,
+    "borders_states": [
+     416,
+     1004
+    ]
+   },
+   {
+    "id": 7560,
+    "lat": 36.98,
+    "lon": 61.52,
+    "borders_states": [
+     416
+    ]
+   },
+   {
+    "id": 7563,
+    "lat": 40.33,
+    "lon": 55.14
+   },
+   {
+    "id": 7635,
+    "lat": 40.7,
+    "lon": 56.75,
+    "borders_states": [
+     823,
+     832
+    ]
+   },
+   {
+    "id": 7924,
+    "lat": 38.76,
+    "lon": 62.47,
+    "borders_states": [
+     832
+    ]
+   },
+   {
+    "id": 8099,
+    "lat": 38.77,
+    "lon": 59.58,
+    "borders_states": [
+     832
+    ]
+   },
+   {
+    "id": 9605,
+    "lat": 39.14,
+    "lon": 63.15,
+    "borders_states": [
+     830,
+     832
+    ]
+   },
+   {
+    "id": 10357,
+    "lat": 37.8,
+    "lon": 60.69
+   },
+   {
+    "id": 10359,
+    "lat": 39.16,
+    "lon": 55.39
+   },
+   {
+    "id": 10406,
+    "lat": 41.39,
+    "lon": 54.85,
+    "borders_states": [
+     587,
+     823
+    ]
+   },
+   {
+    "id": 10414,
+    "lat": 38.84,
+    "lon": 61.17,
+    "borders_states": [
+     832
+    ]
+   },
+   {
+    "id": 10510,
+    "lat": 38.53,
+    "lon": 56.82,
+    "borders_states": [
+     1004
+    ]
+   },
+   {
+    "id": 10742,
+    "lat": 37.88,
+    "lon": 63.48
+   },
+   {
+    "id": 12333,
+    "lat": 38.14,
+    "lon": 58.5,
+    "name": "Ashkhabad",
+    "vp": 1.0,
+    "borders_states": [
+     1004
+    ]
+   },
+   {
+    "id": 12359,
+    "lat": 37.92,
+    "lon": 54.52,
+    "borders_states": [
+     266,
+     1004
+    ]
+   },
+   {
+    "id": 12491,
+    "lat": 39.39,
+    "lon": 58.33,
+    "borders_states": [
+     832
+    ]
+   }
+  ]
+ },
+ {
+  "id": 656,
+  "name": "Kuwait",
+  "file": "656-Kuwait.txt",
+  "owner": "KUW",
+  "cores": [
+   "KUW"
+  ],
+  "claims": [
+   "IRQ"
+  ],
+  "manpower": 2150000,
+  "category": "large_city",
+  "centroid": [
+   29.64,
+   47.25
+  ],
+  "neighbour_states": [
+   675,
+   857,
+   859,
+   1011
+  ],
+  "provinces": [
+   {
+    "id": 8085,
+    "lat": 29.26,
+    "lon": 47.63,
+    "name": "Kuwait City",
+    "vp": 1.0,
+    "borders_states": [
+     859
+    ]
+   },
+   {
+    "id": 13366,
+    "lat": 29.95,
+    "lon": 47.34,
+    "borders_states": [
+     675,
+     1011
+    ]
+   },
+   {
+    "id": 13367,
+    "lat": 29.5,
+    "lon": 46.93,
+    "borders_states": [
+     675,
+     857,
+     859
+    ]
+   }
+  ]
+ },
+ {
+  "id": 658,
+  "name": "UAE",
+  "file": "658-Arab UK 1.txt",
+  "owner": "UAE",
+  "cores": [
+   "UAE"
+  ],
+  "claims": [
+   "PER"
+  ],
+  "manpower": 3100000,
+  "category": "large_city",
+  "centroid": [
+   24.24,
+   54.53
+  ],
+  "neighbour_states": [
+   294,
+   678,
+   1013,
+   1015
+  ],
+  "provinces": [
+   {
+    "id": 2048,
+    "lat": 23.68,
+    "lon": 54.46,
+    "borders_states": [
+     678,
+     1015
+    ]
+   },
+   {
+    "id": 7960,
+    "lat": 24.55,
+    "lon": 55.36,
+    "name": "Abu Dhabi",
+    "vp": 1.0,
+    "borders_states": [
+     294,
+     1015
+    ]
+   },
+   {
+    "id": 8108,
+    "lat": 23.87,
+    "lon": 52.9,
+    "borders_states": [
+     678
+    ]
+   },
+   {
+    "id": 10904,
+    "lat": 25.54,
+    "lon": 56.06,
+    "name": "Dubai",
+    "borders_states": [
+     294,
+     1013
+    ]
+   }
+  ]
+ },
+ {
+  "id": 659,
+  "name": "Aden",
+  "file": "659-Arabian UK 2.txt",
+  "owner": "YEM",
+  "cores": [
+   "YEM"
+  ],
+  "claims": [],
+  "manpower": 1338243,
+  "category": "rural",
+  "centroid": [
+   16.33,
+   49.84
+  ],
+  "neighbour_states": [
+   293,
+   678,
+   858,
+   992,
+   1016
+  ],
+  "provinces": [
+   {
+    "id": 2029,
+    "lat": 15.76,
+    "lon": 50.16,
+    "name": "Al Mukalla"
+   },
+   {
+    "id": 4976,
+    "lat": 17.01,
+    "lon": 48.85,
+    "borders_states": [
+     293,
+     858
+    ]
+   },
+   {
+    "id": 12821,
+    "lat": 14.57,
+    "lon": 47.88,
+    "borders_states": [
+     293,
+     992
+    ]
+   },
+   {
+    "id": 12894,
+    "lat": 18.11,
+    "lon": 51.3,
+    "borders_states": [
+     678,
+     858,
+     1016
+    ]
+   },
+   {
+    "id": 13079,
+    "lat": 16.64,
+    "lon": 52.04,
+    "name": "Al Ghaydah",
+    "borders_states": [
+     1016
+    ]
+   }
+  ]
+ },
+ {
+  "id": 675,
+  "name": "Al Hajara",
+  "file": "675-Al Hajara.txt",
+  "owner": "IRQ",
+  "cores": [
+   "IRQ"
+  ],
+  "claims": [],
+  "manpower": 162668,
+  "category": "pastoral",
+  "centroid": [
+   30.54,
+   44.13
+  ],
+  "neighbour_states": [
+   291,
+   656,
+   854,
+   857,
+   1010,
+   1011
+  ],
+  "provinces": [
+   {
+    "id": 10744,
+    "lat": 31.22,
+    "lon": 43.08,
+    "borders_states": [
+     291,
+     854,
+     1010,
+     1011
+    ]
+   },
+   {
+    "id": 12879,
+    "lat": 30.1,
+    "lon": 44.28,
+    "name": "Samawah",
+    "vp": 1.0,
+    "borders_states": [
+     854,
+     857,
+     1011
+    ]
+   },
+   {
+    "id": 13368,
+    "lat": 29.95,
+    "lon": 45.86,
+    "borders_states": [
+     656,
+     857,
+     1011
+    ]
+   }
+  ]
+ },
+ {
+  "id": 676,
+  "name": "Mosul",
+  "file": "676-Mosul.txt",
+  "owner": "IRQ",
+  "cores": [
+   "IRQ",
+   "KUR"
+  ],
+  "claims": [
+   "TUR"
+  ],
+  "manpower": 6223668,
+  "category": "large_city",
+  "centroid": [
+   35.54,
+   43.32
+  ],
+  "neighbour_states": [
+   291,
+   352,
+   419,
+   680,
+   1001,
+   1010
+  ],
+  "provinces": [
+   {
+    "id": 1600,
+    "lat": 35.05,
+    "lon": 42.78,
+    "borders_states": [
+     291
+    ]
+   },
+   {
+    "id": 1938,
+    "lat": 35.43,
+    "lon": 41.63,
+    "borders_states": [
+     680
+    ]
+   },
+   {
+    "id": 3916,
+    "lat": 35.93,
+    "lon": 43.58,
+    "name": "Erbil",
+    "vp": 3.0
+   },
+   {
+    "id": 5014,
+    "lat": 36.46,
+    "lon": 44.51,
+    "borders_states": [
+     352,
+     419
+    ]
+   },
+   {
+    "id": 6826,
+    "lat": 35.46,
+    "lon": 45.03,
+    "name": "Sulaymaniyah",
+    "vp": 1.0,
+    "borders_states": [
+     419,
+     1001
+    ]
+   },
+   {
+    "id": 8123,
+    "lat": 34.9,
+    "lon": 43.8,
+    "name": "Kirkuk",
+    "borders_states": [
+     291
+    ]
+   },
+   {
+    "id": 10106,
+    "lat": 36.1,
+    "lon": 42.66,
+    "name": "Mosul",
+    "vp": 5.0
+   },
+   {
+    "id": 10793,
+    "lat": 34.32,
+    "lon": 44.65,
+    "borders_states": [
+     291,
+     1001
+    ]
+   },
+   {
+    "id": 10804,
+    "lat": 36.4,
+    "lon": 41.8,
+    "borders_states": [
+     680
+    ]
+   },
+   {
+    "id": 10811,
+    "lat": 36.9,
+    "lon": 43.25,
+    "name": "Duhok",
+    "borders_states": [
+     352,
+     680
+    ]
+   },
+   {
+    "id": 12372,
+    "lat": 34.59,
+    "lon": 41.84,
+    "borders_states": [
+     291,
+     680,
+     1010
+    ]
+   }
+  ]
+ },
+ {
+  "id": 678,
+  "name": "Rub al Khali",
+  "file": "678-Rub al Khali.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [],
+  "manpower": 5000,
+  "category": "wasteland",
+  "centroid": [
+   21.89,
+   51.72
+  ],
+  "neighbour_states": [
+   292,
+   658,
+   659,
+   765,
+   858,
+   859,
+   1015,
+   1016
+  ],
+  "provinces": [
+   {
+    "id": 4932,
+    "lat": 23.79,
+    "lon": 51.35,
+    "borders_states": [
+     658,
+     765,
+     859
+    ]
+   },
+   {
+    "id": 5081,
+    "lat": 22.81,
+    "lon": 49.18,
+    "borders_states": [
+     292,
+     858,
+     859
+    ]
+   },
+   {
+    "id": 8118,
+    "lat": 20.88,
+    "lon": 51.76,
+    "borders_states": [
+     659,
+     858,
+     1016
+    ]
+   },
+   {
+    "id": 12740,
+    "lat": 21.76,
+    "lon": 54.32,
+    "borders_states": [
+     658,
+     1015,
+     1016
+    ]
+   }
+  ]
+ },
+ {
+  "id": 679,
+  "name": "Madinah",
+  "file": "679-Hejaz.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [],
+  "manpower": 1319110,
+  "category": "city",
+  "centroid": [
+   24.64,
+   39.34
+  ],
+  "neighbour_states": [
+   292,
+   855,
+   856,
+   857
+  ],
+  "provinces": [
+   {
+    "id": 2033,
+    "lat": 23.48,
+    "lon": 38.31,
+    "borders_states": [
+     855,
+     856
+    ]
+   },
+   {
+    "id": 4981,
+    "lat": 22.96,
+    "lon": 39.74,
+    "borders_states": [
+     856
+    ]
+   },
+   {
+    "id": 5099,
+    "lat": 26.86,
+    "lon": 38.74,
+    "borders_states": [
+     855
+    ]
+   },
+   {
+    "id": 7934,
+    "lat": 24.33,
+    "lon": 39.47,
+    "borders_states": [
+     855,
+     857
+    ]
+   },
+   {
+    "id": 10748,
+    "lat": 23.47,
+    "lon": 41.07,
+    "borders_states": [
+     292,
+     856,
+     857
+    ]
+   },
+   {
+    "id": 10835,
+    "lat": 25.49,
+    "lon": 38.27,
+    "borders_states": [
+     855
+    ]
+   },
+   {
+    "id": 12758,
+    "lat": 25.55,
+    "lon": 39.64,
+    "name": "Medina",
+    "vp": 2.0,
+    "borders_states": [
+     855,
+     857
+    ]
+   }
+  ]
+ },
+ {
+  "id": 742,
+  "name": "Stalinabad",
+  "file": "742-Stalinabad.txt",
+  "owner": "TAJ",
+  "cores": [
+   "TAJ",
+   "BUK"
+  ],
+  "claims": [
+   "PRC",
+   "UZB"
+  ],
+  "manpower": 6130000,
+  "category": "town",
+  "centroid": [
+   38.36,
+   70.81
+  ],
+  "neighbour_states": [
+   405,
+   619,
+   732,
+   830,
+   1005,
+   1007
+  ],
+  "provinces": [
+   {
+    "id": 1216,
+    "lat": 38.95,
+    "lon": 67.66,
+    "borders_states": [
+     830
+    ]
+   },
+   {
+    "id": 1384,
+    "lat": 38.38,
+    "lon": 68.76,
+    "name": "Stalinabad",
+    "vp": 1.0,
+    "borders_states": [
+     830
+    ]
+   },
+   {
+    "id": 1919,
+    "lat": 39.39,
+    "lon": 67.99,
+    "borders_states": [
+     405,
+     830
+    ]
+   },
+   {
+    "id": 4542,
+    "lat": 38.88,
+    "lon": 70.81,
+    "borders_states": [
+     732
+    ]
+   },
+   {
+    "id": 7224,
+    "lat": 37.99,
+    "lon": 70.11,
+    "borders_states": [
+     1005
+    ]
+   },
+   {
+    "id": 8027,
+    "lat": 38.3,
+    "lon": 71.97,
+    "borders_states": [
+     732,
+     1005
+    ]
+   },
+   {
+    "id": 10187,
+    "lat": 40.44,
+    "lon": 69.48,
+    "borders_states": [
+     405,
+     732
+    ]
+   },
+   {
+    "id": 10417,
+    "lat": 37.25,
+    "lon": 72.25,
+    "borders_states": [
+     1005
+    ]
+   },
+   {
+    "id": 12218,
+    "lat": 37.28,
+    "lon": 68.94,
+    "borders_states": [
+     830,
+     1005,
+     1007
+    ]
+   },
+   {
+    "id": 12250,
+    "lat": 38.65,
+    "lon": 69.71,
+    "borders_states": [
+     732
+    ]
+   },
+   {
+    "id": 12430,
+    "lat": 39.48,
+    "lon": 69.33,
+    "borders_states": [
+     405,
+     732
+    ]
+   },
+   {
+    "id": 12805,
+    "lat": 37.84,
+    "lon": 73.83,
+    "borders_states": [
+     619,
+     732,
+     1005
+    ]
+   }
+  ]
+ },
+ {
+  "id": 765,
+  "name": "Qatar",
+  "file": "765-Qatar.txt",
+  "owner": "QAT",
+  "cores": [
+   "QAT"
+  ],
+  "claims": [],
+  "manpower": 600000,
+  "category": "city",
+  "centroid": [
+   25.54,
+   51.09
+  ],
+  "neighbour_states": [
+   678,
+   859
+  ],
+  "provinces": [
+   {
+    "id": 8051,
+    "lat": 25.54,
+    "lon": 51.09,
+    "name": "Doha",
+    "vp": 1.0,
+    "borders_states": [
+     678,
+     859
+    ]
+   }
+  ]
+ },
+ {
+  "id": 767,
+  "name": "North Darfur",
+  "file": "767-North Darfur.txt",
+  "owner": "SUD",
+  "cores": [
+   "SUD"
+  ],
+  "claims": [
+   "EGY"
+  ],
+  "manpower": 46983,
+  "category": "wasteland",
+  "centroid": [
+   19.27,
+   26.72
+  ],
+  "neighbour_states": [
+   273,
+   549,
+   551,
+   552,
+   775,
+   887
+  ],
+  "provinces": [
+   {
+    "id": 7987,
+    "lat": 21.25,
+    "lon": 27.16,
+    "borders_states": [
+     273,
+     551,
+     552
+    ]
+   },
+   {
+    "id": 8103,
+    "lat": 18.59,
+    "lon": 25.3,
+    "borders_states": [
+     273,
+     549,
+     775,
+     887
+    ]
+   },
+   {
+    "id": 10900,
+    "lat": 17.91,
+    "lon": 27.91,
+    "borders_states": [
+     549,
+     551
+    ]
+   }
+  ]
+ },
+ {
+  "id": 800,
+  "name": "Van",
+  "file": "800-Van.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR",
+   "KUR"
+  ],
+  "claims": [
+   "ARM"
+  ],
+  "manpower": 1555000,
+  "category": "town",
+  "centroid": [
+   39.29,
+   43.04
+  ],
+  "neighbour_states": [
+   230,
+   352,
+   353,
+   354,
+   419
+  ],
+  "provinces": [
+   {
+    "id": 652,
+    "lat": 39.77,
+    "lon": 42.34,
+    "borders_states": [
+     353,
+     354
+    ]
+   },
+   {
+    "id": 4583,
+    "lat": 39.66,
+    "lon": 44.05,
+    "name": "Iğdır",
+    "borders_states": [
+     230,
+     419
+    ]
+   },
+   {
+    "id": 6935,
+    "lat": 38.73,
+    "lon": 43.68,
+    "name": "Van",
+    "vp": 5.0,
+    "borders_states": [
+     352,
+     419
+    ]
+   },
+   {
+    "id": 7470,
+    "lat": 39.19,
+    "lon": 43.02
+   },
+   {
+    "id": 11880,
+    "lat": 38.97,
+    "lon": 42.15,
+    "borders_states": [
+     352,
+     353
+    ]
+   },
+   {
+    "id": 12376,
+    "lat": 39.87,
+    "lon": 43.34,
+    "name": "Qerekose",
+    "vp": 1.0,
+    "borders_states": [
+     230,
+     354
+    ]
+   },
+   {
+    "id": 13121,
+    "lat": 38.56,
+    "lon": 42.8,
+    "type": "lake",
+    "borders_states": [
+     352
+    ]
+   }
+  ]
+ },
+ {
+  "id": 830,
+  "name": "Bukhara",
+  "file": "830 - Bukhara.txt",
+  "owner": "UZB",
+  "cores": [
+   "UZB",
+   "BUK"
+  ],
+  "claims": [
+   "TAJ"
+  ],
+  "manpower": 8362250,
+  "category": "large_town",
+  "centroid": [
+   39.25,
+   65.34
+  ],
+  "neighbour_states": [
+   405,
+   584,
+   585,
+   742,
+   832,
+   1007
+  ],
+  "provinces": [
+   {
+    "id": 1573,
+    "lat": 39.36,
+    "lon": 64.74,
+    "name": "Bukhara",
+    "vp": 2.0,
+    "borders_states": [
+     584
+    ]
+   },
+   {
+    "id": 1623,
+    "lat": 40.3,
+    "lon": 64.22,
+    "borders_states": [
+     585
+    ]
+   },
+   {
+    "id": 7639,
+    "lat": 38.73,
+    "lon": 65.51,
+    "borders_states": [
+     584
+    ]
+   },
+   {
+    "id": 7775,
+    "lat": 40.06,
+    "lon": 65.75,
+    "borders_states": [
+     405,
+     585
+    ]
+   },
+   {
+    "id": 10205,
+    "lat": 38.08,
+    "lon": 67.98,
+    "borders_states": [
+     742
+    ]
+   },
+   {
+    "id": 10470,
+    "lat": 40.54,
+    "lon": 62.77,
+    "borders_states": [
+     585,
+     832
+    ]
+   },
+   {
+    "id": 10671,
+    "lat": 39.19,
+    "lon": 66.42,
+    "name": "Samarkand",
+    "vp": 1.0,
+    "borders_states": [
+     405,
+     742
+    ]
+   },
+   {
+    "id": 12161,
+    "lat": 39.71,
+    "lon": 63.3,
+    "borders_states": [
+     584,
+     832
+    ]
+   },
+   {
+    "id": 12239,
+    "lat": 37.34,
+    "lon": 67.5,
+    "borders_states": [
+     584,
+     742,
+     1007
+    ]
+   },
+   {
+    "id": 12722,
+    "lat": 38.35,
+    "lon": 66.77,
+    "borders_states": [
+     584,
+     742
+    ]
+   }
+  ]
+ },
+ {
+  "id": 832,
+  "name": "Tashauz",
+  "file": "832 - Dashhowuz.txt",
+  "owner": "TMS",
+  "cores": [
+   "TMS",
+   "KHI"
+  ],
+  "claims": [],
+  "manpower": 1050000,
+  "category": "rural",
+  "centroid": [
+   40.57,
+   59.56
+  ],
+  "neighbour_states": [
+   584,
+   585,
+   823,
+   830,
+   831
+  ],
+  "provinces": [
+   {
+    "id": 1493,
+    "lat": 40.62,
+    "lon": 58.75,
+    "name": "Tashauz",
+    "vp": 1.0,
+    "borders_states": [
+     584,
+     831
+    ]
+   },
+   {
+    "id": 1649,
+    "lat": 40.05,
+    "lon": 61.64,
+    "borders_states": [
+     584,
+     585,
+     823,
+     830,
+     831
+    ]
+   },
+   {
+    "id": 7618,
+    "lat": 40.08,
+    "lon": 60.08,
+    "borders_states": [
+     584,
+     831
+    ]
+   },
+   {
+    "id": 10485,
+    "lat": 41.65,
+    "lon": 57.91,
+    "borders_states": [
+     584,
+     823,
+     831
+    ]
+   }
+  ]
+ },
+ {
+  "id": 841,
+  "name": "Begemder",
+  "file": "841-Begemder.txt",
+  "owner": "ETH",
+  "cores": [
+   "ETH",
+   "QEM"
+  ],
+  "claims": [],
+  "manpower": 4600000,
+  "category": "town",
+  "centroid": [
+   13.02,
+   37.29
+  ],
+  "neighbour_states": [
+   550,
+   840,
+   842,
+   843,
+   883,
+   886
+  ],
+  "provinces": [
+   {
+    "id": 1984,
+    "lat": 13.67,
+    "lon": 37.49,
+    "name": "Gondar",
+    "vp": 2.0,
+    "borders_states": [
+     550,
+     842,
+     843,
+     883,
+     886
+    ]
+   },
+   {
+    "id": 2040,
+    "lat": 12.97,
+    "lon": 36.28,
+    "borders_states": [
+     840,
+     886
+    ]
+   },
+   {
+    "id": 13137,
+    "lat": 12.28,
+    "lon": 37.34,
+    "type": "lake",
+    "borders_states": [
+     840
+    ]
+   },
+   {
+    "id": 13241,
+    "lat": 12.01,
+    "lon": 38.22,
+    "borders_states": [
+     840,
+     843
+    ]
+   }
+  ]
+ },
+ {
+  "id": 842,
+  "name": "Tigray",
+  "file": "842-Tigray.txt",
+  "owner": "ETH",
+  "cores": [
+   "ETH",
+   "TIG"
+  ],
+  "claims": [
+   "ERI"
+  ],
+  "manpower": 4200000,
+  "category": "town",
+  "centroid": [
+   14.01,
+   39.26
+  ],
+  "neighbour_states": [
+   550,
+   841,
+   843,
+   908
+  ],
+  "provinces": [
+   {
+    "id": 2072,
+    "lat": 13.49,
+    "lon": 39.58,
+    "name": "Macalle",
+    "vp": 2.0,
+    "borders_states": [
+     841,
+     843,
+     908
+    ]
+   },
+   {
+    "id": 13237,
+    "lat": 14.43,
+    "lon": 38.03,
+    "name": "Aksum",
+    "vp": 1.0,
+    "borders_states": [
+     550,
+     841
+    ]
+   },
+   {
+    "id": 13238,
+    "lat": 14.26,
+    "lon": 39.67,
+    "name": "Adwa",
+    "vp": 1.0,
+    "borders_states": [
+     550,
+     908
+    ]
+   }
+  ]
+ },
+ {
+  "id": 854,
+  "name": "Jawf",
+  "file": "854-Jawf.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [],
+  "manpower": 505960,
+  "category": "pastoral",
+  "centroid": [
+   30.12,
+   40.04
+  ],
+  "neighbour_states": [
+   455,
+   675,
+   855,
+   857,
+   1010
+  ],
+  "provinces": [
+   {
+    "id": 2057,
+    "lat": 28.63,
+    "lon": 40.99,
+    "borders_states": [
+     855,
+     857
+    ]
+   },
+   {
+    "id": 4974,
+    "lat": 29.98,
+    "lon": 41.91,
+    "borders_states": [
+     675,
+     857,
+     1010
+    ]
+   },
+   {
+    "id": 8101,
+    "lat": 30.96,
+    "lon": 38.0,
+    "borders_states": [
+     455,
+     1010
+    ]
+   },
+   {
+    "id": 10815,
+    "lat": 30.99,
+    "lon": 40.01,
+    "borders_states": [
+     1010
+    ]
+   },
+   {
+    "id": 10901,
+    "lat": 29.54,
+    "lon": 39.13,
+    "borders_states": [
+     455,
+     855
+    ]
+   }
+  ]
+ },
+ {
+  "id": 855,
+  "name": "Tabuk",
+  "file": "855-Tabuk.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [],
+  "manpower": 668590,
+  "category": "town",
+  "centroid": [
+   27.44,
+   37.77
+  ],
+  "neighbour_states": [
+   455,
+   679,
+   854,
+   857
+  ],
+  "provinces": [
+   {
+    "id": 1033,
+    "lat": 27.17,
+    "lon": 35.87
+   },
+   {
+    "id": 2027,
+    "lat": 27.5,
+    "lon": 36.94,
+    "borders_states": [
+     679
+    ]
+   },
+   {
+    "id": 2095,
+    "lat": 26.15,
+    "lon": 36.96,
+    "borders_states": [
+     679
+    ]
+   },
+   {
+    "id": 5027,
+    "lat": 26.99,
+    "lon": 40.72,
+    "borders_states": [
+     679,
+     854,
+     857
+    ]
+   },
+   {
+    "id": 7970,
+    "lat": 28.15,
+    "lon": 38.71,
+    "borders_states": [
+     679,
+     854
+    ]
+   },
+   {
+    "id": 8092,
+    "lat": 24.94,
+    "lon": 37.19,
+    "borders_states": [
+     679
+    ]
+   },
+   {
+    "id": 12101,
+    "lat": 28.54,
+    "lon": 35.32,
+    "borders_states": [
+     455
+    ]
+   },
+   {
+    "id": 12455,
+    "lat": 28.84,
+    "lon": 37.06,
+    "borders_states": [
+     455,
+     854
+    ]
+   }
+  ]
+ },
+ {
+  "id": 856,
+  "name": "Asir-Makkah",
+  "file": "856-Asir-Makkah.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [
+   "YEM"
+  ],
+  "manpower": 8185710,
+  "category": "metropolis",
+  "centroid": [
+   20.29,
+   41.4
+  ],
+  "neighbour_states": [
+   292,
+   293,
+   679,
+   858
+  ],
+  "provinces": [
+   {
+    "id": 1923,
+    "lat": 19.7,
+    "lon": 41.0
+   },
+   {
+    "id": 2090,
+    "lat": 21.87,
+    "lon": 41.71,
+    "borders_states": [
+     292,
+     679
+    ]
+   },
+   {
+    "id": 5037,
+    "lat": 21.39,
+    "lon": 39.86,
+    "name": "Mecca",
+    "vp": 5.0,
+    "borders_states": [
+     679
+    ]
+   },
+   {
+    "id": 8073,
+    "lat": 17.81,
+    "lon": 42.37,
+    "borders_states": [
+     293,
+     858
+    ]
+   },
+   {
+    "id": 10786,
+    "lat": 20.09,
+    "lon": 42.97,
+    "borders_states": [
+     292,
+     858
+    ]
+   },
+   {
+    "id": 12883,
+    "lat": 21.18,
+    "lon": 38.96,
+    "name": "Jeddah",
+    "vp": 1.0,
+    "borders_states": [
+     679
+    ]
+   }
+  ]
+ },
+ {
+  "id": 857,
+  "name": "Al-Qassim",
+  "file": "857-Ha'il.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [],
+  "manpower": 921570,
+  "category": "town",
+  "centroid": [
+   27.3,
+   43.55
+  ],
+  "neighbour_states": [
+   292,
+   656,
+   675,
+   679,
+   854,
+   855,
+   859
+  ],
+  "provinces": [
+   {
+    "id": 4968,
+    "lat": 27.05,
+    "lon": 42.75,
+    "borders_states": [
+     292,
+     854,
+     855
+    ]
+   },
+   {
+    "id": 5058,
+    "lat": 28.69,
+    "lon": 43.28,
+    "borders_states": [
+     675,
+     854
+    ]
+   },
+   {
+    "id": 10892,
+    "lat": 25.24,
+    "lon": 41.89,
+    "borders_states": [
+     292,
+     679,
+     855
+    ]
+   },
+   {
+    "id": 10923,
+    "lat": 27.01,
+    "lon": 44.79,
+    "borders_states": [
+     292,
+     859
+    ]
+   },
+   {
+    "id": 12749,
+    "lat": 28.74,
+    "lon": 45.27,
+    "borders_states": [
+     656,
+     675,
+     859
+    ]
+   }
+  ]
+ },
+ {
+  "id": 858,
+  "name": "Najiran",
+  "file": "858-Najiran.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [
+   "YEM"
+  ],
+  "manpower": 379470,
+  "category": "rural",
+  "centroid": [
+   19.06,
+   46.89
+  ],
+  "neighbour_states": [
+   292,
+   293,
+   659,
+   678,
+   856
+  ],
+  "provinces": [
+   {
+    "id": 5006,
+    "lat": 18.15,
+    "lon": 44.0,
+    "borders_states": [
+     293,
+     856
+    ]
+   },
+   {
+    "id": 8030,
+    "lat": 17.98,
+    "lon": 46.74,
+    "borders_states": [
+     293,
+     659
+    ]
+   },
+   {
+    "id": 10870,
+    "lat": 19.57,
+    "lon": 45.72,
+    "borders_states": [
+     292,
+     856
+    ]
+   },
+   {
+    "id": 12768,
+    "lat": 19.82,
+    "lon": 48.99,
+    "borders_states": [
+     292,
+     659,
+     678
+    ]
+   }
+  ]
+ },
+ {
+  "id": 859,
+  "name": "Dammam",
+  "file": "859-Dammam.txt",
+  "owner": "SAU",
+  "cores": [
+   "SAU"
+  ],
+  "claims": [],
+  "manpower": 3035760,
+  "category": "large_city",
+  "centroid": [
+   27.01,
+   48.37
+  ],
+  "neighbour_states": [
+   292,
+   656,
+   678,
+   765,
+   857
+  ],
+  "provinces": [
+   {
+    "id": 1955,
+    "lat": 27.95,
+    "lon": 48.2,
+    "borders_states": [
+     292,
+     656
+    ]
+   },
+   {
+    "id": 10791,
+    "lat": 25.21,
+    "lon": 49.88,
+    "borders_states": [
+     292,
+     678,
+     765
+    ]
+   },
+   {
+    "id": 10850,
+    "lat": 28.21,
+    "lon": 46.78,
+    "borders_states": [
+     292,
+     656,
+     857
+    ]
+   },
+   {
+    "id": 12702,
+    "lat": 26.75,
+    "lon": 48.73,
+    "name": "Dammam",
+    "vp": 1.0,
+    "borders_states": [
+     292
+    ]
+   }
+  ]
+ },
+ {
+  "id": 883,
+  "name": "Kassala",
+  "file": "883-Kassala.txt",
+  "owner": "SUD",
+  "cores": [
+   "SUD"
+  ],
+  "claims": [
+   "EGY"
+  ],
+  "manpower": 2067241,
+  "category": "rural",
+  "centroid": [
+   19.19,
+   35.74
+  ],
+  "neighbour_states": [
+   457,
+   550,
+   551,
+   841,
+   886,
+   1094
+  ],
+  "provinces": [
+   {
+    "id": 2003,
+    "lat": 18.67,
+    "lon": 36.58,
+    "name": "Tokar",
+    "borders_states": [
+     550,
+     551
+    ]
+   },
+   {
+    "id": 2088,
+    "lat": 16.59,
+    "lon": 35.92,
+    "borders_states": [
+     550,
+     551,
+     841,
+     886
+    ]
+   },
+   {
+    "id": 10902,
+    "lat": 21.35,
+    "lon": 34.28,
+    "borders_states": [
+     457,
+     551,
+     1094
+    ]
+   },
+   {
+    "id": 12725,
+    "lat": 20.56,
+    "lon": 36.05,
+    "name": "Port Sudan",
+    "vp": 1.0,
+    "borders_states": [
+     551,
+     1094
+    ]
+   }
+  ]
+ },
+ {
+  "id": 886,
+  "name": "Blue Nile",
+  "file": "886-Blue Nile.txt",
+  "owner": "SUD",
+  "cores": [
+   "SUD"
+  ],
+  "claims": [
+   "EGY"
+  ],
+  "manpower": 7094397,
+  "category": "large_town",
+  "centroid": [
+   14.03,
+   34.15
+  ],
+  "neighbour_states": [
+   549,
+   551,
+   839,
+   840,
+   841,
+   883,
+   884
+  ],
+  "provinces": [
+   {
+    "id": 1914,
+    "lat": 13.98,
+    "lon": 33.04,
+    "borders_states": [
+     549,
+     551
+    ]
+   },
+   {
+    "id": 4918,
+    "lat": 13.14,
+    "lon": 34.75,
+    "borders_states": [
+     840,
+     841
+    ]
+   },
+   {
+    "id": 10743,
+    "lat": 15.44,
+    "lon": 33.75,
+    "borders_states": [
+     551
+    ]
+   },
+   {
+    "id": 10784,
+    "lat": 16.12,
+    "lon": 34.84,
+    "borders_states": [
+     551,
+     883
+    ]
+   },
+   {
+    "id": 12862,
+    "lat": 14.41,
+    "lon": 35.16,
+    "borders_states": [
+     841,
+     883
+    ]
+   },
+   {
+    "id": 12887,
+    "lat": 12.06,
+    "lon": 33.47,
+    "borders_states": [
+     549,
+     839,
+     840,
+     884
+    ]
+   }
+  ]
+ },
+ {
+  "id": 906,
+  "name": "Socotra",
+  "file": "906-Socotra.txt",
+  "owner": "YEM",
+  "cores": [
+   "YEM"
+  ],
+  "claims": [],
+  "manpower": 34535,
+  "category": "small_island",
+  "centroid": [
+   12.26,
+   54.14
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 8000,
+    "lat": 12.26,
+    "lon": 54.14
+   }
+  ]
+ },
+ {
+  "id": 907,
+  "name": "Cairo",
+  "file": "907-Cairo.txt",
+  "owner": "EGY",
+  "cores": [
+   "EGY"
+  ],
+  "claims": [],
+  "manpower": 26660660,
+  "category": "megalopolis",
+  "centroid": [
+   29.35,
+   30.43
+  ],
+  "neighbour_states": [
+   446,
+   447,
+   456,
+   457,
+   552
+  ],
+  "provinces": [
+   {
+    "id": 992,
+    "lat": 30.02,
+    "lon": 29.48,
+    "borders_states": [
+     447,
+     552
+    ]
+   },
+   {
+    "id": 1068,
+    "lat": 29.05,
+    "lon": 30.5,
+    "name": "Beni Suef",
+    "vp": 3.0
+   },
+   {
+    "id": 3996,
+    "lat": 30.07,
+    "lon": 30.46,
+    "name": "Giza",
+    "vp": 5.0,
+    "borders_states": [
+     447
+    ]
+   },
+   {
+    "id": 4055,
+    "lat": 29.52,
+    "lon": 30.63
+   },
+   {
+    "id": 4143,
+    "lat": 28.95,
+    "lon": 31.29,
+    "borders_states": [
+     457
+    ]
+   },
+   {
+    "id": 7011,
+    "lat": 30.04,
+    "lon": 31.24,
+    "name": "Cairo",
+    "vp": 20.0,
+    "borders_states": [
+     446,
+     447
+    ]
+   },
+   {
+    "id": 7117,
+    "lat": 28.98,
+    "lon": 29.57,
+    "name": "Faiyum",
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 7188,
+    "lat": 28.29,
+    "lon": 30.91,
+    "borders_states": [
+     456,
+     457
+    ]
+   },
+   {
+    "id": 10005,
+    "lat": 30.69,
+    "lon": 31.42,
+    "borders_states": [
+     446,
+     447
+    ]
+   },
+   {
+    "id": 10031,
+    "lat": 28.48,
+    "lon": 30.33,
+    "borders_states": [
+     456,
+     552
+    ]
+   },
+   {
+    "id": 12004,
+    "lat": 29.54,
+    "lon": 31.51,
+    "borders_states": [
+     446,
+     457
+    ]
+   }
+  ]
+ },
+ {
+  "id": 908,
+  "name": "Afar",
+  "file": "908-Afar.txt",
+  "owner": "ETH",
+  "cores": [
+   "ETH",
+   "AFA"
+  ],
+  "claims": [],
+  "manpower": 1300000,
+  "category": "pastoral",
+  "centroid": [
+   12.27,
+   41.23
+  ],
+  "neighbour_states": [
+   268,
+   271,
+   550,
+   835,
+   842,
+   843
+  ],
+  "provinces": [
+   {
+    "id": 5041,
+    "lat": 12.25,
+    "lon": 41.32,
+    "borders_states": [
+     268,
+     550,
+     843
+    ]
+   },
+   {
+    "id": 13236,
+    "lat": 13.17,
+    "lon": 41.13,
+    "borders_states": [
+     550,
+     842,
+     843
+    ]
+   },
+   {
+    "id": 13240,
+    "lat": 11.36,
+    "lon": 41.19,
+    "name": "Aussa",
+    "vp": 2.0,
+    "borders_states": [
+     268,
+     271,
+     835,
+     843
+    ]
+   }
+  ]
+ },
+ {
+  "id": 987,
+  "name": "STATE_987",
+  "file": "987 - Waziristan.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [
+   "AFG"
+  ],
+  "manpower": 5221380,
+  "category": "town",
+  "centroid": [
+   31.4,
+   70.53
+  ],
+  "neighbour_states": [
+   440,
+   442,
+   445,
+   988,
+   1006,
+   1008
+  ],
+  "provinces": [
+   {
+    "id": 1107,
+    "lat": 30.24,
+    "lon": 70.65,
+    "borders_states": [
+     440,
+     445
+    ]
+   },
+   {
+    "id": 1978,
+    "lat": 31.58,
+    "lon": 70.58,
+    "borders_states": [
+     440,
+     1006,
+     1008
+    ]
+   },
+   {
+    "id": 4998,
+    "lat": 32.45,
+    "lon": 71.01,
+    "borders_states": [
+     440,
+     442,
+     1006
+    ]
+   },
+   {
+    "id": 7975,
+    "lat": 30.9,
+    "lon": 69.65,
+    "borders_states": [
+     445,
+     988,
+     1008
+    ]
+   }
+  ]
+ },
+ {
+  "id": 988,
+  "name": "STATE_988",
+  "file": "988-Baluchistan.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [
+   "AFG"
+  ],
+  "manpower": 2272836,
+  "category": "town",
+  "centroid": [
+   29.5,
+   65.42
+  ],
+  "neighbour_states": [
+   410,
+   444,
+   445,
+   987,
+   1008,
+   1009,
+   1012
+  ],
+  "provinces": [
+   {
+    "id": 5075,
+    "lat": 29.03,
+    "lon": 62.49,
+    "borders_states": [
+     410,
+     444,
+     1008,
+     1009
+    ]
+   },
+   {
+    "id": 5105,
+    "lat": 29.81,
+    "lon": 66.99,
+    "name": "Quetta",
+    "vp": 3.0,
+    "borders_states": [
+     445,
+     1008,
+     1012
+    ]
+   },
+   {
+    "id": 8013,
+    "lat": 28.82,
+    "lon": 64.97,
+    "borders_states": [
+     444,
+     1008,
+     1012
+    ]
+   },
+   {
+    "id": 8044,
+    "lat": 30.74,
+    "lon": 68.04,
+    "borders_states": [
+     445,
+     987,
+     1008
+    ]
+   }
+  ]
+ },
+ {
+  "id": 989,
+  "name": "STATE_989",
+  "file": "989-Bahawalpur.txt",
+  "owner": "PAK",
+  "cores": [
+   "PAK"
+  ],
+  "claims": [],
+  "manpower": 1228560,
+  "category": "rural",
+  "centroid": [
+   28.12,
+   71.42
+  ],
+  "neighbour_states": [
+   433,
+   440,
+   443
+  ],
+  "provinces": [
+   {
+    "id": 10843,
+    "lat": 29.09,
+    "lon": 72.92,
+    "borders_states": [
+     433,
+     440
+    ]
+   },
+   {
+    "id": 10866,
+    "lat": 27.22,
+    "lon": 70.15,
+    "borders_states": [
+     433,
+     443
+    ]
+   },
+   {
+    "id": 12792,
+    "lat": 28.13,
+    "lon": 71.26,
+    "borders_states": [
+     433,
+     440,
+     443
+    ]
+   }
+  ]
+ },
+ {
+  "id": 992,
+  "name": "STATE_992",
+  "file": "992-Province of Aden.txt",
+  "owner": "YEM",
+  "cores": [
+   "YEM"
+  ],
+  "claims": [],
+  "manpower": 1502285,
+  "category": "city",
+  "centroid": [
+   13.12,
+   45.83
+  ],
+  "neighbour_states": [
+   293,
+   659
+  ],
+  "provinces": [
+   {
+    "id": 5074,
+    "lat": 12.79,
+    "lon": 45.02,
+    "name": "Aden",
+    "vp": 2.0,
+    "borders_states": [
+     293
+    ]
+   },
+   {
+    "id": 13374,
+    "lat": 13.39,
+    "lon": 46.5,
+    "borders_states": [
+     293,
+     659
+    ]
+   }
+  ]
+ }
+]

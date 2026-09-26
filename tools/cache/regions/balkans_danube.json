@@ -1,0 +1,7903 @@
+[
+ {
+  "id": 102,
+  "name": "North Slovenia",
+  "file": "102-North-Eastern Slovenia.txt",
+  "owner": "SLV",
+  "cores": [
+   "SLV",
+   "YUG"
+  ],
+  "claims": [
+   "HUN"
+  ],
+  "manpower": 1088000,
+  "category": "large_town",
+  "centroid": [
+   46.39,
+   15.3
+  ],
+  "neighbour_states": [
+   109,
+   153,
+   155,
+   736,
+   853,
+   975,
+   976
+  ],
+  "provinces": [
+   {
+    "id": 596,
+    "lat": 46.45,
+    "lon": 15.48,
+    "borders_states": [
+     109,
+     976
+    ]
+   },
+   {
+    "id": 665,
+    "lat": 46.55,
+    "lon": 15.95,
+    "name": "Maribor",
+    "vp": 1.0,
+    "borders_states": [
+     109,
+     976
+    ]
+   },
+   {
+    "id": 3631,
+    "lat": 46.28,
+    "lon": 14.2,
+    "borders_states": [
+     153,
+     736,
+     853,
+     976
+    ]
+   },
+   {
+    "id": 3654,
+    "lat": 46.16,
+    "lon": 15.36,
+    "borders_states": [
+     109,
+     853
+    ]
+   },
+   {
+    "id": 6672,
+    "lat": 46.57,
+    "lon": 16.36,
+    "name": "Murska Sobota",
+    "borders_states": [
+     109,
+     155,
+     975,
+     976
+    ]
+   },
+   {
+    "id": 9596,
+    "lat": 46.36,
+    "lon": 14.87,
+    "borders_states": [
+     853,
+     976
+    ]
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "name": "Dalmatia",
+  "file": "103-Croatia.txt",
+  "owner": "CRO",
+  "cores": [
+   "CRO",
+   "YUG"
+  ],
+  "claims": [
+   "ITA"
+  ],
+  "manpower": 981000,
+  "category": "large_town",
+  "centroid": [
+   44.17,
+   16.11
+  ],
+  "neighbour_states": [
+   104,
+   105,
+   109,
+   163,
+   736,
+   804,
+   852,
+   853
+  ],
+  "provinces": [
+   {
+    "id": 591,
+    "lat": 44.81,
+    "lon": 15.17
+   },
+   {
+    "id": 984,
+    "lat": 44.24,
+    "lon": 15.93,
+    "borders_states": [
+     104,
+     163
+    ]
+   },
+   {
+    "id": 3601,
+    "lat": 45.33,
+    "lon": 15.42,
+    "borders_states": [
+     104,
+     109,
+     853
+    ]
+   },
+   {
+    "id": 3868,
+    "lat": 43.01,
+    "lon": 16.88,
+    "name": "Dubrovnik"
+   },
+   {
+    "id": 3924,
+    "lat": 43.66,
+    "lon": 16.58,
+    "name": "Split",
+    "vp": 3.0,
+    "borders_states": [
+     104,
+     163
+    ]
+   },
+   {
+    "id": 3974,
+    "lat": 43.99,
+    "lon": 16.28,
+    "borders_states": [
+     104,
+     163
+    ]
+   },
+   {
+    "id": 6611,
+    "lat": 44.91,
+    "lon": 15.7,
+    "borders_states": [
+     104
+    ]
+   },
+   {
+    "id": 6889,
+    "lat": 42.86,
+    "lon": 18.13,
+    "name": "Dubrovnik",
+    "vp": 3.0,
+    "borders_states": [
+     105,
+     804
+    ]
+   },
+   {
+    "id": 11816,
+    "lat": 43.33,
+    "lon": 17.28,
+    "borders_states": [
+     104,
+     804
+    ]
+   },
+   {
+    "id": 11901,
+    "lat": 44.31,
+    "lon": 15.36,
+    "borders_states": [
+     163
+    ]
+   },
+   {
+    "id": 13252,
+    "lat": 45.46,
+    "lon": 14.76,
+    "borders_states": [
+     736,
+     852,
+     853
+    ]
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "name": "Bosnia",
+  "file": "104-Bosnia.txt",
+  "owner": "BOS",
+  "cores": [
+   "BOS",
+   "YUG"
+  ],
+  "claims": [
+   "SER",
+   "CRO"
+  ],
+  "manpower": 3310000,
+  "category": "town",
+  "centroid": [
+   44.53,
+   17.78
+  ],
+  "neighbour_states": [
+   103,
+   105,
+   107,
+   108,
+   109,
+   804
+  ],
+  "provinces": [
+   {
+    "id": 606,
+    "lat": 44.83,
+    "lon": 19.01,
+    "borders_states": [
+     107,
+     109
+    ]
+   },
+   {
+    "id": 982,
+    "lat": 43.86,
+    "lon": 19.3,
+    "borders_states": [
+     105,
+     107,
+     108,
+     804
+    ]
+   },
+   {
+    "id": 3985,
+    "lat": 44.32,
+    "lon": 16.6,
+    "borders_states": [
+     103
+    ]
+   },
+   {
+    "id": 6614,
+    "lat": 45.23,
+    "lon": 16.16,
+    "borders_states": [
+     103,
+     109
+    ]
+   },
+   {
+    "id": 6619,
+    "lat": 45.13,
+    "lon": 16.77,
+    "borders_states": [
+     109
+    ]
+   },
+   {
+    "id": 6799,
+    "lat": 44.53,
+    "lon": 18.49
+   },
+   {
+    "id": 6957,
+    "lat": 44.01,
+    "lon": 17.0,
+    "borders_states": [
+     103,
+     804
+    ]
+   },
+   {
+    "id": 6983,
+    "lat": 44.61,
+    "lon": 17.07,
+    "name": "Banja Luka",
+    "vp": 3.0
+   },
+   {
+    "id": 9586,
+    "lat": 44.89,
+    "lon": 16.25,
+    "borders_states": [
+     103
+    ]
+   },
+   {
+    "id": 9588,
+    "lat": 45.06,
+    "lon": 17.4,
+    "borders_states": [
+     109
+    ]
+   },
+   {
+    "id": 9591,
+    "lat": 45.05,
+    "lon": 17.98,
+    "borders_states": [
+     109
+    ]
+   },
+   {
+    "id": 9922,
+    "lat": 44.23,
+    "lon": 17.49,
+    "borders_states": [
+     804
+    ]
+   },
+   {
+    "id": 11572,
+    "lat": 44.52,
+    "lon": 17.9
+   },
+   {
+    "id": 11574,
+    "lat": 45.05,
+    "lon": 18.52,
+    "borders_states": [
+     109
+    ]
+   },
+   {
+    "id": 11741,
+    "lat": 44.25,
+    "lon": 19.15,
+    "borders_states": [
+     107
+    ]
+   },
+   {
+    "id": 11872,
+    "lat": 43.95,
+    "lon": 17.9,
+    "borders_states": [
+     804
+    ]
+   },
+   {
+    "id": 11899,
+    "lat": 44.04,
+    "lon": 18.58,
+    "name": "Sarajevo",
+    "vp": 5.0,
+    "borders_states": [
+     804
+    ]
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "name": "Montenegro",
+  "file": "105-Montenegro.txt",
+  "owner": "SER",
+  "cores": [
+   "SER",
+   "MNT",
+   "YUG"
+  ],
+  "claims": [],
+  "manpower": 620000,
+  "category": "town",
+  "centroid": [
+   42.89,
+   19.29
+  ],
+  "neighbour_states": [
+   103,
+   104,
+   108,
+   802,
+   804,
+   934
+  ],
+  "provinces": [
+   {
+    "id": 937,
+    "lat": 43.39,
+    "lon": 19.48,
+    "borders_states": [
+     104,
+     108
+    ]
+   },
+   {
+    "id": 6913,
+    "lat": 42.87,
+    "lon": 19.93,
+    "borders_states": [
+     108,
+     802,
+     934
+    ]
+   },
+   {
+    "id": 9809,
+    "lat": 42.4,
+    "lon": 19.25,
+    "name": "Podgorica",
+    "vp": 3.0,
+    "borders_states": [
+     934
+    ]
+   },
+   {
+    "id": 9821,
+    "lat": 42.69,
+    "lon": 18.77,
+    "name": "Kotor",
+    "borders_states": [
+     103,
+     804
+    ]
+   },
+   {
+    "id": 11858,
+    "lat": 43.12,
+    "lon": 19.08,
+    "borders_states": [
+     104,
+     804
+    ]
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "name": "Macedonia",
+  "file": "106-Macedonia.txt",
+  "owner": "MAC",
+  "cores": [
+   "MAC",
+   "YUG"
+  ],
+  "claims": [
+   "BUL"
+  ],
+  "manpower": 1505000,
+  "category": "large_town",
+  "centroid": [
+   41.65,
+   22.0
+  ],
+  "neighbour_states": [
+   48,
+   185,
+   212,
+   731,
+   802,
+   803,
+   970
+  ],
+  "provinces": [
+   {
+    "id": 907,
+    "lat": 42.02,
+    "lon": 22.31,
+    "borders_states": [
+     48,
+     803
+    ]
+   },
+   {
+    "id": 974,
+    "lat": 41.17,
+    "lon": 21.56,
+    "borders_states": [
+     185,
+     731,
+     970
+    ]
+   },
+   {
+    "id": 3833,
+    "lat": 41.46,
+    "lon": 22.2,
+    "borders_states": [
+     731
+    ]
+   },
+   {
+    "id": 3865,
+    "lat": 41.6,
+    "lon": 21.47,
+    "borders_states": [
+     970
+    ]
+   },
+   {
+    "id": 3882,
+    "lat": 42.02,
+    "lon": 21.64,
+    "name": "Skopje",
+    "vp": 5.0,
+    "borders_states": [
+     802,
+     803,
+     970
+    ]
+   },
+   {
+    "id": 6886,
+    "lat": 41.62,
+    "lon": 22.75,
+    "borders_states": [
+     48,
+     212,
+     731
+    ]
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "name": "Serbia",
+  "file": "107-Kosavo.txt",
+  "owner": "SER",
+  "cores": [
+   "SER",
+   "YUG"
+  ],
+  "claims": [],
+  "manpower": 2960000,
+  "category": "large_city",
+  "centroid": [
+   44.51,
+   20.36
+  ],
+  "neighbour_states": [
+   45,
+   82,
+   104,
+   108,
+   109,
+   764
+  ],
+  "provinces": [
+   {
+    "id": 797,
+    "lat": 44.58,
+    "lon": 19.49,
+    "borders_states": [
+     104
+    ]
+   },
+   {
+    "id": 3609,
+    "lat": 44.86,
+    "lon": 19.68,
+    "name": "Šabac",
+    "borders_states": [
+     45,
+     104,
+     109
+    ]
+   },
+   {
+    "id": 3956,
+    "lat": 44.07,
+    "lon": 19.88,
+    "borders_states": [
+     104,
+     108
+    ]
+   },
+   {
+    "id": 3984,
+    "lat": 44.09,
+    "lon": 20.55,
+    "borders_states": [
+     108
+    ]
+   },
+   {
+    "id": 6634,
+    "lat": 44.66,
+    "lon": 21.36,
+    "borders_states": [
+     82,
+     108,
+     764
+    ]
+   },
+   {
+    "id": 9599,
+    "lat": 44.45,
+    "lon": 20.19
+   },
+   {
+    "id": 11583,
+    "lat": 44.54,
+    "lon": 20.96,
+    "borders_states": [
+     108,
+     764
+    ]
+   },
+   {
+    "id": 11586,
+    "lat": 44.79,
+    "lon": 20.45,
+    "name": "Belgrade",
+    "vp": 15.0,
+    "borders_states": [
+     45,
+     764
+    ]
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "name": "Morava",
+  "file": "108-Eastern Serbia.txt",
+  "owner": "SER",
+  "cores": [
+   "SER",
+   "YUG"
+  ],
+  "claims": [],
+  "manpower": 2054000,
+  "category": "town",
+  "centroid": [
+   43.72,
+   21.4
+  ],
+  "neighbour_states": [
+   48,
+   81,
+   82,
+   104,
+   105,
+   107,
+   802,
+   803
+  ],
+  "provinces": [
+   {
+    "id": 630,
+    "lat": 44.52,
+    "lon": 22.04,
+    "borders_states": [
+     81,
+     82,
+     107
+    ]
+   },
+   {
+    "id": 3922,
+    "lat": 43.54,
+    "lon": 19.86,
+    "borders_states": [
+     104,
+     105,
+     107,
+     802
+    ]
+   },
+   {
+    "id": 3939,
+    "lat": 43.57,
+    "lon": 20.33,
+    "borders_states": [
+     107,
+     802
+    ]
+   },
+   {
+    "id": 6953,
+    "lat": 43.27,
+    "lon": 21.0,
+    "borders_states": [
+     802
+    ]
+   },
+   {
+    "id": 6970,
+    "lat": 43.7,
+    "lon": 20.76,
+    "borders_states": [
+     107
+    ]
+   },
+   {
+    "id": 6998,
+    "lat": 43.85,
+    "lon": 21.28,
+    "borders_states": [
+     107
+    ]
+   },
+   {
+    "id": 9602,
+    "lat": 44.04,
+    "lon": 21.66,
+    "name": "Niš",
+    "vp": 3.0,
+    "borders_states": [
+     107
+    ]
+   },
+   {
+    "id": 9756,
+    "lat": 44.07,
+    "lon": 22.24,
+    "borders_states": [
+     48,
+     81
+    ]
+   },
+   {
+    "id": 9906,
+    "lat": 43.08,
+    "lon": 21.81,
+    "borders_states": [
+     802,
+     803
+    ]
+   },
+   {
+    "id": 11887,
+    "lat": 43.45,
+    "lon": 22.16,
+    "borders_states": [
+     48,
+     803
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1082,
+  "name": "Transnistria",
+  "file": "1082-Transnistria.txt",
+  "owner": "MOL",
+  "cores": [
+   "MOL"
+  ],
+  "claims": [],
+  "manpower": 520000,
+  "category": "town",
+  "centroid": [
+   47.35,
+   29.63
+  ],
+  "neighbour_states": [
+   78,
+   192,
+   198,
+   766,
+   834
+  ],
+  "provinces": [
+   {
+    "id": 741,
+    "lat": 46.8,
+    "lon": 30.07,
+    "name": "Tiraspol",
+    "vp": 1.0,
+    "borders_states": [
+     78,
+     192,
+     766
+    ]
+   },
+   {
+    "id": 754,
+    "lat": 47.41,
+    "lon": 29.56,
+    "borders_states": [
+     78,
+     192,
+     834
+    ]
+   },
+   {
+    "id": 9576,
+    "lat": 47.96,
+    "lon": 29.17,
+    "borders_states": [
+     78,
+     198,
+     834
+    ]
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "name": "Croatia",
+  "file": "109-Eastern Croatia.txt",
+  "owner": "CRO",
+  "cores": [
+   "CRO",
+   "YUG"
+  ],
+  "claims": [],
+  "manpower": 2869000,
+  "category": "large_city",
+  "centroid": [
+   45.68,
+   17.15
+  ],
+  "neighbour_states": [
+   45,
+   102,
+   103,
+   104,
+   107,
+   155,
+   853,
+   974
+  ],
+  "provinces": [
+   {
+    "id": 624,
+    "lat": 45.68,
+    "lon": 16.69,
+    "borders_states": [
+     104
+    ]
+   },
+   {
+    "id": 3592,
+    "lat": 45.66,
+    "lon": 15.66,
+    "borders_states": [
+     102,
+     103,
+     104,
+     853
+    ]
+   },
+   {
+    "id": 3596,
+    "lat": 45.49,
+    "lon": 16.26,
+    "borders_states": [
+     104
+    ]
+   },
+   {
+    "id": 3627,
+    "lat": 45.71,
+    "lon": 17.94,
+    "borders_states": [
+     45,
+     974
+    ]
+   },
+   {
+    "id": 6647,
+    "lat": 45.45,
+    "lon": 18.47,
+    "borders_states": [
+     45,
+     104
+    ]
+   },
+   {
+    "id": 9595,
+    "lat": 45.43,
+    "lon": 17.49,
+    "borders_states": [
+     104
+    ]
+   },
+   {
+    "id": 9611,
+    "lat": 46.2,
+    "lon": 16.41,
+    "borders_states": [
+     102,
+     155
+    ]
+   },
+   {
+    "id": 11577,
+    "lat": 45.28,
+    "lon": 19.14,
+    "borders_states": [
+     45,
+     104,
+     107
+    ]
+   },
+   {
+    "id": 11581,
+    "lat": 45.98,
+    "lon": 15.99,
+    "name": "Zagreb",
+    "vp": 3.0,
+    "borders_states": [
+     102
+    ]
+   },
+   {
+    "id": 11594,
+    "lat": 45.92,
+    "lon": 17.15,
+    "borders_states": [
+     155,
+     974
+    ]
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "name": "Campania",
+  "file": "117-Napoli.txt",
+  "owner": "ITA",
+  "cores": [
+   "ITA",
+   "TTS"
+  ],
+  "claims": [],
+  "manpower": 6387000,
+  "category": "large_city",
+  "centroid": [
+   40.71,
+   15.42
+  ],
+  "neighbour_states": [
+   2,
+   156,
+   157,
+   849
+  ],
+  "provinces": [
+   {
+    "id": 819,
+    "lat": 40.92,
+    "lon": 14.45,
+    "name": "Napoli",
+    "vp": 20.0
+   },
+   {
+    "id": 851,
+    "lat": 40.33,
+    "lon": 15.39
+   },
+   {
+    "id": 955,
+    "lat": 40.8,
+    "lon": 14.98
+   },
+   {
+    "id": 3958,
+    "lat": 40.76,
+    "lon": 15.64,
+    "borders_states": [
+     849
+    ]
+   },
+   {
+    "id": 3968,
+    "lat": 40.19,
+    "lon": 16.1,
+    "borders_states": [
+     156
+    ]
+   },
+   {
+    "id": 6972,
+    "lat": 40.58,
+    "lon": 16.18,
+    "borders_states": [
+     849
+    ]
+   },
+   {
+    "id": 9826,
+    "lat": 41.23,
+    "lon": 14.27,
+    "borders_states": [
+     2,
+     157
+    ]
+   },
+   {
+    "id": 11803,
+    "lat": 41.18,
+    "lon": 15.13,
+    "borders_states": [
+     157,
+     849
+    ]
+   },
+   {
+    "id": 9856,
+    "lat": 40.43,
+    "lon": 16.65,
+    "borders_states": [
+     156,
+     849
+    ]
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "name": "Crimea",
+  "file": "137-Crimea.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR",
+   "CRI",
+   "SOV"
+  ],
+  "claims": [],
+  "manpower": 2430000,
+  "category": "city",
+  "centroid": [
+   45.26,
+   34.19
+  ],
+  "neighbour_states": [
+   196
+  ],
+  "provinces": [
+   {
+    "id": 705,
+    "lat": 45.18,
+    "lon": 33.51,
+    "name": "Simferopol"
+   },
+   {
+    "id": 3686,
+    "lat": 44.62,
+    "lon": 33.53,
+    "name": "Sevastopol",
+    "vp": 20.0
+   },
+   {
+    "id": 3722,
+    "lat": 45.8,
+    "lon": 33.79,
+    "borders_states": [
+     196
+    ]
+   },
+   {
+    "id": 6704,
+    "lat": 44.8,
+    "lon": 34.08,
+    "name": "Yalta",
+    "vp": 1.0
+   },
+   {
+    "id": 6724,
+    "lat": 45.37,
+    "lon": 34.09
+   },
+   {
+    "id": 9677,
+    "lat": 45.04,
+    "lon": 34.81,
+    "name": "Feodosia"
+   },
+   {
+    "id": 9680,
+    "lat": 45.17,
+    "lon": 35.91,
+    "name": "Kerch",
+    "vp": 1.0
+   },
+   {
+    "id": 9718,
+    "lat": 45.6,
+    "lon": 34.69,
+    "name": "Dzhankoi"
+   },
+   {
+    "id": 11649,
+    "lat": 45.47,
+    "lon": 32.96
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "name": "Alföld",
+  "file": "154-Southern plain.txt",
+  "owner": "HUN",
+  "cores": [
+   "HUN"
+  ],
+  "claims": [],
+  "manpower": 2082000,
+  "category": "large_town",
+  "centroid": [
+   47.32,
+   21.29
+  ],
+  "neighbour_states": [
+   43,
+   73,
+   76,
+   82,
+   83,
+   664,
+   764,
+   973
+  ],
+  "provinces": [
+   {
+    "id": 679,
+    "lat": 46.43,
+    "lon": 20.41,
+    "borders_states": [
+     82,
+     83,
+     764,
+     973
+    ]
+   },
+   {
+    "id": 699,
+    "lat": 47.32,
+    "lon": 20.65,
+    "borders_states": [
+     43
+    ]
+   },
+   {
+    "id": 730,
+    "lat": 47.64,
+    "lon": 21.23,
+    "borders_states": [
+     43
+    ]
+   },
+   {
+    "id": 3730,
+    "lat": 48.04,
+    "lon": 21.84,
+    "borders_states": [
+     43,
+     664
+    ]
+   },
+   {
+    "id": 6735,
+    "lat": 47.77,
+    "lon": 22.14,
+    "borders_states": [
+     76
+    ]
+   },
+   {
+    "id": 9656,
+    "lat": 46.62,
+    "lon": 21.03,
+    "borders_states": [
+     83
+    ]
+   },
+   {
+    "id": 9706,
+    "lat": 48.15,
+    "lon": 22.59,
+    "borders_states": [
+     73,
+     76,
+     664
+    ]
+   },
+   {
+    "id": 11644,
+    "lat": 47.08,
+    "lon": 21.24,
+    "borders_states": [
+     76,
+     83
+    ]
+   },
+   {
+    "id": 11646,
+    "lat": 46.86,
+    "lon": 20.38,
+    "name": "Csongrád",
+    "vp": 1.0,
+    "borders_states": [
+     43,
+     973
+    ]
+   },
+   {
+    "id": 11659,
+    "lat": 47.4,
+    "lon": 21.68,
+    "name": "Debrecen",
+    "vp": 1.0,
+    "borders_states": [
+     76
+    ]
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "name": "Transdanubia",
+  "file": "155-Western Hungary.txt",
+  "owner": "HUN",
+  "cores": [
+   "HUN"
+  ],
+  "claims": [],
+  "manpower": 2129000,
+  "category": "city",
+  "centroid": [
+   47.31,
+   17.54
+  ],
+  "neighbour_states": [
+   43,
+   102,
+   109,
+   664,
+   973,
+   974,
+   975
+  ],
+  "provinces": [
+   {
+    "id": 686,
+    "lat": 47.54,
+    "lon": 16.83,
+    "name": "Sopron",
+    "vp": 1.0,
+    "borders_states": [
+     975
+    ]
+   },
+   {
+    "id": 701,
+    "lat": 47.26,
+    "lon": 17.87
+   },
+   {
+    "id": 3670,
+    "lat": 46.56,
+    "lon": 16.96,
+    "borders_states": [
+     102,
+     109,
+     974
+    ]
+   },
+   {
+    "id": 3683,
+    "lat": 47.11,
+    "lon": 17.29
+   },
+   {
+    "id": 6703,
+    "lat": 47.15,
+    "lon": 18.49,
+    "borders_states": [
+     43,
+     973,
+     974
+    ]
+   },
+   {
+    "id": 6720,
+    "lat": 47.76,
+    "lon": 17.39,
+    "name": "Győr",
+    "vp": 10.0,
+    "borders_states": [
+     664,
+     975
+    ]
+   },
+   {
+    "id": 9676,
+    "lat": 47.64,
+    "lon": 18.09,
+    "borders_states": [
+     664
+    ]
+   },
+   {
+    "id": 11627,
+    "lat": 46.98,
+    "lon": 16.64,
+    "borders_states": [
+     102,
+     975
+    ]
+   },
+   {
+    "id": 11663,
+    "lat": 47.72,
+    "lon": 18.65,
+    "borders_states": [
+     43,
+     664
+    ]
+   },
+   {
+    "id": 13125,
+    "lat": 46.94,
+    "lon": 17.67,
+    "type": "lake",
+    "borders_states": [
+     974
+    ]
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "name": "Calabria",
+  "file": "156-Calabria.txt",
+  "owner": "ITA",
+  "cores": [
+   "ITA",
+   "TTS"
+  ],
+  "claims": [],
+  "manpower": 2043000,
+  "category": "town",
+  "centroid": [
+   39.12,
+   16.36
+  ],
+  "neighbour_states": [
+   117
+  ],
+  "provinces": [
+   {
+    "id": 3901,
+    "lat": 39.31,
+    "lon": 16.32
+   },
+   {
+    "id": 9990,
+    "lat": 38.26,
+    "lon": 16.01,
+    "name": "Reggio Calabria",
+    "vp": 1.0
+   },
+   {
+    "id": 10027,
+    "lat": 39.82,
+    "lon": 16.17,
+    "borders_states": [
+     117
+    ]
+   },
+   {
+    "id": 12066,
+    "lat": 38.72,
+    "lon": 16.34
+   },
+   {
+    "id": 12098,
+    "lat": 39.3,
+    "lon": 16.83
+   }
+  ]
+ },
+ {
+  "id": 163,
+  "name": "Zadar",
+  "file": "163-Dalmatia.txt",
+  "owner": "CRO",
+  "cores": [
+   "CRO",
+   "YUG"
+  ],
+  "claims": [
+   "ITA"
+  ],
+  "manpower": 100000,
+  "category": "town",
+  "centroid": [
+   43.7,
+   15.68
+  ],
+  "neighbour_states": [
+   103
+  ],
+  "provinces": [
+   {
+    "id": 3943,
+    "lat": 43.7,
+    "lon": 15.68,
+    "name": "Zadar",
+    "borders_states": [
+     103
+    ]
+   }
+  ]
+ },
+ {
+  "id": 164,
+  "name": "Dodecaneso",
+  "file": "164-Dodecanese.txt",
+  "owner": "GRE",
+  "cores": [
+   "GRE"
+  ],
+  "claims": [
+   "TUR"
+  ],
+  "manpower": 190000,
+  "category": "small_island",
+  "centroid": [
+   36.16,
+   27.38
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 7003,
+    "lat": 36.62,
+    "lon": 26.66
+   },
+   {
+    "id": 10007,
+    "lat": 35.94,
+    "lon": 27.74,
+    "name": "Rhodes",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "name": "Crete",
+  "file": "182-Crete.txt",
+  "owner": "GRE",
+  "cores": [
+   "GRE"
+  ],
+  "claims": [],
+  "manpower": 601000,
+  "category": "town",
+  "centroid": [
+   35.16,
+   24.73
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1164,
+    "lat": 35.19,
+    "lon": 24.44
+   },
+   {
+    "id": 4170,
+    "lat": 35.03,
+    "lon": 25.73
+   },
+   {
+    "id": 9940,
+    "lat": 35.04,
+    "lon": 24.99,
+    "name": "Heraklion",
+    "vp": 5.0
+   },
+   {
+    "id": 12058,
+    "lat": 35.38,
+    "lon": 23.79,
+    "name": "Chania",
+    "vp": 3.0
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "name": "Cyprus",
+  "file": "183-Cyprus.txt",
+  "owner": "CYP",
+  "cores": [
+   "CYP",
+   "GRE"
+  ],
+  "claims": [
+   "TUR"
+  ],
+  "manpower": 900000,
+  "category": "large_town",
+  "centroid": [
+   34.95,
+   33.08
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 7193,
+    "lat": 34.82,
+    "lon": 32.65,
+    "name": "Limassol",
+    "vp": 3.0
+   },
+   {
+    "id": 11984,
+    "lat": 35.07,
+    "lon": 33.5,
+    "name": "Nicosia",
+    "vp": 5.0
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "name": "Thrace",
+  "file": "184-Thrace.txt",
+  "owner": "GRE",
+  "cores": [
+   "GRE"
+  ],
+  "claims": [
+   "BUL",
+   "TUR"
+  ],
+  "manpower": 611000,
+  "category": "town",
+  "centroid": [
+   41.11,
+   25.33
+  ],
+  "neighbour_states": [
+   211,
+   212,
+   341,
+   731
+  ],
+  "provinces": [
+   {
+    "id": 9791,
+    "lat": 41.27,
+    "lon": 24.48,
+    "borders_states": [
+     212,
+     731
+    ]
+   },
+   {
+    "id": 9930,
+    "lat": 40.87,
+    "lon": 24.38,
+    "borders_states": [
+     731
+    ]
+   },
+   {
+    "id": 11774,
+    "lat": 41.05,
+    "lon": 25.42,
+    "borders_states": [
+     212
+    ]
+   },
+   {
+    "id": 11905,
+    "lat": 41.2,
+    "lon": 26.35,
+    "name": "Alexandroupolis",
+    "vp": 1.0,
+    "borders_states": [
+     211,
+     212,
+     341
+    ]
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "name": "Epirus",
+  "file": "185-Epirus.txt",
+  "owner": "GRE",
+  "cores": [
+   "GRE"
+  ],
+  "claims": [
+   "ALB"
+  ],
+  "manpower": 938000,
+  "category": "town",
+  "centroid": [
+   39.47,
+   21.07
+  ],
+  "neighbour_states": [
+   47,
+   106,
+   731,
+   805,
+   970
+  ],
+  "provinces": [
+   {
+    "id": 841,
+    "lat": 40.3,
+    "lon": 20.98,
+    "borders_states": [
+     805
+    ]
+   },
+   {
+    "id": 1106,
+    "lat": 38.22,
+    "lon": 20.66
+   },
+   {
+    "id": 1205,
+    "lat": 38.54,
+    "lon": 21.54,
+    "name": "Agrinio",
+    "vp": 1.0,
+    "borders_states": [
+     47
+    ]
+   },
+   {
+    "id": 3914,
+    "lat": 39.8,
+    "lon": 20.81,
+    "name": "Ioannina",
+    "vp": 3.0,
+    "borders_states": [
+     805
+    ]
+   },
+   {
+    "id": 3980,
+    "lat": 40.11,
+    "lon": 21.37,
+    "borders_states": [
+     47,
+     731
+    ]
+   },
+   {
+    "id": 9805,
+    "lat": 39.54,
+    "lon": 20.51,
+    "borders_states": [
+     805
+    ]
+   },
+   {
+    "id": 9837,
+    "lat": 40.71,
+    "lon": 21.4,
+    "borders_states": [
+     106,
+     731,
+     805,
+     970
+    ]
+   },
+   {
+    "id": 9916,
+    "lat": 39.28,
+    "lon": 20.99
+   },
+   {
+    "id": 10203,
+    "lat": 39.57,
+    "lon": 19.81,
+    "name": "Corfu",
+    "vp": 1.0
+   },
+   {
+    "id": 11786,
+    "lat": 39.52,
+    "lon": 21.52,
+    "borders_states": [
+     47
+    ]
+   },
+   {
+    "id": 11895,
+    "lat": 39.05,
+    "lon": 21.69,
+    "borders_states": [
+     47
+    ]
+   },
+   {
+    "id": 12001,
+    "lat": 38.85,
+    "lon": 21.16
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "name": "Peloponnese",
+  "file": "186-Peloponnese.txt",
+  "owner": "GRE",
+  "cores": [
+   "GRE"
+  ],
+  "claims": [],
+  "manpower": 995000,
+  "category": "town",
+  "centroid": [
+   37.42,
+   22.25
+  ],
+  "neighbour_states": [
+   47
+  ],
+  "provinces": [
+   {
+    "id": 1173,
+    "lat": 37.22,
+    "lon": 21.77
+   },
+   {
+    "id": 4078,
+    "lat": 37.61,
+    "lon": 22.2
+   },
+   {
+    "id": 4178,
+    "lat": 36.92,
+    "lon": 22.75
+   },
+   {
+    "id": 4193,
+    "lat": 37.86,
+    "lon": 21.5
+   },
+   {
+    "id": 7096,
+    "lat": 37.6,
+    "lon": 22.9,
+    "name": "Argos",
+    "vp": 1.0,
+    "borders_states": [
+     47
+    ]
+   },
+   {
+    "id": 7211,
+    "lat": 38.06,
+    "lon": 22.08,
+    "name": "Patras",
+    "vp": 5.0,
+    "borders_states": [
+     47
+    ]
+   },
+   {
+    "id": 11965,
+    "lat": 36.97,
+    "lon": 22.26,
+    "name": "Kalamáta",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "name": "Aegean Islands",
+  "file": "187-Aegean Islands.txt",
+  "owner": "GRE",
+  "cores": [
+   "GRE"
+  ],
+  "claims": [],
+  "manpower": 318000,
+  "category": "small_island",
+  "centroid": [
+   38.15,
+   25.63
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 3401,
+    "lat": 37.18,
+    "lon": 24.87
+   },
+   {
+    "id": 6550,
+    "lat": 37.84,
+    "lon": 26.31,
+    "name": "Samos",
+    "vp": 1.0
+   },
+   {
+    "id": 8435,
+    "lat": 39.52,
+    "lon": 25.9,
+    "name": "Mitilini",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "name": "Odessa",
+  "file": "192-Odessa.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [],
+  "manpower": 1596000,
+  "category": "city",
+  "centroid": [
+   47.13,
+   30.92
+  ],
+  "neighbour_states": [
+   197,
+   203,
+   766,
+   834,
+   1082
+  ],
+  "provinces": [
+   {
+    "id": 3575,
+    "lat": 47.78,
+    "lon": 30.79,
+    "borders_states": [
+     197,
+     203,
+     834
+    ]
+   },
+   {
+    "id": 3738,
+    "lat": 46.82,
+    "lon": 31.57,
+    "name": "Yuzhne"
+   },
+   {
+    "id": 9698,
+    "lat": 47.0,
+    "lon": 30.78,
+    "borders_states": [
+     1082
+    ]
+   },
+   {
+    "id": 9714,
+    "lat": 47.38,
+    "lon": 30.35,
+    "borders_states": [
+     834,
+     1082
+    ]
+   },
+   {
+    "id": 11670,
+    "lat": 46.48,
+    "lon": 30.72,
+    "name": "Odessa",
+    "vp": 10.0,
+    "borders_states": [
+     766,
+     1082
+    ]
+   },
+   {
+    "id": 11703,
+    "lat": 47.28,
+    "lon": 31.37,
+    "borders_states": [
+     197
+    ]
+   }
+  ]
+ },
+ {
+  "id": 196,
+  "name": "Kherson",
+  "file": "196-Kherson.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [],
+  "manpower": 1190000,
+  "category": "town",
+  "centroid": [
+   46.63,
+   33.58
+  ],
+  "neighbour_states": [
+   137,
+   197,
+   200,
+   226
+  ],
+  "provinces": [
+   {
+    "id": 568,
+    "lat": 46.25,
+    "lon": 33.15,
+    "borders_states": [
+     137
+    ]
+   },
+   {
+    "id": 721,
+    "lat": 46.3,
+    "lon": 32.31,
+    "name": "Kherson",
+    "vp": 1.0,
+    "borders_states": [
+     197
+    ]
+   },
+   {
+    "id": 737,
+    "lat": 46.63,
+    "lon": 33.26,
+    "borders_states": [
+     197
+    ]
+   },
+   {
+    "id": 767,
+    "lat": 46.76,
+    "lon": 34.3,
+    "borders_states": [
+     200
+    ]
+   },
+   {
+    "id": 3573,
+    "lat": 47.11,
+    "lon": 34.08,
+    "borders_states": [
+     200,
+     226
+    ]
+   },
+   {
+    "id": 6771,
+    "lat": 46.33,
+    "lon": 34.62,
+    "borders_states": [
+     200
+    ]
+   },
+   {
+    "id": 9712,
+    "lat": 46.36,
+    "lon": 33.98
+   },
+   {
+    "id": 11715,
+    "lat": 47.12,
+    "lon": 33.42,
+    "borders_states": [
+     197,
+     226
+    ]
+   }
+  ]
+ },
+ {
+  "id": 197,
+  "name": "Mykolaiv",
+  "file": "197-Mykolaiv.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [],
+  "manpower": 1290000,
+  "category": "town",
+  "centroid": [
+   47.65,
+   32.16
+  ],
+  "neighbour_states": [
+   192,
+   196,
+   203,
+   226
+  ],
+  "provinces": [
+   {
+    "id": 409,
+    "lat": 48.35,
+    "lon": 31.69,
+    "borders_states": [
+     203
+    ]
+   },
+   {
+    "id": 574,
+    "lat": 47.47,
+    "lon": 32.72,
+    "borders_states": [
+     196,
+     226
+    ]
+   },
+   {
+    "id": 3403,
+    "lat": 48.04,
+    "lon": 32.2,
+    "borders_states": [
+     203
+    ]
+   },
+   {
+    "id": 3755,
+    "lat": 46.98,
+    "lon": 32.72,
+    "borders_states": [
+     196
+    ]
+   },
+   {
+    "id": 6597,
+    "lat": 48.0,
+    "lon": 31.21,
+    "borders_states": [
+     192,
+     203
+    ]
+   },
+   {
+    "id": 9573,
+    "lat": 47.96,
+    "lon": 32.7,
+    "borders_states": [
+     203,
+     226
+    ]
+   },
+   {
+    "id": 11546,
+    "lat": 47.56,
+    "lon": 31.88,
+    "borders_states": [
+     192
+    ]
+   },
+   {
+    "id": 11683,
+    "lat": 46.9,
+    "lon": 32.26,
+    "name": "Mykolaiv",
+    "vp": 3.0
+   }
+  ]
+ },
+ {
+  "id": 200,
+  "name": "Zaporozhe",
+  "file": "200-Rivne.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [],
+  "manpower": 1970000,
+  "category": "city",
+  "centroid": [
+   47.22,
+   35.66
+  ],
+  "neighbour_states": [
+   196,
+   226,
+   227
+  ],
+  "provinces": [
+   {
+    "id": 429,
+    "lat": 47.48,
+    "lon": 36.51,
+    "borders_states": [
+     226,
+     227
+    ]
+   },
+   {
+    "id": 588,
+    "lat": 47.33,
+    "lon": 34.67,
+    "borders_states": [
+     196,
+     226
+    ]
+   },
+   {
+    "id": 3399,
+    "lat": 47.66,
+    "lon": 35.82,
+    "borders_states": [
+     226
+    ]
+   },
+   {
+    "id": 3767,
+    "lat": 47.07,
+    "lon": 35.87
+   },
+   {
+    "id": 6596,
+    "lat": 47.04,
+    "lon": 35.12,
+    "borders_states": [
+     196
+    ]
+   },
+   {
+    "id": 9571,
+    "lat": 47.0,
+    "lon": 36.61,
+    "borders_states": [
+     227
+    ]
+   },
+   {
+    "id": 9729,
+    "lat": 46.72,
+    "lon": 35.83,
+    "name": "Melitopol"
+   },
+   {
+    "id": 11405,
+    "lat": 47.73,
+    "lon": 35.31,
+    "name": "Zaporozhe",
+    "vp": 1.0,
+    "borders_states": [
+     226
+    ]
+   },
+   {
+    "id": 11700,
+    "lat": 46.58,
+    "lon": 35.09,
+    "borders_states": [
+     196
+    ]
+   }
+  ]
+ },
+ {
+  "id": 211,
+  "name": "Burgas",
+  "file": "211-Burgas.txt",
+  "owner": "BUL",
+  "cores": [
+   "BUL"
+  ],
+  "claims": [],
+  "manpower": 1812296,
+  "category": "large_town",
+  "centroid": [
+   42.76,
+   27.08
+  ],
+  "neighbour_states": [
+   77,
+   184,
+   212,
+   341,
+   801
+  ],
+  "provinces": [
+   {
+    "id": 649,
+    "lat": 43.39,
+    "lon": 27.02,
+    "borders_states": [
+     77,
+     801
+    ]
+   },
+   {
+    "id": 6967,
+    "lat": 42.5,
+    "lon": 26.53,
+    "name": "Sliven",
+    "vp": 3.0,
+    "borders_states": [
+     212,
+     801
+    ]
+   },
+   {
+    "id": 9769,
+    "lat": 43.02,
+    "lon": 26.58,
+    "name": "Shumen",
+    "vp": 1.0,
+    "borders_states": [
+     801
+    ]
+   },
+   {
+    "id": 9783,
+    "lat": 43.12,
+    "lon": 27.77,
+    "name": "Varna",
+    "vp": 5.0,
+    "borders_states": [
+     77
+    ]
+   },
+   {
+    "id": 9888,
+    "lat": 42.08,
+    "lon": 26.77,
+    "name": "Yambol",
+    "vp": 1.0,
+    "borders_states": [
+     184,
+     212,
+     341
+    ]
+   },
+   {
+    "id": 9902,
+    "lat": 42.09,
+    "lon": 27.67,
+    "name": "Burgas",
+    "vp": 3.0,
+    "borders_states": [
+     341
+    ]
+   },
+   {
+    "id": 9919,
+    "lat": 42.65,
+    "lon": 27.48
+   }
+  ]
+ },
+ {
+  "id": 212,
+  "name": "Plovdiv",
+  "file": "212-Plovdiv.txt",
+  "owner": "BUL",
+  "cores": [
+   "BUL"
+  ],
+  "claims": [
+   "MAC"
+  ],
+  "manpower": 2397441,
+  "category": "large_town",
+  "centroid": [
+   41.92,
+   24.83
+  ],
+  "neighbour_states": [
+   48,
+   106,
+   184,
+   211,
+   731,
+   801
+  ],
+  "provinces": [
+   {
+    "id": 878,
+    "lat": 41.44,
+    "lon": 25.79,
+    "borders_states": [
+     184
+    ]
+   },
+   {
+    "id": 893,
+    "lat": 41.58,
+    "lon": 25.1,
+    "borders_states": [
+     184
+    ]
+   },
+   {
+    "id": 3937,
+    "lat": 42.09,
+    "lon": 24.1,
+    "borders_states": [
+     48
+    ]
+   },
+   {
+    "id": 6814,
+    "lat": 42.3,
+    "lon": 25.93,
+    "name": "Stara Zagora",
+    "vp": 3.0,
+    "borders_states": [
+     211,
+     801
+    ]
+   },
+   {
+    "id": 6857,
+    "lat": 41.62,
+    "lon": 23.26,
+    "borders_states": [
+     48,
+     106,
+     731
+    ]
+   },
+   {
+    "id": 6923,
+    "lat": 42.03,
+    "lon": 25.03,
+    "name": "Plovdiv",
+    "vp": 10.0
+   },
+   {
+    "id": 6952,
+    "lat": 42.34,
+    "lon": 25.3,
+    "borders_states": [
+     801
+    ]
+   },
+   {
+    "id": 6982,
+    "lat": 42.48,
+    "lon": 24.57,
+    "borders_states": [
+     48,
+     801
+    ]
+   },
+   {
+    "id": 9818,
+    "lat": 41.72,
+    "lon": 23.7,
+    "borders_states": [
+     48,
+     184,
+     731
+    ]
+   },
+   {
+    "id": 9862,
+    "lat": 41.81,
+    "lon": 25.95,
+    "name": "Haskovo",
+    "vp": 1.0,
+    "borders_states": [
+     184,
+     211
+    ]
+   },
+   {
+    "id": 11813,
+    "lat": 41.7,
+    "lon": 24.48,
+    "borders_states": [
+     184
+    ]
+   }
+  ]
+ },
+ {
+  "id": 218,
+  "name": "Rostov",
+  "file": "218-Rostov Area.txt",
+  "owner": "SOV",
+  "cores": [
+   "SOV",
+   "DON"
+  ],
+  "claims": [],
+  "manpower": 2700000,
+  "category": "large_city",
+  "centroid": [
+   47.41,
+   39.61
+  ],
+  "neighbour_states": [
+   227,
+   228,
+   234,
+   238,
+   245
+  ],
+  "provinces": [
+   {
+    "id": 585,
+    "lat": 46.88,
+    "lon": 39.89,
+    "borders_states": [
+     234,
+     238
+    ]
+   },
+   {
+    "id": 6445,
+    "lat": 47.31,
+    "lon": 38.49,
+    "borders_states": [
+     227
+    ]
+   },
+   {
+    "id": 9417,
+    "lat": 47.24,
+    "lon": 39.71,
+    "name": "Rostov",
+    "vp": 15.0,
+    "borders_states": [
+     238
+    ]
+   },
+   {
+    "id": 9430,
+    "lat": 47.5,
+    "lon": 39.07,
+    "name": "Taganrog",
+    "borders_states": [
+     227,
+     228
+    ]
+   },
+   {
+    "id": 11418,
+    "lat": 47.54,
+    "lon": 40.46,
+    "borders_states": [
+     238,
+     245
+    ]
+   },
+   {
+    "id": 11434,
+    "lat": 47.73,
+    "lon": 39.78,
+    "borders_states": [
+     228
+    ]
+   },
+   {
+    "id": 11450,
+    "lat": 48.02,
+    "lon": 40.2,
+    "borders_states": [
+     228,
+     245
+    ]
+   },
+   {
+    "id": 11559,
+    "lat": 46.81,
+    "lon": 39.08,
+    "borders_states": [
+     234
+    ]
+   }
+  ]
+ },
+ {
+  "id": 226,
+  "name": "Dnipropetrovsk",
+  "file": "226-Nikopol.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [],
+  "manpower": 3610000,
+  "category": "large_city",
+  "centroid": [
+   48.19,
+   34.79
+  ],
+  "neighbour_states": [
+   196,
+   197,
+   200,
+   203,
+   221,
+   227,
+   259
+  ],
+  "provinces": [
+   {
+    "id": 453,
+    "lat": 48.25,
+    "lon": 35.49,
+    "borders_states": [
+     200
+    ]
+   },
+   {
+    "id": 472,
+    "lat": 47.98,
+    "lon": 36.2,
+    "borders_states": [
+     200,
+     227
+    ]
+   },
+   {
+    "id": 486,
+    "lat": 48.29,
+    "lon": 36.46,
+    "borders_states": [
+     221,
+     227
+    ]
+   },
+   {
+    "id": 6423,
+    "lat": 48.1,
+    "lon": 33.86,
+    "borders_states": [
+     203
+    ]
+   },
+   {
+    "id": 9419,
+    "lat": 47.68,
+    "lon": 34.02,
+    "borders_states": [
+     196,
+     200
+    ]
+   },
+   {
+    "id": 9433,
+    "lat": 48.45,
+    "lon": 33.99,
+    "borders_states": [
+     203,
+     259
+    ]
+   },
+   {
+    "id": 9463,
+    "lat": 48.58,
+    "lon": 34.68,
+    "borders_states": [
+     259
+    ]
+   },
+   {
+    "id": 9479,
+    "lat": 48.79,
+    "lon": 35.07,
+    "borders_states": [
+     221,
+     259
+    ]
+   },
+   {
+    "id": 11422,
+    "lat": 47.82,
+    "lon": 34.66,
+    "borders_states": [
+     200
+    ]
+   },
+   {
+    "id": 11437,
+    "lat": 48.17,
+    "lon": 34.8,
+    "name": "Dnipropetrovsk",
+    "vp": 10.0,
+    "borders_states": [
+     200
+    ]
+   },
+   {
+    "id": 11452,
+    "lat": 48.58,
+    "lon": 35.72,
+    "borders_states": [
+     221
+    ]
+   },
+   {
+    "id": 11561,
+    "lat": 47.74,
+    "lon": 33.32,
+    "name": "Krivoi Rih",
+    "vp": 1.0,
+    "borders_states": [
+     196,
+     197,
+     203
+    ]
+   }
+  ]
+ },
+ {
+  "id": 227,
+  "name": "Stalino",
+  "file": "227-Stalino.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR",
+   "SOV"
+  ],
+  "claims": [],
+  "manpower": 4870000,
+  "category": "large_city",
+  "centroid": [
+   47.96,
+   37.62
+  ],
+  "neighbour_states": [
+   200,
+   218,
+   221,
+   226,
+   228
+  ],
+  "provinces": [
+   {
+    "id": 502,
+    "lat": 48.58,
+    "lon": 37.27,
+    "borders_states": [
+     221,
+     226
+    ]
+   },
+   {
+    "id": 3421,
+    "lat": 47.38,
+    "lon": 37.88,
+    "borders_states": [
+     218
+    ]
+   },
+   {
+    "id": 3449,
+    "lat": 47.85,
+    "lon": 36.85,
+    "borders_states": [
+     200,
+     226
+    ]
+   },
+   {
+    "id": 3466,
+    "lat": 48.2,
+    "lon": 37.3,
+    "borders_states": [
+     226
+    ]
+   },
+   {
+    "id": 3479,
+    "lat": 48.5,
+    "lon": 37.98,
+    "borders_states": [
+     228
+    ]
+   },
+   {
+    "id": 3491,
+    "lat": 48.88,
+    "lon": 37.82,
+    "borders_states": [
+     221,
+     228
+    ]
+   },
+   {
+    "id": 6420,
+    "lat": 47.15,
+    "lon": 37.3,
+    "name": "Mariupol",
+    "borders_states": [
+     200
+    ]
+   },
+   {
+    "id": 6474,
+    "lat": 48.0,
+    "lon": 37.96,
+    "name": "Stalino",
+    "vp": 10.0,
+    "borders_states": [
+     228
+    ]
+   },
+   {
+    "id": 6493,
+    "lat": 47.77,
+    "lon": 38.42,
+    "borders_states": [
+     218,
+     228
+    ]
+   },
+   {
+    "id": 6776,
+    "lat": 47.61,
+    "lon": 37.26,
+    "borders_states": [
+     200
+    ]
+   }
+  ]
+ },
+ {
+  "id": 233,
+  "name": "Sochi",
+  "file": "233-Caucasus Mountains.txt",
+  "owner": "SOV",
+  "cores": [
+   "SOV",
+   "KUB"
+  ],
+  "claims": [],
+  "manpower": 700000,
+  "category": "town",
+  "centroid": [
+   43.72,
+   40.96
+  ],
+  "neighbour_states": [
+   234,
+   235,
+   826,
+   827
+  ],
+  "provinces": [
+   {
+    "id": 3698,
+    "lat": 44.05,
+    "lon": 39.48,
+    "borders_states": [
+     234
+    ]
+   },
+   {
+    "id": 6692,
+    "lat": 43.65,
+    "lon": 41.35,
+    "borders_states": [
+     234,
+     235,
+     826
+    ]
+   },
+   {
+    "id": 6721,
+    "lat": 44.03,
+    "lon": 40.14,
+    "borders_states": [
+     234
+    ]
+   },
+   {
+    "id": 9649,
+    "lat": 43.59,
+    "lon": 42.46,
+    "borders_states": [
+     235,
+     827
+    ]
+   },
+   {
+    "id": 9663,
+    "lat": 43.61,
+    "lon": 40.02,
+    "name": "Sochi",
+    "vp": 1.0,
+    "borders_states": [
+     826
+    ]
+   },
+   {
+    "id": 9674,
+    "lat": 43.87,
+    "lon": 40.8,
+    "borders_states": [
+     234,
+     826
+    ]
+   },
+   {
+    "id": 11664,
+    "lat": 43.35,
+    "lon": 41.92,
+    "borders_states": [
+     826,
+     827
+    ]
+   }
+  ]
+ },
+ {
+  "id": 234,
+  "name": "Krasnodar",
+  "file": "234-Krasodar.txt",
+  "owner": "SOV",
+  "cores": [
+   "SOV",
+   "KUB"
+  ],
+  "claims": [],
+  "manpower": 5150000,
+  "category": "large_town",
+  "centroid": [
+   45.27,
+   39.42
+  ],
+  "neighbour_states": [
+   218,
+   233,
+   235,
+   238
+  ],
+  "provinces": [
+   {
+    "id": 717,
+    "lat": 44.37,
+    "lon": 39.0,
+    "borders_states": [
+     233
+    ]
+   },
+   {
+    "id": 719,
+    "lat": 44.52,
+    "lon": 38.27,
+    "name": "Novorossysk",
+    "vp": 3.0
+   },
+   {
+    "id": 735,
+    "lat": 45.13,
+    "lon": 40.85,
+    "borders_states": [
+     235
+    ]
+   },
+   {
+    "id": 750,
+    "lat": 45.72,
+    "lon": 38.0
+   },
+   {
+    "id": 765,
+    "lat": 46.22,
+    "lon": 39.12,
+    "borders_states": [
+     218
+    ]
+   },
+   {
+    "id": 3717,
+    "lat": 44.45,
+    "lon": 40.01,
+    "borders_states": [
+     233
+    ]
+   },
+   {
+    "id": 3720,
+    "lat": 44.87,
+    "lon": 39.72,
+    "name": "Maykop",
+    "vp": 1.0
+   },
+   {
+    "id": 3734,
+    "lat": 45.28,
+    "lon": 39.04,
+    "name": "Krasnodar",
+    "vp": 5.0
+   },
+   {
+    "id": 3752,
+    "lat": 45.76,
+    "lon": 39.28
+   },
+   {
+    "id": 3760,
+    "lat": 44.89,
+    "lon": 38.29
+   },
+   {
+    "id": 3765,
+    "lat": 46.11,
+    "lon": 39.87,
+    "borders_states": [
+     238
+    ]
+   },
+   {
+    "id": 6736,
+    "lat": 44.38,
+    "lon": 40.84,
+    "borders_states": [
+     233
+    ]
+   },
+   {
+    "id": 6738,
+    "lat": 44.76,
+    "lon": 40.53
+   },
+   {
+    "id": 6741,
+    "lat": 45.16,
+    "lon": 37.12
+   },
+   {
+    "id": 6755,
+    "lat": 45.81,
+    "lon": 38.62
+   },
+   {
+    "id": 6768,
+    "lat": 45.52,
+    "lon": 39.8
+   },
+   {
+    "id": 6781,
+    "lat": 45.95,
+    "lon": 40.55,
+    "borders_states": [
+     235,
+     238
+    ]
+   },
+   {
+    "id": 6783,
+    "lat": 46.44,
+    "lon": 38.37,
+    "borders_states": [
+     218
+    ]
+   },
+   {
+    "id": 9691,
+    "lat": 44.17,
+    "lon": 41.51,
+    "borders_states": [
+     233,
+     235
+    ]
+   },
+   {
+    "id": 9694,
+    "lat": 44.62,
+    "lon": 41.5,
+    "borders_states": [
+     235
+    ]
+   },
+   {
+    "id": 9696,
+    "lat": 44.76,
+    "lon": 39.06
+   },
+   {
+    "id": 9709,
+    "lat": 45.51,
+    "lon": 40.44,
+    "borders_states": [
+     235
+    ]
+   },
+   {
+    "id": 9744,
+    "lat": 46.54,
+    "lon": 39.49,
+    "borders_states": [
+     218,
+     238
+    ]
+   },
+   {
+    "id": 11668,
+    "lat": 44.85,
+    "lon": 37.55
+   },
+   {
+    "id": 11681,
+    "lat": 45.14,
+    "lon": 40.19
+   },
+   {
+    "id": 11729,
+    "lat": 45.28,
+    "lon": 38.19
+   }
+  ]
+ },
+ {
+  "id": 339,
+  "name": "Izmir",
+  "file": "339-Izmir.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [
+   "GRE"
+  ],
+  "manpower": 5520499,
+  "category": "large_city",
+  "centroid": [
+   38.29,
+   27.82
+  ],
+  "neighbour_states": [
+   340,
+   342,
+   343
+  ],
+  "provinces": [
+   {
+    "id": 928,
+    "lat": 38.66,
+    "lon": 27.82,
+    "name": "Manisa",
+    "vp": 5.0
+   },
+   {
+    "id": 3927,
+    "lat": 38.21,
+    "lon": 28.55,
+    "borders_states": [
+     343
+    ]
+   },
+   {
+    "id": 4112,
+    "lat": 38.27,
+    "lon": 26.92,
+    "name": "Izmir",
+    "vp": 15.0
+   },
+   {
+    "id": 6992,
+    "lat": 38.04,
+    "lon": 27.99
+   },
+   {
+    "id": 7130,
+    "lat": 37.85,
+    "lon": 27.44
+   },
+   {
+    "id": 9921,
+    "lat": 39.08,
+    "lon": 27.81,
+    "borders_states": [
+     340
+    ]
+   },
+   {
+    "id": 9929,
+    "lat": 37.57,
+    "lon": 28.42,
+    "borders_states": [
+     342,
+     343
+    ]
+   },
+   {
+    "id": 10038,
+    "lat": 37.39,
+    "lon": 27.65,
+    "borders_states": [
+     342
+    ]
+   },
+   {
+    "id": 11848,
+    "lat": 38.85,
+    "lon": 27.1,
+    "borders_states": [
+     340
+    ]
+   },
+   {
+    "id": 11898,
+    "lat": 38.78,
+    "lon": 28.65,
+    "borders_states": [
+     340,
+     343
+    ]
+   }
+  ]
+ },
+ {
+  "id": 340,
+  "name": "Bursa",
+  "file": "340-Bursa.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 3915748,
+  "category": "large_city",
+  "centroid": [
+   39.83,
+   28.34
+  ],
+  "neighbour_states": [
+   49,
+   339,
+   343,
+   347
+  ],
+  "provinces": [
+   {
+    "id": 785,
+    "lat": 39.34,
+    "lon": 28.58,
+    "borders_states": [
+     339,
+     343
+    ]
+   },
+   {
+    "id": 947,
+    "lat": 39.95,
+    "lon": 29.35,
+    "name": "Bursa",
+    "vp": 10.0,
+    "borders_states": [
+     343
+    ]
+   },
+   {
+    "id": 3786,
+    "lat": 39.98,
+    "lon": 29.89,
+    "borders_states": [
+     49,
+     343,
+     347
+    ]
+   },
+   {
+    "id": 3851,
+    "lat": 40.37,
+    "lon": 29.74,
+    "borders_states": [
+     347
+    ]
+   },
+   {
+    "id": 6864,
+    "lat": 39.65,
+    "lon": 26.54
+   },
+   {
+    "id": 6912,
+    "lat": 40.13,
+    "lon": 27.99,
+    "name": "Bandırma"
+   },
+   {
+    "id": 9799,
+    "lat": 39.47,
+    "lon": 27.41,
+    "name": "Balıkesir",
+    "vp": 5.0,
+    "borders_states": [
+     339
+    ]
+   },
+   {
+    "id": 9887,
+    "lat": 39.92,
+    "lon": 27.13
+   },
+   {
+    "id": 11778,
+    "lat": 39.65,
+    "lon": 28.04,
+    "borders_states": [
+     339
+    ]
+   },
+   {
+    "id": 11867,
+    "lat": 39.84,
+    "lon": 28.84,
+    "borders_states": [
+     343
+    ]
+   }
+  ]
+ },
+ {
+  "id": 341,
+  "name": "Edirne",
+  "file": "341-Edirne.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [
+   "GRE"
+  ],
+  "manpower": 1409028,
+  "category": "large_town",
+  "centroid": [
+   41.11,
+   27.37
+  ],
+  "neighbour_states": [
+   184,
+   211,
+   797
+  ],
+  "provinces": [
+   {
+    "id": 849,
+    "lat": 40.46,
+    "lon": 26.62,
+    "name": "Gelibolu",
+    "borders_states": [
+     184
+    ]
+   },
+   {
+    "id": 922,
+    "lat": 41.51,
+    "lon": 28.07,
+    "borders_states": [
+     211,
+     797
+    ]
+   },
+   {
+    "id": 3879,
+    "lat": 40.81,
+    "lon": 27.4
+   },
+   {
+    "id": 3893,
+    "lat": 41.18,
+    "lon": 27.04,
+    "borders_states": [
+     184
+    ]
+   },
+   {
+    "id": 6895,
+    "lat": 41.07,
+    "lon": 28.05,
+    "borders_states": [
+     797
+    ]
+   },
+   {
+    "id": 11842,
+    "lat": 41.72,
+    "lon": 27.2,
+    "name": "Edirne",
+    "vp": 5.0,
+    "borders_states": [
+     184,
+     211
+    ]
+   }
+  ]
+ },
+ {
+  "id": 342,
+  "name": "Antalya",
+  "file": "342-Antalya.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 2187569,
+  "category": "city",
+  "centroid": [
+   36.88,
+   29.44
+  ],
+  "neighbour_states": [
+   339,
+   343,
+   345,
+   346
+  ],
+  "provinces": [
+   {
+    "id": 1005,
+    "lat": 36.91,
+    "lon": 30.43,
+    "name": "Antalya",
+    "vp": 5.0,
+    "borders_states": [
+     345
+    ]
+   },
+   {
+    "id": 1119,
+    "lat": 36.39,
+    "lon": 30.01
+   },
+   {
+    "id": 9941,
+    "lat": 37.02,
+    "lon": 27.84,
+    "borders_states": [
+     339
+    ]
+   },
+   {
+    "id": 10122,
+    "lat": 36.75,
+    "lon": 28.57
+   },
+   {
+    "id": 11917,
+    "lat": 37.17,
+    "lon": 28.74,
+    "borders_states": [
+     339,
+     343
+    ]
+   },
+   {
+    "id": 12013,
+    "lat": 37.03,
+    "lon": 29.61,
+    "borders_states": [
+     343
+    ]
+   },
+   {
+    "id": 12016,
+    "lat": 37.4,
+    "lon": 30.22,
+    "borders_states": [
+     343,
+     345,
+     346
+    ]
+   },
+   {
+    "id": 12096,
+    "lat": 36.38,
+    "lon": 29.36
+   }
+  ]
+ },
+ {
+  "id": 343,
+  "name": "Afyon",
+  "file": "343-Afyon.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 2612542,
+  "category": "town",
+  "centroid": [
+   38.6,
+   29.89
+  ],
+  "neighbour_states": [
+   49,
+   339,
+   340,
+   342,
+   346
+  ],
+  "provinces": [
+   {
+    "id": 856,
+    "lat": 39.41,
+    "lon": 29.48,
+    "borders_states": [
+     340
+    ]
+   },
+   {
+    "id": 981,
+    "lat": 39.04,
+    "lon": 29.14,
+    "borders_states": [
+     339,
+     340
+    ]
+   },
+   {
+    "id": 3856,
+    "lat": 38.86,
+    "lon": 29.82,
+    "name": "Kütahya",
+    "vp": 3.0
+   },
+   {
+    "id": 3983,
+    "lat": 38.75,
+    "lon": 30.34,
+    "borders_states": [
+     49
+    ]
+   },
+   {
+    "id": 6877,
+    "lat": 38.73,
+    "lon": 31.1,
+    "borders_states": [
+     49,
+     346
+    ]
+   },
+   {
+    "id": 6945,
+    "lat": 38.29,
+    "lon": 29.69
+   },
+   {
+    "id": 9878,
+    "lat": 38.26,
+    "lon": 30.5,
+    "name": "Afyon",
+    "vp": 5.0,
+    "borders_states": [
+     346
+    ]
+   },
+   {
+    "id": 10041,
+    "lat": 37.68,
+    "lon": 29.13,
+    "name": "Denizli",
+    "vp": 1.0,
+    "borders_states": [
+     339,
+     342
+    ]
+   },
+   {
+    "id": 11796,
+    "lat": 38.37,
+    "lon": 29.15,
+    "borders_states": [
+     339
+    ]
+   },
+   {
+    "id": 11831,
+    "lat": 39.45,
+    "lon": 30.01,
+    "borders_states": [
+     49,
+     340
+    ]
+   },
+   {
+    "id": 11907,
+    "lat": 37.83,
+    "lon": 29.87,
+    "borders_states": [
+     342,
+     346
+    ]
+   }
+  ]
+ },
+ {
+  "id": 344,
+  "name": "Malatya",
+  "file": "344-Adana.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 5625531,
+  "category": "large_city",
+  "centroid": [
+   37.41,
+   37.1
+  ],
+  "neighbour_states": [
+   345,
+   348,
+   349,
+   350,
+   353,
+   677,
+   799
+  ],
+  "provinces": [
+   {
+    "id": 806,
+    "lat": 36.95,
+    "lon": 36.03,
+    "borders_states": [
+     348,
+     677,
+     799
+    ]
+   },
+   {
+    "id": 3889,
+    "lat": 37.06,
+    "lon": 36.74,
+    "borders_states": [
+     348,
+     677
+    ]
+   },
+   {
+    "id": 6813,
+    "lat": 37.8,
+    "lon": 37.1,
+    "name": "Kahramanmaraş",
+    "vp": 3.0,
+    "borders_states": [
+     348,
+     349
+    ]
+   },
+   {
+    "id": 7620,
+    "lat": 38.05,
+    "lon": 38.52,
+    "name": "Malatya",
+    "vp": 10.0,
+    "borders_states": [
+     349,
+     350,
+     353
+    ]
+   },
+   {
+    "id": 9893,
+    "lat": 37.05,
+    "lon": 37.39,
+    "name": "Gaziantep",
+    "vp": 15.0,
+    "borders_states": [
+     350,
+     677
+    ]
+   },
+   {
+    "id": 9912,
+    "lat": 37.73,
+    "lon": 37.88,
+    "borders_states": [
+     349,
+     350
+    ]
+   },
+   {
+    "id": 11746,
+    "lat": 36.91,
+    "lon": 35.23,
+    "name": "Adana",
+    "vp": 5.0,
+    "borders_states": [
+     345,
+     348
+    ]
+   }
+  ]
+ },
+ {
+  "id": 345,
+  "name": "Mersin",
+  "file": "345-Mersin.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 2107955,
+  "category": "large_town",
+  "centroid": [
+   36.74,
+   33.03
+  ],
+  "neighbour_states": [
+   342,
+   344,
+   346,
+   348
+  ],
+  "provinces": [
+   {
+    "id": 1122,
+    "lat": 36.98,
+    "lon": 31.28,
+    "borders_states": [
+     342,
+     346
+    ]
+   },
+   {
+    "id": 4008,
+    "lat": 36.39,
+    "lon": 32.44
+   },
+   {
+    "id": 4124,
+    "lat": 36.47,
+    "lon": 33.65
+   },
+   {
+    "id": 4127,
+    "lat": 36.75,
+    "lon": 31.95,
+    "borders_states": [
+     346
+    ]
+   },
+   {
+    "id": 7026,
+    "lat": 36.27,
+    "lon": 33.03
+   },
+   {
+    "id": 7143,
+    "lat": 36.91,
+    "lon": 33.06,
+    "borders_states": [
+     346
+    ]
+   },
+   {
+    "id": 10056,
+    "lat": 36.93,
+    "lon": 34.15,
+    "name": "Mersin",
+    "vp": 1.0,
+    "borders_states": [
+     346,
+     348
+    ]
+   },
+   {
+    "id": 11810,
+    "lat": 37.12,
+    "lon": 34.78,
+    "name": "Tarsus",
+    "vp": 5.0,
+    "borders_states": [
+     344,
+     348
+    ]
+   }
+  ]
+ },
+ {
+  "id": 346,
+  "name": "Konya",
+  "file": "346-Konya.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 2916660,
+  "category": "city",
+  "centroid": [
+   38.02,
+   32.45
+  ],
+  "neighbour_states": [
+   49,
+   342,
+   343,
+   345,
+   348,
+   798
+  ],
+  "provinces": [
+   {
+    "id": 784,
+    "lat": 37.59,
+    "lon": 30.85,
+    "name": "Isparta",
+    "vp": 1.0,
+    "borders_states": [
+     342,
+     343,
+     345
+    ]
+   },
+   {
+    "id": 869,
+    "lat": 38.21,
+    "lon": 33.49,
+    "borders_states": [
+     348
+    ]
+   },
+   {
+    "id": 940,
+    "lat": 37.87,
+    "lon": 32.23
+   },
+   {
+    "id": 3788,
+    "lat": 37.54,
+    "lon": 31.58,
+    "borders_states": [
+     345
+    ]
+   },
+   {
+    "id": 3876,
+    "lat": 38.02,
+    "lon": 31.06,
+    "borders_states": [
+     343
+    ]
+   },
+   {
+    "id": 6807,
+    "lat": 37.53,
+    "lon": 33.37,
+    "name": "Karaman",
+    "vp": 3.0,
+    "borders_states": [
+     345
+    ]
+   },
+   {
+    "id": 6894,
+    "lat": 37.25,
+    "lon": 32.26,
+    "borders_states": [
+     345
+    ]
+   },
+   {
+    "id": 9755,
+    "lat": 37.75,
+    "lon": 32.82,
+    "borders_states": [
+     345
+    ]
+   },
+   {
+    "id": 9763,
+    "lat": 37.48,
+    "lon": 33.88,
+    "borders_states": [
+     345,
+     348
+    ]
+   },
+   {
+    "id": 9811,
+    "lat": 38.81,
+    "lon": 31.82,
+    "borders_states": [
+     49,
+     343
+    ]
+   },
+   {
+    "id": 9861,
+    "lat": 38.81,
+    "lon": 33.44,
+    "name": "Konya",
+    "vp": 5.0,
+    "borders_states": [
+     49,
+     348,
+     798
+    ]
+   },
+   {
+    "id": 11792,
+    "lat": 38.64,
+    "lon": 32.5,
+    "borders_states": [
+     49
+    ]
+   },
+   {
+    "id": 11860,
+    "lat": 38.24,
+    "lon": 31.72,
+    "borders_states": [
+     343
+    ]
+   },
+   {
+    "id": 13122,
+    "lat": 38.71,
+    "lon": 32.97,
+    "type": "lake",
+    "borders_states": [
+     49
+    ]
+   }
+  ]
+ },
+ {
+  "id": 347,
+  "name": "Izmit",
+  "file": "347-Izmit.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 3532906,
+  "category": "city",
+  "centroid": [
+   40.79,
+   31.35
+  ],
+  "neighbour_states": [
+   49,
+   340,
+   356,
+   797
+  ],
+  "provinces": [
+   {
+    "id": 890,
+    "lat": 40.5,
+    "lon": 30.84,
+    "borders_states": [
+     49
+    ]
+   },
+   {
+    "id": 904,
+    "lat": 40.86,
+    "lon": 31.11,
+    "name": "Adapazarı",
+    "vp": 1.0
+   },
+   {
+    "id": 3905,
+    "lat": 40.54,
+    "lon": 31.63,
+    "borders_states": [
+     49
+    ]
+   },
+   {
+    "id": 3919,
+    "lat": 40.94,
+    "lon": 32.28,
+    "borders_states": [
+     49,
+     356
+    ]
+   },
+   {
+    "id": 6871,
+    "lat": 40.18,
+    "lon": 30.56,
+    "borders_states": [
+     49,
+     340
+    ]
+   },
+   {
+    "id": 11811,
+    "lat": 40.74,
+    "lon": 30.3,
+    "name": "İzmit",
+    "vp": 1.0,
+    "borders_states": [
+     340,
+     797
+    ]
+   },
+   {
+    "id": 11866,
+    "lat": 41.16,
+    "lon": 31.76
+   },
+   {
+    "id": 11883,
+    "lat": 41.45,
+    "lon": 32.37,
+    "borders_states": [
+     356
+    ]
+   }
+  ]
+ },
+ {
+  "id": 348,
+  "name": "Kayseri",
+  "file": "348-Kayseri.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 2427500,
+  "category": "town",
+  "centroid": [
+   38.18,
+   35.56
+  ],
+  "neighbour_states": [
+   344,
+   345,
+   346,
+   349,
+   798
+  ],
+  "provinces": [
+   {
+    "id": 886,
+    "lat": 37.61,
+    "lon": 36.23,
+    "name": "Maraş",
+    "borders_states": [
+     344
+    ]
+   },
+   {
+    "id": 921,
+    "lat": 38.56,
+    "lon": 35.41,
+    "borders_states": [
+     798
+    ]
+   },
+   {
+    "id": 961,
+    "lat": 37.94,
+    "lon": 34.97,
+    "borders_states": [
+     345
+    ]
+   },
+   {
+    "id": 3870,
+    "lat": 38.45,
+    "lon": 34.4,
+    "vp": 5.0,
+    "borders_states": [
+     346,
+     798
+    ]
+   },
+   {
+    "id": 3921,
+    "lat": 38.28,
+    "lon": 36.71,
+    "borders_states": [
+     344,
+     349
+    ]
+   },
+   {
+    "id": 6888,
+    "lat": 38.57,
+    "lon": 36.3,
+    "borders_states": [
+     349
+    ]
+   },
+   {
+    "id": 6956,
+    "lat": 37.76,
+    "lon": 35.57,
+    "borders_states": [
+     344,
+     345
+    ]
+   },
+   {
+    "id": 6977,
+    "lat": 38.92,
+    "lon": 35.94,
+    "name": "Kayseri",
+    "borders_states": [
+     349,
+     798
+    ]
+   },
+   {
+    "id": 9830,
+    "lat": 37.8,
+    "lon": 34.36,
+    "borders_states": [
+     345,
+     346
+    ]
+   }
+  ]
+ },
+ {
+  "id": 349,
+  "name": "Sivas",
+  "file": "349-Silvas.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 845694,
+  "category": "rural",
+  "centroid": [
+   39.36,
+   37.51
+  ],
+  "neighbour_states": [
+   344,
+   348,
+   353,
+   354,
+   355,
+   798
+  ],
+  "provinces": [
+   {
+    "id": 3890,
+    "lat": 38.42,
+    "lon": 37.53,
+    "borders_states": [
+     344,
+     348
+    ]
+   },
+   {
+    "id": 3903,
+    "lat": 39.78,
+    "lon": 36.44,
+    "borders_states": [
+     355,
+     798
+    ]
+   },
+   {
+    "id": 3950,
+    "lat": 39.52,
+    "lon": 37.61
+   },
+   {
+    "id": 6919,
+    "lat": 39.74,
+    "lon": 38.4,
+    "borders_states": [
+     353,
+     354,
+     355
+    ]
+   },
+   {
+    "id": 6950,
+    "lat": 40.06,
+    "lon": 37.36,
+    "borders_states": [
+     355
+    ]
+   },
+   {
+    "id": 6965,
+    "lat": 38.93,
+    "lon": 38.16,
+    "borders_states": [
+     344,
+     353
+    ]
+   },
+   {
+    "id": 9761,
+    "lat": 38.93,
+    "lon": 37.32,
+    "borders_states": [
+     348
+    ]
+   },
+   {
+    "id": 9777,
+    "lat": 39.38,
+    "lon": 36.71,
+    "name": "Sivas",
+    "vp": 3.0,
+    "borders_states": [
+     348,
+     798
+    ]
+   }
+  ]
+ },
+ {
+  "id": 350,
+  "name": "Diyarbakır",
+  "file": "350-Diyarbekir.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR",
+   "KUR"
+  ],
+  "claims": [],
+  "manpower": 3924253,
+  "category": "town",
+  "centroid": [
+   37.38,
+   39.76
+  ],
+  "neighbour_states": [
+   344,
+   352,
+   353,
+   677,
+   680
+  ],
+  "provinces": [
+   {
+    "id": 4512,
+    "lat": 37.71,
+    "lon": 40.36,
+    "name": "Diyarbakır",
+    "vp": 5.0,
+    "borders_states": [
+     352
+    ]
+   },
+   {
+    "id": 9823,
+    "lat": 37.12,
+    "lon": 38.33,
+    "name": "Urfa",
+    "vp": 1.0,
+    "borders_states": [
+     344,
+     677,
+     680
+    ]
+   },
+   {
+    "id": 11759,
+    "lat": 37.86,
+    "lon": 39.36,
+    "borders_states": [
+     344,
+     352,
+     353
+    ]
+   },
+   {
+    "id": 11871,
+    "lat": 36.97,
+    "lon": 39.22,
+    "borders_states": [
+     680
+    ]
+   },
+   {
+    "id": 12387,
+    "lat": 37.39,
+    "lon": 41.39,
+    "name": "Batman",
+    "vp": 1.0,
+    "borders_states": [
+     352,
+     680
+    ]
+   },
+   {
+    "id": 12416,
+    "lat": 37.22,
+    "lon": 40.12,
+    "borders_states": [
+     680
+    ]
+   }
+  ]
+ },
+ {
+  "id": 353,
+  "name": "Tunceli",
+  "file": "353-Erzurum.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR",
+   "KUR"
+  ],
+  "claims": [],
+  "manpower": 1668839,
+  "category": "rural",
+  "centroid": [
+   39.12,
+   39.93
+  ],
+  "neighbour_states": [
+   344,
+   349,
+   350,
+   352,
+   354,
+   800
+  ],
+  "provinces": [
+   {
+    "id": 876,
+    "lat": 38.79,
+    "lon": 39.75,
+    "name": "Xarpêt",
+    "vp": 1.0,
+    "borders_states": [
+     350,
+     352
+    ]
+   },
+   {
+    "id": 9858,
+    "lat": 39.05,
+    "lon": 41.44,
+    "borders_states": [
+     352,
+     354,
+     800
+    ]
+   },
+   {
+    "id": 9860,
+    "lat": 38.58,
+    "lon": 38.91,
+    "name": "Tunceli",
+    "vp": 1.0,
+    "borders_states": [
+     344,
+     349,
+     350
+    ]
+   },
+   {
+    "id": 9868,
+    "lat": 39.81,
+    "lon": 39.41,
+    "name": "Erzîngan",
+    "vp": 1.0,
+    "borders_states": [
+     349,
+     354
+    ]
+   },
+   {
+    "id": 9954,
+    "lat": 39.5,
+    "lon": 40.26,
+    "borders_states": [
+     354
+    ]
+   },
+   {
+    "id": 10399,
+    "lat": 38.94,
+    "lon": 40.66,
+    "borders_states": [
+     352,
+     354
+    ]
+   },
+   {
+    "id": 11797,
+    "lat": 39.25,
+    "lon": 39.15,
+    "borders_states": [
+     349
+    ]
+   }
+  ]
+ },
+ {
+  "id": 355,
+  "name": "Samsun",
+  "file": "355-Samsun.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 3698959,
+  "category": "town",
+  "centroid": [
+   40.66,
+   36.74
+  ],
+  "neighbour_states": [
+   349,
+   354,
+   356,
+   798
+  ],
+  "provinces": [
+   {
+    "id": 933,
+    "lat": 40.35,
+    "lon": 35.59,
+    "borders_states": [
+     356,
+     798
+    ]
+   },
+   {
+    "id": 960,
+    "lat": 40.47,
+    "lon": 37.38,
+    "borders_states": [
+     349
+    ]
+   },
+   {
+    "id": 975,
+    "lat": 40.78,
+    "lon": 38.15,
+    "borders_states": [
+     354
+    ]
+   },
+   {
+    "id": 3935,
+    "lat": 40.24,
+    "lon": 36.37,
+    "borders_states": [
+     349,
+     798
+    ]
+   },
+   {
+    "id": 3965,
+    "lat": 40.33,
+    "lon": 38.37,
+    "borders_states": [
+     349,
+     354
+    ]
+   },
+   {
+    "id": 9900,
+    "lat": 40.88,
+    "lon": 35.29,
+    "borders_states": [
+     356
+    ]
+   },
+   {
+    "id": 9915,
+    "lat": 40.73,
+    "lon": 36.09
+   },
+   {
+    "id": 11881,
+    "lat": 41.19,
+    "lon": 36.04,
+    "name": "Samsun",
+    "vp": 10.0,
+    "borders_states": [
+     356
+    ]
+   },
+   {
+    "id": 11894,
+    "lat": 40.92,
+    "lon": 36.9
+   }
+  ]
+ },
+ {
+  "id": 356,
+  "name": "Kastamonu",
+  "file": "356-Sinop.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 1452445,
+  "category": "town",
+  "centroid": [
+   41.01,
+   33.92
+  ],
+  "neighbour_states": [
+   49,
+   347,
+   355,
+   798
+  ],
+  "provinces": [
+   {
+    "id": 979,
+    "lat": 41.59,
+    "lon": 33.06,
+    "borders_states": [
+     347
+    ]
+   },
+   {
+    "id": 3967,
+    "lat": 41.47,
+    "lon": 34.4
+   },
+   {
+    "id": 3982,
+    "lat": 41.61,
+    "lon": 33.76
+   },
+   {
+    "id": 6920,
+    "lat": 40.91,
+    "lon": 32.84,
+    "borders_states": [
+     49,
+     347
+    ]
+   },
+   {
+    "id": 6938,
+    "lat": 41.09,
+    "lon": 33.63,
+    "name": "Kastamonu",
+    "vp": 10.0
+   },
+   {
+    "id": 6978,
+    "lat": 40.89,
+    "lon": 34.62,
+    "borders_states": [
+     355
+    ]
+   },
+   {
+    "id": 6995,
+    "lat": 41.53,
+    "lon": 35.13,
+    "name": "Sinop",
+    "vp": 3.0,
+    "borders_states": [
+     355
+    ]
+   },
+   {
+    "id": 9844,
+    "lat": 40.51,
+    "lon": 33.31,
+    "borders_states": [
+     49
+    ]
+   },
+   {
+    "id": 9871,
+    "lat": 40.7,
+    "lon": 34.01
+   },
+   {
+    "id": 11839,
+    "lat": 40.18,
+    "lon": 33.94,
+    "borders_states": [
+     49,
+     798
+    ]
+   },
+   {
+    "id": 11897,
+    "lat": 40.35,
+    "lon": 34.77,
+    "borders_states": [
+     355,
+     798
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Lower Austria",
+  "file": "4-Austria.txt",
+  "owner": "AUS",
+  "cores": [
+   "AUS"
+  ],
+  "claims": [],
+  "manpower": 3095000,
+  "category": "metropolis",
+  "centroid": [
+   48.34,
+   15.64
+  ],
+  "neighbour_states": [
+   53,
+   70,
+   152,
+   972,
+   975,
+   976
+  ],
+  "provinces": [
+   {
+    "id": 704,
+    "lat": 48.26,
+    "lon": 15.72,
+    "borders_states": [
+     976
+    ]
+   },
+   {
+    "id": 732,
+    "lat": 48.49,
+    "lon": 14.26,
+    "name": "Linz",
+    "vp": 10.0,
+    "borders_states": [
+     53,
+     152,
+     972
+    ]
+   },
+   {
+    "id": 3718,
+    "lat": 48.76,
+    "lon": 16.55,
+    "borders_states": [
+     70,
+     972
+    ]
+   },
+   {
+    "id": 6552,
+    "lat": 48.79,
+    "lon": 15.4,
+    "borders_states": [
+     972
+    ]
+   },
+   {
+    "id": 6690,
+    "lat": 47.72,
+    "lon": 15.87,
+    "borders_states": [
+     975,
+     976
+    ]
+   },
+   {
+    "id": 6723,
+    "lat": 48.51,
+    "lon": 14.97,
+    "borders_states": [
+     972
+    ]
+   },
+   {
+    "id": 6739,
+    "lat": 48.47,
+    "lon": 16.65,
+    "borders_states": [
+     70,
+     975
+    ]
+   },
+   {
+    "id": 9527,
+    "lat": 48.7,
+    "lon": 15.98,
+    "borders_states": [
+     972
+    ]
+   },
+   {
+    "id": 11651,
+    "lat": 48.13,
+    "lon": 15.06,
+    "borders_states": [
+     152,
+     976
+    ]
+   },
+   {
+    "id": 11666,
+    "lat": 48.21,
+    "lon": 16.37,
+    "name": "Vienna",
+    "vp": 30.0,
+    "borders_states": [
+     975
+    ]
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "name": "Northern Hungary",
+  "file": "43-Hungary.txt",
+  "owner": "HUN",
+  "cores": [
+   "HUN"
+  ],
+  "claims": [],
+  "manpower": 4252000,
+  "category": "metropolis",
+  "centroid": [
+   47.87,
+   20.11
+  ],
+  "neighbour_states": [
+   154,
+   155,
+   664,
+   973
+  ],
+  "provinces": [
+   {
+    "id": 684,
+    "lat": 47.21,
+    "lon": 19.63,
+    "borders_states": [
+     154,
+     973
+    ]
+   },
+   {
+    "id": 716,
+    "lat": 47.71,
+    "lon": 19.73
+   },
+   {
+    "id": 3713,
+    "lat": 47.96,
+    "lon": 20.91,
+    "borders_states": [
+     154
+    ]
+   },
+   {
+    "id": 3731,
+    "lat": 48.09,
+    "lon": 20.26,
+    "borders_states": [
+     664
+    ]
+   },
+   {
+    "id": 6716,
+    "lat": 47.51,
+    "lon": 20.24,
+    "borders_states": [
+     154
+    ]
+   },
+   {
+    "id": 6751,
+    "lat": 48.39,
+    "lon": 20.82,
+    "borders_states": [
+     664
+    ]
+   },
+   {
+    "id": 9660,
+    "lat": 47.5,
+    "lon": 19.04,
+    "name": "Budapest",
+    "vp": 20.0,
+    "borders_states": [
+     155,
+     973
+    ]
+   },
+   {
+    "id": 9690,
+    "lat": 48.09,
+    "lon": 19.37,
+    "borders_states": [
+     155,
+     664
+    ]
+   },
+   {
+    "id": 11520,
+    "lat": 48.37,
+    "lon": 21.54,
+    "borders_states": [
+     154,
+     664
+    ]
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "name": "Albania",
+  "file": "44-Albania.txt",
+  "owner": "ALB",
+  "cores": [
+   "ALB"
+  ],
+  "claims": [],
+  "manpower": 2128000,
+  "category": "town",
+  "centroid": [
+   40.87,
+   20.0
+  ],
+  "neighbour_states": [
+   805,
+   934,
+   970
+  ],
+  "provinces": [
+   {
+    "id": 3448,
+    "lat": 40.54,
+    "lon": 20.2,
+    "borders_states": [
+     805
+    ]
+   },
+   {
+    "id": 3884,
+    "lat": 40.74,
+    "lon": 19.79
+   },
+   {
+    "id": 6900,
+    "lat": 40.8,
+    "lon": 20.6,
+    "name": "Korçë",
+    "vp": 2.0,
+    "borders_states": [
+     805,
+     970
+    ]
+   },
+   {
+    "id": 9875,
+    "lat": 41.11,
+    "lon": 20.34,
+    "name": "Elbasan",
+    "borders_states": [
+     934,
+     970
+    ]
+   },
+   {
+    "id": 9914,
+    "lat": 41.31,
+    "lon": 19.93,
+    "name": "Tirana",
+    "vp": 5.0,
+    "borders_states": [
+     934
+    ]
+   },
+   {
+    "id": 11767,
+    "lat": 40.33,
+    "lon": 19.7,
+    "name": "Vlorë",
+    "vp": 2.0,
+    "borders_states": [
+     805
+    ]
+   },
+   {
+    "id": 13255,
+    "lat": 41.22,
+    "lon": 19.62,
+    "name": "Durrës",
+    "vp": 2.0,
+    "borders_states": [
+     934
+    ]
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "name": "Vojvodina",
+  "file": "45-Yugoslavia.txt",
+  "owner": "SER",
+  "cores": [
+   "SER",
+   "YUG"
+  ],
+  "claims": [
+   "HUN"
+  ],
+  "manpower": 1340000,
+  "category": "large_town",
+  "centroid": [
+   45.64,
+   19.55
+  ],
+  "neighbour_states": [
+   107,
+   109,
+   764,
+   973,
+   974
+  ],
+  "provinces": [
+   {
+    "id": 619,
+    "lat": 45.61,
+    "lon": 19.32,
+    "name": "Novi Sad",
+    "vp": 3.0,
+    "borders_states": [
+     109
+    ]
+   },
+   {
+    "id": 3617,
+    "lat": 45.5,
+    "lon": 19.89,
+    "borders_states": [
+     109,
+     764
+    ]
+   },
+   {
+    "id": 3623,
+    "lat": 45.92,
+    "lon": 19.21,
+    "borders_states": [
+     973
+    ]
+   },
+   {
+    "id": 9608,
+    "lat": 45.8,
+    "lon": 18.69,
+    "borders_states": [
+     109,
+     973,
+     974
+    ]
+   },
+   {
+    "id": 9621,
+    "lat": 45.98,
+    "lon": 19.8,
+    "borders_states": [
+     764,
+     973
+    ]
+   },
+   {
+    "id": 11580,
+    "lat": 45.13,
+    "lon": 19.99,
+    "borders_states": [
+     107,
+     109,
+     764
+    ]
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "name": "Muntenia",
+  "file": "46-Romania.txt",
+  "owner": "ROM",
+  "cores": [
+   "ROM"
+  ],
+  "claims": [],
+  "manpower": 6706880,
+  "category": "metropolis",
+  "centroid": [
+   44.66,
+   26.04
+  ],
+  "neighbour_states": [
+   77,
+   79,
+   81,
+   84,
+   801,
+   971
+  ],
+  "provinces": [
+   {
+    "id": 660,
+    "lat": 45.16,
+    "lon": 25.27,
+    "borders_states": [
+     84
+    ]
+   },
+   {
+    "id": 674,
+    "lat": 44.66,
+    "lon": 27.02
+   },
+   {
+    "id": 818,
+    "lat": 44.02,
+    "lon": 24.97,
+    "borders_states": [
+     81,
+     801
+    ]
+   },
+   {
+    "id": 3636,
+    "lat": 44.48,
+    "lon": 25.28
+   },
+   {
+    "id": 3639,
+    "lat": 44.74,
+    "lon": 24.68,
+    "borders_states": [
+     81
+    ]
+   },
+   {
+    "id": 3663,
+    "lat": 44.87,
+    "lon": 26.03,
+    "name": "Ploiesti",
+    "vp": 5.0
+   },
+   {
+    "id": 6658,
+    "lat": 43.98,
+    "lon": 25.83,
+    "borders_states": [
+     801
+    ]
+   },
+   {
+    "id": 6677,
+    "lat": 44.37,
+    "lon": 27.71,
+    "borders_states": [
+     77,
+     971
+    ]
+   },
+   {
+    "id": 6695,
+    "lat": 45.33,
+    "lon": 24.67,
+    "borders_states": [
+     81,
+     84
+    ]
+   },
+   {
+    "id": 9617,
+    "lat": 44.43,
+    "lon": 26.1,
+    "name": "Bucharest",
+    "vp": 20.0
+   },
+   {
+    "id": 9651,
+    "lat": 45.07,
+    "lon": 26.98,
+    "borders_states": [
+     79
+    ]
+   },
+   {
+    "id": 11603,
+    "lat": 44.21,
+    "lon": 26.86,
+    "borders_states": [
+     77,
+     801
+    ]
+   },
+   {
+    "id": 11619,
+    "lat": 45.32,
+    "lon": 26.18,
+    "borders_states": [
+     79,
+     84
+    ]
+   },
+   {
+    "id": 11636,
+    "lat": 44.94,
+    "lon": 27.7,
+    "borders_states": [
+     79,
+     971
+    ]
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "name": "Attica",
+  "file": "47-Greece.txt",
+  "owner": "GRE",
+  "cores": [
+   "GRE"
+  ],
+  "claims": [],
+  "manpower": 5229000,
+  "category": "metropolis",
+  "centroid": [
+   38.81,
+   22.85
+  ],
+  "neighbour_states": [
+   185,
+   186,
+   731
+  ],
+  "provinces": [
+   {
+    "id": 863,
+    "lat": 39.4,
+    "lon": 22.22,
+    "name": "Karditsa",
+    "borders_states": [
+     185
+    ]
+   },
+   {
+    "id": 976,
+    "lat": 38.67,
+    "lon": 22.26,
+    "name": "Lamia",
+    "borders_states": [
+     185
+    ]
+   },
+   {
+    "id": 1109,
+    "lat": 38.44,
+    "lon": 22.92
+   },
+   {
+    "id": 3864,
+    "lat": 39.1,
+    "lon": 22.6,
+    "name": "Volos"
+   },
+   {
+    "id": 3973,
+    "lat": 39.51,
+    "lon": 22.85,
+    "name": "Larissa",
+    "vp": 3.0,
+    "borders_states": [
+     731
+    ]
+   },
+   {
+    "id": 3988,
+    "lat": 38.07,
+    "lon": 23.1,
+    "name": "Kórinthos",
+    "vp": 1.0,
+    "borders_states": [
+     186
+    ]
+   },
+   {
+    "id": 4109,
+    "lat": 37.98,
+    "lon": 23.73,
+    "name": "Athens",
+    "vp": 20.0
+   },
+   {
+    "id": 6930,
+    "lat": 39.79,
+    "lon": 21.98,
+    "borders_states": [
+     185,
+     731
+    ]
+   },
+   {
+    "id": 7127,
+    "lat": 38.51,
+    "lon": 23.81,
+    "name": "Chalcis",
+    "vp": 3.0
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "name": "Sofia",
+  "file": "48-Bulgaria.txt",
+  "owner": "BUL",
+  "cores": [
+   "BUL"
+  ],
+  "claims": [],
+  "manpower": 2388137,
+  "category": "large_city",
+  "centroid": [
+   43.01,
+   23.33
+  ],
+  "neighbour_states": [
+   81,
+   106,
+   108,
+   212,
+   801,
+   803
+  ],
+  "provinces": [
+   {
+    "id": 793,
+    "lat": 43.42,
+    "lon": 23.96,
+    "borders_states": [
+     81,
+     801
+    ]
+   },
+   {
+    "id": 935,
+    "lat": 42.4,
+    "lon": 22.86,
+    "borders_states": [
+     106,
+     212,
+     803
+    ]
+   },
+   {
+    "id": 949,
+    "lat": 42.7,
+    "lon": 23.32,
+    "name": "Sofia",
+    "vp": 15.0
+   },
+   {
+    "id": 965,
+    "lat": 43.19,
+    "lon": 23.19,
+    "borders_states": [
+     803
+    ]
+   },
+   {
+    "id": 3908,
+    "lat": 42.3,
+    "lon": 23.63,
+    "borders_states": [
+     212
+    ]
+   },
+   {
+    "id": 3971,
+    "lat": 42.81,
+    "lon": 23.95,
+    "borders_states": [
+     212,
+     801
+    ]
+   },
+   {
+    "id": 9771,
+    "lat": 43.81,
+    "lon": 22.72,
+    "name": "Vidin",
+    "vp": 1.0,
+    "borders_states": [
+     81,
+     108,
+     803
+    ]
+   },
+   {
+    "id": 11754,
+    "lat": 43.62,
+    "lon": 23.41,
+    "borders_states": [
+     81
+    ]
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "name": "Ankara",
+  "file": "49-Turkey.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 5041329,
+  "category": "metropolis",
+  "centroid": [
+   39.73,
+   31.91
+  ],
+  "neighbour_states": [
+   340,
+   343,
+   346,
+   347,
+   356,
+   798
+  ],
+  "provinces": [
+   {
+    "id": 804,
+    "lat": 39.83,
+    "lon": 33.34,
+    "name": "Kırıkkale",
+    "vp": 5.0,
+    "borders_states": [
+     356,
+     798
+    ]
+   },
+   {
+    "id": 909,
+    "lat": 39.19,
+    "lon": 30.84,
+    "borders_states": [
+     343
+    ]
+   },
+   {
+    "id": 3907,
+    "lat": 39.42,
+    "lon": 31.49,
+    "borders_states": [
+     343,
+     346
+    ]
+   },
+   {
+    "id": 3951,
+    "lat": 39.65,
+    "lon": 30.43,
+    "name": "Eskişehir",
+    "vp": 1.0,
+    "borders_states": [
+     340,
+     343,
+     347
+    ]
+   },
+   {
+    "id": 6808,
+    "lat": 39.77,
+    "lon": 31.01,
+    "borders_states": [
+     347
+    ]
+   },
+   {
+    "id": 6908,
+    "lat": 40.37,
+    "lon": 32.38,
+    "borders_states": [
+     347,
+     356
+    ]
+   },
+   {
+    "id": 6925,
+    "lat": 39.36,
+    "lon": 32.65,
+    "borders_states": [
+     346,
+     798
+    ]
+   },
+   {
+    "id": 9806,
+    "lat": 40.11,
+    "lon": 31.44,
+    "borders_states": [
+     347
+    ]
+   },
+   {
+    "id": 9901,
+    "lat": 39.33,
+    "lon": 32.08,
+    "borders_states": [
+     346
+    ]
+   },
+   {
+    "id": 11747,
+    "lat": 39.93,
+    "lon": 32.86,
+    "name": "Ankara",
+    "vp": 15.0,
+    "borders_states": [
+     356
+    ]
+   },
+   {
+    "id": 11784,
+    "lat": 39.91,
+    "lon": 32.13
+   }
+  ]
+ },
+ {
+  "id": 664,
+  "name": "Southern Slovakia",
+  "file": "664-Southern Slovakia.txt",
+  "owner": "SLO",
+  "cores": [
+   "SLO",
+   "HUN"
+  ],
+  "claims": [],
+  "manpower": 1263000,
+  "category": "large_town",
+  "centroid": [
+   48.36,
+   19.43
+  ],
+  "neighbour_states": [
+   43,
+   70,
+   71,
+   73,
+   154,
+   155,
+   975
+  ],
+  "provinces": [
+   {
+    "id": 3565,
+    "lat": 48.52,
+    "lon": 22.02,
+    "borders_states": [
+     43,
+     71,
+     73,
+     154
+    ]
+   },
+   {
+    "id": 3716,
+    "lat": 48.13,
+    "lon": 17.72,
+    "borders_states": [
+     70,
+     155,
+     975
+    ]
+   },
+   {
+    "id": 6561,
+    "lat": 48.31,
+    "lon": 19.17,
+    "borders_states": [
+     43,
+     70,
+     71
+    ]
+   },
+   {
+    "id": 6573,
+    "lat": 48.74,
+    "lon": 21.2,
+    "name": "Kosice",
+    "vp": 1.0,
+    "borders_states": [
+     43,
+     71
+    ]
+   },
+   {
+    "id": 9537,
+    "lat": 48.57,
+    "lon": 20.33,
+    "borders_states": [
+     43,
+     71
+    ]
+   },
+   {
+    "id": 11679,
+    "lat": 48.18,
+    "lon": 18.39,
+    "borders_states": [
+     43,
+     70,
+     155
+    ]
+   }
+  ]
+ },
+ {
+  "id": 677,
+  "name": "Aleppo",
+  "file": "677-Aleppo.txt",
+  "owner": "SYR",
+  "cores": [
+   "SYR"
+  ],
+  "claims": [
+   "TUR"
+  ],
+  "manpower": 9020000,
+  "category": "large_city",
+  "centroid": [
+   35.48,
+   36.93
+  ],
+  "neighbour_states": [
+   344,
+   350,
+   553,
+   554,
+   680,
+   799
+  ],
+  "provinces": [
+   {
+    "id": 1056,
+    "lat": 34.83,
+    "lon": 36.91,
+    "name": "Homs",
+    "vp": 1.0,
+    "borders_states": [
+     554,
+     680
+    ]
+   },
+   {
+    "id": 1072,
+    "lat": 35.11,
+    "lon": 37.7,
+    "borders_states": [
+     680
+    ]
+   },
+   {
+    "id": 1088,
+    "lat": 35.4,
+    "lon": 35.98,
+    "name": "Latakia",
+    "borders_states": [
+     799
+    ]
+   },
+   {
+    "id": 7140,
+    "lat": 35.67,
+    "lon": 36.74,
+    "borders_states": [
+     799
+    ]
+   },
+   {
+    "id": 7671,
+    "lat": 36.2,
+    "lon": 37.64,
+    "borders_states": [
+     344,
+     350,
+     680
+    ]
+   },
+   {
+    "id": 10087,
+    "lat": 34.76,
+    "lon": 36.1,
+    "borders_states": [
+     553,
+     554
+    ]
+   },
+   {
+    "id": 12473,
+    "lat": 36.28,
+    "lon": 36.9,
+    "name": "Aleppo",
+    "vp": 3.0,
+    "borders_states": [
+     344,
+     799
+    ]
+   }
+  ]
+ },
+ {
+  "id": 680,
+  "name": "Deir-az-Zur",
+  "file": "680-Deir-az-Zur.txt",
+  "owner": "SYR",
+  "cores": [
+   "SYR",
+   "KUR"
+  ],
+  "claims": [],
+  "manpower": 2800000,
+  "category": "rural",
+  "centroid": [
+   35.27,
+   39.41
+  ],
+  "neighbour_states": [
+   350,
+   352,
+   455,
+   554,
+   676,
+   677,
+   1010
+  ],
+  "provinces": [
+   {
+    "id": 901,
+    "lat": 35.12,
+    "lon": 40.55,
+    "borders_states": [
+     676
+    ]
+   },
+   {
+    "id": 1549,
+    "lat": 36.78,
+    "lon": 41.25,
+    "name": "Qamishli",
+    "vp": 1.0,
+    "borders_states": [
+     350,
+     352,
+     676
+    ]
+   },
+   {
+    "id": 1578,
+    "lat": 36.56,
+    "lon": 40.28,
+    "borders_states": [
+     350
+    ]
+   },
+   {
+    "id": 1606,
+    "lat": 36.05,
+    "lon": 38.61,
+    "borders_states": [
+     677
+    ]
+   },
+   {
+    "id": 1634,
+    "lat": 36.07,
+    "lon": 39.67,
+    "borders_states": [
+     350
+    ]
+   },
+   {
+    "id": 2013,
+    "lat": 34.8,
+    "lon": 39.98,
+    "borders_states": [
+     676,
+     1010
+    ]
+   },
+   {
+    "id": 3942,
+    "lat": 35.56,
+    "lon": 38.79,
+    "name": "Deir az-Zur",
+    "vp": 1.0,
+    "borders_states": [
+     677
+    ]
+   },
+   {
+    "id": 6883,
+    "lat": 36.52,
+    "lon": 38.46,
+    "name": "Ayn al-Arab",
+    "vp": 1.0,
+    "borders_states": [
+     350,
+     677
+    ]
+   },
+   {
+    "id": 7513,
+    "lat": 34.83,
+    "lon": 38.78,
+    "borders_states": [
+     677
+    ]
+   },
+   {
+    "id": 10383,
+    "lat": 33.58,
+    "lon": 38.32,
+    "borders_states": [
+     455,
+     554,
+     1010
+    ]
+   },
+   {
+    "id": 10882,
+    "lat": 35.85,
+    "lon": 40.7,
+    "borders_states": [
+     676
+    ]
+   },
+   {
+    "id": 12316,
+    "lat": 34.12,
+    "lon": 39.35,
+    "borders_states": [
+     1010
+    ]
+   },
+   {
+    "id": 12442,
+    "lat": 34.28,
+    "lon": 37.9,
+    "borders_states": [
+     554,
+     677
+    ]
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "name": "Carpathian Ruthenia",
+  "file": "73-Carpathian Ruthenia.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [
+   "HUN"
+  ],
+  "manpower": 1263000,
+  "category": "town",
+  "centroid": [
+   48.46,
+   23.38
+  ],
+  "neighbour_states": [
+   71,
+   76,
+   88,
+   89,
+   154,
+   664
+  ],
+  "provinces": [
+   {
+    "id": 3548,
+    "lat": 48.26,
+    "lon": 23.3,
+    "name": "Mukacevo",
+    "vp": 1.0,
+    "borders_states": [
+     76,
+     154
+    ]
+   },
+   {
+    "id": 6571,
+    "lat": 48.14,
+    "lon": 24.14,
+    "name": "Yasinia",
+    "borders_states": [
+     76,
+     89
+    ]
+   },
+   {
+    "id": 9563,
+    "lat": 48.54,
+    "lon": 23.7,
+    "borders_states": [
+     89
+    ]
+   },
+   {
+    "id": 11536,
+    "lat": 48.84,
+    "lon": 22.9,
+    "borders_states": [
+     71,
+     88,
+     89
+    ]
+   },
+   {
+    "id": 11691,
+    "lat": 48.52,
+    "lon": 22.67,
+    "name": "Uzhhorod",
+    "borders_states": [
+     71,
+     154,
+     664
+    ]
+   }
+  ]
+ },
+ {
+  "id": 731,
+  "name": "Central Macedonia",
+  "file": "731-Central Macedonia.txt",
+  "owner": "GRE",
+  "cores": [
+   "GRE"
+  ],
+  "claims": [
+   "BUL",
+   "MAC"
+  ],
+  "manpower": 2027000,
+  "category": "city",
+  "centroid": [
+   40.68,
+   22.86
+  ],
+  "neighbour_states": [
+   47,
+   106,
+   184,
+   185,
+   212
+  ],
+  "provinces": [
+   {
+    "id": 895,
+    "lat": 40.26,
+    "lon": 23.67
+   },
+   {
+    "id": 936,
+    "lat": 40.87,
+    "lon": 22.04,
+    "borders_states": [
+     106,
+     185
+    ]
+   },
+   {
+    "id": 966,
+    "lat": 40.29,
+    "lon": 21.88,
+    "borders_states": [
+     47,
+     185
+    ]
+   },
+   {
+    "id": 3526,
+    "lat": 41.09,
+    "lon": 22.89,
+    "borders_states": [
+     106,
+     212
+    ]
+   },
+   {
+    "id": 3844,
+    "lat": 40.21,
+    "lon": 22.36,
+    "name": "Kateríni",
+    "borders_states": [
+     47
+    ]
+   },
+   {
+    "id": 3936,
+    "lat": 40.79,
+    "lon": 23.47,
+    "borders_states": [
+     184
+    ]
+   },
+   {
+    "id": 6990,
+    "lat": 41.17,
+    "lon": 23.71,
+    "borders_states": [
+     184,
+     212
+    ]
+   },
+   {
+    "id": 10163,
+    "lat": 40.71,
+    "lon": 22.52
+   },
+   {
+    "id": 11818,
+    "lat": 40.62,
+    "lon": 23.05,
+    "name": "Thessaloniki",
+    "vp": 5.0
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "name": "North Transylvania",
+  "file": "76-Northern Transylvania.txt",
+  "owner": "ROM",
+  "cores": [
+   "ROM",
+   "TRA",
+   "HUN"
+  ],
+  "claims": [],
+  "manpower": 3882658,
+  "category": "large_town",
+  "centroid": [
+   47.06,
+   24.22
+  ],
+  "neighbour_states": [
+   73,
+   79,
+   80,
+   83,
+   84,
+   89,
+   154
+  ],
+  "provinces": [
+   {
+    "id": 711,
+    "lat": 46.74,
+    "lon": 25.73,
+    "borders_states": [
+     79
+    ]
+   },
+   {
+    "id": 713,
+    "lat": 47.47,
+    "lon": 22.48,
+    "borders_states": [
+     154
+    ]
+   },
+   {
+    "id": 727,
+    "lat": 47.53,
+    "lon": 24.91,
+    "borders_states": [
+     79,
+     80,
+     89
+    ]
+   },
+   {
+    "id": 746,
+    "lat": 47.83,
+    "lon": 23.29,
+    "borders_states": [
+     73,
+     154
+    ]
+   },
+   {
+    "id": 3689,
+    "lat": 46.12,
+    "lon": 26.17,
+    "borders_states": [
+     79,
+     84
+    ]
+   },
+   {
+    "id": 3696,
+    "lat": 47.07,
+    "lon": 21.96,
+    "name": "Oradea",
+    "borders_states": [
+     83,
+     154
+    ]
+   },
+   {
+    "id": 3709,
+    "lat": 47.04,
+    "lon": 22.66,
+    "borders_states": [
+     83
+    ]
+   },
+   {
+    "id": 6711,
+    "lat": 46.83,
+    "lon": 23.4,
+    "name": "Cluj",
+    "vp": 5.0,
+    "borders_states": [
+     83,
+     84
+    ]
+   },
+   {
+    "id": 6714,
+    "lat": 47.1,
+    "lon": 23.59,
+    "borders_states": [
+     84
+    ]
+   },
+   {
+    "id": 6731,
+    "lat": 47.17,
+    "lon": 24.64
+   },
+   {
+    "id": 9668,
+    "lat": 46.23,
+    "lon": 25.61,
+    "borders_states": [
+     84
+    ]
+   },
+   {
+    "id": 9670,
+    "lat": 46.59,
+    "lon": 25.05,
+    "name": "Déda",
+    "vp": 1.0,
+    "borders_states": [
+     84
+    ]
+   },
+   {
+    "id": 9672,
+    "lat": 46.89,
+    "lon": 24.37,
+    "name": "Târgu Mures",
+    "vp": 2.0,
+    "borders_states": [
+     84
+    ]
+   },
+   {
+    "id": 9685,
+    "lat": 47.1,
+    "lon": 25.28,
+    "borders_states": [
+     79
+    ]
+   },
+   {
+    "id": 9687,
+    "lat": 47.43,
+    "lon": 23.09
+   },
+   {
+    "id": 9704,
+    "lat": 47.77,
+    "lon": 24.27,
+    "borders_states": [
+     73,
+     89
+    ]
+   },
+   {
+    "id": 11676,
+    "lat": 47.45,
+    "lon": 23.79
+   }
+  ]
+ },
+ {
+  "id": 764,
+  "name": "West Banat",
+  "file": "764-West Banat.txt",
+  "owner": "SER",
+  "cores": [
+   "SER",
+   "YUG"
+  ],
+  "claims": [
+   "HUN"
+  ],
+  "manpower": 688000,
+  "category": "town",
+  "centroid": [
+   45.46,
+   20.63
+  ],
+  "neighbour_states": [
+   45,
+   82,
+   107,
+   154,
+   973
+  ],
+  "provinces": [
+   {
+    "id": 614,
+    "lat": 45.17,
+    "lon": 21.06,
+    "borders_states": [
+     82,
+     107
+    ]
+   },
+   {
+    "id": 3614,
+    "lat": 45.17,
+    "lon": 20.55,
+    "name": "Pancevo",
+    "vp": 1.0,
+    "borders_states": [
+     45,
+     107
+    ]
+   },
+   {
+    "id": 6643,
+    "lat": 45.94,
+    "lon": 20.26,
+    "borders_states": [
+     45,
+     82,
+     154,
+     973
+    ]
+   },
+   {
+    "id": 11787,
+    "lat": 45.58,
+    "lon": 20.55,
+    "borders_states": [
+     45,
+     82
+    ]
+   }
+  ]
+ },
+ {
+  "id": 766,
+  "name": "Southern Bessarabia",
+  "file": "766-Southern Bessarabia.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [
+   "ROM"
+  ],
+  "manpower": 617000,
+  "category": "town",
+  "centroid": [
+   45.84,
+   29.42
+  ],
+  "neighbour_states": [
+   78,
+   79,
+   192,
+   971,
+   1082
+  ],
+  "provinces": [
+   {
+    "id": 3701,
+    "lat": 45.57,
+    "lon": 29.33,
+    "borders_states": [
+     971
+    ]
+   },
+   {
+    "id": 3704,
+    "lat": 45.57,
+    "lon": 28.74,
+    "borders_states": [
+     78,
+     79,
+     971
+    ]
+   },
+   {
+    "id": 6727,
+    "lat": 45.92,
+    "lon": 30.07,
+    "name": "Cetatea Albă",
+    "vp": 1.0,
+    "borders_states": [
+     192
+    ]
+   },
+   {
+    "id": 6743,
+    "lat": 46.19,
+    "lon": 29.54,
+    "borders_states": [
+     78,
+     192,
+     1082
+    ]
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "name": "Dobrudja",
+  "file": "77-Dobrogea.txt",
+  "owner": "BUL",
+  "cores": [
+   "BUL"
+  ],
+  "claims": [
+   "ROM"
+  ],
+  "manpower": 369076,
+  "category": "rural",
+  "centroid": [
+   43.69,
+   27.66
+  ],
+  "neighbour_states": [
+   46,
+   211,
+   801,
+   971
+  ],
+  "provinces": [
+   {
+    "id": 9614,
+    "lat": 43.84,
+    "lon": 27.14,
+    "borders_states": [
+     46,
+     211,
+     801,
+     971
+    ]
+   },
+   {
+    "id": 11597,
+    "lat": 43.56,
+    "lon": 28.1,
+    "name": "Dobrich",
+    "vp": 1.0,
+    "borders_states": [
+     211,
+     971
+    ]
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "name": "Bessarabia",
+  "file": "78-Bessarabia.txt",
+  "owner": "MOL",
+  "cores": [
+   "MOL",
+   "ROM"
+  ],
+  "claims": [],
+  "manpower": 3760000,
+  "category": "town",
+  "centroid": [
+   47.19,
+   28.44
+  ],
+  "neighbour_states": [
+   79,
+   80,
+   198,
+   199,
+   766,
+   1082
+  ],
+  "provinces": [
+   {
+    "id": 414,
+    "lat": 48.23,
+    "lon": 27.73,
+    "borders_states": [
+     80,
+     198,
+     199
+    ]
+   },
+   {
+    "id": 565,
+    "lat": 47.27,
+    "lon": 28.09,
+    "borders_states": [
+     79
+    ]
+   },
+   {
+    "id": 3577,
+    "lat": 47.82,
+    "lon": 27.49,
+    "borders_states": [
+     79,
+     80
+    ]
+   },
+   {
+    "id": 3707,
+    "lat": 46.78,
+    "lon": 28.54,
+    "name": "Chisinău",
+    "vp": 1.0,
+    "borders_states": [
+     79
+    ]
+   },
+   {
+    "id": 3724,
+    "lat": 46.03,
+    "lon": 28.54,
+    "borders_states": [
+     79,
+     766
+    ]
+   },
+   {
+    "id": 6600,
+    "lat": 47.76,
+    "lon": 28.27,
+    "borders_states": [
+     198,
+     1082
+    ]
+   },
+   {
+    "id": 9683,
+    "lat": 46.55,
+    "lon": 29.43,
+    "borders_states": [
+     766,
+     1082
+    ]
+   },
+   {
+    "id": 11686,
+    "lat": 46.98,
+    "lon": 29.13,
+    "borders_states": [
+     1082
+    ]
+   },
+   {
+    "id": 11705,
+    "lat": 47.49,
+    "lon": 28.81,
+    "borders_states": [
+     1082
+    ]
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "name": "Moldova",
+  "file": "79-moldovia.txt",
+  "owner": "ROM",
+  "cores": [
+   "ROM"
+  ],
+  "claims": [],
+  "manpower": 4849957,
+  "category": "town",
+  "centroid": [
+   46.76,
+   26.93
+  ],
+  "neighbour_states": [
+   46,
+   76,
+   78,
+   80,
+   84,
+   766,
+   971
+  ],
+  "provinces": [
+   {
+    "id": 723,
+    "lat": 46.67,
+    "lon": 27.91,
+    "borders_states": [
+     78
+    ]
+   },
+   {
+    "id": 744,
+    "lat": 47.41,
+    "lon": 26.57
+   },
+   {
+    "id": 3728,
+    "lat": 47.12,
+    "lon": 26.08,
+    "borders_states": [
+     76
+    ]
+   },
+   {
+    "id": 3741,
+    "lat": 46.97,
+    "lon": 26.87
+   },
+   {
+    "id": 6584,
+    "lat": 47.83,
+    "lon": 26.48,
+    "borders_states": [
+     80
+    ]
+   },
+   {
+    "id": 6706,
+    "lat": 45.5,
+    "lon": 27.9,
+    "name": "Galati",
+    "vp": 1.0,
+    "borders_states": [
+     46,
+     78,
+     766,
+     971
+    ]
+   },
+   {
+    "id": 6729,
+    "lat": 46.03,
+    "lon": 27.83,
+    "borders_states": [
+     78
+    ]
+   },
+   {
+    "id": 6747,
+    "lat": 46.58,
+    "lon": 27.26
+   },
+   {
+    "id": 6761,
+    "lat": 47.74,
+    "lon": 25.88,
+    "borders_states": [
+     80
+    ]
+   },
+   {
+    "id": 9701,
+    "lat": 45.95,
+    "lon": 27.27
+   },
+   {
+    "id": 9716,
+    "lat": 47.31,
+    "lon": 27.38,
+    "name": "Iasi",
+    "vp": 1.0,
+    "borders_states": [
+     78
+    ]
+   },
+   {
+    "id": 11534,
+    "lat": 47.78,
+    "lon": 26.95,
+    "borders_states": [
+     78,
+     80
+    ]
+   },
+   {
+    "id": 11652,
+    "lat": 45.44,
+    "lon": 27.07,
+    "borders_states": [
+     46
+    ]
+   },
+   {
+    "id": 11655,
+    "lat": 45.99,
+    "lon": 26.74,
+    "borders_states": [
+     46,
+     76,
+     84
+    ]
+   },
+   {
+    "id": 11672,
+    "lat": 46.59,
+    "lon": 26.47,
+    "borders_states": [
+     76
+    ]
+   },
+   {
+    "id": 11689,
+    "lat": 47.45,
+    "lon": 25.61,
+    "borders_states": [
+     76,
+     80
+    ]
+   }
+  ]
+ },
+ {
+  "id": 797,
+  "name": "Istanbul",
+  "file": "797-Istanbul.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [
+   "GRE"
+  ],
+  "manpower": 9908494,
+  "category": "megalopolis",
+  "centroid": [
+   40.92,
+   29.39
+  ],
+  "neighbour_states": [
+   341,
+   347
+  ],
+  "provinces": [
+   {
+    "id": 9833,
+    "lat": 41.01,
+    "lon": 28.98,
+    "name": "Istanbul",
+    "vp": 25.0,
+    "borders_states": [
+     341
+    ]
+   },
+   {
+    "id": 11829,
+    "lat": 40.83,
+    "lon": 29.8,
+    "borders_states": [
+     347
+    ]
+   }
+  ]
+ },
+ {
+  "id": 798,
+  "name": "Amasya",
+  "file": "798-Amasya.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [],
+  "manpower": 985143,
+  "category": "rural",
+  "centroid": [
+   39.42,
+   34.67
+  ],
+  "neighbour_states": [
+   49,
+   346,
+   348,
+   349,
+   355,
+   356
+  ],
+  "provinces": [
+   {
+    "id": 919,
+    "lat": 39.64,
+    "lon": 35.7,
+    "vp": 5.0,
+    "borders_states": [
+     348,
+     349,
+     355
+    ]
+   },
+   {
+    "id": 3807,
+    "lat": 38.92,
+    "lon": 34.48,
+    "borders_states": [
+     346,
+     348
+    ]
+   },
+   {
+    "id": 3862,
+    "lat": 39.54,
+    "lon": 34.09,
+    "name": "Yozgat",
+    "vp": 3.0,
+    "borders_states": [
+     49,
+     356
+    ]
+   },
+   {
+    "id": 3964,
+    "lat": 39.28,
+    "lon": 35.23,
+    "borders_states": [
+     348
+    ]
+   },
+   {
+    "id": 11826,
+    "lat": 39.87,
+    "lon": 34.81,
+    "borders_states": [
+     355,
+     356
+    ]
+   },
+   {
+    "id": 11844,
+    "lat": 39.2,
+    "lon": 33.66,
+    "borders_states": [
+     49,
+     346
+    ]
+   }
+  ]
+ },
+ {
+  "id": 799,
+  "name": "Hatay",
+  "file": "799-Hatay.txt",
+  "owner": "TUR",
+  "cores": [
+   "TUR"
+  ],
+  "claims": [
+   "SYR"
+  ],
+  "manpower": 1239909,
+  "category": "large_town",
+  "centroid": [
+   36.24,
+   36.04
+  ],
+  "neighbour_states": [
+   344,
+   677
+  ],
+  "provinces": [
+   {
+    "id": 12029,
+    "lat": 36.24,
+    "lon": 36.04,
+    "name": "Antakya",
+    "vp": 1.0,
+    "borders_states": [
+     344,
+     677
+    ]
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "name": "Bucovina",
+  "file": "80-Bocovina.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [
+   "ROM"
+  ],
+  "manpower": 930000,
+  "category": "town",
+  "centroid": [
+   48.22,
+   26.08
+  ],
+  "neighbour_states": [
+   76,
+   78,
+   79,
+   89,
+   91,
+   199
+  ],
+  "provinces": [
+   {
+    "id": 577,
+    "lat": 48.4,
+    "lon": 26.01,
+    "name": "Cernăuti",
+    "vp": 1.0,
+    "borders_states": [
+     79,
+     89,
+     91
+    ]
+   },
+   {
+    "id": 3407,
+    "lat": 48.34,
+    "lon": 26.75,
+    "borders_states": [
+     78,
+     79,
+     91,
+     199
+    ]
+   },
+   {
+    "id": 9548,
+    "lat": 48.03,
+    "lon": 25.54,
+    "borders_states": [
+     76,
+     79,
+     89
+    ]
+   }
+  ]
+ },
+ {
+  "id": 801,
+  "name": "Moesia",
+  "file": "801-Moesia.txt",
+  "owner": "BUL",
+  "cores": [
+   "BUL"
+  ],
+  "claims": [],
+  "manpower": 1224049,
+  "category": "town",
+  "centroid": [
+   43.21,
+   25.32
+  ],
+  "neighbour_states": [
+   46,
+   48,
+   77,
+   81,
+   211,
+   212
+  ],
+  "provinces": [
+   {
+    "id": 3796,
+    "lat": 43.41,
+    "lon": 24.6,
+    "name": "Pleven",
+    "vp": 3.0,
+    "borders_states": [
+     46,
+     48,
+     81
+    ]
+   },
+   {
+    "id": 3819,
+    "lat": 42.84,
+    "lon": 25.19,
+    "borders_states": [
+     212
+    ]
+   },
+   {
+    "id": 3952,
+    "lat": 42.95,
+    "lon": 24.47,
+    "borders_states": [
+     48,
+     212
+    ]
+   },
+   {
+    "id": 6842,
+    "lat": 42.95,
+    "lon": 25.88,
+    "borders_states": [
+     211,
+     212
+    ]
+   },
+   {
+    "id": 9610,
+    "lat": 43.39,
+    "lon": 25.29,
+    "borders_states": [
+     46
+    ]
+   },
+   {
+    "id": 9612,
+    "lat": 43.59,
+    "lon": 26.11,
+    "name": "Ruse",
+    "vp": 3.0,
+    "borders_states": [
+     46,
+     77,
+     211
+    ]
+   }
+  ]
+ },
+ {
+  "id": 802,
+  "name": "Kosovo",
+  "file": "802-Kosovo.txt",
+  "owner": "SER",
+  "cores": [
+   "SER",
+   "YUG",
+   "ALB"
+  ],
+  "claims": [],
+  "manpower": 1900000,
+  "category": "rural",
+  "centroid": [
+   42.7,
+   20.95
+  ],
+  "neighbour_states": [
+   105,
+   106,
+   108,
+   803,
+   934,
+   970
+  ],
+  "provinces": [
+   {
+    "id": 6940,
+    "lat": 42.91,
+    "lon": 20.61,
+    "name": "Prishtina",
+    "vp": 3.0,
+    "borders_states": [
+     105,
+     108
+    ]
+   },
+   {
+    "id": 9849,
+    "lat": 42.46,
+    "lon": 20.61,
+    "name": "Prizren",
+    "borders_states": [
+     105,
+     934,
+     970
+    ]
+   },
+   {
+    "id": 9874,
+    "lat": 42.53,
+    "lon": 21.32,
+    "borders_states": [
+     106,
+     108,
+     803,
+     970
+    ]
+   },
+   {
+    "id": 9890,
+    "lat": 42.97,
+    "lon": 21.31,
+    "borders_states": [
+     108
+    ]
+   }
+  ]
+ },
+ {
+  "id": 803,
+  "name": "Southern Serbia",
+  "file": "803-Southern Serbia.txt",
+  "owner": "SER",
+  "cores": [
+   "SER",
+   "YUG"
+  ],
+  "claims": [
+   "BUL",
+   "ALB"
+  ],
+  "manpower": 452000,
+  "category": "rural",
+  "centroid": [
+   42.75,
+   22.26
+  ],
+  "neighbour_states": [
+   48,
+   106,
+   108,
+   802
+  ],
+  "provinces": [
+   {
+    "id": 11832,
+    "lat": 42.38,
+    "lon": 21.83,
+    "borders_states": [
+     106,
+     108,
+     802
+    ]
+   },
+   {
+    "id": 11857,
+    "lat": 42.66,
+    "lon": 22.31,
+    "name": "Leskovac",
+    "vp": 1.0,
+    "borders_states": [
+     48,
+     106,
+     108
+    ]
+   },
+   {
+    "id": 11868,
+    "lat": 43.18,
+    "lon": 22.62,
+    "borders_states": [
+     48,
+     108
+    ]
+   }
+  ]
+ },
+ {
+  "id": 804,
+  "name": "Herzegovina",
+  "file": "804-Herzegovina.txt",
+  "owner": "BOS",
+  "cores": [
+   "BOS",
+   "HRZ",
+   "YUG",
+   "CRO"
+  ],
+  "claims": [
+   "SER"
+  ],
+  "manpower": 470000,
+  "category": "town",
+  "centroid": [
+   43.46,
+   18.04
+  ],
+  "neighbour_states": [
+   103,
+   104,
+   105
+  ],
+  "provinces": [
+   {
+    "id": 953,
+    "lat": 43.6,
+    "lon": 18.49,
+    "borders_states": [
+     104,
+     105
+    ]
+   },
+   {
+    "id": 6942,
+    "lat": 43.68,
+    "lon": 17.36,
+    "borders_states": [
+     103,
+     104
+    ]
+   },
+   {
+    "id": 9894,
+    "lat": 43.41,
+    "lon": 17.8,
+    "name": "Mostar",
+    "vp": 3.0,
+    "borders_states": [
+     103,
+     104
+    ]
+   },
+   {
+    "id": 11845,
+    "lat": 43.19,
+    "lon": 18.36,
+    "borders_states": [
+     103,
+     105
+    ]
+   }
+  ]
+ },
+ {
+  "id": 805,
+  "name": "Northern Epirus",
+  "file": "805-Northern Epirus.txt",
+  "owner": "ALB",
+  "cores": [
+   "ALB"
+  ],
+  "claims": [
+   "GRE"
+  ],
+  "manpower": 225000,
+  "category": "rural",
+  "centroid": [
+   40.22,
+   20.41
+  ],
+  "neighbour_states": [
+   44,
+   185,
+   970
+  ],
+  "provinces": [
+   {
+    "id": 914,
+    "lat": 39.99,
+    "lon": 20.18,
+    "name": "Gjirokastër",
+    "vp": 1.0,
+    "borders_states": [
+     44,
+     185
+    ]
+   },
+   {
+    "id": 13234,
+    "lat": 40.31,
+    "lon": 20.5,
+    "borders_states": [
+     44,
+     185
+    ]
+   },
+   {
+    "id": 13235,
+    "lat": 40.61,
+    "lon": 20.81,
+    "borders_states": [
+     44,
+     185,
+     970
+    ]
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "name": "Oltenia",
+  "file": "81-Oltenia.txt",
+  "owner": "ROM",
+  "cores": [
+   "ROM"
+  ],
+  "claims": [],
+  "manpower": 2413068,
+  "category": "town",
+  "centroid": [
+   44.58,
+   23.62
+  ],
+  "neighbour_states": [
+   46,
+   48,
+   82,
+   84,
+   108,
+   801
+  ],
+  "provinces": [
+   {
+    "id": 637,
+    "lat": 44.71,
+    "lon": 24.17,
+    "borders_states": [
+     46
+    ]
+   },
+   {
+    "id": 3630,
+    "lat": 44.05,
+    "lon": 23.31,
+    "borders_states": [
+     48
+    ]
+   },
+   {
+    "id": 3645,
+    "lat": 44.82,
+    "lon": 23.54
+   },
+   {
+    "id": 6652,
+    "lat": 44.35,
+    "lon": 23.7,
+    "name": "Craiova",
+    "vp": 1.0
+   },
+   {
+    "id": 6667,
+    "lat": 45.1,
+    "lon": 22.98,
+    "borders_states": [
+     82,
+     84
+    ]
+   },
+   {
+    "id": 11588,
+    "lat": 43.94,
+    "lon": 24.31,
+    "borders_states": [
+     46,
+     48,
+     801
+    ]
+   },
+   {
+    "id": 11605,
+    "lat": 45.28,
+    "lon": 23.88,
+    "borders_states": [
+     46,
+     84
+    ]
+   },
+   {
+    "id": 11657,
+    "lat": 44.58,
+    "lon": 22.84,
+    "borders_states": [
+     48,
+     82,
+     108
+    ]
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "name": "Banat",
+  "file": "82-Banat.txt",
+  "owner": "ROM",
+  "cores": [
+   "ROM"
+  ],
+  "claims": [
+   "HUN"
+  ],
+  "manpower": 1047044,
+  "category": "large_town",
+  "centroid": [
+   45.54,
+   21.72
+  ],
+  "neighbour_states": [
+   81,
+   83,
+   84,
+   107,
+   108,
+   154,
+   764
+  ],
+  "provinces": [
+   {
+    "id": 646,
+    "lat": 45.99,
+    "lon": 20.88,
+    "borders_states": [
+     83,
+     154,
+     764
+    ]
+   },
+   {
+    "id": 662,
+    "lat": 45.71,
+    "lon": 22.27,
+    "borders_states": [
+     83,
+     84
+    ]
+   },
+   {
+    "id": 3649,
+    "lat": 44.96,
+    "lon": 21.93,
+    "borders_states": [
+     81,
+     107,
+     108,
+     764
+    ]
+   },
+   {
+    "id": 9606,
+    "lat": 45.54,
+    "lon": 21.33,
+    "name": "Timisoara",
+    "vp": 3.0,
+    "borders_states": [
+     764
+    ]
+   },
+   {
+    "id": 11592,
+    "lat": 45.32,
+    "lon": 22.19,
+    "borders_states": [
+     81,
+     84
+    ]
+   },
+   {
+    "id": 11608,
+    "lat": 45.93,
+    "lon": 21.72,
+    "borders_states": [
+     83
+    ]
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "name": "Crisana",
+  "file": "83-crisana.txt",
+  "owner": "ROM",
+  "cores": [
+   "ROM",
+   "TRA"
+  ],
+  "claims": [
+   "HUN"
+  ],
+  "manpower": 602749,
+  "category": "town",
+  "centroid": [
+   46.47,
+   21.98
+  ],
+  "neighbour_states": [
+   76,
+   82,
+   84,
+   154
+  ],
+  "provinces": [
+   {
+    "id": 696,
+    "lat": 46.68,
+    "lon": 22.45,
+    "borders_states": [
+     76,
+     84
+    ]
+   },
+   {
+    "id": 6682,
+    "lat": 46.28,
+    "lon": 21.47,
+    "name": "Arad",
+    "vp": 1.0,
+    "borders_states": [
+     82,
+     154
+    ]
+   },
+   {
+    "id": 6697,
+    "lat": 46.63,
+    "lon": 21.76,
+    "borders_states": [
+     76,
+     154
+    ]
+   },
+   {
+    "id": 9640,
+    "lat": 46.28,
+    "lon": 22.36,
+    "borders_states": [
+     82,
+     84
+    ]
+   }
+  ]
+ },
+ {
+  "id": 834,
+  "name": "Balta-Tiraspol",
+  "file": "834 - Balta.txt",
+  "owner": "UKR",
+  "cores": [
+   "UKR"
+  ],
+  "claims": [],
+  "manpower": 280000,
+  "category": "rural",
+  "centroid": [
+   47.91,
+   29.98
+  ],
+  "neighbour_states": [
+   192,
+   198,
+   203,
+   1082
+  ],
+  "provinces": [
+   {
+    "id": 3757,
+    "lat": 47.91,
+    "lon": 29.98,
+    "name": "Balta",
+    "vp": 2.0,
+    "borders_states": [
+     192,
+     198,
+     203,
+     1082
+    ]
+   }
+  ]
+ },
+ {
+  "id": 84,
+  "name": "Transylvania",
+  "file": "84-Transylvania.txt",
+  "owner": "ROM",
+  "cores": [
+   "ROM",
+   "TRA"
+  ],
+  "claims": [
+   "HUN"
+  ],
+  "manpower": 1947025,
+  "category": "large_town",
+  "centroid": [
+   45.98,
+   24.06
+  ],
+  "neighbour_states": [
+   46,
+   76,
+   79,
+   81,
+   82,
+   83
+  ],
+  "provinces": [
+   {
+    "id": 676,
+    "lat": 46.22,
+    "lon": 24.09,
+    "borders_states": [
+     76
+    ]
+   },
+   {
+    "id": 690,
+    "lat": 45.61,
+    "lon": 25.94,
+    "name": "Brasov",
+    "vp": 1.0,
+    "borders_states": [
+     46,
+     76,
+     79
+    ]
+   },
+   {
+    "id": 693,
+    "lat": 46.49,
+    "lon": 23.15,
+    "borders_states": [
+     76,
+     83
+    ]
+   },
+   {
+    "id": 3665,
+    "lat": 45.66,
+    "lon": 23.38,
+    "borders_states": [
+     81
+    ]
+   },
+   {
+    "id": 3676,
+    "lat": 45.74,
+    "lon": 25.33,
+    "borders_states": [
+     46,
+     76
+    ]
+   },
+   {
+    "id": 3694,
+    "lat": 46.56,
+    "lon": 23.94,
+    "borders_states": [
+     76
+    ]
+   },
+   {
+    "id": 6679,
+    "lat": 45.75,
+    "lon": 24.04,
+    "borders_states": [
+     81
+    ]
+   },
+   {
+    "id": 6709,
+    "lat": 45.7,
+    "lon": 24.71,
+    "borders_states": [
+     46,
+     81
+    ]
+   },
+   {
+    "id": 9619,
+    "lat": 45.61,
+    "lon": 22.85,
+    "borders_states": [
+     81,
+     82
+    ]
+   },
+   {
+    "id": 11622,
+    "lat": 46.1,
+    "lon": 23.02,
+    "borders_states": [
+     82,
+     83
+    ]
+   },
+   {
+    "id": 11639,
+    "lat": 46.07,
+    "lon": 24.87,
+    "borders_states": [
+     76
+    ]
+   }
+  ]
+ },
+ {
+  "id": 849,
+  "name": "Puglia",
+  "file": "849-Puglia.txt",
+  "owner": "ITA",
+  "cores": [
+   "ITA",
+   "TTS"
+  ],
+  "claims": [],
+  "manpower": 4086000,
+  "category": "city",
+  "centroid": [
+   41.0,
+   16.69
+  ],
+  "neighbour_states": [
+   117,
+   157
+  ],
+  "provinces": [
+   {
+    "id": 883,
+    "lat": 41.36,
+    "lon": 15.74,
+    "name": "Foggia",
+    "vp": 3.0,
+    "borders_states": [
+     117
+    ]
+   },
+   {
+    "id": 6843,
+    "lat": 41.13,
+    "lon": 16.19,
+    "borders_states": [
+     117
+    ]
+   },
+   {
+    "id": 6939,
+    "lat": 41.61,
+    "lon": 15.34,
+    "borders_states": [
+     117,
+     157
+    ]
+   },
+   {
+    "id": 6980,
+    "lat": 41.73,
+    "lon": 15.86
+   },
+   {
+    "id": 6979,
+    "lat": 40.11,
+    "lon": 18.28
+   },
+   {
+    "id": 9784,
+    "lat": 40.98,
+    "lon": 16.78,
+    "name": "Bari",
+    "vp": 3.0,
+    "borders_states": [
+     117
+    ]
+   },
+   {
+    "id": 11837,
+    "lat": 40.67,
+    "lon": 17.34,
+    "name": "Taranto",
+    "vp": 15.0,
+    "borders_states": [
+     117
+    ]
+   },
+   {
+    "id": 11998,
+    "lat": 40.48,
+    "lon": 17.95,
+    "name": "Brindisi",
+    "vp": 3.0
+   }
+  ]
+ },
+ {
+  "id": 934,
+  "name": "Shkodër",
+  "file": "934-Shkoder.txt",
+  "owner": "ALB",
+  "cores": [
+   "ALB"
+  ],
+  "claims": [],
+  "manpower": 717000,
+  "category": "rural",
+  "centroid": [
+   42.01,
+   20.02
+  ],
+  "neighbour_states": [
+   44,
+   105,
+   802,
+   970
+  ],
+  "provinces": [
+   {
+    "id": 3896,
+    "lat": 42.37,
+    "lon": 19.93,
+    "borders_states": [
+     105,
+     802
+    ]
+   },
+   {
+    "id": 9780,
+    "lat": 41.89,
+    "lon": 19.74,
+    "name": "Shkodër",
+    "vp": 3.0,
+    "borders_states": [
+     44,
+     105
+    ]
+   },
+   {
+    "id": 11762,
+    "lat": 41.76,
+    "lon": 20.35,
+    "borders_states": [
+     44,
+     802,
+     970
+    ]
+   }
+  ]
+ },
+ {
+  "id": 970,
+  "name": "STATE_970",
+  "file": "970 - Western Macedonia.txt",
+  "owner": "MAC",
+  "cores": [
+   "MAC",
+   "YUG",
+   "ALB"
+  ],
+  "claims": [
+   "BUL"
+  ],
+  "manpower": 520000,
+  "category": "rural",
+  "centroid": [
+   41.55,
+   20.9
+  ],
+  "neighbour_states": [
+   44,
+   106,
+   185,
+   802,
+   805,
+   934
+  ],
+  "provinces": [
+   {
+    "id": 833,
+    "lat": 41.54,
+    "lon": 20.77,
+    "name": "Debar",
+    "vp": 2.0,
+    "borders_states": [
+     44,
+     106,
+     934
+    ]
+   },
+   {
+    "id": 867,
+    "lat": 41.99,
+    "lon": 20.94,
+    "name": "Tetovo",
+    "vp": 1.0,
+    "borders_states": [
+     106,
+     802,
+     934
+    ]
+   },
+   {
+    "id": 11856,
+    "lat": 41.12,
+    "lon": 21.0,
+    "borders_states": [
+     44,
+     106,
+     185,
+     805
+    ]
+   }
+  ]
+ },
+ {
+  "id": 971,
+  "name": "STATE_971",
+  "file": "971 - Northern Dobruja.txt",
+  "owner": "ROM",
+  "cores": [
+   "ROM"
+  ],
+  "claims": [],
+  "manpower": 1005618,
+  "category": "large_town",
+  "centroid": [
+   44.65,
+   28.63
+  ],
+  "neighbour_states": [
+   46,
+   77,
+   79,
+   766
+  ],
+  "provinces": [
+   {
+    "id": 657,
+    "lat": 43.96,
+    "lon": 28.25,
+    "name": "Constanta",
+    "vp": 3.0,
+    "borders_states": [
+     46,
+     77
+    ]
+   },
+   {
+    "id": 9635,
+    "lat": 44.5,
+    "lon": 28.55,
+    "borders_states": [
+     46
+    ]
+   },
+   {
+    "id": 3076,
+    "lat": 45.0,
+    "lon": 28.25,
+    "borders_states": [
+     46,
+     79,
+     766
+    ]
+   },
+   {
+    "id": 687,
+    "lat": 45.04,
+    "lon": 29.23,
+    "borders_states": [
+     766
+    ]
+   }
+  ]
+ },
+ {
+  "id": 973,
+  "name": "STATE_973",
+  "file": "973 - Bacs.txt",
+  "owner": "HUN",
+  "cores": [
+   "HUN"
+  ],
+  "claims": [],
+  "manpower": 747000,
+  "category": "large_town",
+  "centroid": [
+   46.57,
+   19.35
+  ],
+  "neighbour_states": [
+   43,
+   45,
+   154,
+   155,
+   764,
+   974
+  ],
+  "provinces": [
+   {
+    "id": 6670,
+    "lat": 46.29,
+    "lon": 19.08,
+    "name": "Baja",
+    "vp": 1.0,
+    "borders_states": [
+     45,
+     974
+    ]
+   },
+   {
+    "id": 6700,
+    "lat": 46.58,
+    "lon": 19.73,
+    "name": "Szeged",
+    "vp": 2.0,
+    "borders_states": [
+     43,
+     45,
+     154,
+     764
+    ]
+   },
+   {
+    "id": 11625,
+    "lat": 46.83,
+    "lon": 19.11,
+    "borders_states": [
+     43,
+     155,
+     974
+    ]
+   }
+  ]
+ },
+ {
+  "id": 974,
+  "name": "STATE_974",
+  "file": "974 - South Transdanubia.txt",
+  "owner": "HUN",
+  "cores": [
+   "HUN"
+  ],
+  "claims": [],
+  "manpower": 992000,
+  "category": "large_town",
+  "centroid": [
+   46.42,
+   18.03
+  ],
+  "neighbour_states": [
+   45,
+   109,
+   155,
+   973
+  ],
+  "provinces": [
+   {
+    "id": 682,
+    "lat": 46.78,
+    "lon": 17.83,
+    "borders_states": [
+     155
+    ]
+   },
+   {
+    "id": 3680,
+    "lat": 46.69,
+    "lon": 18.51,
+    "borders_states": [
+     155,
+     973
+    ]
+   },
+   {
+    "id": 6685,
+    "lat": 46.47,
+    "lon": 17.73,
+    "borders_states": [
+     155
+    ]
+   },
+   {
+    "id": 9624,
+    "lat": 46.15,
+    "lon": 17.53,
+    "borders_states": [
+     109,
+     155
+    ]
+   },
+   {
+    "id": 9643,
+    "lat": 46.17,
+    "lon": 18.53,
+    "borders_states": [
+     45,
+     109,
+     973
+    ]
+   },
+   {
+    "id": 11610,
+    "lat": 46.19,
+    "lon": 18.14,
+    "name": "Pecs",
+    "vp": 5.0,
+    "borders_states": [
+     109
+    ]
+   }
+  ]
+ },
+ {
+  "id": 975,
+  "name": "STATE_975",
+  "file": "975 - Burgenland.txt",
+  "owner": "AUS",
+  "cores": [
+   "AUS"
+  ],
+  "claims": [
+   "HUN"
+  ],
+  "manpower": 278000,
+  "category": "rural",
+  "centroid": [
+   47.68,
+   16.54
+  ],
+  "neighbour_states": [
+   4,
+   70,
+   102,
+   155,
+   664,
+   976
+  ],
+  "provinces": [
+   {
+    "id": 3700,
+    "lat": 48.04,
+    "lon": 16.86,
+    "name": "Eisenstadt",
+    "vp": 1.0,
+    "borders_states": [
+     4,
+     70,
+     155,
+     664
+    ]
+   },
+   {
+    "id": 9661,
+    "lat": 47.67,
+    "lon": 16.42,
+    "borders_states": [
+     4,
+     155
+    ]
+   },
+   {
+    "id": 11630,
+    "lat": 47.25,
+    "lon": 16.25,
+    "borders_states": [
+     4,
+     102,
+     155,
+     976
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,3972 @@
+[
+ {
+  "id": 178,
+  "name": "Islas Canarias",
+  "file": "178-Canary islands.txt",
+  "owner": "SPR",
+  "cores": [
+   "SPR"
+  ],
+  "claims": [],
+  "manpower": 1716000,
+  "category": "small_island",
+  "centroid": [
+   27.91,
+   -16.11
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13071,
+    "lat": 27.91,
+    "lon": -16.11,
+    "name": "Santa Cruz de Tenerife",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 272,
+  "name": "Senegal",
+  "file": "272-French Africa.txt",
+  "owner": "SEN",
+  "cores": [
+   "SEN"
+  ],
+  "claims": [],
+  "manpower": 9600000,
+  "category": "town",
+  "centroid": [
+   14.1,
+   -15.45
+  ],
+  "neighbour_states": [
+   296,
+   557,
+   701,
+   780,
+   899
+  ],
+  "provinces": [
+   {
+    "id": 2100,
+    "lat": 12.49,
+    "lon": -13.37,
+    "borders_states": [
+     780,
+     899
+    ]
+   },
+   {
+    "id": 4948,
+    "lat": 14.72,
+    "lon": -17.47,
+    "name": "Dakar",
+    "vp": 5.0,
+    "borders_states": [
+     557
+    ]
+   },
+   {
+    "id": 7972,
+    "lat": 13.55,
+    "lon": -16.13,
+    "borders_states": [
+     701
+    ]
+   },
+   {
+    "id": 8015,
+    "lat": 14.35,
+    "lon": -13.98,
+    "borders_states": [
+     557,
+     899
+    ]
+   },
+   {
+    "id": 12710,
+    "lat": 15.23,
+    "lon": -15.82,
+    "borders_states": [
+     557
+    ]
+   },
+   {
+    "id": 12834,
+    "lat": 12.4,
+    "lon": -16.04,
+    "borders_states": [
+     296,
+     701,
+     780
+    ]
+   }
+  ]
+ },
+ {
+  "id": 273,
+  "name": "Libyan Desert",
+  "file": "273-Italian Africa.txt",
+  "owner": "LBA",
+  "cores": [
+   "LBA"
+  ],
+  "claims": [],
+  "manpower": 500000,
+  "category": "pastoral",
+  "centroid": [
+   25.99,
+   18.0
+  ],
+  "neighbour_states": [
+   452,
+   514,
+   515,
+   552,
+   661,
+   662,
+   663,
+   665,
+   767,
+   775
+  ],
+  "provinces": [
+   {
+    "id": 1057,
+    "lat": 26.62,
+    "lon": 21.85
+   },
+   {
+    "id": 1060,
+    "lat": 30.24,
+    "lon": 24.06,
+    "borders_states": [
+     452,
+     552,
+     663
+    ]
+   },
+   {
+    "id": 1140,
+    "lat": 28.83,
+    "lon": 22.93,
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 1994,
+    "lat": 24.57,
+    "lon": 18.27,
+    "borders_states": [
+     775
+    ]
+   },
+   {
+    "id": 4191,
+    "lat": 22.88,
+    "lon": 22.46,
+    "borders_states": [
+     552,
+     767,
+     775
+    ]
+   },
+   {
+    "id": 4962,
+    "lat": 30.09,
+    "lon": 13.86,
+    "borders_states": [
+     661
+    ]
+   },
+   {
+    "id": 5004,
+    "lat": 25.79,
+    "lon": 11.35,
+    "borders_states": [
+     514,
+     515
+    ]
+   },
+   {
+    "id": 7985,
+    "lat": 28.21,
+    "lon": 17.77,
+    "borders_states": [
+     662
+    ]
+   },
+   {
+    "id": 10104,
+    "lat": 26.98,
+    "lon": 23.96,
+    "borders_states": [
+     552
+    ]
+   },
+   {
+    "id": 10754,
+    "lat": 28.12,
+    "lon": 20.04,
+    "borders_states": [
+     662
+    ]
+   },
+   {
+    "id": 10785,
+    "lat": 29.65,
+    "lon": 21.51,
+    "borders_states": [
+     662,
+     663
+    ]
+   },
+   {
+    "id": 10884,
+    "lat": 29.76,
+    "lon": 11.35,
+    "borders_states": [
+     514,
+     661,
+     665
+    ]
+   },
+   {
+    "id": 11951,
+    "lat": 30.37,
+    "lon": 23.0,
+    "borders_states": [
+     663
+    ]
+   },
+   {
+    "id": 12022,
+    "lat": 24.37,
+    "lon": 14.28,
+    "borders_states": [
+     515,
+     775
+    ]
+   },
+   {
+    "id": 12082,
+    "lat": 28.16,
+    "lon": 15.03
+   },
+   {
+    "id": 12866,
+    "lat": 29.43,
+    "lon": 16.29,
+    "borders_states": [
+     661,
+     662
+    ]
+   }
+  ]
+ },
+ {
+  "id": 274,
+  "name": "Ghana",
+  "file": "274-British Africa.txt",
+  "owner": "GHA",
+  "cores": [
+   "GHA"
+  ],
+  "claims": [],
+  "manpower": 18900000,
+  "category": "large_town",
+  "centroid": [
+   7.45,
+   -0.9
+  ],
+  "neighbour_states": [
+   777,
+   778,
+   779
+  ],
+  "provinces": [
+   {
+    "id": 8039,
+    "lat": 9.07,
+    "lon": -0.3,
+    "borders_states": [
+     777,
+     778
+    ]
+   },
+   {
+    "id": 8096,
+    "lat": 9.4,
+    "lon": -1.74,
+    "borders_states": [
+     778,
+     779
+    ]
+   },
+   {
+    "id": 10862,
+    "lat": 5.6,
+    "lon": -0.19,
+    "name": "Accra",
+    "vp": 1.0
+   },
+   {
+    "id": 12742,
+    "lat": 5.01,
+    "lon": -1.72,
+    "borders_states": [
+     779
+    ]
+   },
+   {
+    "id": 12785,
+    "lat": 6.93,
+    "lon": 0.66,
+    "borders_states": [
+     777
+    ]
+   },
+   {
+    "id": 12787,
+    "lat": 7.01,
+    "lon": -1.07,
+    "name": "Kumasi",
+    "borders_states": [
+     779
+    ]
+   },
+   {
+    "id": 13136,
+    "lat": 6.07,
+    "lon": 0.47,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 296,
+  "name": "Guinea-Bissau",
+  "file": "296-Portugal Africa.txt",
+  "owner": "GNB",
+  "cores": [
+   "GNB"
+  ],
+  "claims": [],
+  "manpower": 1200000,
+  "category": "enclave",
+  "centroid": [
+   11.31,
+   -16.05
+  ],
+  "neighbour_states": [
+   272,
+   780
+  ],
+  "provinces": [
+   {
+    "id": 12747,
+    "lat": 11.12,
+    "lon": -15.49,
+    "borders_states": [
+     272,
+     780
+    ]
+   },
+   {
+    "id": 12891,
+    "lat": 11.5,
+    "lon": -16.6,
+    "name": "Bissau",
+    "vp": 1.0,
+    "borders_states": [
+     272
+    ]
+   }
+  ]
+ },
+ {
+  "id": 297,
+  "name": "Equatorial Guinea",
+  "file": "297-Belgian Africa.txt",
+  "owner": "EQG",
+  "cores": [
+   "EQG"
+  ],
+  "claims": [],
+  "manpower": 580000,
+  "category": "enclave",
+  "centroid": [
+   1.52,
+   9.84
+  ],
+  "neighbour_states": [
+   539,
+   773
+  ],
+  "provinces": [
+   {
+    "id": 1903,
+    "lat": 3.23,
+    "lon": 8.2,
+    "name": "Malabo",
+    "vp": 1.0
+   },
+   {
+    "id": 8244,
+    "lat": 1.39,
+    "lon": 9.96,
+    "borders_states": [
+     539,
+     773
+    ]
+   }
+  ]
+ },
+ {
+  "id": 298,
+  "name": "Liberia",
+  "file": "298-Liberia.txt",
+  "owner": "LIB",
+  "cores": [
+   "LIB"
+  ],
+  "claims": [],
+  "manpower": 2850000,
+  "category": "rural",
+  "centroid": [
+   4.11,
+   -9.53
+  ],
+  "neighbour_states": [
+   700,
+   779,
+   780
+  ],
+  "provinces": [
+   {
+    "id": 7959,
+    "lat": 4.8,
+    "lon": -10.44,
+    "name": "Monrovia",
+    "vp": 3.0,
+    "borders_states": [
+     700,
+     780
+    ]
+   },
+   {
+    "id": 8006,
+    "lat": 3.49,
+    "lon": -8.73,
+    "borders_states": [
+     779,
+     780
+    ]
+   }
+  ]
+ },
+ {
+  "id": 448,
+  "name": "Tripoli",
+  "file": "448-Tripoli.txt",
+  "owner": "LBA",
+  "cores": [
+   "LBA"
+  ],
+  "claims": [],
+  "manpower": 2660000,
+  "category": "large_city",
+  "centroid": [
+   32.66,
+   13.72
+  ],
+  "neighbour_states": [
+   449,
+   661,
+   665
+  ],
+  "provinces": [
+   {
+    "id": 1118,
+    "lat": 31.82,
+    "lon": 15.41,
+    "borders_states": [
+     449,
+     661
+    ]
+   },
+   {
+    "id": 1149,
+    "lat": 32.89,
+    "lon": 13.19,
+    "name": "Tripoli",
+    "vp": 10.0,
+    "borders_states": [
+     661
+    ]
+   },
+   {
+    "id": 1189,
+    "lat": 32.8,
+    "lon": 12.61,
+    "borders_states": [
+     661
+    ]
+   },
+   {
+    "id": 4194,
+    "lat": 32.79,
+    "lon": 13.75,
+    "borders_states": [
+     661
+    ]
+   },
+   {
+    "id": 7066,
+    "lat": 32.29,
+    "lon": 14.31,
+    "borders_states": [
+     661
+    ]
+   },
+   {
+    "id": 7209,
+    "lat": 32.77,
+    "lon": 14.42
+   },
+   {
+    "id": 9980,
+    "lat": 32.44,
+    "lon": 15.04,
+    "borders_states": [
+     661
+    ]
+   },
+   {
+    "id": 12039,
+    "lat": 33.17,
+    "lon": 11.94,
+    "borders_states": [
+     661,
+     665
+    ]
+   }
+  ]
+ },
+ {
+  "id": 449,
+  "name": "El Agheila",
+  "file": "449-Libyan Coast.txt",
+  "owner": "LBA",
+  "cores": [
+   "LBA"
+  ],
+  "claims": [],
+  "manpower": 140000,
+  "category": "pastoral",
+  "centroid": [
+   30.8,
+   17.75
+  ],
+  "neighbour_states": [
+   448,
+   450,
+   661,
+   662
+  ],
+  "provinces": [
+   {
+    "id": 1041,
+    "lat": 31.4,
+    "lon": 16.03,
+    "borders_states": [
+     448,
+     661
+    ]
+   },
+   {
+    "id": 1198,
+    "lat": 30.34,
+    "lon": 19.55,
+    "borders_states": [
+     450,
+     662
+    ]
+   },
+   {
+    "id": 4047,
+    "lat": 31.13,
+    "lon": 16.67,
+    "borders_states": [
+     661,
+     662
+    ]
+   },
+   {
+    "id": 4057,
+    "lat": 30.2,
+    "lon": 18.95,
+    "borders_states": [
+     662
+    ]
+   },
+   {
+    "id": 10046,
+    "lat": 31.07,
+    "lon": 17.3,
+    "borders_states": [
+     662
+    ]
+   },
+   {
+    "id": 10117,
+    "lat": 30.81,
+    "lon": 17.92,
+    "borders_states": [
+     662
+    ]
+   },
+   {
+    "id": 12088,
+    "lat": 30.43,
+    "lon": 18.42,
+    "borders_states": [
+     662
+    ]
+   }
+  ]
+ },
+ {
+  "id": 450,
+  "name": "Benghasi",
+  "file": "450-Benghasi.txt",
+  "owner": "LBA",
+  "cores": [
+   "LBA"
+  ],
+  "claims": [],
+  "manpower": 830000,
+  "category": "city",
+  "centroid": [
+   31.59,
+   20.2
+  ],
+  "neighbour_states": [
+   449,
+   451,
+   662,
+   663
+  ],
+  "provinces": [
+   {
+    "id": 1127,
+    "lat": 30.83,
+    "lon": 20.01,
+    "borders_states": [
+     449,
+     662,
+     663
+    ]
+   },
+   {
+    "id": 4120,
+    "lat": 31.58,
+    "lon": 20.3,
+    "borders_states": [
+     663
+    ]
+   },
+   {
+    "id": 10123,
+    "lat": 32.45,
+    "lon": 20.52,
+    "borders_states": [
+     451,
+     663
+    ]
+   },
+   {
+    "id": 11954,
+    "lat": 32.07,
+    "lon": 20.12,
+    "name": "Bengasi",
+    "vp": 3.0,
+    "borders_states": [
+     663
+    ]
+   }
+  ]
+ },
+ {
+  "id": 451,
+  "name": "Derna",
+  "file": "451-Derna.txt",
+  "owner": "LBA",
+  "cores": [
+   "LBA"
+  ],
+  "claims": [],
+  "manpower": 440000,
+  "category": "town",
+  "centroid": [
+   32.36,
+   22.8
+  ],
+  "neighbour_states": [
+   450,
+   452,
+   663
+  ],
+  "provinces": [
+   {
+    "id": 1130,
+    "lat": 32.01,
+    "lon": 23.59,
+    "name": "Tobruk",
+    "vp": 5.0,
+    "borders_states": [
+     663
+    ]
+   },
+   {
+    "id": 1204,
+    "lat": 32.73,
+    "lon": 22.04,
+    "borders_states": [
+     663
+    ]
+   },
+   {
+    "id": 4136,
+    "lat": 31.86,
+    "lon": 24.11,
+    "borders_states": [
+     663
+    ]
+   },
+   {
+    "id": 4151,
+    "lat": 32.83,
+    "lon": 21.59,
+    "borders_states": [
+     663
+    ]
+   },
+   {
+    "id": 7082,
+    "lat": 32.61,
+    "lon": 22.56,
+    "borders_states": [
+     663
+    ]
+   },
+   {
+    "id": 9992,
+    "lat": 32.27,
+    "lon": 23.07,
+    "borders_states": [
+     663
+    ]
+   },
+   {
+    "id": 10120,
+    "lat": 31.83,
+    "lon": 24.6,
+    "borders_states": [
+     452,
+     663
+    ]
+   },
+   {
+    "id": 12094,
+    "lat": 32.67,
+    "lon": 20.99,
+    "borders_states": [
+     450,
+     663
+    ]
+   }
+  ]
+ },
+ {
+  "id": 461,
+  "name": "Casablanca",
+  "file": "461-Northern Morocco.txt",
+  "owner": "MOR",
+  "cores": [
+   "MOR"
+  ],
+  "claims": [],
+  "manpower": 15820000,
+  "category": "metropolis",
+  "centroid": [
+   33.77,
+   -5.43
+  ],
+  "neighbour_states": [
+   290,
+   459,
+   462,
+   513,
+   1088
+  ],
+  "provinces": [
+   {
+    "id": 989,
+    "lat": 34.87,
+    "lon": -2.06,
+    "borders_states": [
+     459,
+     513,
+     1088
+    ]
+   },
+   {
+    "id": 1079,
+    "lat": 33.62,
+    "lon": -6.61
+   },
+   {
+    "id": 1111,
+    "lat": 34.35,
+    "lon": -2.87,
+    "borders_states": [
+     462,
+     1088
+    ]
+   },
+   {
+    "id": 1194,
+    "lat": 34.85,
+    "lon": -5.94,
+    "borders_states": [
+     290
+    ]
+   },
+   {
+    "id": 4084,
+    "lat": 33.27,
+    "lon": -6.02,
+    "borders_states": [
+     462
+    ]
+   },
+   {
+    "id": 4097,
+    "lat": 34.67,
+    "lon": -3.73,
+    "borders_states": [
+     290,
+     1088
+    ]
+   },
+   {
+    "id": 4139,
+    "lat": 32.38,
+    "lon": -7.73,
+    "borders_states": [
+     462
+    ]
+   },
+   {
+    "id": 7069,
+    "lat": 33.57,
+    "lon": -7.59,
+    "name": "Casablanca",
+    "vp": 10.0
+   },
+   {
+    "id": 7100,
+    "lat": 34.1,
+    "lon": -5.61
+   },
+   {
+    "id": 7116,
+    "lat": 34.04,
+    "lon": -2.05,
+    "borders_states": [
+     462,
+     513
+    ]
+   },
+   {
+    "id": 7173,
+    "lat": 33.81,
+    "lon": -3.92,
+    "borders_states": [
+     462
+    ]
+   },
+   {
+    "id": 10013,
+    "lat": 34.79,
+    "lon": -5.04,
+    "borders_states": [
+     290
+    ]
+   },
+   {
+    "id": 10023,
+    "lat": 32.97,
+    "lon": -7.09,
+    "borders_states": [
+     462
+    ]
+   },
+   {
+    "id": 10070,
+    "lat": 34.2,
+    "lon": -6.52,
+    "name": "Rabat"
+   },
+   {
+    "id": 11943,
+    "lat": 32.74,
+    "lon": -8.63,
+    "borders_states": [
+     462
+    ]
+   },
+   {
+    "id": 11987,
+    "lat": 34.21,
+    "lon": -4.66
+   },
+   {
+    "id": 12042,
+    "lat": 33.38,
+    "lon": -4.92,
+    "borders_states": [
+     462
+    ]
+   }
+  ]
+ },
+ {
+  "id": 462,
+  "name": "Marrakech",
+  "file": "462-Southern Morocco.txt",
+  "owner": "MOR",
+  "cores": [
+   "MOR"
+  ],
+  "claims": [],
+  "manpower": 9940000,
+  "category": "large_town",
+  "centroid": [
+   31.24,
+   -6.23
+  ],
+  "neighbour_states": [
+   461,
+   513,
+   514,
+   699,
+   783
+  ],
+  "provinces": [
+   {
+    "id": 1102,
+    "lat": 31.37,
+    "lon": -9.21,
+    "borders_states": [
+     461
+    ]
+   },
+   {
+    "id": 1152,
+    "lat": 32.74,
+    "lon": -4.23,
+    "borders_states": [
+     461
+    ]
+   },
+   {
+    "id": 1207,
+    "lat": 32.59,
+    "lon": -5.58,
+    "borders_states": [
+     461
+    ]
+   },
+   {
+    "id": 1989,
+    "lat": 30.39,
+    "lon": -6.61,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 4022,
+    "lat": 29.73,
+    "lon": -8.12,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 4108,
+    "lat": 31.21,
+    "lon": -7.9,
+    "name": "Marrakech",
+    "vp": 1.0,
+    "borders_states": [
+     461
+    ]
+   },
+   {
+    "id": 4154,
+    "lat": 33.37,
+    "lon": -3.01,
+    "borders_states": [
+     461
+    ]
+   },
+   {
+    "id": 4933,
+    "lat": 32.07,
+    "lon": -3.62,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 5046,
+    "lat": 28.5,
+    "lon": -9.87,
+    "borders_states": [
+     514,
+     699,
+     783
+    ]
+   },
+   {
+    "id": 7203,
+    "lat": 30.08,
+    "lon": -9.17,
+    "borders_states": [
+     783
+    ]
+   },
+   {
+    "id": 7908,
+    "lat": 30.93,
+    "lon": -4.68,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 7958,
+    "lat": 33.01,
+    "lon": -1.79,
+    "borders_states": [
+     461,
+     513,
+     514
+    ]
+   },
+   {
+    "id": 8046,
+    "lat": 31.55,
+    "lon": -5.61
+   },
+   {
+    "id": 10107,
+    "lat": 31.86,
+    "lon": -6.67,
+    "borders_states": [
+     461
+    ]
+   }
+  ]
+ },
+ {
+  "id": 513,
+  "name": "Tlemcen",
+  "file": "513-Southern Algeria.txt",
+  "owner": "ALG",
+  "cores": [
+   "ALG"
+  ],
+  "claims": [],
+  "manpower": 8010000,
+  "category": "town",
+  "centroid": [
+   34.55,
+   3.28
+  ],
+  "neighbour_states": [
+   458,
+   459,
+   460,
+   461,
+   462,
+   514,
+   665
+  ],
+  "provinces": [
+   {
+    "id": 1126,
+    "lat": 33.78,
+    "lon": 2.38,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 1128,
+    "lat": 35.66,
+    "lon": 3.3,
+    "borders_states": [
+     459
+    ]
+   },
+   {
+    "id": 1141,
+    "lat": 35.21,
+    "lon": 7.89,
+    "borders_states": [
+     458,
+     460,
+     665
+    ]
+   },
+   {
+    "id": 1967,
+    "lat": 33.86,
+    "lon": 3.76,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 3991,
+    "lat": 34.49,
+    "lon": -1.14,
+    "borders_states": [
+     459,
+     461
+    ]
+   },
+   {
+    "id": 4018,
+    "lat": 34.65,
+    "lon": 2.05
+   },
+   {
+    "id": 4150,
+    "lat": 35.2,
+    "lon": -0.45,
+    "borders_states": [
+     459
+    ]
+   },
+   {
+    "id": 4970,
+    "lat": 33.8,
+    "lon": 6.28,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 5053,
+    "lat": 34.14,
+    "lon": 4.98,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 7008,
+    "lat": 34.66,
+    "lon": -0.09
+   },
+   {
+    "id": 7033,
+    "lat": 35.64,
+    "lon": 4.09,
+    "borders_states": [
+     459,
+     460
+    ]
+   },
+   {
+    "id": 7040,
+    "lat": 35.7,
+    "lon": 2.35,
+    "borders_states": [
+     459
+    ]
+   },
+   {
+    "id": 7149,
+    "lat": 35.03,
+    "lon": 4.47,
+    "borders_states": [
+     460
+    ]
+   },
+   {
+    "id": 9943,
+    "lat": 34.32,
+    "lon": 7.24,
+    "borders_states": [
+     514,
+     665
+    ]
+   },
+   {
+    "id": 9960,
+    "lat": 34.92,
+    "lon": 3.2
+   },
+   {
+    "id": 10045,
+    "lat": 35.2,
+    "lon": 0.71,
+    "borders_states": [
+     459
+    ]
+   },
+   {
+    "id": 10059,
+    "lat": 35.47,
+    "lon": 5.66,
+    "borders_states": [
+     460
+    ]
+   },
+   {
+    "id": 12018,
+    "lat": 33.62,
+    "lon": -0.62,
+    "borders_states": [
+     461,
+     462,
+     514
+    ]
+   },
+   {
+    "id": 12020,
+    "lat": 35.38,
+    "lon": 1.6,
+    "borders_states": [
+     459
+    ]
+   },
+   {
+    "id": 12034,
+    "lat": 35.35,
+    "lon": 6.77,
+    "name": "Batna",
+    "vp": 1.0,
+    "borders_states": [
+     460
+    ]
+   },
+   {
+    "id": 12888,
+    "lat": 34.8,
+    "lon": 6.04
+   },
+   {
+    "id": 13074,
+    "lat": 34.08,
+    "lon": 0.84,
+    "borders_states": [
+     514
+    ]
+   }
+  ]
+ },
+ {
+  "id": 514,
+  "name": "Algerian Desert",
+  "file": "514-North Africa.txt",
+  "owner": "ALG",
+  "cores": [
+   "ALG"
+  ],
+  "claims": [
+   "MOR"
+  ],
+  "manpower": 2080000,
+  "category": "pastoral",
+  "centroid": [
+   26.73,
+   2.46
+  ],
+  "neighbour_states": [
+   273,
+   462,
+   513,
+   515,
+   665,
+   699,
+   782,
+   786
+  ],
+  "provinces": [
+   {
+    "id": 1043,
+    "lat": 29.22,
+    "lon": 7.95,
+    "borders_states": [
+     273
+    ]
+   },
+   {
+    "id": 1095,
+    "lat": 27.78,
+    "lon": -0.59
+   },
+   {
+    "id": 1901,
+    "lat": 28.42,
+    "lon": 3.8
+   },
+   {
+    "id": 1958,
+    "lat": 27.91,
+    "lon": -7.37,
+    "borders_states": [
+     462,
+     699,
+     786
+    ]
+   },
+   {
+    "id": 2049,
+    "lat": 32.35,
+    "lon": 3.12,
+    "borders_states": [
+     513
+    ]
+   },
+   {
+    "id": 4903,
+    "lat": 31.46,
+    "lon": 6.43
+   },
+   {
+    "id": 5035,
+    "lat": 32.59,
+    "lon": 5.15,
+    "borders_states": [
+     513
+    ]
+   },
+   {
+    "id": 5095,
+    "lat": 21.25,
+    "lon": 5.08,
+    "borders_states": [
+     515,
+     782
+    ]
+   },
+   {
+    "id": 7041,
+    "lat": 25.71,
+    "lon": -3.41,
+    "borders_states": [
+     782,
+     786
+    ]
+   },
+   {
+    "id": 8061,
+    "lat": 31.59,
+    "lon": 8.54,
+    "borders_states": [
+     273,
+     665
+    ]
+   },
+   {
+    "id": 8077,
+    "lat": 32.89,
+    "lon": 7.47,
+    "borders_states": [
+     513,
+     665
+    ]
+   },
+   {
+    "id": 8088,
+    "lat": 29.3,
+    "lon": -4.48,
+    "borders_states": [
+     462
+    ]
+   },
+   {
+    "id": 10731,
+    "lat": 30.83,
+    "lon": -1.7,
+    "borders_states": [
+     462
+    ]
+   },
+   {
+    "id": 10749,
+    "lat": 24.22,
+    "lon": 8.08,
+    "borders_states": [
+     273,
+     515
+    ]
+   },
+   {
+    "id": 12711,
+    "lat": 30.51,
+    "lon": 0.83
+   },
+   {
+    "id": 12842,
+    "lat": 32.65,
+    "lon": 0.69,
+    "borders_states": [
+     462,
+     513
+    ]
+   },
+   {
+    "id": 12849,
+    "lat": 23.68,
+    "lon": 1.59,
+    "borders_states": [
+     782
+    ]
+   }
+  ]
+ },
+ {
+  "id": 515,
+  "name": "Southern Sahara",
+  "file": "515-Central Africa.txt",
+  "owner": "NGR",
+  "cores": [
+   "NGR"
+  ],
+  "claims": [],
+  "manpower": 6920000,
+  "category": "rural",
+  "centroid": [
+   17.33,
+   9.96
+  ],
+  "neighbour_states": [
+   273,
+   514,
+   774,
+   775,
+   781,
+   782,
+   898,
+   901,
+   902
+  ],
+  "provinces": [
+   {
+    "id": 1956,
+    "lat": 17.18,
+    "lon": 13.52,
+    "borders_states": [
+     774,
+     775
+    ]
+   },
+   {
+    "id": 4913,
+    "lat": 18.44,
+    "lon": 7.23,
+    "borders_states": [
+     514,
+     782
+    ]
+   },
+   {
+    "id": 7939,
+    "lat": 15.55,
+    "lon": 5.31,
+    "borders_states": [
+     781,
+     782,
+     898
+    ]
+   },
+   {
+    "id": 8028,
+    "lat": 13.74,
+    "lon": 5.87,
+    "borders_states": [
+     781,
+     902
+    ]
+   },
+   {
+    "id": 8128,
+    "lat": 20.65,
+    "lon": 12.37,
+    "borders_states": [
+     273,
+     514,
+     775
+    ]
+   },
+   {
+    "id": 10758,
+    "lat": 13.82,
+    "lon": 8.35,
+    "borders_states": [
+     902
+    ]
+   },
+   {
+    "id": 10780,
+    "lat": 14.16,
+    "lon": 12.15,
+    "borders_states": [
+     774,
+     901
+    ]
+   },
+   {
+    "id": 10805,
+    "lat": 13.86,
+    "lon": 10.41,
+    "borders_states": [
+     901,
+     902
+    ]
+   },
+   {
+    "id": 10917,
+    "lat": 16.44,
+    "lon": 9.74
+   }
+  ]
+ },
+ {
+  "id": 538,
+  "name": "Coquilhatville",
+  "file": "538-Cameroun.txt",
+  "owner": "COG",
+  "cores": [
+   "COG"
+  ],
+  "claims": [],
+  "manpower": 4900000,
+  "category": "rural",
+  "centroid": [
+   0.6,
+   20.67
+  ],
+  "neighbour_states": [
+   295,
+   660,
+   718,
+   772,
+   888,
+   890
+  ],
+  "provinces": [
+   {
+    "id": 988,
+    "lat": 0.84,
+    "lon": 19.55,
+    "name": "Coquilhatville"
+   },
+   {
+    "id": 7219,
+    "lat": -1.45,
+    "lon": 20.95,
+    "borders_states": [
+     295,
+     888
+    ]
+   },
+   {
+    "id": 7931,
+    "lat": 1.8,
+    "lon": 18.24,
+    "borders_states": [
+     772
+    ]
+   },
+   {
+    "id": 8048,
+    "lat": -1.11,
+    "lon": 24.23,
+    "borders_states": [
+     718,
+     888,
+     890
+    ]
+   },
+   {
+    "id": 10071,
+    "lat": -1.22,
+    "lon": 17.71,
+    "borders_states": [
+     295,
+     772
+    ]
+   },
+   {
+    "id": 10883,
+    "lat": 2.58,
+    "lon": 20.62,
+    "borders_states": [
+     718
+    ]
+   },
+   {
+    "id": 10951,
+    "lat": 0.58,
+    "lon": 22.09,
+    "borders_states": [
+     718
+    ]
+   },
+   {
+    "id": 12741,
+    "lat": 3.68,
+    "lon": 21.27,
+    "borders_states": [
+     660,
+     718
+    ]
+   },
+   {
+    "id": 12824,
+    "lat": 4.07,
+    "lon": 19.29,
+    "name": "Gemena",
+    "borders_states": [
+     660,
+     772
+    ]
+   }
+  ]
+ },
+ {
+  "id": 556,
+  "name": "Bamako",
+  "file": "556-Mali.txt",
+  "owner": "MLI",
+  "cores": [
+   "MLI"
+  ],
+  "claims": [],
+  "manpower": 4830000,
+  "category": "town",
+  "centroid": [
+   11.62,
+   -6.34
+  ],
+  "neighbour_states": [
+   778,
+   779,
+   780,
+   898,
+   899
+  ],
+  "provinces": [
+   {
+    "id": 4927,
+    "lat": 12.58,
+    "lon": -6.65,
+    "name": "Bamako",
+    "vp": 1.0,
+    "borders_states": [
+     898,
+     899
+    ]
+   },
+   {
+    "id": 5045,
+    "lat": 9.91,
+    "lon": -7.7,
+    "borders_states": [
+     779,
+     780,
+     899
+    ]
+   },
+   {
+    "id": 8116,
+    "lat": 13.03,
+    "lon": -4.29,
+    "borders_states": [
+     778,
+     898
+    ]
+   },
+   {
+    "id": 12794,
+    "lat": 11.4,
+    "lon": -6.03,
+    "borders_states": [
+     778,
+     779
+    ]
+   }
+  ]
+ },
+ {
+  "id": 557,
+  "name": "Mauritania",
+  "file": "557-Mauritania.txt",
+  "owner": "MRT",
+  "cores": [
+   "MRT"
+  ],
+  "claims": [
+   "MOR"
+  ],
+  "manpower": 1490000,
+  "category": "rural",
+  "centroid": [
+   17.55,
+   -14.58
+  ],
+  "neighbour_states": [
+   272,
+   699,
+   786,
+   899
+  ],
+  "provinces": [
+   {
+    "id": 5034,
+    "lat": 16.98,
+    "lon": -16.47,
+    "name": "Nouakchott",
+    "vp": 1.0,
+    "borders_states": [
+     272
+    ]
+   },
+   {
+    "id": 5077,
+    "lat": 17.01,
+    "lon": -14.93,
+    "borders_states": [
+     272
+    ]
+   },
+   {
+    "id": 7992,
+    "lat": 18.84,
+    "lon": -15.9,
+    "borders_states": [
+     699,
+     786
+    ]
+   },
+   {
+    "id": 8058,
+    "lat": 15.85,
+    "lon": -13.13,
+    "borders_states": [
+     272,
+     786,
+     899
+    ]
+   },
+   {
+    "id": 10814,
+    "lat": 18.03,
+    "lon": -13.17,
+    "borders_states": [
+     786
+    ]
+   }
+  ]
+ },
+ {
+  "id": 558,
+  "name": "Lagos",
+  "file": "558-Nigeria.txt",
+  "owner": "NGA",
+  "cores": [
+   "NGA"
+  ],
+  "claims": [],
+  "manpower": 35690000,
+  "category": "metropolis",
+  "centroid": [
+   7.49,
+   4.23
+  ],
+  "neighbour_states": [
+   776,
+   781,
+   900,
+   902
+  ],
+  "provinces": [
+   {
+    "id": 2050,
+    "lat": 6.52,
+    "lon": 3.38,
+    "name": "Lagos",
+    "vp": 1.0,
+    "borders_states": [
+     776
+    ]
+   },
+   {
+    "id": 4952,
+    "lat": 5.54,
+    "lon": 5.31,
+    "borders_states": [
+     900
+    ]
+   },
+   {
+    "id": 12731,
+    "lat": 7.72,
+    "lon": 3.05,
+    "borders_states": [
+     776
+    ]
+   },
+   {
+    "id": 12817,
+    "lat": 9.31,
+    "lon": 3.83,
+    "borders_states": [
+     776,
+     781,
+     902
+    ]
+   },
+   {
+    "id": 12900,
+    "lat": 7.4,
+    "lon": 5.26,
+    "borders_states": [
+     900,
+     902
+    ]
+   }
+  ]
+ },
+ {
+  "id": 660,
+  "name": "Equatorial Africa",
+  "file": "660-Equatorial Africa.txt",
+  "owner": "CAR",
+  "cores": [
+   "CAR"
+  ],
+  "claims": [],
+  "manpower": 3700000,
+  "category": "rural",
+  "centroid": [
+   6.68,
+   20.15
+  ],
+  "neighbour_states": [
+   538,
+   718,
+   772,
+   773,
+   774,
+   885,
+   887
+  ],
+  "provinces": [
+   {
+    "id": 1974,
+    "lat": 8.22,
+    "lon": 19.25,
+    "borders_states": [
+     774
+    ]
+   },
+   {
+    "id": 3165,
+    "lat": 5.65,
+    "lon": 21.6,
+    "borders_states": [
+     538,
+     718
+    ]
+   },
+   {
+    "id": 5084,
+    "lat": 8.69,
+    "lon": 21.89,
+    "borders_states": [
+     774,
+     887
+    ]
+   },
+   {
+    "id": 8078,
+    "lat": 7.32,
+    "lon": 16.45,
+    "borders_states": [
+     773,
+     774
+    ]
+   },
+   {
+    "id": 11108,
+    "lat": 6.43,
+    "lon": 19.34,
+    "borders_states": [
+     538
+    ]
+   },
+   {
+    "id": 12719,
+    "lat": 6.37,
+    "lon": 24.53,
+    "borders_states": [
+     718,
+     885,
+     887
+    ]
+   },
+   {
+    "id": 12830,
+    "lat": 5.66,
+    "lon": 17.41,
+    "name": "Bangui",
+    "vp": 1.0,
+    "borders_states": [
+     538,
+     772
+    ]
+   },
+   {
+    "id": 11012,
+    "lat": 4.69,
+    "lon": 15.78,
+    "borders_states": [
+     772,
+     773
+    ]
+   }
+  ]
+ },
+ {
+  "id": 661,
+  "name": "Tripolitania",
+  "file": "661-Tripolitania.txt",
+  "owner": "LBA",
+  "cores": [
+   "LBA"
+  ],
+  "claims": [],
+  "manpower": 460000,
+  "category": "rural",
+  "centroid": [
+   31.5,
+   13.07
+  ],
+  "neighbour_states": [
+   273,
+   448,
+   449,
+   662,
+   665
+  ],
+  "provinces": [
+   {
+    "id": 1174,
+    "lat": 31.94,
+    "lon": 13.8,
+    "borders_states": [
+     448
+    ]
+   },
+   {
+    "id": 4051,
+    "lat": 32.12,
+    "lon": 12.85,
+    "borders_states": [
+     448
+    ]
+   },
+   {
+    "id": 4117,
+    "lat": 30.75,
+    "lon": 14.71,
+    "borders_states": [
+     273
+    ]
+   },
+   {
+    "id": 4176,
+    "lat": 31.4,
+    "lon": 14.97,
+    "borders_states": [
+     448
+    ]
+   },
+   {
+    "id": 7154,
+    "lat": 31.85,
+    "lon": 11.04,
+    "borders_states": [
+     273,
+     665
+    ]
+   },
+   {
+    "id": 7194,
+    "lat": 30.75,
+    "lon": 15.74,
+    "borders_states": [
+     273,
+     448,
+     449,
+     662
+    ]
+   },
+   {
+    "id": 10037,
+    "lat": 31.25,
+    "lon": 12.18,
+    "borders_states": [
+     273
+    ]
+   },
+   {
+    "id": 10067,
+    "lat": 32.54,
+    "lon": 11.81,
+    "borders_states": [
+     448,
+     665
+    ]
+   },
+   {
+    "id": 11940,
+    "lat": 31.3,
+    "lon": 13.49,
+    "borders_states": [
+     273
+    ]
+   },
+   {
+    "id": 12009,
+    "lat": 31.72,
+    "lon": 14.53,
+    "borders_states": [
+     448
+    ]
+   }
+  ]
+ },
+ {
+  "id": 662,
+  "name": "Sirte",
+  "file": "662-Sirte.txt",
+  "owner": "LBA",
+  "cores": [
+   "LBA"
+  ],
+  "claims": [],
+  "manpower": 18000,
+  "category": "wasteland",
+  "centroid": [
+   29.84,
+   18.76
+  ],
+  "neighbour_states": [
+   273,
+   449,
+   450,
+   661,
+   663
+  ],
+  "provinces": [
+   {
+    "id": 4200,
+    "lat": 30.2,
+    "lon": 20.47,
+    "borders_states": [
+     273,
+     449,
+     450,
+     663
+    ]
+   },
+   {
+    "id": 7076,
+    "lat": 29.55,
+    "lon": 19.83,
+    "borders_states": [
+     273,
+     449
+    ]
+   },
+   {
+    "id": 7136,
+    "lat": 30.38,
+    "lon": 16.72,
+    "borders_states": [
+     273,
+     449,
+     661
+    ]
+   },
+   {
+    "id": 8069,
+    "lat": 29.33,
+    "lon": 18.61,
+    "borders_states": [
+     273,
+     449
+    ]
+   },
+   {
+    "id": 13073,
+    "lat": 29.99,
+    "lon": 17.78,
+    "borders_states": [
+     273,
+     449
+    ]
+   }
+  ]
+ },
+ {
+  "id": 663,
+  "name": "Cyrenaica",
+  "file": "663-Cyrenaica.txt",
+  "owner": "LBA",
+  "cores": [
+   "LBA"
+  ],
+  "claims": [],
+  "manpower": 150000,
+  "category": "rural",
+  "centroid": [
+   31.41,
+   22.1
+  ],
+  "neighbour_states": [
+   273,
+   450,
+   451,
+   452,
+   662
+  ],
+  "provinces": [
+   {
+    "id": 1062,
+    "lat": 31.82,
+    "lon": 20.76,
+    "borders_states": [
+     450,
+     451
+    ]
+   },
+   {
+    "id": 1186,
+    "lat": 31.44,
+    "lon": 22.39,
+    "borders_states": [
+     273
+    ]
+   },
+   {
+    "id": 4060,
+    "lat": 31.2,
+    "lon": 24.38,
+    "borders_states": [
+     273,
+     451,
+     452
+    ]
+   },
+   {
+    "id": 4063,
+    "lat": 32.32,
+    "lon": 21.47,
+    "borders_states": [
+     451
+    ]
+   },
+   {
+    "id": 4133,
+    "lat": 30.57,
+    "lon": 21.29,
+    "borders_states": [
+     273,
+     662
+    ]
+   },
+   {
+    "id": 7063,
+    "lat": 31.06,
+    "lon": 20.77,
+    "borders_states": [
+     450,
+     662
+    ]
+   },
+   {
+    "id": 7139,
+    "lat": 31.83,
+    "lon": 21.21
+   },
+   {
+    "id": 7206,
+    "lat": 31.34,
+    "lon": 23.75,
+    "borders_states": [
+     273,
+     451
+    ]
+   },
+   {
+    "id": 9977,
+    "lat": 30.75,
+    "lon": 22.08,
+    "borders_states": [
+     273
+    ]
+   },
+   {
+    "id": 10049,
+    "lat": 31.98,
+    "lon": 21.92,
+    "borders_states": [
+     451
+    ]
+   },
+   {
+    "id": 12025,
+    "lat": 32.04,
+    "lon": 22.63,
+    "borders_states": [
+     451
+    ]
+   },
+   {
+    "id": 12079,
+    "lat": 31.3,
+    "lon": 21.57
+   },
+   {
+    "id": 13078,
+    "lat": 31.5,
+    "lon": 23.14,
+    "borders_states": [
+     273,
+     451
+    ]
+   }
+  ]
+ },
+ {
+  "id": 665,
+  "name": "Gabès",
+  "file": "665-Gabes.txt",
+  "owner": "TUN",
+  "cores": [
+   "TUN"
+  ],
+  "claims": [],
+  "manpower": 1530000,
+  "category": "pastoral",
+  "centroid": [
+   33.42,
+   9.58
+  ],
+  "neighbour_states": [
+   273,
+   448,
+   458,
+   513,
+   514,
+   661
+  ],
+  "provinces": [
+   {
+    "id": 1105,
+    "lat": 32.95,
+    "lon": 10.98,
+    "borders_states": [
+     448,
+     661
+    ]
+   },
+   {
+    "id": 3987,
+    "lat": 33.73,
+    "lon": 8.22,
+    "borders_states": [
+     513,
+     514
+    ]
+   },
+   {
+    "id": 4992,
+    "lat": 32.03,
+    "lon": 9.87,
+    "borders_states": [
+     273,
+     514,
+     661
+    ]
+   },
+   {
+    "id": 7005,
+    "lat": 33.97,
+    "lon": 9.92,
+    "name": "Gabès",
+    "vp": 10.0
+   },
+   {
+    "id": 9983,
+    "lat": 32.99,
+    "lon": 8.99,
+    "borders_states": [
+     514
+    ]
+   },
+   {
+    "id": 10026,
+    "lat": 34.63,
+    "lon": 9.85,
+    "borders_states": [
+     458
+    ]
+   },
+   {
+    "id": 10082,
+    "lat": 33.82,
+    "lon": 9.09
+   },
+   {
+    "id": 11935,
+    "lat": 34.79,
+    "lon": 8.87,
+    "name": "Gafsa",
+    "vp": 8.0,
+    "borders_states": [
+     458,
+     513
+    ]
+   },
+   {
+    "id": 11957,
+    "lat": 33.6,
+    "lon": 10.89,
+    "borders_states": [
+     448
+    ]
+   },
+   {
+    "id": 12000,
+    "lat": 33.2,
+    "lon": 9.91
+   },
+   {
+    "id": 13145,
+    "lat": 34.34,
+    "lon": 8.2,
+    "type": "lake",
+    "borders_states": [
+     513
+    ]
+   },
+   {
+    "id": 13179,
+    "lat": 34.3,
+    "lon": 9.16,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 697,
+  "name": "Madeira",
+  "file": "697-Madeira.txt",
+  "owner": "POR",
+  "cores": [
+   "POR"
+  ],
+  "claims": [],
+  "manpower": 245000,
+  "category": "small_island",
+  "centroid": [
+   32.1,
+   -17.13
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 3118,
+    "lat": 32.1,
+    "lon": -17.13,
+    "name": "Funchal",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 699,
+  "name": "Rio de Oro",
+  "file": "699-Rio de Oro.txt",
+  "owner": "MOR",
+  "cores": [
+   "MOR",
+   "WES"
+  ],
+  "claims": [
+   "MRT"
+  ],
+  "manpower": 300000,
+  "category": "pastoral",
+  "centroid": [
+   24.17,
+   -13.29
+  ],
+  "neighbour_states": [
+   462,
+   514,
+   557,
+   786
+  ],
+  "provinces": [
+   {
+    "id": 4920,
+    "lat": 27.32,
+    "lon": -9.86,
+    "borders_states": [
+     462,
+     514,
+     786
+    ]
+   },
+   {
+    "id": 5012,
+    "lat": 24.64,
+    "lon": -13.67,
+    "borders_states": [
+     786
+    ]
+   },
+   {
+    "id": 7979,
+    "lat": 26.16,
+    "lon": -10.76,
+    "borders_states": [
+     786
+    ]
+   },
+   {
+    "id": 8038,
+    "lat": 26.83,
+    "lon": -13.14,
+    "name": "Laayoune",
+    "vp": 1.0
+   },
+   {
+    "id": 8111,
+    "lat": 27.37,
+    "lon": -11.54,
+    "borders_states": [
+     462
+    ]
+   },
+   {
+    "id": 10875,
+    "lat": 20.99,
+    "lon": -15.3,
+    "borders_states": [
+     557,
+     786
+    ]
+   }
+  ]
+ },
+ {
+  "id": 700,
+  "name": "Sierra Leone",
+  "file": "700-Sierra Leone.txt",
+  "owner": "SIE",
+  "cores": [
+   "SIE"
+  ],
+  "claims": [],
+  "manpower": 4500000,
+  "category": "rural",
+  "centroid": [
+   6.46,
+   -12.36
+  ],
+  "neighbour_states": [
+   298,
+   780
+  ],
+  "provinces": [
+   {
+    "id": 2038,
+    "lat": 7.35,
+    "lon": -12.72,
+    "name": "Freetown",
+    "vp": 1.0,
+    "borders_states": [
+     780
+    ]
+   },
+   {
+    "id": 2094,
+    "lat": 5.77,
+    "lon": -12.08,
+    "borders_states": [
+     298,
+     780
+    ]
+   }
+  ]
+ },
+ {
+  "id": 701,
+  "name": "Gambia",
+  "file": "701-Gambia.txt",
+  "owner": "GAM",
+  "cores": [
+   "GAM"
+  ],
+  "claims": [],
+  "manpower": 1300000,
+  "category": "enclave",
+  "centroid": [
+   12.88,
+   -16.33
+  ],
+  "neighbour_states": [
+   272
+  ],
+  "provinces": [
+   {
+    "id": 4989,
+    "lat": 12.76,
+    "lon": -17.12,
+    "name": "Banjul",
+    "vp": 1.0,
+    "borders_states": [
+     272
+    ]
+   },
+   {
+    "id": 13213,
+    "lat": 12.99,
+    "lon": -15.67,
+    "borders_states": [
+     272
+    ]
+   }
+  ]
+ },
+ {
+  "id": 702,
+  "name": "Cape Verde",
+  "file": "702-Cape Verde.txt",
+  "owner": "CAP",
+  "cores": [
+   "CAP"
+  ],
+  "claims": [],
+  "manpower": 435000,
+  "category": "small_island",
+  "centroid": [
+   10.27,
+   -24.8
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13014,
+    "lat": 10.27,
+    "lon": -24.8,
+    "name": "Praia"
+   }
+  ]
+ },
+ {
+  "id": 703,
+  "name": "Ascension",
+  "file": "703-Ascension.txt",
+  "owner": "ENG",
+  "cores": [
+   "ENG"
+  ],
+  "claims": [],
+  "manpower": 1100,
+  "category": "tiny_island",
+  "centroid": [
+   -11.83,
+   -15.51
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13013,
+    "lat": -11.83,
+    "lon": -15.51
+   }
+  ]
+ },
+ {
+  "id": 704,
+  "name": "Saint Helena",
+  "file": "704-Saint Helena.txt",
+  "owner": "ENG",
+  "cores": [
+   "ENG"
+  ],
+  "claims": [],
+  "manpower": 5000,
+  "category": "tiny_island",
+  "centroid": [
+   -21.11,
+   -5.97
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13016,
+    "lat": -21.11,
+    "lon": -5.97
+   }
+  ]
+ },
+ {
+  "id": 705,
+  "name": "Sao Tome",
+  "file": "705-Sao Tome.txt",
+  "owner": "POR",
+  "cores": [],
+  "claims": [],
+  "manpower": 137000,
+  "category": "tiny_island",
+  "centroid": [
+   0.17,
+   6.21
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13015,
+    "lat": 0.17,
+    "lon": 6.21
+   }
+  ]
+ },
+ {
+  "id": 773,
+  "name": "Cameroon",
+  "file": "773-Cameroon.txt",
+  "owner": "CMR",
+  "cores": [
+   "CMR"
+  ],
+  "claims": [],
+  "manpower": 15600000,
+  "category": "town",
+  "centroid": [
+   5.62,
+   12.33
+  ],
+  "neighbour_states": [
+   297,
+   539,
+   660,
+   772,
+   774,
+   900,
+   901
+  ],
+  "provinces": [
+   {
+    "id": 2080,
+    "lat": 3.26,
+    "lon": 12.05,
+    "name": "Yaoundé",
+    "vp": 1.0,
+    "borders_states": [
+     297,
+     539,
+     772
+    ]
+   },
+   {
+    "id": 5036,
+    "lat": 2.92,
+    "lon": 10.02,
+    "borders_states": [
+     297
+    ]
+   },
+   {
+    "id": 5054,
+    "lat": 3.62,
+    "lon": 14.23,
+    "borders_states": [
+     660,
+     772
+    ]
+   },
+   {
+    "id": 6039,
+    "lat": 4.77,
+    "lon": 9.4,
+    "borders_states": [
+     900
+    ]
+   },
+   {
+    "id": 7963,
+    "lat": 10.67,
+    "lon": 14.1,
+    "borders_states": [
+     774,
+     901
+    ]
+   },
+   {
+    "id": 7978,
+    "lat": 6.72,
+    "lon": 10.34,
+    "borders_states": [
+     900
+    ]
+   },
+   {
+    "id": 9137,
+    "lat": 5.67,
+    "lon": 12.09,
+    "borders_states": [
+     660
+    ]
+   },
+   {
+    "id": 11194,
+    "lat": 7.76,
+    "lon": 13.49,
+    "borders_states": [
+     660,
+     774,
+     900,
+     901
+    ]
+   }
+  ]
+ },
+ {
+  "id": 774,
+  "name": "Chad",
+  "file": "774-Chad.txt",
+  "owner": "CHA",
+  "cores": [
+   "CHA"
+  ],
+  "claims": [],
+  "manpower": 8080000,
+  "category": "rural",
+  "centroid": [
+   11.79,
+   17.72
+  ],
+  "neighbour_states": [
+   515,
+   660,
+   773,
+   775,
+   887,
+   901
+  ],
+  "provinces": [
+   {
+    "id": 1473,
+    "lat": 13.28,
+    "lon": 20.5,
+    "borders_states": [
+     775,
+     887
+    ]
+   },
+   {
+    "id": 1883,
+    "lat": 9.62,
+    "lon": 18.92,
+    "borders_states": [
+     660
+    ]
+   },
+   {
+    "id": 1993,
+    "lat": 9.16,
+    "lon": 15.07,
+    "borders_states": [
+     660,
+     773
+    ]
+   },
+   {
+    "id": 2081,
+    "lat": 12.19,
+    "lon": 15.32,
+    "name": "N'Djamena",
+    "vp": 1.0,
+    "borders_states": [
+     773
+    ]
+   },
+   {
+    "id": 3123,
+    "lat": 14.06,
+    "lon": 14.81,
+    "borders_states": [
+     515,
+     775
+    ]
+   },
+   {
+    "id": 3181,
+    "lat": 10.87,
+    "lon": 19.15
+   },
+   {
+    "id": 4897,
+    "lat": 12.99,
+    "lon": 16.93,
+    "borders_states": [
+     775
+    ]
+   },
+   {
+    "id": 4978,
+    "lat": 13.43,
+    "lon": 18.71,
+    "borders_states": [
+     775
+    ]
+   },
+   {
+    "id": 7919,
+    "lat": 11.19,
+    "lon": 21.04,
+    "borders_states": [
+     660,
+     887
+    ]
+   },
+   {
+    "id": 9152,
+    "lat": 10.84,
+    "lon": 16.31,
+    "borders_states": [
+     773
+    ]
+   },
+   {
+    "id": 13138,
+    "lat": 13.25,
+    "lon": 13.85,
+    "type": "lake",
+    "borders_states": [
+     515,
+     773,
+     901
+    ]
+   },
+   {
+    "id": 13211,
+    "lat": 8.96,
+    "lon": 17.1,
+    "borders_states": [
+     660
+    ]
+   }
+  ]
+ },
+ {
+  "id": 775,
+  "name": "B.E.T.",
+  "file": "775-B.E.T..txt",
+  "owner": "CHA",
+  "cores": [
+   "CHA"
+  ],
+  "claims": [
+   "LBA"
+  ],
+  "manpower": 120000,
+  "category": "wasteland",
+  "centroid": [
+   17.78,
+   18.94
+  ],
+  "neighbour_states": [
+   273,
+   515,
+   767,
+   774,
+   887
+  ],
+  "provinces": [
+   {
+    "id": 4902,
+    "lat": 17.39,
+    "lon": 21.06,
+    "borders_states": [
+     273,
+     767,
+     774,
+     887
+    ]
+   },
+   {
+    "id": 5136,
+    "lat": 16.18,
+    "lon": 16.98,
+    "borders_states": [
+     515,
+     774
+    ]
+   },
+   {
+    "id": 10893,
+    "lat": 19.61,
+    "lon": 17.09,
+    "borders_states": [
+     273,
+     515
+    ]
+   }
+  ]
+ },
+ {
+  "id": 776,
+  "name": "Benin",
+  "file": "776-Dahomey.txt",
+  "owner": "DAH",
+  "cores": [
+   "DAH"
+  ],
+  "claims": [],
+  "manpower": 6600000,
+  "category": "rural",
+  "centroid": [
+   9.26,
+   2.12
+  ],
+  "neighbour_states": [
+   558,
+   777,
+   778,
+   781
+  ],
+  "provinces": [
+   {
+    "id": 10919,
+    "lat": 7.19,
+    "lon": 1.94,
+    "name": "Porto Novo",
+    "vp": 1.0,
+    "borders_states": [
+     558,
+     777
+    ]
+   },
+   {
+    "id": 12874,
+    "lat": 9.42,
+    "lon": 1.79,
+    "borders_states": [
+     558,
+     777,
+     778
+    ]
+   },
+   {
+    "id": 12762,
+    "lat": 10.57,
+    "lon": 2.55,
+    "borders_states": [
+     558,
+     778,
+     781
+    ]
+   }
+  ]
+ },
+ {
+  "id": 777,
+  "name": "Togo",
+  "file": "777-Togo.txt",
+  "owner": "TOG",
+  "cores": [
+   "TOG"
+  ],
+  "claims": [],
+  "manpower": 4800000,
+  "category": "rural",
+  "centroid": [
+   8.07,
+   1.01
+  ],
+  "neighbour_states": [
+   274,
+   776,
+   778
+  ],
+  "provinces": [
+   {
+    "id": 1951,
+    "lat": 6.59,
+    "lon": 1.26,
+    "name": "Lome",
+    "vp": 1.0,
+    "borders_states": [
+     274,
+     776
+    ]
+   },
+   {
+    "id": 12843,
+    "lat": 8.08,
+    "lon": 1.05,
+    "borders_states": [
+     274,
+     776
+    ]
+   },
+   {
+    "id": 13212,
+    "lat": 9.65,
+    "lon": 0.68,
+    "borders_states": [
+     274,
+     776,
+     778
+    ]
+   }
+  ]
+ },
+ {
+  "id": 778,
+  "name": "Burkina Faso",
+  "file": "778-Upper Volta.txt",
+  "owner": "VOL",
+  "cores": [
+   "VOL"
+  ],
+  "claims": [],
+  "manpower": 11400000,
+  "category": "rural",
+  "centroid": [
+   11.77,
+   -1.9
+  ],
+  "neighbour_states": [
+   274,
+   556,
+   776,
+   777,
+   779,
+   781,
+   898
+  ],
+  "provinces": [
+   {
+    "id": 2001,
+    "lat": 11.31,
+    "lon": 1.02,
+    "borders_states": [
+     776,
+     777,
+     781
+    ]
+   },
+   {
+    "id": 7950,
+    "lat": 13.07,
+    "lon": -0.07,
+    "borders_states": [
+     781,
+     898
+    ]
+   },
+   {
+    "id": 7983,
+    "lat": 10.24,
+    "lon": -4.27,
+    "borders_states": [
+     274,
+     556,
+     779
+    ]
+   },
+   {
+    "id": 8071,
+    "lat": 11.61,
+    "lon": -2.96,
+    "borders_states": [
+     274
+    ]
+   },
+   {
+    "id": 10836,
+    "lat": 11.66,
+    "lon": -1.16,
+    "name": "Ouagadougou",
+    "vp": 1.0,
+    "borders_states": [
+     274,
+     777
+    ]
+   },
+   {
+    "id": 12851,
+    "lat": 12.93,
+    "lon": -2.83,
+    "borders_states": [
+     556,
+     898
+    ]
+   }
+  ]
+ },
+ {
+  "id": 779,
+  "name": "Ivory Coast",
+  "file": "779-Ivory Coast.txt",
+  "owner": "IVO",
+  "cores": [
+   "IVO"
+  ],
+  "claims": [],
+  "manpower": 16200000,
+  "category": "large_town",
+  "centroid": [
+   6.31,
+   -5.47
+  ],
+  "neighbour_states": [
+   274,
+   298,
+   556,
+   778,
+   780
+  ],
+  "provinces": [
+   {
+    "id": 5013,
+    "lat": 8.0,
+    "lon": -3.43,
+    "borders_states": [
+     274,
+     778
+    ]
+   },
+   {
+    "id": 5070,
+    "lat": 7.05,
+    "lon": -7.59,
+    "borders_states": [
+     298,
+     556,
+     780
+    ]
+   },
+   {
+    "id": 8065,
+    "lat": 7.53,
+    "lon": -5.86,
+    "borders_states": [
+     556,
+     778
+    ]
+   },
+   {
+    "id": 8122,
+    "lat": 5.65,
+    "lon": -4.7
+   },
+   {
+    "id": 10762,
+    "lat": 4.22,
+    "lon": -7.06,
+    "borders_states": [
+     298
+    ]
+   },
+   {
+    "id": 10803,
+    "lat": 4.4,
+    "lon": -4.1,
+    "name": "Abidjan",
+    "vp": 1.0,
+    "borders_states": [
+     274
+    ]
+   }
+  ]
+ },
+ {
+  "id": 780,
+  "name": "Guinea",
+  "file": "780-Guinea.txt",
+  "owner": "GNA",
+  "cores": [
+   "GNA"
+  ],
+  "claims": [],
+  "manpower": 8400000,
+  "category": "rural",
+  "centroid": [
+   9.12,
+   -11.48
+  ],
+  "neighbour_states": [
+   272,
+   296,
+   298,
+   556,
+   700,
+   779,
+   899
+  ],
+  "provinces": [
+   {
+    "id": 1909,
+    "lat": 8.95,
+    "lon": -13.11,
+    "name": "Conakry",
+    "vp": 1.0,
+    "borders_states": [
+     700
+    ]
+   },
+   {
+    "id": 4957,
+    "lat": 10.11,
+    "lon": -10.59,
+    "borders_states": [
+     899
+    ]
+   },
+   {
+    "id": 5039,
+    "lat": 6.8,
+    "lon": -9.43,
+    "borders_states": [
+     298,
+     700,
+     779
+    ]
+   },
+   {
+    "id": 8008,
+    "lat": 8.78,
+    "lon": -9.63,
+    "borders_states": [
+     556,
+     779,
+     899
+    ]
+   },
+   {
+    "id": 12802,
+    "lat": 10.99,
+    "lon": -12.65,
+    "borders_states": [
+     272,
+     899
+    ]
+   },
+   {
+    "id": 12858,
+    "lat": 10.43,
+    "lon": -14.7,
+    "borders_states": [
+     272,
+     296
+    ]
+   }
+  ]
+ },
+ {
+  "id": 781,
+  "name": "Niger",
+  "file": "781-Niger.txt",
+  "owner": "NGR",
+  "cores": [
+   "NGR"
+  ],
+  "claims": [],
+  "manpower": 4080000,
+  "category": "rural",
+  "centroid": [
+   13.26,
+   2.36
+  ],
+  "neighbour_states": [
+   515,
+   558,
+   776,
+   778,
+   898,
+   902
+  ],
+  "provinces": [
+   {
+    "id": 1975,
+    "lat": 13.95,
+    "lon": 2.22,
+    "borders_states": [
+     515,
+     898
+    ]
+   },
+   {
+    "id": 2056,
+    "lat": 12.94,
+    "lon": 3.28,
+    "name": "Niamey",
+    "vp": 1.0,
+    "borders_states": [
+     515,
+     558,
+     776,
+     902
+    ]
+   },
+   {
+    "id": 12707,
+    "lat": 12.91,
+    "lon": 1.3,
+    "borders_states": [
+     776,
+     778,
+     898
+    ]
+   }
+  ]
+ },
+ {
+  "id": 782,
+  "name": "Tombouctou",
+  "file": "782-Tombouctou.txt",
+  "owner": "MLI",
+  "cores": [
+   "MLI"
+  ],
+  "claims": [],
+  "manpower": 110000,
+  "category": "pastoral",
+  "centroid": [
+   19.92,
+   -2.34
+  ],
+  "neighbour_states": [
+   514,
+   515,
+   786,
+   898
+  ],
+  "provinces": [
+   {
+    "id": 1115,
+    "lat": 22.42,
+    "lon": -4.59,
+    "borders_states": [
+     514,
+     786
+    ]
+   },
+   {
+    "id": 2068,
+    "lat": 17.13,
+    "lon": 2.6,
+    "borders_states": [
+     514,
+     515,
+     898
+    ]
+   },
+   {
+    "id": 10725,
+    "lat": 18.84,
+    "lon": -4.26,
+    "borders_states": [
+     786,
+     898
+    ]
+   },
+   {
+    "id": 10868,
+    "lat": 19.41,
+    "lon": 0.04,
+    "borders_states": [
+     514,
+     898
+    ]
+   }
+  ]
+ },
+ {
+  "id": 783,
+  "name": "Sidi Ifni",
+  "file": "783-Sidi Ifni.txt",
+  "owner": "MOR",
+  "cores": [
+   "MOR"
+  ],
+  "claims": [],
+  "manpower": 70000,
+  "category": "pastoral",
+  "centroid": [
+   29.15,
+   -10.16
+  ],
+  "neighbour_states": [
+   462
+  ],
+  "provinces": [
+   {
+    "id": 12857,
+    "lat": 29.15,
+    "lon": -10.16,
+    "name": "Sidi Ifni",
+    "vp": 1.0,
+    "borders_states": [
+     462
+    ]
+   }
+  ]
+ },
+ {
+  "id": 786,
+  "name": "Mauritanian Desert",
+  "file": "786-Mauritanian Desert.txt",
+  "owner": "MRT",
+  "cores": [
+   "MRT"
+  ],
+  "claims": [
+   "MOR"
+  ],
+  "manpower": 1010000,
+  "category": "pastoral",
+  "centroid": [
+   20.66,
+   -9.66
+  ],
+  "neighbour_states": [
+   514,
+   557,
+   699,
+   782,
+   898,
+   899
+  ],
+  "provinces": [
+   {
+    "id": 1897,
+    "lat": 18.57,
+    "lon": -7.54,
+    "borders_states": [
+     782
+    ]
+   },
+   {
+    "id": 1962,
+    "lat": 18.28,
+    "lon": -10.58,
+    "borders_states": [
+     557
+    ]
+   },
+   {
+    "id": 7943,
+    "lat": 21.09,
+    "lon": -9.06,
+    "borders_states": [
+     782
+    ]
+   },
+   {
+    "id": 8035,
+    "lat": 21.2,
+    "lon": -12.52,
+    "borders_states": [
+     557,
+     699
+    ]
+   },
+   {
+    "id": 10771,
+    "lat": 16.05,
+    "lon": -8.77,
+    "borders_states": [
+     557,
+     782,
+     898,
+     899
+    ]
+   },
+   {
+    "id": 10779,
+    "lat": 24.16,
+    "lon": -10.63,
+    "borders_states": [
+     699
+    ]
+   },
+   {
+    "id": 10838,
+    "lat": 24.67,
+    "lon": -7.78,
+    "borders_states": [
+     514,
+     699,
+     782
+    ]
+   }
+  ]
+ },
+ {
+  "id": 887,
+  "name": "South Darfur",
+  "file": "887-South Darfur.txt",
+  "owner": "SUD",
+  "cores": [
+   "SUD"
+  ],
+  "claims": [],
+  "manpower": 3200000,
+  "category": "rural",
+  "centroid": [
+   12.53,
+   23.73
+  ],
+  "neighbour_states": [
+   549,
+   660,
+   767,
+   774,
+   775,
+   885
+  ],
+  "provinces": [
+   {
+    "id": 1960,
+    "lat": 11.76,
+    "lon": 23.38,
+    "name": "Nyala",
+    "borders_states": [
+     549,
+     660,
+     774
+    ]
+   },
+   {
+    "id": 5060,
+    "lat": 14.31,
+    "lon": 23.56,
+    "borders_states": [
+     549,
+     767,
+     774,
+     775
+    ]
+   },
+   {
+    "id": 10857,
+    "lat": 9.66,
+    "lon": 24.42,
+    "borders_states": [
+     549,
+     660,
+     885
+    ]
+   }
+  ]
+ },
+ {
+  "id": 898,
+  "name": "Gao",
+  "file": "898-Gao.txt",
+  "owner": "MLI",
+  "cores": [
+   "MLI"
+  ],
+  "claims": [],
+  "manpower": 2470000,
+  "category": "rural",
+  "centroid": [
+   15.77,
+   -1.6
+  ],
+  "neighbour_states": [
+   515,
+   556,
+   778,
+   781,
+   782,
+   786,
+   899
+  ],
+  "provinces": [
+   {
+    "id": 2044,
+    "lat": 15.97,
+    "lon": -4.64,
+    "borders_states": [
+     782,
+     786,
+     899
+    ]
+   },
+   {
+    "id": 5101,
+    "lat": 15.71,
+    "lon": 1.04,
+    "borders_states": [
+     515,
+     781,
+     782
+    ]
+   },
+   {
+    "id": 7930,
+    "lat": 15.28,
+    "lon": -2.53,
+    "borders_states": [
+     556,
+     899
+    ]
+   },
+   {
+    "id": 7954,
+    "lat": 14.71,
+    "lon": -1.28,
+    "borders_states": [
+     556,
+     778,
+     781
+    ]
+   },
+   {
+    "id": 10788,
+    "lat": 17.0,
+    "lon": -2.14,
+    "borders_states": [
+     782
+    ]
+   }
+  ]
+ },
+ {
+  "id": 899,
+  "name": "Kayes-Koulikoro",
+  "file": "899-Kayes-Koulikoro.txt",
+  "owner": "MLI",
+  "cores": [
+   "MLI"
+  ],
+  "claims": [],
+  "manpower": 3180000,
+  "category": "rural",
+  "centroid": [
+   13.5,
+   -9.04
+  ],
+  "neighbour_states": [
+   272,
+   556,
+   557,
+   780,
+   786,
+   898
+  ],
+  "provinces": [
+   {
+    "id": 2012,
+    "lat": 12.59,
+    "lon": -11.93,
+    "borders_states": [
+     272,
+     557,
+     780
+    ]
+   },
+   {
+    "id": 10812,
+    "lat": 14.54,
+    "lon": -8.52,
+    "borders_states": [
+     786
+    ]
+   },
+   {
+    "id": 10829,
+    "lat": 12.06,
+    "lon": -9.74,
+    "borders_states": [
+     780
+    ]
+   },
+   {
+    "id": 10915,
+    "lat": 13.84,
+    "lon": -10.97,
+    "borders_states": [
+     557,
+     786
+    ]
+   },
+   {
+    "id": 12751,
+    "lat": 12.26,
+    "lon": -7.96,
+    "borders_states": [
+     556,
+     780
+    ]
+   },
+   {
+    "id": 12838,
+    "lat": 14.43,
+    "lon": -5.6,
+    "borders_states": [
+     556,
+     786,
+     898
+    ]
+   }
+  ]
+ },
+ {
+  "id": 900,
+  "name": "Benue",
+  "file": "900-Benue.txt",
+  "owner": "NGA",
+  "cores": [
+   "NGA"
+  ],
+  "claims": [],
+  "manpower": 32100000,
+  "category": "large_town",
+  "centroid": [
+   6.66,
+   8.47
+  ],
+  "neighbour_states": [
+   558,
+   773,
+   901,
+   902
+  ],
+  "provinces": [
+   {
+    "id": 1992,
+    "lat": 7.15,
+    "lon": 7.87,
+    "borders_states": [
+     558,
+     773,
+     902
+    ]
+   },
+   {
+    "id": 4889,
+    "lat": 8.2,
+    "lon": 10.98,
+    "borders_states": [
+     773,
+     901,
+     902
+    ]
+   },
+   {
+    "id": 8034,
+    "lat": 5.38,
+    "lon": 6.62,
+    "name": "Enugu",
+    "borders_states": [
+     558
+    ]
+   },
+   {
+    "id": 10831,
+    "lat": 5.59,
+    "lon": 8.07,
+    "borders_states": [
+     773
+    ]
+   }
+  ]
+ },
+ {
+  "id": 901,
+  "name": "Borno",
+  "file": "901-Borno.txt",
+  "owner": "NGA",
+  "cores": [
+   "NGA"
+  ],
+  "claims": [],
+  "manpower": 17430000,
+  "category": "town",
+  "centroid": [
+   10.88,
+   11.59
+  ],
+  "neighbour_states": [
+   515,
+   773,
+   774,
+   900,
+   902
+  ],
+  "provinces": [
+   {
+    "id": 4997,
+    "lat": 11.86,
+    "lon": 12.93,
+    "borders_states": [
+     515,
+     773,
+     774
+    ]
+   },
+   {
+    "id": 5028,
+    "lat": 11.7,
+    "lon": 10.91,
+    "borders_states": [
+     515,
+     902
+    ]
+   },
+   {
+    "id": 8109,
+    "lat": 10.11,
+    "lon": 12.06,
+    "borders_states": [
+     773,
+     900
+    ]
+   },
+   {
+    "id": 10820,
+    "lat": 9.13,
+    "lon": 9.95,
+    "borders_states": [
+     900,
+     902
+    ]
+   }
+  ]
+ },
+ {
+  "id": 902,
+  "name": "Sokoto",
+  "file": "902-Sokoto.txt",
+  "owner": "NGA",
+  "cores": [
+   "NGA"
+  ],
+  "claims": [],
+  "manpower": 37790000,
+  "category": "large_town",
+  "centroid": [
+   10.65,
+   6.86
+  ],
+  "neighbour_states": [
+   515,
+   558,
+   781,
+   900,
+   901
+  ],
+  "provinces": [
+   {
+    "id": 1891,
+    "lat": 11.84,
+    "lon": 4.89,
+    "name": "Sokoto",
+    "borders_states": [
+     515,
+     558,
+     781
+    ]
+   },
+   {
+    "id": 1932,
+    "lat": 9.66,
+    "lon": 5.22,
+    "borders_states": [
+     558
+    ]
+   },
+   {
+    "id": 1969,
+    "lat": 11.48,
+    "lon": 7.01,
+    "borders_states": [
+     515
+    ]
+   },
+   {
+    "id": 2025,
+    "lat": 9.03,
+    "lon": 6.56,
+    "borders_states": [
+     558,
+     900
+    ]
+   },
+   {
+    "id": 4938,
+    "lat": 10.26,
+    "lon": 8.81,
+    "borders_states": [
+     901
+    ]
+   },
+   {
+    "id": 4972,
+    "lat": 11.88,
+    "lon": 9.11,
+    "borders_states": [
+     515,
+     901
+    ]
+   },
+   {
+    "id": 8021,
+    "lat": 8.62,
+    "lon": 8.13,
+    "borders_states": [
+     900,
+     901
+    ]
+   }
+  ]
+ }
+]
