@@ -1,0 +1,47 @@
+characters = {
+	COG_laurent-desire_kabila = {
+		name = COG_laurent-desire_kabila
+		portraits = {
+			civilian = {
+				large=GFX_portrait_COG_laurent-desire_kabila_large
+                small=GFX_portrait_COG_laurent-desire_kabila_small
+			}
+		}
+		country_leader = {
+			ideology = despotism  
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+	
+	COG_joseph_kabila = {
+		name = COG_joseph_kabila
+		portraits = {
+			civilian = {
+				large=GFX_portrait_COG_joseph_kabila_large
+                small=GFX_portrait_COG_joseph_kabila_small
+			}
+		}
+		country_leader = {
+			ideology = despotism  
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+	
+		COG_felix_tshisekedi = {
+		name = COG_felix_tshisekedi
+		portraits = {
+			civilian = {
+				large=GFX_portrait_COG_felix_tshisekedi_large
+                small=GFX_portrait_COG_felix_tshisekedi_small
+			}
+		}
+		country_leader = {
+			ideology = despotism  
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+}
+	

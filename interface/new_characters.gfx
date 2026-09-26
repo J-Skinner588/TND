@@ -3818,3 +3818,64 @@ spriteType = {
 		name = "small=GFX_portrait_VEN_nicolas_maduro_small"
 		texturefile = "gfx/characters/VEN/portrait_ven_nicolas_maduro.dds"
 	}
+	spriteType = {
+		name = "large=GFX_portrait_DON_leonel_fernandez_large"
+		texturefile = "gfx/leaders/DON/portrait_don_leonel_fernandez.dds"
+	}
+spriteType = {
+		name = "small=GFX_portrait_DON_leonel_fernandez_small"
+		texturefile = "gfx/characters/DON/portrait_don_leonel_fernandez.dds"
+	}
+		spriteType = {
+		name = "large=GFX_portrait_DON_hipolito_mejia_large"
+		texturefile = "gfx/leaders/DON/portrait_don_hipolito_mejia.dds"
+	}
+spriteType = {
+		name = "small=GFX_portrait_DON_hipolito_mejia_small"
+		texturefile = "gfx/characters/DON/portrait_don_hipolito_mejia.dds"
+	}
+
+			spriteType = {
+		name = "large=GFX_portrait_DON_danilo_medina_large"
+		texturefile = "gfx/leaders/DON/portrait_don_danilo_medina.dds"
+	}
+spriteType = {
+		name = "small=GFX_portrait_DON_danilo_medina_small"
+		texturefile = "gfx/characters/DON/portrait_don_danilo_medina.dds"
+	}
+	
+	spriteType = {
+		name = "large=GFX_portrait_DON_luis_abinader_large"
+		texturefile = "gfx/leaders/DON/portrait_don_luis_abinader.dds"
+	}
+spriteType = {
+		name = "small=GFX_portrait_DON_luis_abinader_small"
+		texturefile = "gfx/characters/DON/portrait_don_luis_abinader.dds"
+	}
+	
+	spriteType = {
+		name = "large=GFX_portrait_COG_laurent-desire_kabila_large"
+		texturefile = "gfx/leaders/COG/portrait_cog_laurent-desire_kabila.dds"
+	}
+spriteType = {
+		name = "small=GFX_portrait_COG_laurent-desire_kabila_small"
+		texturefile = "gfx/characters/COG/portrait_cog_laurent-desire_kabila.dds"
+	}
+	
+		spriteType = {
+		name = "large=GFX_portrait_COG_joseph_kabila_large"
+		texturefile = "gfx/leaders/COG/portrait_cog_joseph_kabila.dds"
+	}
+spriteType = {
+		name = "small=GFX_portrait_COG_joseph_kabila_small"
+		texturefile = "gfx/characters/COG/portrait_cog_joseph_kabila.dds"
+	}
+	
+			spriteType = {
+		name = "large=GFX_portrait_COG_felix_tshisekedi_large"
+		texturefile = "gfx/leaders/COG/portrait_cog_felix_tshisekedi.dds"
+	}
+spriteType = {
+		name = "small=GFX_portrait_COG_felix_tshisekedi_small"
+		texturefile = "gfx/characters/COG/portrait_cog_felix_tshisekedi.dds"
+	}

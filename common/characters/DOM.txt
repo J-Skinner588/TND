@@ -1,0 +1,63 @@
+characters = {
+	DOM_leonel_fernandez = {
+		name = DOM_leonel_fernandez
+		portraits = {
+			civilian = {
+				large=GFX_portrait_DOM_leonel_fernandez_large
+                                small=GFX_portrait_DOM_leonel_fernandez_small
+			}
+		}
+		country_leader = {
+			ideology = centrist  
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+	DOM_hipolito_mejia = {
+		name = DOM_hipolito_mejia
+		portraits = {
+			civilian = {
+				large=GFX_portrait_DOM_hipolito_mejia_large
+                                small=GFX_portrait_DOM_hipolito_mejia_small
+			}
+		}
+		country_leader = {
+			ideology = populism  
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+	DOM_danilo_medina = {
+		name = DOM_danilo_medina
+		portraits = {
+			civilian = {
+				large=GFX_portrait_DOM_danilo_medina_large
+                                small=GFX_portrait_DOM_danilo_medina_small
+			}
+		}
+		country_leader = {
+			ideology = centrist  
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+	DOM_luis_abinader = {
+		name = DOM_luis_abinader
+		portraits = {
+			civilian = {
+				large=GFX_portrait_DOM_luis_abinader_large
+                                small=GFX_portrait_DOM_luis_abinader_small
+			}
+		}
+		country_leader = {
+			ideology = liberalism  
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+	
+	
+	
+	
+}
+	
