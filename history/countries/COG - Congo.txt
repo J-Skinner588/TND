@@ -10,6 +10,12 @@ set_technology = {
 
 set_convoys = 5
 
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1999.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
 
 set_popularities = {
 	democratic = 15
@@ -24,7 +30,7 @@ add_ideas = {
 
 create_country_leader = {
 	
-	name = "Laurent-Désiré Kabila"
+	name = "Laurent Desire Kabila"
 	picture = "gfx/leaders/COG/portrait_cog_laurent-desire_kabila.dds"
 	expire = "2030.1.1"
 	ideology = despotism
