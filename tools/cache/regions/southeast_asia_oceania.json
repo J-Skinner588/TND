@@ -1,0 +1,8437 @@
+[
+ {
+  "id": 1021,
+  "name": "STATE_1021",
+  "file": "1021 - Actual Singapore.txt",
+  "owner": "SIN",
+  "cores": [
+   "SIN"
+  ],
+  "claims": [
+   "MAL"
+  ],
+  "manpower": 3950000,
+  "category": "metropolis",
+  "centroid": [
+   1.35,
+   103.82
+  ],
+  "neighbour_states": [
+   1060
+  ],
+  "provinces": [
+   {
+    "id": 12299,
+    "lat": 1.35,
+    "lon": 103.82,
+    "name": "Singapore",
+    "vp": 10.0,
+    "borders_states": [
+     1060
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1022,
+  "name": "STATE_1022",
+  "file": "1022 - Interior Borneo.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 1620000,
+  "category": "rural",
+  "centroid": [
+   0.26,
+   113.35
+  ],
+  "neighbour_states": [
+   333,
+   334,
+   1024,
+   1055,
+   1059
+  ],
+  "provinces": [
+   {
+    "id": 1230,
+    "lat": 0.5,
+    "lon": 110.94,
+    "borders_states": [
+     333,
+     334
+    ]
+   },
+   {
+    "id": 2047,
+    "lat": 2.77,
+    "lon": 115.44,
+    "borders_states": [
+     333,
+     1024,
+     1055,
+     1059
+    ]
+   },
+   {
+    "id": 2170,
+    "lat": -0.39,
+    "lon": 112.28,
+    "borders_states": [
+     334
+    ]
+   },
+   {
+    "id": 2184,
+    "lat": -1.42,
+    "lon": 113.75,
+    "borders_states": [
+     1055
+    ]
+   },
+   {
+    "id": 2222,
+    "lat": 0.99,
+    "lon": 112.31,
+    "borders_states": [
+     333
+    ]
+   },
+   {
+    "id": 4335,
+    "lat": -0.47,
+    "lon": 111.04,
+    "borders_states": [
+     334
+    ]
+   },
+   {
+    "id": 5176,
+    "lat": -0.05,
+    "lon": 114.51,
+    "borders_states": [
+     1055
+    ]
+   },
+   {
+    "id": 5226,
+    "lat": 1.28,
+    "lon": 114.87,
+    "borders_states": [
+     333,
+     1055
+    ]
+   },
+   {
+    "id": 7424,
+    "lat": 0.33,
+    "lon": 113.43,
+    "borders_states": [
+     333
+    ]
+   },
+   {
+    "id": 8221,
+    "lat": -1.67,
+    "lon": 112.37,
+    "borders_states": [
+     334,
+     1055
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1023,
+  "name": "STATE_1023",
+  "file": "1023 - Brunei.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [],
+  "manpower": 330000,
+  "category": "rural",
+  "centroid": [
+   4.44,
+   114.71
+  ],
+  "neighbour_states": [
+   333,
+   1059
+  ],
+  "provinces": [
+   {
+    "id": 7371,
+    "lat": 4.72,
+    "lon": 115.09,
+    "name": "Brunei",
+    "borders_states": [
+     1059
+    ]
+   },
+   {
+    "id": 7387,
+    "lat": 4.3,
+    "lon": 114.51,
+    "name": "Brunei Town",
+    "vp": 2.0,
+    "borders_states": [
+     333,
+     1059
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1024,
+  "name": "STATE_1024",
+  "file": "1024 - Sabah.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [
+   "PHI"
+  ],
+  "manpower": 2650000,
+  "category": "town",
+  "centroid": [
+   5.19,
+   116.91
+  ],
+  "neighbour_states": [
+   1022,
+   1055,
+   1059
+  ],
+  "provinces": [
+   {
+    "id": 1306,
+    "lat": 5.1,
+    "lon": 118.39
+   },
+   {
+    "id": 1335,
+    "lat": 4.41,
+    "lon": 115.74,
+    "borders_states": [
+     1022,
+     1055,
+     1059
+    ]
+   },
+   {
+    "id": 4282,
+    "lat": 6.62,
+    "lon": 116.79,
+    "name": "Kudat",
+    "vp": 1.0
+   },
+   {
+    "id": 4338,
+    "lat": 4.52,
+    "lon": 116.35,
+    "borders_states": [
+     1055
+    ]
+   },
+   {
+    "id": 7358,
+    "lat": 4.67,
+    "lon": 116.92,
+    "borders_states": [
+     1055
+    ]
+   },
+   {
+    "id": 10143,
+    "lat": 6.11,
+    "lon": 117.12
+   },
+   {
+    "id": 10212,
+    "lat": 5.83,
+    "lon": 116.21,
+    "name": "Jesselton",
+    "vp": 3.0
+   },
+   {
+    "id": 10199,
+    "lat": 5.48,
+    "lon": 117.54,
+    "name": "Sandakan",
+    "vp": 2.0
+   },
+   {
+    "id": 10240,
+    "lat": 4.91,
+    "lon": 117.59
+   },
+   {
+    "id": 12171,
+    "lat": 5.22,
+    "lon": 115.86,
+    "borders_states": [
+     1059
+    ]
+   },
+   {
+    "id": 12186,
+    "lat": 5.48,
+    "lon": 116.62
+   },
+   {
+    "id": 12228,
+    "lat": 4.22,
+    "lon": 117.58,
+    "name": "Tawau",
+    "vp": 1.0,
+    "borders_states": [
+     1055
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1025,
+  "name": "STATE_1025",
+  "file": "1025 - Zamboanga.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 4100000,
+  "category": "town",
+  "centroid": [
+   7.44,
+   122.41
+  ],
+  "neighbour_states": [
+   1026
+  ],
+  "provinces": [
+   {
+    "id": 1421,
+    "lat": 7.08,
+    "lon": 121.84,
+    "name": "Zamboanga",
+    "vp": 2.0
+   },
+   {
+    "id": 4399,
+    "lat": 7.66,
+    "lon": 122.09
+   },
+   {
+    "id": 7360,
+    "lat": 8.23,
+    "lon": 123.21
+   },
+   {
+    "id": 7389,
+    "lat": 7.71,
+    "lon": 122.66
+   },
+   {
+    "id": 7417,
+    "lat": 7.67,
+    "lon": 123.14,
+    "borders_states": [
+     1026
+    ]
+   },
+   {
+    "id": 10184,
+    "lat": 5.8,
+    "lon": 120.83
+   }
+  ]
+ },
+ {
+  "id": 1026,
+  "name": "STATE_1026",
+  "file": "1026 - North Mindanao.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 5520000,
+  "category": "town",
+  "centroid": [
+   8.15,
+   124.84
+  ],
+  "neighbour_states": [
+   627,
+   1025
+  ],
+  "provinces": [
+   {
+    "id": 1293,
+    "lat": 9.42,
+    "lon": 125.37
+   },
+   {
+    "id": 1379,
+    "lat": 8.07,
+    "lon": 125.73,
+    "borders_states": [
+     627
+    ]
+   },
+   {
+    "id": 4427,
+    "lat": 7.09,
+    "lon": 124.16,
+    "borders_states": [
+     627
+    ]
+   },
+   {
+    "id": 10214,
+    "lat": 8.47,
+    "lon": 124.59
+   },
+   {
+    "id": 10243,
+    "lat": 8.04,
+    "lon": 124.17,
+    "name": "Cagayan de Oro",
+    "vp": 1.0
+   },
+   {
+    "id": 10300,
+    "lat": 7.66,
+    "lon": 123.83,
+    "borders_states": [
+     1025
+    ]
+   },
+   {
+    "id": 12160,
+    "lat": 8.52,
+    "lon": 124.99
+   },
+   {
+    "id": 12188,
+    "lat": 8.7,
+    "lon": 125.55
+   },
+   {
+    "id": 12217,
+    "lat": 7.92,
+    "lon": 124.72,
+    "borders_states": [
+     627
+    ]
+   },
+   {
+    "id": 12245,
+    "lat": 8.08,
+    "lon": 125.22,
+    "borders_states": [
+     627
+    ]
+   },
+   {
+    "id": 12273,
+    "lat": 7.44,
+    "lon": 124.49,
+    "borders_states": [
+     627
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1027,
+  "name": "STATE_1027",
+  "file": "1027 - Bataan.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 5930000,
+  "category": "large_town",
+  "centroid": [
+   15.84,
+   120.47
+  ],
+  "neighbour_states": [
+   327,
+   623
+  ],
+  "provinces": [
+   {
+    "id": 1415,
+    "lat": 15.97,
+    "lon": 120.46,
+    "name": "Dagupan",
+    "vp": 1.0
+   },
+   {
+    "id": 4423,
+    "lat": 16.43,
+    "lon": 121.02,
+    "borders_states": [
+     327,
+     623
+    ]
+   },
+   {
+    "id": 7275,
+    "lat": 15.35,
+    "lon": 120.21
+   },
+   {
+    "id": 7351,
+    "lat": 14.91,
+    "lon": 120.35,
+    "name": "Bataan",
+    "vp": 2.0,
+    "borders_states": [
+     327
+    ]
+   },
+   {
+    "id": 10165,
+    "lat": 15.7,
+    "lon": 120.8,
+    "borders_states": [
+     327
+    ]
+   },
+   {
+    "id": 10280,
+    "lat": 15.94,
+    "lon": 119.93
+   },
+   {
+    "id": 12253,
+    "lat": 16.57,
+    "lon": 120.55,
+    "borders_states": [
+     623
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1047,
+  "name": "STATE_1047",
+  "file": "1047-Bangka-Belitung.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 900000,
+  "category": "town",
+  "centroid": [
+   -2.15,
+   106.58
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 7384,
+    "lat": -1.63,
+    "lon": 105.91,
+    "name": "Pangkalpinang",
+    "vp": 1.0
+   },
+   {
+    "id": 7396,
+    "lat": -2.42,
+    "lon": 106.34
+   },
+   {
+    "id": 4211,
+    "lat": -2.62,
+    "lon": 107.84
+   }
+  ]
+ },
+ {
+  "id": 1048,
+  "name": "STATE_1048",
+  "file": "1048-Padang.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 9550000,
+  "category": "town",
+  "centroid": [
+   0.04,
+   100.36
+  ],
+  "neighbour_states": [
+   672,
+   1049,
+   1050
+  ],
+  "provinces": [
+   {
+    "id": 12415,
+    "lat": -2.05,
+    "lon": 102.18,
+    "borders_states": [
+     672,
+     1049
+    ]
+   },
+   {
+    "id": 7368,
+    "lat": -1.47,
+    "lon": 101.4
+   },
+   {
+    "id": 12343,
+    "lat": -0.48,
+    "lon": 101.75,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 10354,
+    "lat": 0.12,
+    "lon": 100.55,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 1460,
+    "lat": 0.52,
+    "lon": 99.74,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 4446,
+    "lat": 1.17,
+    "lon": 99.5,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 10522,
+    "lat": 1.97,
+    "lon": 99.13,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 8360,
+    "lat": 2.64,
+    "lon": 98.36,
+    "borders_states": [
+     1049,
+     1050
+    ]
+   },
+   {
+    "id": 10382,
+    "lat": -0.73,
+    "lon": 100.88,
+    "name": "Padang",
+    "vp": 5.0
+   },
+   {
+    "id": 1533,
+    "lat": -1.16,
+    "lon": 101.96,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 13395,
+    "lat": -2.37,
+    "lon": 100.17
+   },
+   {
+    "id": 1428,
+    "lat": -1.06,
+    "lon": 98.98
+   },
+   {
+    "id": 13397,
+    "lat": 1.12,
+    "lon": 97.56
+   },
+   {
+    "id": 12126,
+    "lat": -0.15,
+    "lon": 98.5
+   },
+   {
+    "id": 10194,
+    "lat": -2.12,
+    "lon": 101.45,
+    "borders_states": [
+     672
+    ]
+   },
+   {
+    "id": 12181,
+    "lat": 0.4,
+    "lon": 101.43,
+    "borders_states": [
+     1049
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1049,
+  "name": "STATE_1049",
+  "file": "1049-Medan and Riouw.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 13630000,
+  "category": "city",
+  "centroid": [
+   0.76,
+   101.73
+  ],
+  "neighbour_states": [
+   672,
+   1048,
+   1050
+  ],
+  "provinces": [
+   {
+    "id": 1345,
+    "lat": -1.04,
+    "lon": 104.32
+   },
+   {
+    "id": 4364,
+    "lat": -1.76,
+    "lon": 104.44,
+    "borders_states": [
+     672
+    ]
+   },
+   {
+    "id": 1373,
+    "lat": -1.67,
+    "lon": 103.11,
+    "borders_states": [
+     672,
+     1048
+    ]
+   },
+   {
+    "id": 12212,
+    "lat": -1.03,
+    "lon": 102.88,
+    "name": "Jambi",
+    "vp": 1.0,
+    "borders_states": [
+     1048
+    ]
+   },
+   {
+    "id": 1332,
+    "lat": -0.99,
+    "lon": 103.7
+   },
+   {
+    "id": 10225,
+    "lat": -0.42,
+    "lon": 103.07,
+    "borders_states": [
+     1048
+    ]
+   },
+   {
+    "id": 12184,
+    "lat": 0.09,
+    "lon": 103.33
+   },
+   {
+    "id": 10209,
+    "lat": -0.01,
+    "lon": 102.01,
+    "borders_states": [
+     1048
+    ]
+   },
+   {
+    "id": 1277,
+    "lat": 1.07,
+    "lon": 101.97,
+    "borders_states": [
+     1048
+    ]
+   },
+   {
+    "id": 12168,
+    "lat": 0.61,
+    "lon": 102.74
+   },
+   {
+    "id": 7463,
+    "lat": 1.7,
+    "lon": 101.24
+   },
+   {
+    "id": 12302,
+    "lat": 1.84,
+    "lon": 100.39,
+    "borders_states": [
+     1048
+    ]
+   },
+   {
+    "id": 7673,
+    "lat": 2.34,
+    "lon": 99.78,
+    "borders_states": [
+     1048
+    ]
+   },
+   {
+    "id": 4652,
+    "lat": 3.63,
+    "lon": 98.21,
+    "name": "Medan",
+    "vp": 10.0,
+    "borders_states": [
+     1048,
+     1050
+    ]
+   },
+   {
+    "id": 7327,
+    "lat": 1.05,
+    "lon": 100.74,
+    "borders_states": [
+     1048
+    ]
+   },
+   {
+    "id": 12113,
+    "lat": 1.27,
+    "lon": 104.65
+   },
+   {
+    "id": 13402,
+    "lat": 3.07,
+    "lon": 99.15,
+    "borders_states": [
+     1048
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1050,
+  "name": "STATE_1050",
+  "file": "1050-Ajteh.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 3930000,
+  "category": "town",
+  "centroid": [
+   4.33,
+   96.76
+  ],
+  "neighbour_states": [
+   1048,
+   1049
+  ],
+  "provinces": [
+   {
+    "id": 1648,
+    "lat": 4.34,
+    "lon": 97.76,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 13399,
+    "lat": 3.68,
+    "lon": 97.35,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 10509,
+    "lat": 4.9,
+    "lon": 97.03
+   },
+   {
+    "id": 12488,
+    "lat": 4.12,
+    "lon": 96.8
+   },
+   {
+    "id": 7658,
+    "lat": 4.62,
+    "lon": 95.99
+   },
+   {
+    "id": 13398,
+    "lat": 5.3,
+    "lon": 95.62,
+    "name": "Banda Aceh",
+    "vp": 1.0
+   },
+   {
+    "id": 13401,
+    "lat": 2.85,
+    "lon": 97.72,
+    "borders_states": [
+     1048,
+     1049
+    ]
+   },
+   {
+    "id": 13396,
+    "lat": 2.67,
+    "lon": 96.11
+   }
+  ]
+ },
+ {
+  "id": 1051,
+  "name": "STATE_1051",
+  "file": "1051-East Java.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 67440000,
+  "category": "large_city",
+  "centroid": [
+   -8.09,
+   110.94
+  ],
+  "neighbour_states": [
+   335
+  ],
+  "provinces": [
+   {
+    "id": 1209,
+    "lat": -8.65,
+    "lon": 110.91
+   },
+   {
+    "id": 1413,
+    "lat": -7.11,
+    "lon": 110.13
+   },
+   {
+    "id": 4306,
+    "lat": -7.43,
+    "lon": 112.11
+   },
+   {
+    "id": 4390,
+    "lat": -7.4,
+    "lon": 110.78
+   },
+   {
+    "id": 4608,
+    "lat": -7.68,
+    "lon": 111.31,
+    "name": "Soerabaja"
+   },
+   {
+    "id": 7642,
+    "lat": -8.1,
+    "lon": 108.7,
+    "borders_states": [
+     335
+    ]
+   },
+   {
+    "id": 7654,
+    "lat": -8.75,
+    "lon": 113.07
+   },
+   {
+    "id": 10135,
+    "lat": -8.5,
+    "lon": 109.97
+   },
+   {
+    "id": 10479,
+    "lat": -8.35,
+    "lon": 111.51
+   },
+   {
+    "id": 10491,
+    "lat": -8.07,
+    "lon": 110.64
+   },
+   {
+    "id": 12277,
+    "lat": -7.67,
+    "lon": 109.33,
+    "borders_states": [
+     335
+    ]
+   },
+   {
+    "id": 12293,
+    "lat": -7.56,
+    "lon": 110.33
+   },
+   {
+    "id": 12472,
+    "lat": -8.65,
+    "lon": 112.23
+   },
+   {
+    "id": 13383,
+    "lat": -7.49,
+    "lon": 112.73
+   },
+   {
+    "id": 13405,
+    "lat": -7.47,
+    "lon": 109.78,
+    "name": "Semarang",
+    "vp": 15.0
+   },
+   {
+    "id": 13403,
+    "lat": -7.89,
+    "lon": 111.67,
+    "name": "Surabaya",
+    "vp": 10.0
+   },
+   {
+    "id": 13404,
+    "lat": -7.85,
+    "lon": 108.9,
+    "name": "Purwokerto",
+    "vp": 1.0,
+    "borders_states": [
+     335
+    ]
+   },
+   {
+    "id": 13406,
+    "lat": -8.21,
+    "lon": 109.46,
+    "name": "Yogyakarta",
+    "vp": 10.0
+   },
+   {
+    "id": 13407,
+    "lat": -7.88,
+    "lon": 110.08,
+    "name": "Surakarta",
+    "vp": 3.0
+   }
+  ]
+ },
+ {
+  "id": 1052,
+  "name": "STATE_1052",
+  "file": "1052-Bali.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 3150000,
+  "category": "large_town",
+  "centroid": [
+   -8.95,
+   114.1
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 4273,
+    "lat": -8.89,
+    "lon": 113.75
+   },
+   {
+    "id": 13386,
+    "lat": -9.18,
+    "lon": 114.21,
+    "name": "Denpasar",
+    "vp": 3.0
+   },
+   {
+    "id": 13385,
+    "lat": -8.86,
+    "lon": 114.31
+   }
+  ]
+ },
+ {
+  "id": 1053,
+  "name": "STATE_1053",
+  "file": "1053-East Nusa Tenggara.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 1840000,
+  "category": "rural",
+  "centroid": [
+   -8.85,
+   121.56
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1298,
+    "lat": -9.1,
+    "lon": 119.18
+   },
+   {
+    "id": 4301,
+    "lat": -9.2,
+    "lon": 120.39,
+    "name": "Ende",
+    "vp": 1.0
+   },
+   {
+    "id": 10175,
+    "lat": -8.91,
+    "lon": 119.85
+   },
+   {
+    "id": 7321,
+    "lat": -9.11,
+    "lon": 121.18
+   },
+   {
+    "id": 12151,
+    "lat": -8.77,
+    "lon": 122.05
+   },
+   {
+    "id": 10219,
+    "lat": -8.6,
+    "lon": 123.95
+   },
+   {
+    "id": 13394,
+    "lat": -8.04,
+    "lon": 125.74
+   },
+   {
+    "id": 13393,
+    "lat": -8.75,
+    "lon": 123.02
+   }
+  ]
+ },
+ {
+  "id": 1054,
+  "name": "STATE_1054",
+  "file": "1054-Dutch Timor.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 1550000,
+  "category": "rural",
+  "centroid": [
+   -10.31,
+   123.3
+  ],
+  "neighbour_states": [
+   721
+  ],
+  "provinces": [
+   {
+    "id": 1339,
+    "lat": -9.75,
+    "lon": 123.97,
+    "borders_states": [
+     721
+    ]
+   },
+   {
+    "id": 1355,
+    "lat": -10.74,
+    "lon": 122.68,
+    "name": "Kupang",
+    "vp": 1.0,
+    "borders_states": [
+     721
+    ]
+   },
+   {
+    "id": 4358,
+    "lat": -10.3,
+    "lon": 123.45,
+    "borders_states": [
+     721
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1055,
+  "name": "STATE_1055",
+  "file": "1055-Eastern Kalimantan.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 6200000,
+  "category": "large_town",
+  "centroid": [
+   -0.33,
+   115.74
+  ],
+  "neighbour_states": [
+   334,
+   1022,
+   1024
+  ],
+  "provinces": [
+   {
+    "id": 12280,
+    "lat": -2.5,
+    "lon": 112.95,
+    "borders_states": [
+     334,
+     1022
+    ]
+   },
+   {
+    "id": 10138,
+    "lat": -2.76,
+    "lon": 113.55,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 12110,
+    "lat": -2.7,
+    "lon": 114.12,
+    "name": "Banjarmasin",
+    "vp": 2.0,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 7296,
+    "lat": -3.98,
+    "lon": 114.14
+   },
+   {
+    "id": 1225,
+    "lat": -2.71,
+    "lon": 114.7,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 1416,
+    "lat": -3.01,
+    "lon": 115.1
+   },
+   {
+    "id": 10266,
+    "lat": -1.68,
+    "lon": 114.86,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 12225,
+    "lat": -1.29,
+    "lon": 115.74,
+    "name": "Balikpapan",
+    "vp": 3.0
+   },
+   {
+    "id": 7355,
+    "lat": -0.77,
+    "lon": 115.26,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 10237,
+    "lat": -0.81,
+    "lon": 116.5,
+    "name": "Balikpapan"
+   },
+   {
+    "id": 7231,
+    "lat": 1.6,
+    "lon": 117.15
+   },
+   {
+    "id": 7299,
+    "lat": 0.56,
+    "lon": 115.5,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 10178,
+    "lat": -3.78,
+    "lon": 115.01
+   },
+   {
+    "id": 12252,
+    "lat": -2.05,
+    "lon": 115.69
+   },
+   {
+    "id": 12196,
+    "lat": -0.11,
+    "lon": 116.8
+   },
+   {
+    "id": 1252,
+    "lat": 0.83,
+    "lon": 117.12
+   },
+   {
+    "id": 10181,
+    "lat": 0.86,
+    "lon": 118.02
+   },
+   {
+    "id": 4236,
+    "lat": 1.58,
+    "lon": 116.26,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 10325,
+    "lat": 2.27,
+    "lon": 116.99,
+    "name": "Tanjung Selor",
+    "vp": 1.0
+   },
+   {
+    "id": 4323,
+    "lat": 0.22,
+    "lon": 116.13
+   },
+   {
+    "id": 1404,
+    "lat": 2.82,
+    "lon": 116.68,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 7415,
+    "lat": 3.34,
+    "lon": 116.55,
+    "name": "Tarakan",
+    "vp": 1.0,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 12243,
+    "lat": 3.82,
+    "lon": 116.59,
+    "borders_states": [
+     1022,
+     1024
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1056,
+  "name": "STATE_1056",
+  "file": "1056-Manado.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 5520000,
+  "category": "town",
+  "centroid": [
+   -0.53,
+   121.18
+  ],
+  "neighbour_states": [
+   673
+  ],
+  "provinces": [
+   {
+    "id": 4537,
+    "lat": -2.63,
+    "lon": 120.83,
+    "borders_states": [
+     673
+    ]
+   },
+   {
+    "id": 1518,
+    "lat": -1.63,
+    "lon": 120.21,
+    "borders_states": [
+     673
+    ]
+   },
+   {
+    "id": 1561,
+    "lat": -1.88,
+    "lon": 119.5,
+    "borders_states": [
+     673
+    ]
+   },
+   {
+    "id": 12358,
+    "lat": -1.15,
+    "lon": 119.34,
+    "borders_states": [
+     673
+    ]
+   },
+   {
+    "id": 1484,
+    "lat": -1.45,
+    "lon": 121.01
+   },
+   {
+    "id": 1505,
+    "lat": -1.13,
+    "lon": 121.58
+   },
+   {
+    "id": 1098,
+    "lat": -0.15,
+    "lon": 119.46
+   },
+   {
+    "id": 1289,
+    "lat": 0.83,
+    "lon": 121.35
+   },
+   {
+    "id": 10169,
+    "lat": 0.74,
+    "lon": 122.1,
+    "name": "Gorontalo",
+    "vp": 1.0
+   },
+   {
+    "id": 10197,
+    "lat": 0.68,
+    "lon": 123.77
+   },
+   {
+    "id": 4493,
+    "lat": -1.02,
+    "lon": 122.49
+   },
+   {
+    "id": 4262,
+    "lat": 0.96,
+    "lon": 120.69
+   },
+   {
+    "id": 4307,
+    "lat": 0.73,
+    "lon": 120.09
+   },
+   {
+    "id": 7311,
+    "lat": 0.63,
+    "lon": 123.05
+   },
+   {
+    "id": 10153,
+    "lat": 1.23,
+    "lon": 124.39,
+    "name": "Manado",
+    "vp": 2.0
+   }
+  ]
+ },
+ {
+  "id": 1057,
+  "name": "STATE_1057",
+  "file": "1057-Dutch Southern New Guinea.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 720000,
+  "category": "rural",
+  "centroid": [
+   -6.14,
+   138.93
+  ],
+  "neighbour_states": [
+   523,
+   669,
+   1073
+  ],
+  "provinces": [
+   {
+    "id": 4593,
+    "lat": -4.87,
+    "lon": 137.3,
+    "borders_states": [
+     669
+    ]
+   },
+   {
+    "id": 8235,
+    "lat": -4.52,
+    "lon": 138.31,
+    "borders_states": [
+     669
+    ]
+   },
+   {
+    "id": 8250,
+    "lat": -5.12,
+    "lon": 139.94,
+    "borders_states": [
+     669,
+     1073
+    ]
+   },
+   {
+    "id": 1602,
+    "lat": -5.78,
+    "lon": 139.14
+   },
+   {
+    "id": 7627,
+    "lat": -6.52,
+    "lon": 138.83
+   },
+   {
+    "id": 1617,
+    "lat": -6.93,
+    "lon": 140.15,
+    "borders_states": [
+     523,
+     1073
+    ]
+   },
+   {
+    "id": 1629,
+    "lat": -7.73,
+    "lon": 139.14
+   },
+   {
+    "id": 10505,
+    "lat": -8.32,
+    "lon": 140.26,
+    "name": "Merauke",
+    "vp": 1.0,
+    "borders_states": [
+     523
+    ]
+   },
+   {
+    "id": 12457,
+    "lat": -7.98,
+    "lon": 137.88
+   }
+  ]
+ },
+ {
+  "id": 1058,
+  "name": "STATE_1058",
+  "file": "1058-Batavia.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 19060000,
+  "category": "megalopolis",
+  "centroid": [
+   -6.69,
+   106.55
+  ],
+  "neighbour_states": [
+   335
+  ],
+  "provinces": [
+   {
+    "id": 7381,
+    "lat": -6.46,
+    "lon": 106.27,
+    "name": "Jakarta",
+    "vp": 25.0,
+    "borders_states": [
+     335
+    ]
+   },
+   {
+    "id": 12249,
+    "lat": -6.66,
+    "lon": 107.0,
+    "borders_states": [
+     335
+    ]
+   },
+   {
+    "id": 4406,
+    "lat": -6.89,
+    "lon": 106.29,
+    "borders_states": [
+     335
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1059,
+  "name": "STATE_1059",
+  "file": "1059 - Limbang.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [],
+  "manpower": 82000,
+  "category": "rural",
+  "centroid": [
+   3.95,
+   114.99
+  ],
+  "neighbour_states": [
+   333,
+   1022,
+   1023,
+   1024
+  ],
+  "provinces": [
+   {
+    "id": 10269,
+    "lat": 3.46,
+    "lon": 114.76,
+    "borders_states": [
+     333,
+     1022,
+     1023
+    ]
+   },
+   {
+    "id": 13377,
+    "lat": 4.44,
+    "lon": 115.45,
+    "borders_states": [
+     1022,
+     1023,
+     1024
+    ]
+   },
+   {
+    "id": 13378,
+    "lat": 4.48,
+    "lon": 114.83,
+    "name": "Limbang",
+    "vp": 1.0,
+    "borders_states": [
+     1023
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1060,
+  "name": "STATE_1060",
+  "file": "1060 - Johor.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [],
+  "manpower": 3350000,
+  "category": "large_town",
+  "centroid": [
+   2.03,
+   103.32
+  ],
+  "neighbour_states": [
+   336,
+   1021,
+   1063
+  ],
+  "provinces": [
+   {
+    "id": 4424,
+    "lat": 2.02,
+    "lon": 103.1,
+    "borders_states": [
+     1063
+    ]
+   },
+   {
+    "id": 10313,
+    "lat": 1.89,
+    "lon": 103.98,
+    "borders_states": [
+     1063
+    ]
+   },
+   {
+    "id": 13376,
+    "lat": 1.67,
+    "lon": 103.65,
+    "name": "Johor Bahru",
+    "vp": 2.0,
+    "borders_states": [
+     1021
+    ]
+   },
+   {
+    "id": 7427,
+    "lat": 2.41,
+    "lon": 102.59,
+    "borders_states": [
+     336,
+     1063
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1061,
+  "name": "STATE_1061",
+  "file": "1061 - Perlis Kedah.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [
+   "SIA"
+  ],
+  "manpower": 1830000,
+  "category": "large_town",
+  "centroid": [
+   5.85,
+   100.62
+  ],
+  "neighbour_states": [
+   724,
+   1064,
+   1065
+  ],
+  "provinces": [
+   {
+    "id": 1291,
+    "lat": 5.88,
+    "lon": 100.66,
+    "name": "Alor Setar",
+    "vp": 1.0,
+    "borders_states": [
+     724,
+     1065
+    ]
+   },
+   {
+    "id": 7342,
+    "lat": 5.3,
+    "lon": 100.86,
+    "borders_states": [
+     724,
+     1064,
+     1065
+    ]
+   },
+   {
+    "id": 12144,
+    "lat": 6.33,
+    "lon": 100.34,
+    "name": "Kangar",
+    "vp": 1.0,
+    "borders_states": [
+     724
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1062,
+  "name": "STATE_1062",
+  "file": "1062 - Kelantan.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [
+   "SIA"
+  ],
+  "manpower": 2190000,
+  "category": "town",
+  "centroid": [
+   4.97,
+   102.49
+  ],
+  "neighbour_states": [
+   724,
+   1063,
+   1064
+  ],
+  "provinces": [
+   {
+    "id": 7329,
+    "lat": 5.71,
+    "lon": 102.09,
+    "name": "Kota Bharu",
+    "vp": 1.0,
+    "borders_states": [
+     724,
+     1064
+    ]
+   },
+   {
+    "id": 10227,
+    "lat": 5.01,
+    "lon": 102.08,
+    "borders_states": [
+     1064
+    ]
+   },
+   {
+    "id": 13410,
+    "lat": 4.53,
+    "lon": 102.1,
+    "borders_states": [
+     1063,
+     1064
+    ]
+   },
+   {
+    "id": 1348,
+    "lat": 4.59,
+    "lon": 102.72,
+    "borders_states": [
+     1063
+    ]
+   },
+   {
+    "id": 4355,
+    "lat": 4.55,
+    "lon": 103.2,
+    "borders_states": [
+     1063
+    ]
+   },
+   {
+    "id": 12199,
+    "lat": 5.29,
+    "lon": 102.7,
+    "name": "Kuala Terengganu",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 1063,
+  "name": "STATE_1063",
+  "file": "1063 - Pahang.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [],
+  "manpower": 1280000,
+  "category": "town",
+  "centroid": [
+   3.34,
+   102.86
+  ],
+  "neighbour_states": [
+   336,
+   1060,
+   1062,
+   1064
+  ],
+  "provinces": [
+   {
+    "id": 1392,
+    "lat": 3.83,
+    "lon": 102.63,
+    "borders_states": [
+     1062
+    ]
+   },
+   {
+    "id": 4367,
+    "lat": 2.57,
+    "lon": 103.37,
+    "borders_states": [
+     1060
+    ]
+   },
+   {
+    "id": 7399,
+    "lat": 3.76,
+    "lon": 103.15,
+    "name": "Kuantan",
+    "vp": 1.0,
+    "borders_states": [
+     1062
+    ]
+   },
+   {
+    "id": 12255,
+    "lat": 3.65,
+    "lon": 102.18,
+    "borders_states": [
+     336,
+     1062,
+     1064
+    ]
+   },
+   {
+    "id": 12271,
+    "lat": 3.11,
+    "lon": 102.92,
+    "borders_states": [
+     336,
+     1060
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1064,
+  "name": "STATE_1064",
+  "file": "1064 - Perak.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [],
+  "manpower": 2030000,
+  "category": "large_town",
+  "centroid": [
+   4.59,
+   101.29
+  ],
+  "neighbour_states": [
+   336,
+   724,
+   1061,
+   1062,
+   1063,
+   1065
+  ],
+  "provinces": [
+   {
+    "id": 1364,
+    "lat": 4.73,
+    "lon": 101.24,
+    "borders_states": [
+     1061,
+     1062
+    ]
+   },
+   {
+    "id": 1376,
+    "lat": 4.04,
+    "lon": 101.1,
+    "name": "Ipoh",
+    "vp": 1.0,
+    "borders_states": [
+     336
+    ]
+   },
+   {
+    "id": 4310,
+    "lat": 5.42,
+    "lon": 101.44,
+    "borders_states": [
+     724,
+     1061,
+     1062
+    ]
+   },
+   {
+    "id": 4384,
+    "lat": 3.98,
+    "lon": 101.68,
+    "borders_states": [
+     336,
+     1062,
+     1063
+    ]
+   },
+   {
+    "id": 12215,
+    "lat": 4.53,
+    "lon": 100.72,
+    "name": "Dinding",
+    "borders_states": [
+     1061,
+     1065
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1065,
+  "name": "STATE_1065",
+  "file": "1065 - Penang.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [],
+  "manpower": 1300000,
+  "category": "city",
+  "centroid": [
+   5.25,
+   100.46
+  ],
+  "neighbour_states": [
+   1061,
+   1064
+  ],
+  "provinces": [
+   {
+    "id": 13408,
+    "lat": 5.25,
+    "lon": 100.46,
+    "name": "Seberang Perai",
+    "vp": 1.0,
+    "borders_states": [
+     1061,
+     1064
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1066,
+  "name": "STATE_1066",
+  "file": "1066 - Mekong Delta.txt",
+  "owner": "VIN",
+  "cores": [
+   "VIN"
+  ],
+  "claims": [
+   "CAM"
+  ],
+  "manpower": 26900000,
+  "category": "metropolis",
+  "centroid": [
+   10.28,
+   105.94
+  ],
+  "neighbour_states": [
+   286,
+   741
+  ],
+  "provinces": [
+   {
+    "id": 1396,
+    "lat": 10.45,
+    "lon": 106.26,
+    "borders_states": [
+     741
+    ]
+   },
+   {
+    "id": 1423,
+    "lat": 10.11,
+    "lon": 106.07,
+    "borders_states": [
+     741
+    ]
+   },
+   {
+    "id": 4223,
+    "lat": 10.29,
+    "lon": 104.99,
+    "borders_states": [
+     741
+    ]
+   },
+   {
+    "id": 4284,
+    "lat": 9.56,
+    "lon": 104.99
+   },
+   {
+    "id": 4341,
+    "lat": 8.84,
+    "lon": 104.9
+   },
+   {
+    "id": 4401,
+    "lat": 10.82,
+    "lon": 106.63,
+    "name": "Saigon",
+    "vp": 5.0
+   },
+   {
+    "id": 7238,
+    "lat": 11.37,
+    "lon": 106.48,
+    "borders_states": [
+     741
+    ]
+   },
+   {
+    "id": 7303,
+    "lat": 9.57,
+    "lon": 105.97
+   },
+   {
+    "id": 7331,
+    "lat": 9.23,
+    "lon": 105.39
+   },
+   {
+    "id": 7347,
+    "lat": 11.55,
+    "lon": 107.02,
+    "borders_states": [
+     286,
+     741
+    ]
+   },
+   {
+    "id": 10261,
+    "lat": 11.09,
+    "lon": 105.99,
+    "borders_states": [
+     741
+    ]
+   },
+   {
+    "id": 12133,
+    "lat": 9.88,
+    "lon": 105.48
+   },
+   {
+    "id": 12232,
+    "lat": 10.7,
+    "lon": 107.16,
+    "borders_states": [
+     286
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1067,
+  "name": "STATE_1067",
+  "file": "1067 - Battambang.txt",
+  "owner": "CAM",
+  "cores": [
+   "CAM"
+  ],
+  "claims": [
+   "SIA"
+  ],
+  "manpower": 1700000,
+  "category": "town",
+  "centroid": [
+   13.63,
+   103.71
+  ],
+  "neighbour_states": [
+   741,
+   868,
+   1068,
+   1078
+  ],
+  "provinces": [
+   {
+    "id": 4251,
+    "lat": 13.67,
+    "lon": 102.95,
+    "name": "Battambang",
+    "vp": 1.0,
+    "borders_states": [
+     741,
+     868,
+     1078
+    ]
+   },
+   {
+    "id": 10134,
+    "lat": 13.17,
+    "lon": 102.46,
+    "borders_states": [
+     741,
+     1078
+    ]
+   },
+   {
+    "id": 10177,
+    "lat": 12.98,
+    "lon": 103.24,
+    "borders_states": [
+     741
+    ]
+   },
+   {
+    "id": 10467,
+    "lat": 13.98,
+    "lon": 103.56,
+    "name": "Angkor",
+    "vp": 1.0,
+    "borders_states": [
+     741,
+     868
+    ]
+   },
+   {
+    "id": 12460,
+    "lat": 13.97,
+    "lon": 104.62,
+    "borders_states": [
+     741,
+     868,
+     1068
+    ]
+   },
+   {
+    "id": 12447,
+    "lat": 13.67,
+    "lon": 105.45,
+    "borders_states": [
+     741,
+     1068
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1068,
+  "name": "STATE_1068",
+  "file": "1068 - Bassac.txt",
+  "owner": "LAO",
+  "cores": [
+   "LAO"
+  ],
+  "claims": [
+   "SIA"
+  ],
+  "manpower": 1000000,
+  "category": "rural",
+  "centroid": [
+   15.15,
+   106.39
+  ],
+  "neighbour_states": [
+   286,
+   670,
+   741,
+   868,
+   1017,
+   1067
+  ],
+  "provinces": [
+   {
+    "id": 1374,
+    "lat": 15.63,
+    "lon": 105.82,
+    "borders_states": [
+     670,
+     868
+    ]
+   },
+   {
+    "id": 1592,
+    "lat": 14.47,
+    "lon": 105.54,
+    "name": "Champasak",
+    "vp": 1.0,
+    "borders_states": [
+     868,
+     1067
+    ]
+   },
+   {
+    "id": 1563,
+    "lat": 15.02,
+    "lon": 106.26,
+    "name": "Pakse",
+    "vp": 2.0
+   },
+   {
+    "id": 1577,
+    "lat": 14.46,
+    "lon": 106.97,
+    "borders_states": [
+     286,
+     741
+    ]
+   },
+   {
+    "id": 4554,
+    "lat": 15.04,
+    "lon": 107.06,
+    "borders_states": [
+     286
+    ]
+   },
+   {
+    "id": 7426,
+    "lat": 15.71,
+    "lon": 107.02,
+    "borders_states": [
+     286,
+     1017
+    ]
+   },
+   {
+    "id": 10453,
+    "lat": 14.33,
+    "lon": 106.0,
+    "borders_states": [
+     741,
+     1067
+    ]
+   },
+   {
+    "id": 12210,
+    "lat": 16.02,
+    "lon": 106.6,
+    "borders_states": [
+     670,
+     1017
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1070,
+  "name": "STATE_1070",
+  "file": "1070 - Bougainville.txt",
+  "owner": "PNG",
+  "cores": [
+   "PNG"
+  ],
+  "claims": [],
+  "manpower": 175000,
+  "category": "small_island",
+  "centroid": [
+   -7.35,
+   154.42
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1358,
+    "lat": -7.11,
+    "lon": 154.24
+   },
+   {
+    "id": 4226,
+    "lat": -8.32,
+    "lon": 155.14,
+    "name": "Buin",
+    "vp": 1.0
+   },
+   {
+    "id": 4378,
+    "lat": -7.88,
+    "lon": 154.73
+   },
+   {
+    "id": 10234,
+    "lat": -6.31,
+    "lon": 153.79,
+    "name": "Buka",
+    "vp": 2.0
+   }
+  ]
+ },
+ {
+  "id": 1071,
+  "name": "STATE_1071",
+  "file": "1071 - Vanuatu.txt",
+  "owner": "VAN",
+  "cores": [
+   "VAN"
+  ],
+  "claims": [],
+  "manpower": 188000,
+  "category": "small_island",
+  "centroid": [
+   -21.6,
+   166.56
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1237,
+    "lat": -20.69,
+    "lon": 165.92
+   },
+   {
+    "id": 4247,
+    "lat": -25.42,
+    "lon": 168.21
+   },
+   {
+    "id": 12120,
+    "lat": -21.42,
+    "lon": 166.88,
+    "name": "Port Vila",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 1072,
+  "name": "STATE_1072",
+  "file": "1072 - American Samoa.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "SAM"
+  ],
+  "claims": [],
+  "manpower": 57000,
+  "category": "tiny_island",
+  "centroid": [
+   -6.11,
+   -175.14
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13080,
+    "lat": -6.11,
+    "lon": -175.14,
+    "name": "Pago Pago",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 1073,
+  "name": "STATE_1073",
+  "file": "1073 - Interior Papua.txt",
+  "owner": "PNG",
+  "cores": [
+   "PNG"
+  ],
+  "claims": [],
+  "manpower": 1980000,
+  "category": "town",
+  "centroid": [
+   -5.99,
+   143.09
+  ],
+  "neighbour_states": [
+   523,
+   669,
+   979,
+   1057
+  ],
+  "provinces": [
+   {
+    "id": 2129,
+    "lat": -5.87,
+    "lon": 141.94
+   },
+   {
+    "id": 4317,
+    "lat": -8.41,
+    "lon": 147.2,
+    "borders_states": [
+     523
+    ]
+   },
+   {
+    "id": 4635,
+    "lat": -6.96,
+    "lon": 141.35,
+    "borders_states": [
+     523,
+     1057
+    ]
+   },
+   {
+    "id": 5135,
+    "lat": -5.95,
+    "lon": 144.72,
+    "borders_states": [
+     523,
+     979
+    ]
+   },
+   {
+    "id": 7409,
+    "lat": -7.73,
+    "lon": 146.37,
+    "borders_states": [
+     523,
+     979
+    ]
+   },
+   {
+    "id": 10954,
+    "lat": -6.29,
+    "lon": 143.4,
+    "borders_states": [
+     523
+    ]
+   },
+   {
+    "id": 11004,
+    "lat": -4.77,
+    "lon": 141.13,
+    "borders_states": [
+     669,
+     979,
+     1057
+    ]
+   },
+   {
+    "id": 11018,
+    "lat": -4.83,
+    "lon": 142.64,
+    "borders_states": [
+     979
+    ]
+   },
+   {
+    "id": 12107,
+    "lat": -7.13,
+    "lon": 142.75,
+    "borders_states": [
+     523
+    ]
+   },
+   {
+    "id": 12428,
+    "lat": -4.87,
+    "lon": 143.76,
+    "borders_states": [
+     979
+    ]
+   },
+   {
+    "id": 12931,
+    "lat": -6.87,
+    "lon": 145.44,
+    "borders_states": [
+     523,
+     979
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1074,
+  "name": "STATE_1074",
+  "file": "1074 - Gibson Desert.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 3000,
+  "category": "wasteland",
+  "centroid": [
+   -24.45,
+   124.74
+  ],
+  "neighbour_states": [
+   522,
+   674,
+   870,
+   871
+  ],
+  "provinces": [
+   {
+    "id": 2133,
+    "lat": -27.66,
+    "lon": 127.23,
+    "borders_states": [
+     674,
+     871
+    ]
+   },
+   {
+    "id": 2177,
+    "lat": -24.16,
+    "lon": 120.72,
+    "borders_states": [
+     522,
+     870
+    ]
+   },
+   {
+    "id": 2186,
+    "lat": -25.96,
+    "lon": 120.44,
+    "borders_states": [
+     522
+    ]
+   },
+   {
+    "id": 8134,
+    "lat": -24.26,
+    "lon": 127.17,
+    "borders_states": [
+     674
+    ]
+   },
+   {
+    "id": 8155,
+    "lat": -20.54,
+    "lon": 127.39,
+    "borders_states": [
+     674,
+     870
+    ]
+   },
+   {
+    "id": 10473,
+    "lat": -27.59,
+    "lon": 120.45,
+    "borders_states": [
+     522,
+     871
+    ]
+   },
+   {
+    "id": 12904,
+    "lat": -21.71,
+    "lon": 123.9,
+    "borders_states": [
+     870
+    ]
+   },
+   {
+    "id": 12912,
+    "lat": -24.63,
+    "lon": 123.45
+   },
+   {
+    "id": 12926,
+    "lat": -27.2,
+    "lon": 124.07,
+    "borders_states": [
+     871
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1075,
+  "name": "STATE_1075",
+  "file": "1075 - West Queensland.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 40000,
+  "category": "pastoral",
+  "centroid": [
+   -24.55,
+   140.06
+  ],
+  "neighbour_states": [
+   285,
+   519,
+   521,
+   674,
+   872,
+   873
+  ],
+  "provinces": [
+   {
+    "id": 2205,
+    "lat": -29.54,
+    "lon": 139.24,
+    "borders_states": [
+     285,
+     519,
+     674,
+     873
+    ]
+   },
+   {
+    "id": 5206,
+    "lat": -20.19,
+    "lon": 139.53,
+    "borders_states": [
+     674,
+     872
+    ]
+   },
+   {
+    "id": 8206,
+    "lat": -26.83,
+    "lon": 139.86,
+    "borders_states": [
+     674,
+     873
+    ]
+   },
+   {
+    "id": 10336,
+    "lat": -24.21,
+    "lon": 141.82,
+    "borders_states": [
+     873
+    ]
+   },
+   {
+    "id": 10936,
+    "lat": -21.79,
+    "lon": 142.89,
+    "borders_states": [
+     521,
+     872,
+     873
+    ]
+   },
+   {
+    "id": 10955,
+    "lat": -23.28,
+    "lon": 139.33,
+    "borders_states": [
+     674
+    ]
+   },
+   {
+    "id": 13171,
+    "lat": -30.34,
+    "lon": 139.65,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 1076,
+  "name": "STATE_1076",
+  "file": "1076 - Bangkok.txt",
+  "owner": "SIA",
+  "cores": [
+   "SIA"
+  ],
+  "claims": [],
+  "manpower": 9900000,
+  "category": "metropolis",
+  "centroid": [
+   13.93,
+   100.27
+  ],
+  "neighbour_states": [
+   289,
+   868,
+   1077,
+   1078
+  ],
+  "provinces": [
+   {
+    "id": 7408,
+    "lat": 13.76,
+    "lon": 100.5,
+    "name": "Bangkok",
+    "vp": 20.0,
+    "borders_states": [
+     1078
+    ]
+   },
+   {
+    "id": 10250,
+    "lat": 14.3,
+    "lon": 100.64,
+    "borders_states": [
+     289,
+     868,
+     1077,
+     1078
+    ]
+   },
+   {
+    "id": 1427,
+    "lat": 13.75,
+    "lon": 99.83,
+    "borders_states": [
+     289
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1077,
+  "name": "STATE_1077",
+  "file": "1077 - Central Siam.txt",
+  "owner": "SIA",
+  "cores": [
+   "SIA"
+  ],
+  "claims": [],
+  "manpower": 7600000,
+  "category": "town",
+  "centroid": [
+   16.36,
+   100.22
+  ],
+  "neighbour_states": [
+   289,
+   868,
+   869,
+   1069,
+   1076
+  ],
+  "provinces": [
+   {
+    "id": 10221,
+    "lat": 14.76,
+    "lon": 100.43,
+    "name": "Ayutthaya",
+    "vp": 5.0,
+    "borders_states": [
+     289,
+     868,
+     1076
+    ]
+   },
+   {
+    "id": 12173,
+    "lat": 15.33,
+    "lon": 100.41,
+    "borders_states": [
+     289,
+     868
+    ]
+   },
+   {
+    "id": 10411,
+    "lat": 15.85,
+    "lon": 100.43,
+    "borders_states": [
+     289,
+     868
+    ]
+   },
+   {
+    "id": 10398,
+    "lat": 16.73,
+    "lon": 100.65,
+    "name": "Petchabun",
+    "vp": 1.0,
+    "borders_states": [
+     868
+    ]
+   },
+   {
+    "id": 12345,
+    "lat": 17.38,
+    "lon": 100.54,
+    "borders_states": [
+     868,
+     869,
+     1069
+    ]
+   },
+   {
+    "id": 7572,
+    "lat": 16.38,
+    "lon": 99.88,
+    "borders_states": [
+     289
+    ]
+   },
+   {
+    "id": 7353,
+    "lat": 17.17,
+    "lon": 99.49,
+    "borders_states": [
+     289,
+     869
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1078,
+  "name": "STATE_1078",
+  "file": "1078 - Eastern Siam.txt",
+  "owner": "SIA",
+  "cores": [
+   "SIA"
+  ],
+  "claims": [],
+  "manpower": 4050000,
+  "category": "city",
+  "centroid": [
+   13.33,
+   101.52
+  ],
+  "neighbour_states": [
+   741,
+   868,
+   1067,
+   1076
+  ],
+  "provinces": [
+   {
+    "id": 12224,
+    "lat": 14.06,
+    "lon": 101.3,
+    "name": "Chachoengsao",
+    "vp": 1.0,
+    "borders_states": [
+     868,
+     1076
+    ]
+   },
+   {
+    "id": 10293,
+    "lat": 13.81,
+    "lon": 102.05,
+    "borders_states": [
+     868,
+     1067
+    ]
+   },
+   {
+    "id": 7225,
+    "lat": 13.46,
+    "lon": 101.08,
+    "name": "Chon Buri",
+    "vp": 1.0,
+    "borders_states": [
+     1076
+    ]
+   },
+   {
+    "id": 4433,
+    "lat": 12.92,
+    "lon": 100.87
+   },
+   {
+    "id": 1244,
+    "lat": 13.07,
+    "lon": 101.65,
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 7292,
+    "lat": 12.5,
+    "lon": 102.05,
+    "borders_states": [
+     741,
+     1067
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1079,
+  "name": "STATE_1079",
+  "file": "1079-Auckland.txt",
+  "owner": "NZL",
+  "cores": [
+   "NZL"
+  ],
+  "claims": [],
+  "manpower": 2020000,
+  "category": "city",
+  "centroid": [
+   -37.93,
+   175.72
+  ],
+  "neighbour_states": [
+   284
+  ],
+  "provinces": [
+   {
+    "id": 4615,
+    "lat": -34.42,
+    "lon": 173.59
+   },
+   {
+    "id": 10334,
+    "lat": -35.27,
+    "lon": 174.16
+   },
+   {
+    "id": 10373,
+    "lat": -35.97,
+    "lon": 174.45
+   },
+   {
+    "id": 4543,
+    "lat": -36.85,
+    "lon": 174.76,
+    "name": "Auckland",
+    "vp": 5.0
+   },
+   {
+    "id": 1565,
+    "lat": -37.45,
+    "lon": 175.1
+   },
+   {
+    "id": 12362,
+    "lat": -37.05,
+    "lon": 175.66
+   },
+   {
+    "id": 12664,
+    "lat": -37.84,
+    "lon": 175.68
+   },
+   {
+    "id": 7887,
+    "lat": -38.02,
+    "lon": 175.18,
+    "name": "Hamilton",
+    "vp": 1.0
+   },
+   {
+    "id": 4718,
+    "lat": -38.43,
+    "lon": 176.03,
+    "name": "Tauranga",
+    "vp": 1.0
+   },
+   {
+    "id": 10710,
+    "lat": -38.72,
+    "lon": 176.76
+   },
+   {
+    "id": 7742,
+    "lat": -38.65,
+    "lon": 177.7
+   },
+   {
+    "id": 4748,
+    "lat": -39.32,
+    "lon": 177.2
+   },
+   {
+    "id": 1713,
+    "lat": -38.5,
+    "lon": 175.02,
+    "borders_states": [
+     284
+    ]
+   },
+   {
+    "id": 1746,
+    "lat": -38.9,
+    "lon": 175.61,
+    "borders_states": [
+     284
+    ]
+   },
+   {
+    "id": 10609,
+    "lat": -39.39,
+    "lon": 176.28,
+    "name": "Waikaremoana",
+    "borders_states": [
+     284
+    ]
+   },
+   {
+    "id": 1786,
+    "lat": -39.51,
+    "lon": 175.57,
+    "borders_states": [
+     284
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1080,
+  "name": "STATE_1080",
+  "file": "1080 - Marlborough.txt",
+  "owner": "NZL",
+  "cores": [
+   "NZL"
+  ],
+  "claims": [],
+  "manpower": 126000,
+  "category": "rural",
+  "centroid": [
+   -41.74,
+   172.46
+  ],
+  "neighbour_states": [
+   723
+  ],
+  "provinces": [
+   {
+    "id": 12632,
+    "lat": -41.18,
+    "lon": 173.08,
+    "name": "Nelson",
+    "vp": 1.0
+   },
+   {
+    "id": 10650,
+    "lat": -40.81,
+    "lon": 172.24
+   },
+   {
+    "id": 4819,
+    "lat": -41.89,
+    "lon": 173.07
+   },
+   {
+    "id": 8204,
+    "lat": -42.1,
+    "lon": 171.69,
+    "borders_states": [
+     723
+    ]
+   },
+   {
+    "id": 7839,
+    "lat": -42.58,
+    "lon": 172.54,
+    "borders_states": [
+     723
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1081,
+  "name": "STATE_1081",
+  "file": "1081 - Otago.txt",
+  "owner": "NZL",
+  "cores": [
+   "NZL"
+  ],
+  "claims": [],
+  "manpower": 282000,
+  "category": "town",
+  "centroid": [
+   -45.63,
+   169.12
+  ],
+  "neighbour_states": [
+   723
+  ],
+  "provinces": [
+   {
+    "id": 2211,
+    "lat": -45.9,
+    "lon": 170.29,
+    "name": "Dunedin",
+    "vp": 2.0,
+    "borders_states": [
+     723
+    ]
+   },
+   {
+    "id": 8232,
+    "lat": -45.28,
+    "lon": 169.46,
+    "borders_states": [
+     723
+    ]
+   },
+   {
+    "id": 8241,
+    "lat": -46.38,
+    "lon": 169.36,
+    "name": "Invercargill",
+    "vp": 1.0
+   },
+   {
+    "id": 12988,
+    "lat": -45.77,
+    "lon": 168.1
+   },
+   {
+    "id": 12980,
+    "lat": -44.86,
+    "lon": 168.45,
+    "borders_states": [
+     723
+    ]
+   }
+  ]
+ },
+ {
+  "id": 270,
+  "name": "Pitcairn Island",
+  "file": "270-Pitcarin Island.txt",
+  "owner": "ENG",
+  "cores": [
+   "ENG"
+  ],
+  "claims": [],
+  "manpower": 50,
+  "category": "enclave",
+  "centroid": [
+   -32.34,
+   -112.63
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1280,
+    "lat": -32.34,
+    "lon": -112.63
+   }
+  ]
+ },
+ {
+  "id": 284,
+  "name": "North Island",
+  "file": "284-New Zealand.txt",
+  "owner": "NZL",
+  "cores": [
+   "NZL"
+  ],
+  "claims": [],
+  "manpower": 930000,
+  "category": "city",
+  "centroid": [
+   -40.17,
+   175.18
+  ],
+  "neighbour_states": [
+   1079
+  ],
+  "provinces": [
+   {
+    "id": 1801,
+    "lat": -40.3,
+    "lon": 176.25,
+    "borders_states": [
+     1079
+    ]
+   },
+   {
+    "id": 1814,
+    "lat": -41.29,
+    "lon": 174.78,
+    "name": "Wellington",
+    "vp": 10.0
+   },
+   {
+    "id": 4804,
+    "lat": -40.59,
+    "lon": 175.02,
+    "name": "Mangahao"
+   },
+   {
+    "id": 7692,
+    "lat": -40.18,
+    "lon": 175.6,
+    "borders_states": [
+     1079
+    ]
+   },
+   {
+    "id": 7783,
+    "lat": -39.07,
+    "lon": 174.85,
+    "borders_states": [
+     1079
+    ]
+   },
+   {
+    "id": 7826,
+    "lat": -41.04,
+    "lon": 175.49
+   },
+   {
+    "id": 12604,
+    "lat": -39.23,
+    "lon": 174.17,
+    "name": "New Plymouth",
+    "vp": 1.0
+   },
+   {
+    "id": 12617,
+    "lat": -39.79,
+    "lon": 174.86,
+    "borders_states": [
+     1079
+    ]
+   }
+  ]
+ },
+ {
+  "id": 285,
+  "name": "New South Wales",
+  "file": "285-Austraila.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 6800000,
+  "category": "metropolis",
+  "centroid": [
+   -32.45,
+   146.95
+  ],
+  "neighbour_states": [
+   517,
+   519,
+   521,
+   873,
+   1075
+  ],
+  "provinces": [
+   {
+    "id": 1537,
+    "lat": -33.15,
+    "lon": 150.14
+   },
+   {
+    "id": 1611,
+    "lat": -30.2,
+    "lon": 152.65,
+    "borders_states": [
+     521
+    ]
+   },
+   {
+    "id": 1667,
+    "lat": -35.69,
+    "lon": 147.21,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 1861,
+    "lat": -35.74,
+    "lon": 148.65,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 2114,
+    "lat": -33.33,
+    "lon": 143.34,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 2146,
+    "lat": -35.21,
+    "lon": 144.24,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 2163,
+    "lat": -29.62,
+    "lon": 147.77,
+    "borders_states": [
+     521,
+     873
+    ]
+   },
+   {
+    "id": 4453,
+    "lat": -30.67,
+    "lon": 148.42
+   },
+   {
+    "id": 4478,
+    "lat": -31.73,
+    "lon": 149.8
+   },
+   {
+    "id": 4500,
+    "lat": -31.84,
+    "lon": 148.54
+   },
+   {
+    "id": 4658,
+    "lat": -30.38,
+    "lon": 150.08
+   },
+   {
+    "id": 4673,
+    "lat": -35.76,
+    "lon": 150.27
+   },
+   {
+    "id": 4763,
+    "lat": -37.69,
+    "lon": 149.36,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 4836,
+    "lat": -33.76,
+    "lon": 147.16
+   },
+   {
+    "id": 4864,
+    "lat": -34.82,
+    "lon": 150.79,
+    "name": "Cataract Dam"
+   },
+   {
+    "id": 5134,
+    "lat": -34.19,
+    "lon": 145.4
+   },
+   {
+    "id": 5161,
+    "lat": -35.28,
+    "lon": 145.69,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 7450,
+    "lat": -31.66,
+    "lon": 152.41
+   },
+   {
+    "id": 7471,
+    "lat": -31.25,
+    "lon": 150.84
+   },
+   {
+    "id": 7496,
+    "lat": -31.8,
+    "lon": 151.58
+   },
+   {
+    "id": 7520,
+    "lat": -32.9,
+    "lon": 151.78,
+    "name": "Newcastle",
+    "vp": 1.0
+   },
+   {
+    "id": 7533,
+    "lat": -31.73,
+    "lon": 146.98
+   },
+   {
+    "id": 7649,
+    "lat": -29.28,
+    "lon": 149.84,
+    "borders_states": [
+     521
+    ]
+   },
+   {
+    "id": 7664,
+    "lat": -30.6,
+    "lon": 151.75
+   },
+   {
+    "id": 7859,
+    "lat": -35.58,
+    "lon": 149.67,
+    "name": "Canberra",
+    "vp": 30.0
+   },
+   {
+    "id": 8234,
+    "lat": -30.6,
+    "lon": 146.62
+   },
+   {
+    "id": 8249,
+    "lat": -32.41,
+    "lon": 141.77,
+    "borders_states": [
+     517,
+     519,
+     1075
+    ]
+   },
+   {
+    "id": 10388,
+    "lat": -32.53,
+    "lon": 150.84
+   },
+   {
+    "id": 10427,
+    "lat": -33.53,
+    "lon": 149.08
+   },
+   {
+    "id": 10455,
+    "lat": -34.69,
+    "lon": 147.33
+   },
+   {
+    "id": 10500,
+    "lat": -29.56,
+    "lon": 151.32,
+    "borders_states": [
+     521
+    ]
+   },
+   {
+    "id": 10682,
+    "lat": -34.53,
+    "lon": 148.74
+   },
+   {
+    "id": 10977,
+    "lat": -29.61,
+    "lon": 146.18,
+    "borders_states": [
+     873
+    ]
+   },
+   {
+    "id": 10991,
+    "lat": -30.02,
+    "lon": 142.04,
+    "borders_states": [
+     873,
+     1075
+    ]
+   },
+   {
+    "id": 11019,
+    "lat": -32.9,
+    "lon": 145.66
+   },
+   {
+    "id": 12377,
+    "lat": -32.79,
+    "lon": 147.83
+   },
+   {
+    "id": 12406,
+    "lat": -33.87,
+    "lon": 151.21,
+    "name": "Sydney",
+    "vp": 20.0
+   },
+   {
+    "id": 12435,
+    "lat": -34.41,
+    "lon": 150.12
+   },
+   {
+    "id": 12532,
+    "lat": -36.83,
+    "lon": 148.68,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 12560,
+    "lat": -36.7,
+    "lon": 149.64
+   },
+   {
+    "id": 12934,
+    "lat": -30.1,
+    "lon": 144.26,
+    "borders_states": [
+     873
+    ]
+   },
+   {
+    "id": 12968,
+    "lat": -31.54,
+    "lon": 145.01
+   }
+  ]
+ },
+ {
+  "id": 286,
+  "name": "Southern Indochina",
+  "file": "286-Indochina.txt",
+  "owner": "VIN",
+  "cores": [
+   "VIN"
+  ],
+  "claims": [],
+  "manpower": 12400000,
+  "category": "large_town",
+  "centroid": [
+   13.28,
+   108.12
+  ],
+  "neighbour_states": [
+   741,
+   1017,
+   1066,
+   1068
+  ],
+  "provinces": [
+   {
+    "id": 1248,
+    "lat": 14.64,
+    "lon": 107.67,
+    "borders_states": [
+     1068
+    ]
+   },
+   {
+    "id": 1285,
+    "lat": 11.83,
+    "lon": 108.76
+   },
+   {
+    "id": 1300,
+    "lat": 14.29,
+    "lon": 108.76
+   },
+   {
+    "id": 1328,
+    "lat": 14.01,
+    "lon": 108.28
+   },
+   {
+    "id": 1400,
+    "lat": 13.2,
+    "lon": 107.86,
+    "borders_states": [
+     741
+    ]
+   },
+   {
+    "id": 1605,
+    "lat": 12.52,
+    "lon": 108.03
+   },
+   {
+    "id": 4255,
+    "lat": 14.78,
+    "lon": 108.67
+   },
+   {
+    "id": 4334,
+    "lat": 13.67,
+    "lon": 108.9
+   },
+   {
+    "id": 4363,
+    "lat": 13.9,
+    "lon": 107.65,
+    "borders_states": [
+     741,
+     1068
+    ]
+   },
+   {
+    "id": 4405,
+    "lat": 12.91,
+    "lon": 109.01
+   },
+   {
+    "id": 7229,
+    "lat": 15.45,
+    "lon": 107.57,
+    "borders_states": [
+     1068
+    ]
+   },
+   {
+    "id": 7271,
+    "lat": 11.93,
+    "lon": 108.17
+   },
+   {
+    "id": 7380,
+    "lat": 13.37,
+    "lon": 108.45
+   },
+   {
+    "id": 10180,
+    "lat": 14.74,
+    "lon": 108.17
+   },
+   {
+    "id": 10137,
+    "lat": 15.28,
+    "lon": 108.38
+   },
+   {
+    "id": 10162,
+    "lat": 12.34,
+    "lon": 108.76
+   },
+   {
+    "id": 10232,
+    "lat": 10.94,
+    "lon": 107.72,
+    "borders_states": [
+     1066
+    ]
+   },
+   {
+    "id": 10309,
+    "lat": 15.85,
+    "lon": 107.97,
+    "name": "Tourane",
+    "vp": 2.0,
+    "borders_states": [
+     1017,
+     1068
+    ]
+   },
+   {
+    "id": 12109,
+    "lat": 12.88,
+    "lon": 108.49
+   },
+   {
+    "id": 12150,
+    "lat": 12.37,
+    "lon": 107.3,
+    "borders_states": [
+     741,
+     1066
+    ]
+   },
+   {
+    "id": 12176,
+    "lat": 11.62,
+    "lon": 107.6,
+    "borders_states": [
+     1066
+    ]
+   },
+   {
+    "id": 12204,
+    "lat": 11.34,
+    "lon": 108.43,
+    "name": "Phan Rang",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 289,
+  "name": "Siam",
+  "file": "289-Siam.txt",
+  "owner": "SIA",
+  "cores": [
+   "SIA"
+  ],
+  "claims": [],
+  "manpower": 5000000,
+  "category": "town",
+  "centroid": [
+   14.76,
+   99.06
+  ],
+  "neighbour_states": [
+   724,
+   869,
+   994,
+   1076,
+   1077
+  ],
+  "provinces": [
+   {
+    "id": 4319,
+    "lat": 14.69,
+    "lon": 99.05
+   },
+   {
+    "id": 4348,
+    "lat": 14.34,
+    "lon": 98.64,
+    "borders_states": [
+     994
+    ]
+   },
+   {
+    "id": 4566,
+    "lat": 15.59,
+    "lon": 98.82,
+    "borders_states": [
+     994
+    ]
+   },
+   {
+    "id": 7312,
+    "lat": 17.23,
+    "lon": 98.49,
+    "name": "Mae Sot",
+    "vp": 1.0,
+    "borders_states": [
+     869,
+     994,
+     1077
+    ]
+   },
+   {
+    "id": 7338,
+    "lat": 14.96,
+    "lon": 99.65,
+    "borders_states": [
+     1077
+    ]
+   },
+   {
+    "id": 7367,
+    "lat": 14.39,
+    "lon": 99.79,
+    "borders_states": [
+     1076,
+     1077
+    ]
+   },
+   {
+    "id": 7544,
+    "lat": 15.77,
+    "lon": 99.42,
+    "borders_states": [
+     1077
+    ]
+   },
+   {
+    "id": 7559,
+    "lat": 16.54,
+    "lon": 98.87,
+    "borders_states": [
+     994,
+     1077
+    ]
+   },
+   {
+    "id": 7587,
+    "lat": 13.88,
+    "lon": 99.23,
+    "borders_states": [
+     994,
+     1076
+    ]
+   },
+   {
+    "id": 10193,
+    "lat": 15.02,
+    "lon": 98.36,
+    "borders_states": [
+     994
+    ]
+   },
+   {
+    "id": 4392,
+    "lat": 13.14,
+    "lon": 99.12,
+    "borders_states": [
+     994,
+     1076
+    ]
+   },
+   {
+    "id": 12122,
+    "lat": 12.77,
+    "lon": 99.42,
+    "borders_states": [
+     994,
+     1076
+    ]
+   },
+   {
+    "id": 12220,
+    "lat": 12.12,
+    "lon": 99.43,
+    "borders_states": [
+     994
+    ]
+   },
+   {
+    "id": 4388,
+    "lat": 11.22,
+    "lon": 99.13,
+    "borders_states": [
+     724,
+     994
+    ]
+   }
+  ]
+ },
+ {
+  "id": 327,
+  "name": "Manila",
+  "file": "327-Philippines.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 26770000,
+  "category": "megalopolis",
+  "centroid": [
+   14.47,
+   121.16
+  ],
+  "neighbour_states": [
+   623,
+   624,
+   1027
+  ],
+  "provinces": [
+   {
+    "id": 1221,
+    "lat": 14.09,
+    "lon": 120.87,
+    "name": "Batangas",
+    "vp": 1.0
+   },
+   {
+    "id": 1288,
+    "lat": 15.36,
+    "lon": 121.16,
+    "borders_states": [
+     1027
+    ]
+   },
+   {
+    "id": 1388,
+    "lat": 15.94,
+    "lon": 121.29,
+    "borders_states": [
+     1027
+    ]
+   },
+   {
+    "id": 4233,
+    "lat": 16.37,
+    "lon": 121.62,
+    "borders_states": [
+     623,
+     1027
+    ]
+   },
+   {
+    "id": 4288,
+    "lat": 13.37,
+    "lon": 120.82,
+    "name": "Calapan",
+    "vp": 1.0
+   },
+   {
+    "id": 7323,
+    "lat": 15.08,
+    "lon": 120.85,
+    "borders_states": [
+     1027
+    ]
+   },
+   {
+    "id": 10236,
+    "lat": 14.69,
+    "lon": 121.42
+   },
+   {
+    "id": 10265,
+    "lat": 14.6,
+    "lon": 120.98,
+    "name": "Manila",
+    "vp": 15.0
+   },
+   {
+    "id": 10272,
+    "lat": 12.79,
+    "lon": 121.05
+   },
+   {
+    "id": 12236,
+    "lat": 14.09,
+    "lon": 121.54,
+    "borders_states": [
+     624
+    ]
+   }
+  ]
+ },
+ {
+  "id": 333,
+  "name": "North Borneo",
+  "file": "333-British Borneo.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [],
+  "manpower": 1970000,
+  "category": "town",
+  "centroid": [
+   2.25,
+   112.75
+  ],
+  "neighbour_states": [
+   334,
+   1022,
+   1023,
+   1059
+  ],
+  "provinces": [
+   {
+    "id": 1208,
+    "lat": 1.34,
+    "lon": 110.08,
+    "name": "Kuching",
+    "vp": 1.0,
+    "borders_states": [
+     334,
+     1022
+    ]
+   },
+   {
+    "id": 2117,
+    "lat": 2.08,
+    "lon": 114.0,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 4216,
+    "lat": 1.67,
+    "lon": 111.67,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 4396,
+    "lat": 2.59,
+    "lon": 112.84,
+    "name": "Bintulu"
+   },
+   {
+    "id": 7443,
+    "lat": 1.65,
+    "lon": 113.13,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 8091,
+    "lat": 2.88,
+    "lon": 114.05,
+    "borders_states": [
+     1022,
+     1059
+    ]
+   },
+   {
+    "id": 10285,
+    "lat": 3.84,
+    "lon": 113.99,
+    "name": "Miri",
+    "borders_states": [
+     1023,
+     1059
+    ]
+   },
+   {
+    "id": 12283,
+    "lat": 2.3,
+    "lon": 111.75,
+    "name": "Sibu"
+   },
+   {
+    "id": 12905,
+    "lat": 1.26,
+    "lon": 111.12,
+    "borders_states": [
+     1022
+    ]
+   }
+  ]
+ },
+ {
+  "id": 334,
+  "name": "Kalimantan",
+  "file": "334-Dutch Borneo.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 3600000,
+  "category": "town",
+  "centroid": [
+   -0.96,
+   110.43
+  ],
+  "neighbour_states": [
+   333,
+   1022,
+   1055
+  ],
+  "provinces": [
+   {
+    "id": 1304,
+    "lat": 0.43,
+    "lon": 109.98,
+    "borders_states": [
+     333,
+     1022
+    ]
+   },
+   {
+    "id": 1316,
+    "lat": -0.57,
+    "lon": 109.74,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 4279,
+    "lat": 0.28,
+    "lon": 109.27,
+    "name": "Pontianak",
+    "vp": 1.0
+   },
+   {
+    "id": 4409,
+    "lat": -2.37,
+    "lon": 110.51
+   },
+   {
+    "id": 7227,
+    "lat": -2.69,
+    "lon": 111.63
+   },
+   {
+    "id": 10282,
+    "lat": -1.32,
+    "lon": 110.31,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 10310,
+    "lat": -2.63,
+    "lon": 112.25,
+    "borders_states": [
+     1022,
+     1055
+    ]
+   },
+   {
+    "id": 12129,
+    "lat": 1.19,
+    "lon": 109.43,
+    "borders_states": [
+     333
+    ]
+   },
+   {
+    "id": 12955,
+    "lat": -1.72,
+    "lon": 111.24,
+    "borders_states": [
+     1022
+    ]
+   },
+   {
+    "id": 13298,
+    "lat": 3.74,
+    "lon": 108.32
+   }
+  ]
+ },
+ {
+  "id": 335,
+  "name": "Java",
+  "file": "335-Dutch East Indies.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 34850000,
+  "category": "large_city",
+  "centroid": [
+   -7.35,
+   106.99
+  ],
+  "neighbour_states": [
+   1051,
+   1058
+  ],
+  "provinces": [
+   {
+    "id": 1398,
+    "lat": -6.94,
+    "lon": 105.42,
+    "borders_states": [
+     1058
+    ]
+   },
+   {
+    "id": 10307,
+    "lat": -7.5,
+    "lon": 106.09,
+    "borders_states": [
+     1058
+    ]
+   },
+   {
+    "id": 1386,
+    "lat": -7.01,
+    "lon": 107.68,
+    "borders_states": [
+     1058
+    ]
+   },
+   {
+    "id": 13382,
+    "lat": -7.83,
+    "lon": 107.73
+   },
+   {
+    "id": 7421,
+    "lat": -7.26,
+    "lon": 107.24,
+    "name": "Bandung",
+    "vp": 15.0,
+    "borders_states": [
+     1058
+    ]
+   },
+   {
+    "id": 1425,
+    "lat": -7.42,
+    "lon": 106.64,
+    "borders_states": [
+     1058
+    ]
+   },
+   {
+    "id": 4621,
+    "lat": -7.84,
+    "lon": 107.15
+   },
+   {
+    "id": 4434,
+    "lat": -7.97,
+    "lon": 108.16,
+    "name": "Cilacap",
+    "vp": 1.0,
+    "borders_states": [
+     1051
+    ]
+   },
+   {
+    "id": 7223,
+    "lat": -7.49,
+    "lon": 108.38,
+    "borders_states": [
+     1051
+    ]
+   },
+   {
+    "id": 10279,
+    "lat": -6.44,
+    "lon": 105.64,
+    "borders_states": [
+     1058
+    ]
+   }
+  ]
+ },
+ {
+  "id": 336,
+  "name": "Malaysia",
+  "file": "336-Singapore.txt",
+  "owner": "MAL",
+  "cores": [
+   "MAL"
+  ],
+  "claims": [],
+  "manpower": 6370000,
+  "category": "metropolis",
+  "centroid": [
+   3.05,
+   101.75
+  ],
+  "neighbour_states": [
+   1060,
+   1063,
+   1064
+  ],
+  "provinces": [
+   {
+    "id": 4412,
+    "lat": 2.72,
+    "lon": 102.15,
+    "name": "Seremban",
+    "vp": 1.0,
+    "borders_states": [
+     1060,
+     1063
+    ]
+   },
+   {
+    "id": 10297,
+    "lat": 3.03,
+    "lon": 101.67,
+    "name": "Kuala Lumpur",
+    "vp": 5.0,
+    "borders_states": [
+     1063
+    ]
+   },
+   {
+    "id": 13409,
+    "lat": 3.55,
+    "lon": 101.33,
+    "borders_states": [
+     1063,
+     1064
+    ]
+   }
+  ]
+ },
+ {
+  "id": 517,
+  "name": "Victoria",
+  "file": "517-Victoria.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 4770000,
+  "category": "large_city",
+  "centroid": [
+   -36.9,
+   144.29
+  ],
+  "neighbour_states": [
+   285,
+   519
+  ],
+  "provinces": [
+   {
+    "id": 1759,
+    "lat": -38.43,
+    "lon": 146.23
+   },
+   {
+    "id": 2130,
+    "lat": -35.05,
+    "lon": 141.86,
+    "borders_states": [
+     285,
+     519
+    ]
+   },
+   {
+    "id": 2155,
+    "lat": -35.95,
+    "lon": 143.44,
+    "borders_states": [
+     285
+    ]
+   },
+   {
+    "id": 4776,
+    "lat": -37.03,
+    "lon": 143.32
+   },
+   {
+    "id": 4791,
+    "lat": -37.82,
+    "lon": 141.97,
+    "borders_states": [
+     519
+    ]
+   },
+   {
+    "id": 7755,
+    "lat": -36.35,
+    "lon": 145.84,
+    "borders_states": [
+     285
+    ]
+   },
+   {
+    "id": 7798,
+    "lat": -37.81,
+    "lon": 144.96,
+    "name": "Melbourne",
+    "vp": 20.0
+   },
+   {
+    "id": 7811,
+    "lat": -38.18,
+    "lon": 143.56
+   },
+   {
+    "id": 10553,
+    "lat": -37.33,
+    "lon": 146.6
+   },
+   {
+    "id": 10581,
+    "lat": -36.78,
+    "lon": 147.62,
+    "borders_states": [
+     285
+    ]
+   },
+   {
+    "id": 10622,
+    "lat": -37.71,
+    "lon": 148.31,
+    "borders_states": [
+     285
+    ]
+   },
+   {
+    "id": 10637,
+    "lat": -38.07,
+    "lon": 147.22
+   },
+   {
+    "id": 12576,
+    "lat": -36.97,
+    "lon": 145.24
+   },
+   {
+    "id": 12932,
+    "lat": -36.6,
+    "lon": 141.67,
+    "borders_states": [
+     519
+    ]
+   }
+  ]
+ },
+ {
+  "id": 518,
+  "name": "Tasmania",
+  "file": "518-Tasmania.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 470000,
+  "category": "town",
+  "centroid": [
+   -41.58,
+   146.64
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 2183,
+    "lat": -41.85,
+    "lon": 146.01
+   },
+   {
+    "id": 2189,
+    "lat": -42.58,
+    "lon": 146.58,
+    "name": "Hobart",
+    "vp": 1.0
+   },
+   {
+    "id": 5181,
+    "lat": -41.39,
+    "lon": 146.71
+   },
+   {
+    "id": 5187,
+    "lat": -42.13,
+    "lon": 147.2,
+    "name": "Hobart"
+   },
+   {
+    "id": 10665,
+    "lat": -40.78,
+    "lon": 145.53
+   },
+   {
+    "id": 12645,
+    "lat": -40.99,
+    "lon": 147.54
+   }
+  ]
+ },
+ {
+  "id": 519,
+  "name": "South Australia",
+  "file": "519-South Australia.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 1490000,
+  "category": "city",
+  "centroid": [
+   -32.03,
+   135.79
+  ],
+  "neighbour_states": [
+   285,
+   517,
+   674,
+   871,
+   1075
+  ],
+  "provinces": [
+   {
+    "id": 1773,
+    "lat": -37.24,
+    "lon": 140.47,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 2219,
+    "lat": -33.46,
+    "lon": 135.81
+   },
+   {
+    "id": 5183,
+    "lat": -31.12,
+    "lon": 133.38
+   },
+   {
+    "id": 5197,
+    "lat": -30.49,
+    "lon": 130.18,
+    "borders_states": [
+     674,
+     871
+    ]
+   },
+   {
+    "id": 5211,
+    "lat": -32.82,
+    "lon": 140.09,
+    "borders_states": [
+     285,
+     1075
+    ]
+   },
+   {
+    "id": 5225,
+    "lat": -32.08,
+    "lon": 138.49,
+    "borders_states": [
+     1075
+    ]
+   },
+   {
+    "id": 7567,
+    "lat": -34.34,
+    "lon": 137.5
+   },
+   {
+    "id": 8165,
+    "lat": -29.48,
+    "lon": 132.51,
+    "borders_states": [
+     674
+    ]
+   },
+   {
+    "id": 8186,
+    "lat": -31.84,
+    "lon": 136.95
+   },
+   {
+    "id": 8220,
+    "lat": -32.21,
+    "lon": 135.19
+   },
+   {
+    "id": 10925,
+    "lat": -33.82,
+    "lon": 138.8
+   },
+   {
+    "id": 10927,
+    "lat": -30.12,
+    "lon": 135.51,
+    "borders_states": [
+     674,
+     1075
+    ]
+   },
+   {
+    "id": 12910,
+    "lat": -34.93,
+    "lon": 138.6,
+    "name": "Adelaide",
+    "vp": 15.0
+   },
+   {
+    "id": 12918,
+    "lat": -34.7,
+    "lon": 140.09,
+    "borders_states": [
+     285,
+     517
+    ]
+   },
+   {
+    "id": 12924,
+    "lat": -35.9,
+    "lon": 140.07,
+    "borders_states": [
+     517
+    ]
+   },
+   {
+    "id": 13169,
+    "lat": -31.14,
+    "lon": 135.71,
+    "type": "lake"
+   },
+   {
+    "id": 13170,
+    "lat": -30.6,
+    "lon": 137.65,
+    "type": "lake",
+    "borders_states": [
+     1075
+    ]
+   }
+  ]
+ },
+ {
+  "id": 520,
+  "name": "Northern Territory",
+  "file": "520-Northern Territory.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 155000,
+  "category": "rural",
+  "centroid": [
+   -15.0,
+   133.0
+  ],
+  "neighbour_states": [
+   674,
+   870,
+   872
+  ],
+  "provinces": [
+   {
+    "id": 1217,
+    "lat": -13.32,
+    "lon": 133.98
+   },
+   {
+    "id": 1410,
+    "lat": -12.49,
+    "lon": 135.71
+   },
+   {
+    "id": 1422,
+    "lat": -12.44,
+    "lon": 134.65
+   },
+   {
+    "id": 1431,
+    "lat": -13.19,
+    "lon": 130.61
+   },
+   {
+    "id": 1454,
+    "lat": -15.05,
+    "lon": 131.72
+   },
+   {
+    "id": 1478,
+    "lat": -16.25,
+    "lon": 132.0,
+    "borders_states": [
+     674
+    ]
+   },
+   {
+    "id": 2139,
+    "lat": -17.46,
+    "lon": 136.3,
+    "borders_states": [
+     674,
+     872
+    ]
+   },
+   {
+    "id": 4415,
+    "lat": -12.66,
+    "lon": 131.87
+   },
+   {
+    "id": 4441,
+    "lat": -15.35,
+    "lon": 133.21
+   },
+   {
+    "id": 4462,
+    "lat": -15.13,
+    "lon": 134.67
+   },
+   {
+    "id": 4487,
+    "lat": -16.69,
+    "lon": 134.22,
+    "borders_states": [
+     674
+    ]
+   },
+   {
+    "id": 7457,
+    "lat": -14.25,
+    "lon": 134.5
+   },
+   {
+    "id": 7481,
+    "lat": -16.08,
+    "lon": 136.21,
+    "borders_states": [
+     872
+    ]
+   },
+   {
+    "id": 7669,
+    "lat": -12.46,
+    "lon": 130.84,
+    "name": "Darwin",
+    "vp": 5.0
+   },
+   {
+    "id": 10276,
+    "lat": -11.42,
+    "lon": 130.54
+   },
+   {
+    "id": 10288,
+    "lat": -12.06,
+    "lon": 132.63
+   },
+   {
+    "id": 10316,
+    "lat": -13.09,
+    "lon": 132.98
+   },
+   {
+    "id": 10518,
+    "lat": -14.31,
+    "lon": 133.26
+   },
+   {
+    "id": 12104,
+    "lat": -13.8,
+    "lon": 131.57
+   },
+   {
+    "id": 12246,
+    "lat": -11.19,
+    "lon": 131.94
+   },
+   {
+    "id": 12290,
+    "lat": -12.24,
+    "lon": 133.6
+   },
+   {
+    "id": 12311,
+    "lat": -16.8,
+    "lon": 130.02,
+    "borders_states": [
+     674,
+     870
+    ]
+   },
+   {
+    "id": 12326,
+    "lat": -14.73,
+    "lon": 129.87,
+    "borders_states": [
+     870
+    ]
+   },
+   {
+    "id": 12339,
+    "lat": -13.8,
+    "lon": 132.53
+   },
+   {
+    "id": 12499,
+    "lat": -13.55,
+    "lon": 135.18
+   }
+  ]
+ },
+ {
+  "id": 521,
+  "name": "Queensland",
+  "file": "521-Queensland.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 3235000,
+  "category": "large_city",
+  "centroid": [
+   -24.47,
+   148.72
+  ],
+  "neighbour_states": [
+   285,
+   872,
+   873,
+   1075
+  ],
+  "provinces": [
+   {
+    "id": 1472,
+    "lat": -25.05,
+    "lon": 149.52
+   },
+   {
+    "id": 1557,
+    "lat": -21.57,
+    "lon": 144.72,
+    "borders_states": [
+     872,
+     873,
+     1075
+    ]
+   },
+   {
+    "id": 1570,
+    "lat": -28.25,
+    "lon": 149.14,
+    "borders_states": [
+     285,
+     873
+    ]
+   },
+   {
+    "id": 4481,
+    "lat": -25.01,
+    "lon": 151.84
+   },
+   {
+    "id": 4502,
+    "lat": -25.56,
+    "lon": 151.2
+   },
+   {
+    "id": 4517,
+    "lat": -25.61,
+    "lon": 148.29,
+    "borders_states": [
+     873
+    ]
+   },
+   {
+    "id": 4530,
+    "lat": -26.66,
+    "lon": 151.65
+   },
+   {
+    "id": 4546,
+    "lat": -26.36,
+    "lon": 150.19
+   },
+   {
+    "id": 4560,
+    "lat": -20.18,
+    "lon": 146.82
+   },
+   {
+    "id": 4632,
+    "lat": -24.12,
+    "lon": 147.88,
+    "borders_states": [
+     873
+    ]
+   },
+   {
+    "id": 5227,
+    "lat": -27.3,
+    "lon": 148.42,
+    "borders_states": [
+     873
+    ]
+   },
+   {
+    "id": 7522,
+    "lat": -25.75,
+    "lon": 152.54
+   },
+   {
+    "id": 7535,
+    "lat": -26.61,
+    "lon": 152.8
+   },
+   {
+    "id": 7564,
+    "lat": -27.47,
+    "lon": 153.03,
+    "name": "Brisbane",
+    "vp": 15.0
+   },
+   {
+    "id": 7566,
+    "lat": -19.29,
+    "lon": 145.46,
+    "name": "Townsville",
+    "vp": 1.0,
+    "borders_states": [
+     872
+    ]
+   },
+   {
+    "id": 7592,
+    "lat": -27.6,
+    "lon": 150.72
+   },
+   {
+    "id": 7610,
+    "lat": -22.72,
+    "lon": 146.6,
+    "borders_states": [
+     873
+    ]
+   },
+   {
+    "id": 7651,
+    "lat": -23.99,
+    "lon": 150.04
+   },
+   {
+    "id": 7666,
+    "lat": -23.87,
+    "lon": 148.87
+   },
+   {
+    "id": 10430,
+    "lat": -27.6,
+    "lon": 152.1
+   },
+   {
+    "id": 10445,
+    "lat": -28.36,
+    "lon": 152.87
+   },
+   {
+    "id": 10458,
+    "lat": -29.16,
+    "lon": 152.88,
+    "borders_states": [
+     285
+    ]
+   },
+   {
+    "id": 10460,
+    "lat": -21.35,
+    "lon": 148.03
+   },
+   {
+    "id": 10475,
+    "lat": -23.0,
+    "lon": 149.99
+   },
+   {
+    "id": 10487,
+    "lat": -22.88,
+    "lon": 148.99
+   },
+   {
+    "id": 11006,
+    "lat": -26.4,
+    "lon": 147.23,
+    "borders_states": [
+     873
+    ]
+   },
+   {
+    "id": 12308,
+    "lat": -24.41,
+    "lon": 150.98
+   },
+   {
+    "id": 12382,
+    "lat": -19.67,
+    "lon": 144.54,
+    "borders_states": [
+     872
+    ]
+   },
+   {
+    "id": 12411,
+    "lat": -21.09,
+    "lon": 146.35
+   },
+   {
+    "id": 12424,
+    "lat": -22.23,
+    "lon": 147.75
+   },
+   {
+    "id": 12451,
+    "lat": -28.58,
+    "lon": 151.14,
+    "borders_states": [
+     285
+    ]
+   }
+  ]
+ },
+ {
+  "id": 522,
+  "name": "Western Australia",
+  "file": "522-Western Australia.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 1730000,
+  "category": "city",
+  "centroid": [
+   -27.9,
+   116.82
+  ],
+  "neighbour_states": [
+   870,
+   871,
+   1074
+  ],
+  "provinces": [
+   {
+    "id": 1498,
+    "lat": -26.5,
+    "lon": 117.9,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 1511,
+    "lat": -27.11,
+    "lon": 115.28
+   },
+   {
+    "id": 1540,
+    "lat": -28.97,
+    "lon": 115.34
+   },
+   {
+    "id": 1652,
+    "lat": -31.95,
+    "lon": 115.86,
+    "name": "Perth",
+    "vp": 10.0
+   },
+   {
+    "id": 2157,
+    "lat": -31.74,
+    "lon": 116.85
+   },
+   {
+    "id": 4630,
+    "lat": -30.58,
+    "lon": 115.96
+   },
+   {
+    "id": 4645,
+    "lat": -24.51,
+    "lon": 115.28
+   },
+   {
+    "id": 5125,
+    "lat": -22.37,
+    "lon": 117.12,
+    "borders_states": [
+     870
+    ]
+   },
+   {
+    "id": 5170,
+    "lat": -24.78,
+    "lon": 117.76,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 5175,
+    "lat": -32.79,
+    "lon": 117.94,
+    "borders_states": [
+     871
+    ]
+   },
+   {
+    "id": 7453,
+    "lat": -34.37,
+    "lon": 115.66
+   },
+   {
+    "id": 7579,
+    "lat": -28.0,
+    "lon": 117.09,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 7608,
+    "lat": -29.19,
+    "lon": 117.43,
+    "borders_states": [
+     871,
+     1074
+    ]
+   },
+   {
+    "id": 8130,
+    "lat": -34.27,
+    "lon": 118.27,
+    "borders_states": [
+     871
+    ]
+   },
+   {
+    "id": 8228,
+    "lat": -33.26,
+    "lon": 116.48
+   },
+   {
+    "id": 8243,
+    "lat": -34.94,
+    "lon": 116.97
+   },
+   {
+    "id": 10950,
+    "lat": -23.3,
+    "lon": 118.99,
+    "borders_states": [
+     870,
+     1074
+    ]
+   },
+   {
+    "id": 10971,
+    "lat": -23.15,
+    "lon": 115.68
+   },
+   {
+    "id": 10983,
+    "lat": -30.97,
+    "lon": 117.68,
+    "borders_states": [
+     871
+    ]
+   },
+   {
+    "id": 12323,
+    "lat": -25.82,
+    "lon": 115.42
+   }
+  ]
+ },
+ {
+  "id": 523,
+  "name": "Papua",
+  "file": "523-New Guinea.txt",
+  "owner": "PNG",
+  "cores": [
+   "PNG"
+  ],
+  "claims": [],
+  "manpower": 1030000,
+  "category": "rural",
+  "centroid": [
+   -8.79,
+   145.34
+  ],
+  "neighbour_states": [
+   979,
+   1057,
+   1073
+  ],
+  "provinces": [
+   {
+    "id": 1222,
+    "lat": -7.15,
+    "lon": 144.25,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 1242,
+    "lat": -7.59,
+    "lon": 145.08,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 1283,
+    "lat": -8.91,
+    "lon": 142.43,
+    "name": "Daru",
+    "vp": 1.0
+   },
+   {
+    "id": 1310,
+    "lat": -9.0,
+    "lon": 141.26,
+    "borders_states": [
+     1057
+    ]
+   },
+   {
+    "id": 4289,
+    "lat": -8.78,
+    "lon": 146.63,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 4329,
+    "lat": -9.44,
+    "lon": 147.18,
+    "name": "Port Moresby",
+    "vp": 3.0
+   },
+   {
+    "id": 4346,
+    "lat": -10.14,
+    "lon": 148.26
+   },
+   {
+    "id": 7305,
+    "lat": -8.76,
+    "lon": 148.03,
+    "name": "Gona",
+    "vp": 1.0,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 7333,
+    "lat": -9.59,
+    "lon": 148.81
+   },
+   {
+    "id": 7349,
+    "lat": -9.82,
+    "lon": 147.72
+   },
+   {
+    "id": 7362,
+    "lat": -8.99,
+    "lon": 147.29,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 7378,
+    "lat": -9.28,
+    "lon": 148.0,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 10147,
+    "lat": -8.01,
+    "lon": 142.39,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 10231,
+    "lat": -10.22,
+    "lon": 149.35
+   },
+   {
+    "id": 10248,
+    "lat": -10.16,
+    "lon": 150.53
+   },
+   {
+    "id": 10260,
+    "lat": -11.03,
+    "lon": 150.1,
+    "name": "Alotau",
+    "vp": 1.0
+   },
+   {
+    "id": 12123,
+    "lat": -7.55,
+    "lon": 143.44,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 12135,
+    "lat": -8.11,
+    "lon": 146.04,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 12484,
+    "lat": -8.17,
+    "lon": 141.14,
+    "borders_states": [
+     1057,
+     1073
+    ]
+   },
+   {
+    "id": 12995,
+    "lat": -10.5,
+    "lon": 149.02
+   },
+   {
+    "id": 10974,
+    "lat": -7.95,
+    "lon": 147.35,
+    "borders_states": [
+     979,
+     1073
+    ]
+   }
+  ]
+ },
+ {
+  "id": 623,
+  "name": "Luzon",
+  "file": "623-Luzon.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 4180000,
+  "category": "town",
+  "centroid": [
+   17.51,
+   121.34
+  ],
+  "neighbour_states": [
+   327,
+   1027
+  ],
+  "provinces": [
+   {
+    "id": 4101,
+    "lat": 18.11,
+    "lon": 121.96
+   },
+   {
+    "id": 4214,
+    "lat": 17.53,
+    "lon": 121.92
+   },
+   {
+    "id": 4350,
+    "lat": 17.11,
+    "lon": 120.6,
+    "borders_states": [
+     1027
+    ]
+   },
+   {
+    "id": 4368,
+    "lat": 17.73,
+    "lon": 120.72
+   },
+   {
+    "id": 7325,
+    "lat": 16.97,
+    "lon": 121.57,
+    "borders_states": [
+     327,
+     1027
+    ]
+   },
+   {
+    "id": 7439,
+    "lat": 16.59,
+    "lon": 121.99,
+    "borders_states": [
+     327
+    ]
+   },
+   {
+    "id": 10167,
+    "lat": 17.16,
+    "lon": 121.08,
+    "borders_states": [
+     1027
+    ]
+   },
+   {
+    "id": 10241,
+    "lat": 18.24,
+    "lon": 120.72
+   },
+   {
+    "id": 10252,
+    "lat": 17.04,
+    "lon": 122.17
+   },
+   {
+    "id": 10298,
+    "lat": 17.71,
+    "lon": 121.43
+   },
+   {
+    "id": 12213,
+    "lat": 18.34,
+    "lon": 121.31,
+    "name": "Aparri",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 624,
+  "name": "Central islands",
+  "file": "624-Central islands.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 5170000,
+  "category": "town",
+  "centroid": [
+   13.49,
+   123.0
+  ],
+  "neighbour_states": [
+   327
+  ],
+  "provinces": [
+   {
+    "id": 1372,
+    "lat": 14.13,
+    "lon": 122.67
+   },
+   {
+    "id": 4228,
+    "lat": 13.09,
+    "lon": 123.76
+   },
+   {
+    "id": 4377,
+    "lat": 13.85,
+    "lon": 123.69
+   },
+   {
+    "id": 7307,
+    "lat": 12.36,
+    "lon": 123.51
+   },
+   {
+    "id": 10306,
+    "lat": 13.74,
+    "lon": 122.18,
+    "borders_states": [
+     327
+    ]
+   },
+   {
+    "id": 12279,
+    "lat": 13.44,
+    "lon": 123.17
+   }
+  ]
+ },
+ {
+  "id": 625,
+  "name": "Samar",
+  "file": "625-Samar.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 3610000,
+  "category": "town",
+  "centroid": [
+   11.63,
+   124.81
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1224,
+    "lat": 11.34,
+    "lon": 124.56
+   },
+   {
+    "id": 1311,
+    "lat": 12.5,
+    "lon": 124.64
+   },
+   {
+    "id": 1340,
+    "lat": 12.17,
+    "lon": 125.0
+   },
+   {
+    "id": 4269,
+    "lat": 10.31,
+    "lon": 124.7
+   },
+   {
+    "id": 4373,
+    "lat": 11.61,
+    "lon": 125.12
+   }
+  ]
+ },
+ {
+  "id": 626,
+  "name": "Palawan",
+  "file": "626-Palawan.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 760000,
+  "category": "rural",
+  "centroid": [
+   10.05,
+   118.63
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 4429,
+    "lat": 9.59,
+    "lon": 118.34
+   },
+   {
+    "id": 7419,
+    "lat": 10.98,
+    "lon": 119.39
+   },
+   {
+    "id": 10145,
+    "lat": 8.77,
+    "lon": 117.5
+   }
+  ]
+ },
+ {
+  "id": 627,
+  "name": "Mindanao",
+  "file": "627-Mindanao.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 7860000,
+  "category": "large_town",
+  "centroid": [
+   6.67,
+   124.91
+  ],
+  "neighbour_states": [
+   1026
+  ],
+  "provinces": [
+   {
+    "id": 1234,
+    "lat": 6.69,
+    "lon": 124.63,
+    "borders_states": [
+     1026
+    ]
+   },
+   {
+    "id": 1407,
+    "lat": 7.48,
+    "lon": 125.46,
+    "borders_states": [
+     1026
+    ]
+   },
+   {
+    "id": 4241,
+    "lat": 6.94,
+    "lon": 125.12,
+    "name": "Davao",
+    "vp": 3.0
+   },
+   {
+    "id": 4266,
+    "lat": 5.95,
+    "lon": 124.32
+   },
+   {
+    "id": 7284,
+    "lat": 6.79,
+    "lon": 125.79
+   },
+   {
+    "id": 7445,
+    "lat": 7.51,
+    "lon": 125.01,
+    "borders_states": [
+     1026
+    ]
+   },
+   {
+    "id": 10328,
+    "lat": 7.34,
+    "lon": 125.89,
+    "borders_states": [
+     1026
+    ]
+   },
+   {
+    "id": 12116,
+    "lat": 6.53,
+    "lon": 123.97,
+    "borders_states": [
+     1026
+    ]
+   },
+   {
+    "id": 12158,
+    "lat": 5.89,
+    "lon": 124.96
+   }
+  ]
+ },
+ {
+  "id": 628,
+  "name": "Cebu",
+  "file": "628-Cebu.txt",
+  "owner": "PHI",
+  "cores": [
+   "PHI"
+  ],
+  "claims": [],
+  "manpower": 11920000,
+  "category": "city",
+  "centroid": [
+   10.69,
+   122.89
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1261,
+    "lat": 10.84,
+    "lon": 123.11
+   },
+   {
+    "id": 1368,
+    "lat": 11.52,
+    "lon": 122.68
+   },
+   {
+    "id": 7385,
+    "lat": 9.97,
+    "lon": 124.04
+   },
+   {
+    "id": 7423,
+    "lat": 11.61,
+    "lon": 122.17
+   },
+   {
+    "id": 10186,
+    "lat": 9.67,
+    "lon": 122.74
+   },
+   {
+    "id": 10302,
+    "lat": 11.21,
+    "lon": 122.13
+   },
+   {
+    "id": 12112,
+    "lat": 10.22,
+    "lon": 122.9
+   },
+   {
+    "id": 12118,
+    "lat": 10.81,
+    "lon": 123.79,
+    "name": "Cebu",
+    "vp": 1.0
+   },
+   {
+    "id": 12153,
+    "lat": 10.11,
+    "lon": 123.4
+   }
+  ]
+ },
+ {
+  "id": 632,
+  "name": "Wake Island",
+  "file": "632-Wake Island.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "MAR"
+  ],
+  "manpower": 100,
+  "category": "tiny_island",
+  "centroid": [
+   17.54,
+   166.64
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13047,
+    "lat": 17.54,
+    "lon": 166.64,
+    "name": "Wake",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 633,
+  "name": "Marshall Islands",
+  "file": "633-Marshall Islands.txt",
+  "owner": "MAR",
+  "cores": [
+   "MAR"
+  ],
+  "claims": [],
+  "manpower": 51000,
+  "category": "small_island",
+  "centroid": [
+   2.47,
+   167.36
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1002,
+    "lat": 5.37,
+    "lon": 166.74
+   },
+   {
+    "id": 13039,
+    "lat": -1.12,
+    "lon": 168.31
+   },
+   {
+    "id": 13040,
+    "lat": -1.62,
+    "lon": 170.47
+   },
+   {
+    "id": 13041,
+    "lat": 2.3,
+    "lon": 166.36,
+    "name": "Kwajalein",
+    "vp": 3.0
+   },
+   {
+    "id": 13042,
+    "lat": -0.46,
+    "lon": 169.98
+   },
+   {
+    "id": 13043,
+    "lat": 1.05,
+    "lon": 169.7
+   },
+   {
+    "id": 13044,
+    "lat": 2.09,
+    "lon": 169.05
+   },
+   {
+    "id": 13045,
+    "lat": 6.05,
+    "lon": 165.21
+   },
+   {
+    "id": 13046,
+    "lat": 6.62,
+    "lon": 162.24,
+    "name": "Eniwetok",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 634,
+  "name": "Solomon Islands",
+  "file": "634-Solomon Islands.txt",
+  "owner": "SOL",
+  "cores": [
+   "SOL"
+  ],
+  "claims": [],
+  "manpower": 389000,
+  "category": "small_island",
+  "centroid": [
+   -11.91,
+   158.54
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1042,
+    "lat": -13.75,
+    "lon": 160.87
+   },
+   {
+    "id": 1085,
+    "lat": -11.81,
+    "lon": 160.03
+   },
+   {
+    "id": 1269,
+    "lat": -12.25,
+    "lon": 158.17,
+    "name": "Guadalcanal",
+    "vp": 3.0
+   },
+   {
+    "id": 1370,
+    "lat": -12.91,
+    "lon": 158.53
+   },
+   {
+    "id": 4252,
+    "lat": -10.31,
+    "lon": 158.32
+   },
+   {
+    "id": 4292,
+    "lat": -11.67,
+    "lon": 157.57
+   },
+   {
+    "id": 7437,
+    "lat": -13.23,
+    "lon": 159.77
+   },
+   {
+    "id": 10291,
+    "lat": -12.66,
+    "lon": 159.13
+   },
+   {
+    "id": 10319,
+    "lat": -10.1,
+    "lon": 156.64
+   },
+   {
+    "id": 12265,
+    "lat": -8.64,
+    "lon": 156.18
+   }
+  ]
+ },
+ {
+  "id": 635,
+  "name": "New Caledonia",
+  "file": "635-New Caledonia.txt",
+  "owner": "FRA",
+  "cores": [
+   "FRA"
+  ],
+  "claims": [],
+  "manpower": 212000,
+  "category": "small_island",
+  "centroid": [
+   -26.94,
+   165.14
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1263,
+    "lat": -27.66,
+    "lon": 165.59
+   },
+   {
+    "id": 4231,
+    "lat": -27.13,
+    "lon": 166.64
+   },
+   {
+    "id": 4268,
+    "lat": -28.2,
+    "lon": 166.09,
+    "name": "Noumea",
+    "vp": 1.0
+   },
+   {
+    "id": 7264,
+    "lat": -25.73,
+    "lon": 163.95
+   },
+   {
+    "id": 10160,
+    "lat": -26.38,
+    "lon": 164.48
+   },
+   {
+    "id": 12132,
+    "lat": -27.04,
+    "lon": 165.0
+   }
+  ]
+ },
+ {
+  "id": 636,
+  "name": "Fiji",
+  "file": "636-Fiji.txt",
+  "owner": "FIJ",
+  "cores": [
+   "FIJ"
+  ],
+  "claims": [],
+  "manpower": 800000,
+  "category": "small_island",
+  "centroid": [
+   -25.51,
+   176.64
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 4286,
+    "lat": -25.98,
+    "lon": 176.52,
+    "name": "Suva",
+    "vp": 1.0
+   },
+   {
+    "id": 7302,
+    "lat": -25.83,
+    "lon": 175.95,
+    "name": "Suva"
+   },
+   {
+    "id": 12159,
+    "lat": -24.78,
+    "lon": 177.39
+   }
+  ]
+ },
+ {
+  "id": 638,
+  "name": "Guam",
+  "file": "638-Guam.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "GUM"
+  ],
+  "claims": [],
+  "manpower": 154000,
+  "category": "small_island",
+  "centroid": [
+   12.25,
+   144.39
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 12140,
+    "lat": 12.25,
+    "lon": 144.39,
+    "name": "Hagatna",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 639,
+  "name": "Kiribati",
+  "file": "639-Maiana.txt",
+  "owner": "KIR",
+  "cores": [
+   "KIR"
+  ],
+  "claims": [],
+  "manpower": 78000,
+  "category": "small_island",
+  "centroid": [
+   -4.72,
+   171.33
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 4387,
+    "lat": -4.48,
+    "lon": 171.39
+   },
+   {
+    "id": 7393,
+    "lat": -3.95,
+    "lon": 171.09
+   },
+   {
+    "id": 13020,
+    "lat": -6.58,
+    "lon": 172.33
+   },
+   {
+    "id": 13021,
+    "lat": -3.4,
+    "lon": 170.62,
+    "name": "Tarawa",
+    "vp": 1.0
+   },
+   {
+    "id": 13022,
+    "lat": -5.18,
+    "lon": 171.21
+   }
+  ]
+ },
+ {
+  "id": 641,
+  "name": "Tahiti",
+  "file": "641-Tahiti.txt",
+  "owner": "FRA",
+  "cores": [
+   "FRA",
+   "TAH"
+  ],
+  "claims": [],
+  "manpower": 233000,
+  "category": "small_island",
+  "centroid": [
+   -13.87,
+   -154.83
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 10188,
+    "lat": -13.77,
+    "lon": -155.89
+   },
+   {
+    "id": 12148,
+    "lat": -13.94,
+    "lon": -154.05,
+    "name": "Pape'ete",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 642,
+  "name": "Phoenix Island",
+  "file": "642-Phoenix Island.txt",
+  "owner": "KIR",
+  "cores": [
+   "KIR"
+  ],
+  "claims": [],
+  "manpower": 60,
+  "category": "tiny_island",
+  "centroid": [
+   4.15,
+   -177.16
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13050,
+    "lat": 4.15,
+    "lon": -177.16
+   }
+  ]
+ },
+ {
+  "id": 643,
+  "name": "Tuvalu",
+  "file": "643-Fongafale.txt",
+  "owner": "TUV",
+  "cores": [
+   "TUV"
+  ],
+  "claims": [],
+  "manpower": 9500,
+  "category": "small_island",
+  "centroid": [
+   -14.72,
+   175.94
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13054,
+    "lat": -11.64,
+    "lon": 173.58,
+    "name": "Timor Leste"
+   },
+   {
+    "id": 13055,
+    "lat": -14.62,
+    "lon": 175.92
+   },
+   {
+    "id": 13056,
+    "lat": -15.44,
+    "lon": 176.62
+   },
+   {
+    "id": 13057,
+    "lat": -16.92,
+    "lon": 177.4
+   }
+  ]
+ },
+ {
+  "id": 646,
+  "name": "Saipan",
+  "file": "646-Saipan.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "GUM"
+  ],
+  "claims": [],
+  "manpower": 69000,
+  "category": "small_island",
+  "centroid": [
+   14.48,
+   145.55
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 3995,
+    "lat": 15.33,
+    "lon": 146.03,
+    "name": "Saipan",
+    "vp": 1.0
+   },
+   {
+    "id": 13023,
+    "lat": 13.36,
+    "lon": 145.06
+   },
+   {
+    "id": 13024,
+    "lat": 14.61,
+    "lon": 145.49
+   }
+  ]
+ },
+ {
+  "id": 647,
+  "name": "Palau",
+  "file": "647-Palau.txt",
+  "owner": "PAU",
+  "cores": [
+   "PAU"
+  ],
+  "claims": [],
+  "manpower": 19000,
+  "category": "small_island",
+  "centroid": [
+   7.02,
+   133.44
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 4357,
+    "lat": 7.37,
+    "lon": 133.58,
+    "name": "Ngerulmud",
+    "vp": 1.0
+   },
+   {
+    "id": 12103,
+    "lat": 6.72,
+    "lon": 133.31,
+    "name": "Koror"
+   }
+  ]
+ },
+ {
+  "id": 648,
+  "name": "Marcus Island",
+  "file": "648-Marcus Island.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 40,
+  "category": "tiny_island",
+  "centroid": [
+   24.98,
+   154.47
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13026,
+    "lat": 24.98,
+    "lon": 154.47
+   }
+  ]
+ },
+ {
+  "id": 667,
+  "name": "Lesser Sunda Islands",
+  "file": "667-Lesser  Sunda Islands.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 4570000,
+  "category": "large_town",
+  "centroid": [
+   -9.61,
+   117.41
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 7293,
+    "lat": -9.34,
+    "lon": 115.18
+   },
+   {
+    "id": 10191,
+    "lat": -9.39,
+    "lon": 117.07
+   },
+   {
+    "id": 12162,
+    "lat": -9.11,
+    "lon": 117.6
+   },
+   {
+    "id": 12219,
+    "lat": -10.16,
+    "lon": 118.4
+   },
+   {
+    "id": 12234,
+    "lat": -10.31,
+    "lon": 118.99,
+    "name": "Waingapu",
+    "vp": 1.0
+   },
+   {
+    "id": 13387,
+    "lat": -9.0,
+    "lon": 115.41,
+    "name": "Mataram",
+    "vp": 1.0
+   },
+   {
+    "id": 13389,
+    "lat": -9.35,
+    "lon": 116.38
+   },
+   {
+    "id": 13390,
+    "lat": -8.81,
+    "lon": 116.9
+   },
+   {
+    "id": 13391,
+    "lat": -9.12,
+    "lon": 118.02,
+    "name": "Bima",
+    "vp": 1.0
+   },
+   {
+    "id": 13388,
+    "lat": -9.33,
+    "lon": 115.96
+   },
+   {
+    "id": 13384,
+    "lat": -7.37,
+    "lon": 114.41
+   },
+   {
+    "id": 13392,
+    "lat": -10.69,
+    "lon": 119.65
+   }
+  ]
+ },
+ {
+  "id": 668,
+  "name": "The Moluccas",
+  "file": "668-The Moluccas.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 1790000,
+  "category": "rural",
+  "centroid": [
+   -1.41,
+   127.41
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1351,
+    "lat": 4.0,
+    "lon": 126.1
+   },
+   {
+    "id": 1419,
+    "lat": 1.72,
+    "lon": 127.55
+   },
+   {
+    "id": 1437,
+    "lat": -0.61,
+    "lon": 126.98
+   },
+   {
+    "id": 1574,
+    "lat": -3.39,
+    "lon": 128.02
+   },
+   {
+    "id": 7369,
+    "lat": -1.9,
+    "lon": 124.62
+   },
+   {
+    "id": 7413,
+    "lat": 0.13,
+    "lon": 127.4,
+    "name": "Ternate"
+   },
+   {
+    "id": 7557,
+    "lat": -3.61,
+    "lon": 125.96
+   },
+   {
+    "id": 10141,
+    "lat": 0.92,
+    "lon": 127.93
+   },
+   {
+    "id": 10342,
+    "lat": -1.71,
+    "lon": 127.17
+   },
+   {
+    "id": 10409,
+    "lat": -3.42,
+    "lon": 129.73
+   }
+  ]
+ },
+ {
+  "id": 669,
+  "name": "West Papua",
+  "file": "669-Dutch New Guinea.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 1500000,
+  "category": "rural",
+  "centroid": [
+   -2.79,
+   135.82
+  ],
+  "neighbour_states": [
+   979,
+   1057,
+   1073
+  ],
+  "provinces": [
+   {
+    "id": 1546,
+    "lat": -3.23,
+    "lon": 136.06
+   },
+   {
+    "id": 4468,
+    "lat": -1.11,
+    "lon": 131.23,
+    "name": "Sorong",
+    "vp": 1.0
+   },
+   {
+    "id": 4509,
+    "lat": -2.33,
+    "lon": 137.07
+   },
+   {
+    "id": 4524,
+    "lat": -2.49,
+    "lon": 133.83
+   },
+   {
+    "id": 4552,
+    "lat": -2.8,
+    "lon": 137.62
+   },
+   {
+    "id": 7269,
+    "lat": -4.1,
+    "lon": 135.47,
+    "borders_states": [
+     1057
+    ]
+   },
+   {
+    "id": 7487,
+    "lat": -2.03,
+    "lon": 132.96
+   },
+   {
+    "id": 7512,
+    "lat": -1.86,
+    "lon": 132.06
+   },
+   {
+    "id": 7529,
+    "lat": -2.63,
+    "lon": 139.56
+   },
+   {
+    "id": 7542,
+    "lat": -1.46,
+    "lon": 135.8
+   },
+   {
+    "id": 7570,
+    "lat": -3.51,
+    "lon": 138.44,
+    "borders_states": [
+     1057
+    ]
+   },
+   {
+    "id": 7585,
+    "lat": -3.37,
+    "lon": 134.24
+   },
+   {
+    "id": 10369,
+    "lat": -2.18,
+    "lon": 138.36
+   },
+   {
+    "id": 10396,
+    "lat": -3.05,
+    "lon": 139.05
+   },
+   {
+    "id": 10436,
+    "lat": -3.61,
+    "lon": 136.62,
+    "borders_states": [
+     1057
+    ]
+   },
+   {
+    "id": 10990,
+    "lat": -3.85,
+    "lon": 140.08,
+    "borders_states": [
+     979,
+     1057,
+     1073
+    ]
+   },
+   {
+    "id": 12315,
+    "lat": -1.27,
+    "lon": 133.23
+   },
+   {
+    "id": 12371,
+    "lat": -2.95,
+    "lon": 140.34,
+    "name": "Hollandia",
+    "vp": 1.0,
+    "borders_states": [
+     979
+    ]
+   },
+   {
+    "id": 12386,
+    "lat": -3.12,
+    "lon": 132.79
+   }
+  ]
+ },
+ {
+  "id": 672,
+  "name": "Sumatra",
+  "file": "672-Sumatra.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 15210000,
+  "category": "large_town",
+  "centroid": [
+   -3.44,
+   104.24
+  ],
+  "neighbour_states": [
+   1048,
+   1049
+  ],
+  "provinces": [
+   {
+    "id": 7440,
+    "lat": -2.65,
+    "lon": 102.31,
+    "borders_states": [
+     1048
+    ]
+   },
+   {
+    "id": 10294,
+    "lat": -2.31,
+    "lon": 103.05,
+    "borders_states": [
+     1048,
+     1049
+    ]
+   },
+   {
+    "id": 4381,
+    "lat": -2.22,
+    "lon": 104.03,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 12268,
+    "lat": -2.4,
+    "lon": 104.81,
+    "name": "Palembang",
+    "vp": 1.0,
+    "borders_states": [
+     1049
+    ]
+   },
+   {
+    "id": 12138,
+    "lat": -3.22,
+    "lon": 102.75
+   },
+   {
+    "id": 10150,
+    "lat": -2.94,
+    "lon": 103.62
+   },
+   {
+    "id": 10322,
+    "lat": -3.02,
+    "lon": 104.55,
+    "name": "Palembang",
+    "vp": 10.0
+   },
+   {
+    "id": 1401,
+    "lat": -2.48,
+    "lon": 105.67
+   },
+   {
+    "id": 12296,
+    "lat": -2.96,
+    "lon": 105.31
+   },
+   {
+    "id": 4276,
+    "lat": -3.72,
+    "lon": 105.05
+   },
+   {
+    "id": 12165,
+    "lat": -4.27,
+    "lon": 105.48
+   },
+   {
+    "id": 1342,
+    "lat": -5.01,
+    "lon": 105.63
+   },
+   {
+    "id": 4361,
+    "lat": -5.03,
+    "lon": 105.1,
+    "name": "Tanjung Karang Teluk Betung",
+    "vp": 2.0
+   },
+   {
+    "id": 4320,
+    "lat": -4.87,
+    "lon": 104.65
+   },
+   {
+    "id": 12209,
+    "lat": -4.51,
+    "lon": 103.97
+   },
+   {
+    "id": 7308,
+    "lat": -3.89,
+    "lon": 103.32
+   },
+   {
+    "id": 1274,
+    "lat": -3.62,
+    "lon": 104.11
+   },
+   {
+    "id": 1313,
+    "lat": -4.18,
+    "lon": 104.6
+   },
+   {
+    "id": 1246,
+    "lat": -3.39,
+    "lon": 105.65
+   }
+  ]
+ },
+ {
+  "id": 673,
+  "name": "Sulawesi",
+  "file": "673-Sulawesi.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 9430000,
+  "category": "large_town",
+  "centroid": [
+   -4.03,
+   120.07
+  ],
+  "neighbour_states": [
+   1056
+  ],
+  "provinces": [
+   {
+    "id": 1589,
+    "lat": -4.47,
+    "lon": 119.24
+   },
+   {
+    "id": 4308,
+    "lat": -2.44,
+    "lon": 118.67,
+    "borders_states": [
+     1056
+    ]
+   },
+   {
+    "id": 4349,
+    "lat": -5.64,
+    "lon": 119.36
+   },
+   {
+    "id": 4564,
+    "lat": -3.8,
+    "lon": 121.49,
+    "name": "Kendari",
+    "vp": 1.0,
+    "borders_states": [
+     1056
+    ]
+   },
+   {
+    "id": 7336,
+    "lat": -2.6,
+    "lon": 120.09,
+    "borders_states": [
+     1056
+    ]
+   },
+   {
+    "id": 7598,
+    "lat": -3.36,
+    "lon": 118.42
+   },
+   {
+    "id": 10222,
+    "lat": -5.37,
+    "lon": 121.9
+   },
+   {
+    "id": 10263,
+    "lat": -5.38,
+    "lon": 118.87,
+    "name": "Makassar",
+    "vp": 3.0
+   },
+   {
+    "id": 10450,
+    "lat": -3.66,
+    "lon": 120.65,
+    "borders_states": [
+     1056
+    ]
+   },
+   {
+    "id": 10464,
+    "lat": -3.7,
+    "lon": 119.32
+   },
+   {
+    "id": 12330,
+    "lat": -3.02,
+    "lon": 119.14,
+    "borders_states": [
+     1056
+    ]
+   },
+   {
+    "id": 12444,
+    "lat": -4.64,
+    "lon": 121.15
+   }
+  ]
+ },
+ {
+  "id": 674,
+  "name": "Central Australia",
+  "file": "674-Central Australia.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 50000,
+  "category": "pastoral",
+  "centroid": [
+   -23.4,
+   133.4
+  ],
+  "neighbour_states": [
+   519,
+   520,
+   870,
+   871,
+   872,
+   1074,
+   1075
+  ],
+  "provinces": [
+   {
+    "id": 2223,
+    "lat": -21.95,
+    "lon": 135.16,
+    "name": "Alice Springs",
+    "vp": 1.0,
+    "borders_states": [
+     1075
+    ]
+   },
+   {
+    "id": 5138,
+    "lat": -27.49,
+    "lon": 130.52,
+    "borders_states": [
+     519,
+     871,
+     1074
+    ]
+   },
+   {
+    "id": 7623,
+    "lat": -27.12,
+    "lon": 133.77,
+    "borders_states": [
+     519
+    ]
+   },
+   {
+    "id": 8237,
+    "lat": -20.3,
+    "lon": 130.42,
+    "borders_states": [
+     520,
+     870,
+     1074
+    ]
+   },
+   {
+    "id": 10979,
+    "lat": -19.47,
+    "lon": 133.9,
+    "borders_states": [
+     520
+    ]
+   },
+   {
+    "id": 11013,
+    "lat": -24.14,
+    "lon": 131.25,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 12906,
+    "lat": -27.51,
+    "lon": 136.33,
+    "borders_states": [
+     519,
+     1075
+    ]
+   },
+   {
+    "id": 12915,
+    "lat": -18.26,
+    "lon": 131.95,
+    "borders_states": [
+     520
+    ]
+   },
+   {
+    "id": 12936,
+    "lat": -19.45,
+    "lon": 136.47,
+    "borders_states": [
+     520,
+     872,
+     1075
+    ]
+   },
+   {
+    "id": 12992,
+    "lat": -24.47,
+    "lon": 135.78,
+    "borders_states": [
+     1075
+    ]
+   },
+   {
+    "id": 13132,
+    "lat": -21.94,
+    "lon": 129.14,
+    "type": "lake",
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 13172,
+    "lat": -28.78,
+    "lon": 137.32,
+    "type": "lake",
+    "borders_states": [
+     1075
+    ]
+   },
+   {
+    "id": 13131,
+    "lat": -27.9,
+    "lon": 137.15,
+    "type": "lake",
+    "borders_states": [
+     1075
+    ]
+   }
+  ]
+ },
+ {
+  "id": 684,
+  "name": "Caroline Islands",
+  "file": "684-Caroline Islands.txt",
+  "owner": "FSM",
+  "cores": [
+   "FSM"
+  ],
+  "claims": [],
+  "manpower": 107000,
+  "category": "small_island",
+  "centroid": [
+   5.64,
+   148.51
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 2489,
+    "lat": 6.3,
+    "lon": 152.35,
+    "name": "Truk",
+    "vp": 5.0
+   },
+   {
+    "id": 13027,
+    "lat": 7.72,
+    "lon": 136.84
+   },
+   {
+    "id": 13028,
+    "lat": 8.82,
+    "lon": 137.67,
+    "name": "Yap",
+    "vp": 1.0
+   },
+   {
+    "id": 13029,
+    "lat": 9.04,
+    "lon": 139.02
+   },
+   {
+    "id": 13030,
+    "lat": 6.57,
+    "lon": 143.22
+   },
+   {
+    "id": 13031,
+    "lat": 5.78,
+    "lon": 145.38
+   },
+   {
+    "id": 13032,
+    "lat": 6.03,
+    "lon": 149.27
+   },
+   {
+    "id": 13033,
+    "lat": 7.38,
+    "lon": 150.05
+   },
+   {
+    "id": 13034,
+    "lat": 4.31,
+    "lon": 154.24
+   },
+   {
+    "id": 13035,
+    "lat": -0.87,
+    "lon": 161.6
+   },
+   {
+    "id": 13036,
+    "lat": 3.24,
+    "lon": 157.95
+   }
+  ]
+ },
+ {
+  "id": 711,
+  "name": "Christmas Island",
+  "file": "711-Christmas Island.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 1500,
+  "category": "tiny_island",
+  "centroid": [
+   -11.21,
+   104.72
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13005,
+    "lat": -11.21,
+    "lon": 104.72
+   }
+  ]
+ },
+ {
+  "id": 712,
+  "name": "Cocos Islands",
+  "file": "712-Cocos Islands.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 620,
+  "category": "tiny_island",
+  "centroid": [
+   -15.51,
+   94.67
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13002,
+    "lat": -15.51,
+    "lon": 94.67
+   }
+  ]
+ },
+ {
+  "id": 721,
+  "name": "Portuguese Timor",
+  "file": "721-Portuguese Timor.txt",
+  "owner": "TIM",
+  "cores": [
+   "TIM"
+  ],
+  "claims": [
+   "INS"
+  ],
+  "manpower": 800000,
+  "category": "rural",
+  "centroid": [
+   -9.21,
+   124.77
+  ],
+  "neighbour_states": [
+   1054
+  ],
+  "provinces": [
+   {
+    "id": 1326,
+    "lat": -9.0,
+    "lon": 125.36,
+    "name": "Test"
+   },
+   {
+    "id": 12178,
+    "lat": -8.77,
+    "lon": 125.99
+   },
+   {
+    "id": 12190,
+    "lat": -9.1,
+    "lon": 124.87,
+    "name": "Dili"
+   },
+   {
+    "id": 12206,
+    "lat": -9.86,
+    "lon": 123.33,
+    "name": "Pante Macassar",
+    "borders_states": [
+     1054
+    ]
+   },
+   {
+    "id": 13001,
+    "lat": -9.3,
+    "lon": 124.42,
+    "borders_states": [
+     1054
+    ]
+   }
+  ]
+ },
+ {
+  "id": 723,
+  "name": "South Island",
+  "file": "723-Southern Island.txt",
+  "owner": "NZL",
+  "cores": [
+   "NZL"
+  ],
+  "claims": [],
+  "manpower": 510000,
+  "category": "large_town",
+  "centroid": [
+   -43.92,
+   170.71
+  ],
+  "neighbour_states": [
+   1080,
+   1081
+  ],
+  "provinces": [
+   {
+    "id": 2197,
+    "lat": -43.45,
+    "lon": 172.21,
+    "name": "Christchurch",
+    "vp": 1.0,
+    "borders_states": [
+     1080
+    ]
+   },
+   {
+    "id": 2203,
+    "lat": -44.98,
+    "lon": 170.63,
+    "name": "Waitaki",
+    "borders_states": [
+     1081
+    ]
+   },
+   {
+    "id": 5195,
+    "lat": -44.17,
+    "lon": 171.33
+   },
+   {
+    "id": 8212,
+    "lat": -43.2,
+    "lon": 171.06,
+    "borders_states": [
+     1080
+    ]
+   },
+   {
+    "id": 12966,
+    "lat": -43.87,
+    "lon": 170.2,
+    "borders_states": [
+     1081
+    ]
+   },
+   {
+    "id": 12974,
+    "lat": -44.16,
+    "lon": 169.23,
+    "borders_states": [
+     1081
+    ]
+   }
+  ]
+ },
+ {
+  "id": 724,
+  "name": "Northern Malay",
+  "file": "724-Khorat.txt",
+  "owner": "SIA",
+  "cores": [
+   "SIA"
+  ],
+  "claims": [],
+  "manpower": 8200000,
+  "category": "large_town",
+  "centroid": [
+   8.05,
+   99.59
+  ],
+  "neighbour_states": [
+   289,
+   994,
+   1061,
+   1062,
+   1064
+  ],
+  "provinces": [
+   {
+    "id": 1279,
+    "lat": 6.25,
+    "lon": 101.64,
+    "borders_states": [
+     1062,
+     1064
+    ]
+   },
+   {
+    "id": 1281,
+    "lat": 9.56,
+    "lon": 98.8
+   },
+   {
+    "id": 1308,
+    "lat": 10.5,
+    "lon": 98.78,
+    "borders_states": [
+     289,
+     994
+    ]
+   },
+   {
+    "id": 1337,
+    "lat": 8.07,
+    "lon": 99.94
+   },
+   {
+    "id": 1366,
+    "lat": 8.11,
+    "lon": 98.92
+   },
+   {
+    "id": 1394,
+    "lat": 8.42,
+    "lon": 99.33
+   },
+   {
+    "id": 4297,
+    "lat": 6.1,
+    "lon": 101.21,
+    "borders_states": [
+     1061,
+     1064
+    ]
+   },
+   {
+    "id": 4312,
+    "lat": 8.94,
+    "lon": 99.54
+   },
+   {
+    "id": 4371,
+    "lat": 7.49,
+    "lon": 99.87,
+    "name": "Songkhla",
+    "vp": 1.0
+   },
+   {
+    "id": 7236,
+    "lat": 6.87,
+    "lon": 100.37,
+    "name": "Hat Yai",
+    "vp": 1.0,
+    "borders_states": [
+     1061
+    ]
+   },
+   {
+    "id": 10156,
+    "lat": 6.87,
+    "lon": 99.81,
+    "borders_states": [
+     1061
+    ]
+   },
+   {
+    "id": 10158,
+    "lat": 9.69,
+    "lon": 98.47,
+    "borders_states": [
+     994
+    ]
+   },
+   {
+    "id": 12131,
+    "lat": 6.65,
+    "lon": 100.99,
+    "borders_states": [
+     1061
+    ]
+   },
+   {
+    "id": 12201,
+    "lat": 8.9,
+    "lon": 98.79
+   },
+   {
+    "id": 12230,
+    "lat": 8.58,
+    "lon": 98.28,
+    "name": "Phuket",
+    "vp": 1.0
+   },
+   {
+    "id": 12286,
+    "lat": 7.62,
+    "lon": 99.39
+   }
+  ]
+ },
+ {
+  "id": 725,
+  "name": "Nauru",
+  "file": "725-Nauru.txt",
+  "owner": "NAU",
+  "cores": [
+   "NAU"
+  ],
+  "claims": [],
+  "manpower": 10000,
+  "category": "tiny_island",
+  "centroid": [
+   -3.79,
+   164.99
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13038,
+    "lat": -3.79,
+    "lon": 164.99,
+    "name": "Nauru",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 726,
+  "name": "Samoa",
+  "file": "726-Samoa.txt",
+  "owner": "SAM",
+  "cores": [
+   "SAM"
+  ],
+  "claims": [],
+  "manpower": 174000,
+  "category": "small_island",
+  "centroid": [
+   -5.32,
+   -177.17
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 7290,
+    "lat": -5.56,
+    "lon": -176.72,
+    "name": "Apia",
+    "vp": 1.0
+   },
+   {
+    "id": 13412,
+    "lat": -5.16,
+    "lon": -177.47,
+    "name": "Safotulafai",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 734,
+  "name": "Nendo",
+  "file": "734-Nendo.txt",
+  "owner": "SOL",
+  "cores": [
+   "SOL"
+  ],
+  "claims": [],
+  "manpower": 21000,
+  "category": "tiny_island",
+  "centroid": [
+   -15.23,
+   164.87
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 7390,
+    "lat": -15.23,
+    "lon": 164.87,
+    "name": "Nendö"
+   }
+  ]
+ },
+ {
+  "id": 737,
+  "name": "Bismarck",
+  "file": "737-New Britain.txt",
+  "owner": "PNG",
+  "cores": [
+   "PNG"
+  ],
+  "claims": [],
+  "manpower": 560000,
+  "category": "rural",
+  "centroid": [
+   -5.11,
+   150.42
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1286,
+    "lat": -5.5,
+    "lon": 151.03
+   },
+   {
+    "id": 1301,
+    "lat": -5.83,
+    "lon": 148.93
+   },
+   {
+    "id": 1329,
+    "lat": -5.62,
+    "lon": 148.4
+   },
+   {
+    "id": 1361,
+    "lat": -3.5,
+    "lon": 151.25
+   },
+   {
+    "id": 4304,
+    "lat": -5.69,
+    "lon": 149.68
+   },
+   {
+    "id": 4332,
+    "lat": -6.13,
+    "lon": 149.41
+   },
+   {
+    "id": 4352,
+    "lat": -2.86,
+    "lon": 150.04
+   },
+   {
+    "id": 4421,
+    "lat": -5.04,
+    "lon": 152.46
+   },
+   {
+    "id": 7251,
+    "lat": -4.83,
+    "lon": 151.58,
+    "name": "Rabaul",
+    "vp": 5.0
+   },
+   {
+    "id": 7324,
+    "lat": -5.95,
+    "lon": 150.79
+   },
+   {
+    "id": 7339,
+    "lat": -1.72,
+    "lon": 147.27
+   },
+   {
+    "id": 7352,
+    "lat": -6.0,
+    "lon": 150.32
+   },
+   {
+    "id": 7412,
+    "lat": -4.08,
+    "lon": 151.91
+   },
+   {
+    "id": 10166,
+    "lat": -5.22,
+    "lon": 151.59
+   },
+   {
+    "id": 10206,
+    "lat": -5.76,
+    "lon": 151.44
+   },
+   {
+    "id": 12222,
+    "lat": -6.24,
+    "lon": 149.96
+   }
+  ]
+ },
+ {
+  "id": 738,
+  "name": "Aru Islands",
+  "file": "738-Aru Islands.txt",
+  "owner": "INS",
+  "cores": [
+   "INS"
+  ],
+  "claims": [],
+  "manpower": 200000,
+  "category": "small_island",
+  "centroid": [
+   -6.61,
+   132.52
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 4579,
+    "lat": -6.05,
+    "lon": 133.67,
+    "name": "Dobo",
+    "vp": 1.0
+   },
+   {
+    "id": 13400,
+    "lat": -7.59,
+    "lon": 130.52
+   }
+  ]
+ },
+ {
+  "id": 741,
+  "name": "Cambodia",
+  "file": "741-Cambodia.txt",
+  "owner": "CAM",
+  "cores": [
+   "CAM"
+  ],
+  "claims": [],
+  "manpower": 10300000,
+  "category": "town",
+  "centroid": [
+   12.26,
+   104.98
+  ],
+  "neighbour_states": [
+   286,
+   1066,
+   1067,
+   1068,
+   1078
+  ],
+  "provinces": [
+   {
+    "id": 1324,
+    "lat": 12.96,
+    "lon": 104.65,
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 1353,
+    "lat": 12.41,
+    "lon": 102.76,
+    "borders_states": [
+     1067,
+     1078
+    ]
+   },
+   {
+    "id": 1620,
+    "lat": 12.95,
+    "lon": 106.82,
+    "borders_states": [
+     286
+    ]
+   },
+   {
+    "id": 4302,
+    "lat": 13.37,
+    "lon": 104.04,
+    "name": "Siem Reap",
+    "vp": 2.0,
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 4330,
+    "lat": 11.82,
+    "lon": 105.84,
+    "borders_states": [
+     1066
+    ]
+   },
+   {
+    "id": 4359,
+    "lat": 11.72,
+    "lon": 102.95
+   },
+   {
+    "id": 4596,
+    "lat": 13.55,
+    "lon": 107.17,
+    "borders_states": [
+     286,
+     1068
+    ]
+   },
+   {
+    "id": 4639,
+    "lat": 12.18,
+    "lon": 104.98
+   },
+   {
+    "id": 5236,
+    "lat": 12.87,
+    "lon": 103.88,
+    "type": "lake",
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 7319,
+    "lat": 12.23,
+    "lon": 104.08,
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 7376,
+    "lat": 11.33,
+    "lon": 104.53,
+    "name": "Phnom Penh",
+    "vp": 1.0
+   },
+   {
+    "id": 7404,
+    "lat": 11.22,
+    "lon": 103.3
+   },
+   {
+    "id": 7432,
+    "lat": 10.69,
+    "lon": 103.83,
+    "name": "Kompong Saom",
+    "vp": 1.0
+   },
+   {
+    "id": 7645,
+    "lat": 12.89,
+    "lon": 106.11,
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 10204,
+    "lat": 12.1,
+    "lon": 106.52,
+    "borders_states": [
+     286,
+     1066
+    ]
+   },
+   {
+    "id": 10289,
+    "lat": 11.46,
+    "lon": 103.96
+   },
+   {
+    "id": 10317,
+    "lat": 10.61,
+    "lon": 104.6,
+    "borders_states": [
+     1066
+    ]
+   },
+   {
+    "id": 12167,
+    "lat": 13.81,
+    "lon": 106.51,
+    "borders_states": [
+     1068
+    ]
+   },
+   {
+    "id": 12191,
+    "lat": 12.19,
+    "lon": 103.43,
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 12260,
+    "lat": 11.44,
+    "lon": 105.24,
+    "borders_states": [
+     1066
+    ]
+   },
+   {
+    "id": 12288,
+    "lat": 10.8,
+    "lon": 105.48,
+    "borders_states": [
+     1066
+    ]
+   },
+   {
+    "id": 12475,
+    "lat": 12.81,
+    "lon": 105.48,
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 13411,
+    "lat": 13.9,
+    "lon": 106.07,
+    "borders_states": [
+     1067,
+     1068
+    ]
+   }
+  ]
+ },
+ {
+  "id": 868,
+  "name": "Isan",
+  "file": "868-Isan.txt",
+  "owner": "SIA",
+  "cores": [
+   "SIA"
+  ],
+  "claims": [],
+  "manpower": 21300000,
+  "category": "large_town",
+  "centroid": [
+   16.1,
+   103.08
+  ],
+  "neighbour_states": [
+   670,
+   1067,
+   1068,
+   1069,
+   1076,
+   1077,
+   1078
+  ],
+  "provinces": [
+   {
+    "id": 1357,
+    "lat": 16.77,
+    "lon": 101.56,
+    "borders_states": [
+     1077
+    ]
+   },
+   {
+    "id": 1535,
+    "lat": 16.36,
+    "lon": 104.3,
+    "borders_states": [
+     670
+    ]
+   },
+   {
+    "id": 1548,
+    "lat": 15.65,
+    "lon": 104.92,
+    "borders_states": [
+     670,
+     1068
+    ]
+   },
+   {
+    "id": 4511,
+    "lat": 17.39,
+    "lon": 104.16,
+    "borders_states": [
+     670
+    ]
+   },
+   {
+    "id": 4582,
+    "lat": 15.54,
+    "lon": 101.23,
+    "borders_states": [
+     1077
+    ]
+   },
+   {
+    "id": 7516,
+    "lat": 17.91,
+    "lon": 103.34,
+    "borders_states": [
+     670
+    ]
+   },
+   {
+    "id": 7601,
+    "lat": 14.55,
+    "lon": 104.07,
+    "borders_states": [
+     1067
+    ]
+   },
+   {
+    "id": 10384,
+    "lat": 17.66,
+    "lon": 101.96,
+    "borders_states": [
+     670,
+     1069,
+     1077
+    ]
+   },
+   {
+    "id": 10425,
+    "lat": 15.86,
+    "lon": 102.85,
+    "name": "Khon Kaen"
+   },
+   {
+    "id": 10438,
+    "lat": 15.02,
+    "lon": 102.62,
+    "name": "Nakhon Ratchasima",
+    "vp": 1.0
+   },
+   {
+    "id": 12195,
+    "lat": 14.71,
+    "lon": 101.46,
+    "borders_states": [
+     1076,
+     1077,
+     1078
+    ]
+   },
+   {
+    "id": 12264,
+    "lat": 14.43,
+    "lon": 102.53,
+    "borders_states": [
+     1067,
+     1078
+    ]
+   },
+   {
+    "id": 12360,
+    "lat": 16.84,
+    "lon": 103.12,
+    "name": "Udon Thani"
+   },
+   {
+    "id": 12373,
+    "lat": 16.3,
+    "lon": 102.06
+   },
+   {
+    "id": 12388,
+    "lat": 15.44,
+    "lon": 102.02
+   },
+   {
+    "id": 12402,
+    "lat": 15.65,
+    "lon": 103.81
+   },
+   {
+    "id": 12417,
+    "lat": 14.79,
+    "lon": 105.05,
+    "borders_states": [
+     1067,
+     1068
+    ]
+   },
+   {
+    "id": 12431,
+    "lat": 15.03,
+    "lon": 103.72
+   }
+  ]
+ },
+ {
+  "id": 870,
+  "name": "North West Australia",
+  "file": "870-North West Australia.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 80000,
+  "category": "pastoral",
+  "centroid": [
+   -18.34,
+   124.13
+  ],
+  "neighbour_states": [
+   520,
+   522,
+   674,
+   1074
+  ],
+  "provinces": [
+   {
+    "id": 2201,
+    "lat": -19.92,
+    "lon": 122.01,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 5207,
+    "lat": -15.01,
+    "lon": 127.77,
+    "borders_states": [
+     520
+    ]
+   },
+   {
+    "id": 8152,
+    "lat": -21.11,
+    "lon": 118.63,
+    "borders_states": [
+     522
+    ]
+   },
+   {
+    "id": 8209,
+    "lat": -17.49,
+    "lon": 123.97
+   },
+   {
+    "id": 8247,
+    "lat": -16.47,
+    "lon": 126.34
+   },
+   {
+    "id": 10937,
+    "lat": -17.46,
+    "lon": 127.57,
+    "borders_states": [
+     520,
+     674,
+     1074
+    ]
+   },
+   {
+    "id": 10958,
+    "lat": -18.88,
+    "lon": 125.0,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 11016,
+    "lat": -15.18,
+    "lon": 125.83
+   },
+   {
+    "id": 12993,
+    "lat": -21.9,
+    "lon": 120.4,
+    "borders_states": [
+     522,
+     1074
+    ]
+   },
+   {
+    "id": 13133,
+    "lat": -16.43,
+    "lon": 128.82,
+    "type": "lake",
+    "borders_states": [
+     520
+    ]
+   }
+  ]
+ },
+ {
+  "id": 871,
+  "name": "South West Australia",
+  "file": "871-South West Australia.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 70000,
+  "category": "pastoral",
+  "centroid": [
+   -31.12,
+   122.89
+  ],
+  "neighbour_states": [
+   519,
+   522,
+   674,
+   1074
+  ],
+  "provinces": [
+   {
+    "id": 1526,
+    "lat": -31.52,
+    "lon": 119.19,
+    "borders_states": [
+     522
+    ]
+   },
+   {
+    "id": 2191,
+    "lat": -31.07,
+    "lon": 125.98,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 8200,
+    "lat": -29.28,
+    "lon": 121.81,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 10949,
+    "lat": -29.9,
+    "lon": 119.67,
+    "borders_states": [
+     522,
+     1074
+    ]
+   },
+   {
+    "id": 10969,
+    "lat": -30.09,
+    "lon": 124.03,
+    "borders_states": [
+     1074
+    ]
+   },
+   {
+    "id": 10997,
+    "lat": -32.09,
+    "lon": 120.67
+   },
+   {
+    "id": 11011,
+    "lat": -33.53,
+    "lon": 119.99,
+    "borders_states": [
+     522
+    ]
+   },
+   {
+    "id": 12948,
+    "lat": -30.66,
+    "lon": 127.98,
+    "borders_states": [
+     519,
+     674,
+     1074
+    ]
+   },
+   {
+    "id": 12962,
+    "lat": -31.64,
+    "lon": 122.31
+   },
+   {
+    "id": 12976,
+    "lat": -32.45,
+    "lon": 124.15
+   },
+   {
+    "id": 12990,
+    "lat": -33.47,
+    "lon": 122.49
+   }
+  ]
+ },
+ {
+  "id": 872,
+  "name": "North Queensland",
+  "file": "872-North Queensland.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 230000,
+  "category": "rural",
+  "centroid": [
+   -16.84,
+   141.84
+  ],
+  "neighbour_states": [
+   520,
+   521,
+   674,
+   1075
+  ],
+  "provinces": [
+   {
+    "id": 1501,
+    "lat": -16.2,
+    "lon": 141.06
+   },
+   {
+    "id": 1514,
+    "lat": -17.7,
+    "lon": 138.3,
+    "borders_states": [
+     520,
+     674,
+     1075
+    ]
+   },
+   {
+    "id": 1644,
+    "lat": -11.78,
+    "lon": 141.42
+   },
+   {
+    "id": 2166,
+    "lat": -17.68,
+    "lon": 140.95
+   },
+   {
+    "id": 2187,
+    "lat": -18.99,
+    "lon": 141.14,
+    "borders_states": [
+     1075
+    ]
+   },
+   {
+    "id": 4505,
+    "lat": -15.45,
+    "lon": 142.75
+   },
+   {
+    "id": 4520,
+    "lat": -17.11,
+    "lon": 143.98
+   },
+   {
+    "id": 4648,
+    "lat": -13.13,
+    "lon": 141.18
+   },
+   {
+    "id": 7506,
+    "lat": -14.64,
+    "lon": 141.3
+   },
+   {
+    "id": 7525,
+    "lat": -15.76,
+    "lon": 141.9
+   },
+   {
+    "id": 7538,
+    "lat": -18.26,
+    "lon": 143.06,
+    "borders_states": [
+     521
+    ]
+   },
+   {
+    "id": 8230,
+    "lat": -19.87,
+    "lon": 142.73,
+    "borders_states": [
+     521,
+     1075
+    ]
+   },
+   {
+    "id": 10338,
+    "lat": -13.19,
+    "lon": 142.03
+   },
+   {
+    "id": 10350,
+    "lat": -14.49,
+    "lon": 142.49
+   },
+   {
+    "id": 10365,
+    "lat": -15.29,
+    "lon": 143.7
+   },
+   {
+    "id": 10378,
+    "lat": -16.25,
+    "lon": 143.57
+   },
+   {
+    "id": 12354,
+    "lat": -16.96,
+    "lon": 142.03
+   },
+   {
+    "id": 12367,
+    "lat": -18.32,
+    "lon": 144.38,
+    "borders_states": [
+     521
+    ]
+   },
+   {
+    "id": 12957,
+    "lat": -18.2,
+    "lon": 139.67,
+    "borders_states": [
+     1075
+    ]
+   }
+  ]
+ },
+ {
+  "id": 873,
+  "name": "South West Queensland",
+  "file": "873-South West Queensland.txt",
+  "owner": "AST",
+  "cores": [
+   "AST"
+  ],
+  "claims": [],
+  "manpower": 60000,
+  "category": "pastoral",
+  "centroid": [
+   -26.44,
+   144.54
+  ],
+  "neighbour_states": [
+   285,
+   521,
+   1075
+  ],
+  "provinces": [
+   {
+    "id": 2116,
+    "lat": -28.06,
+    "lon": 146.73,
+    "borders_states": [
+     285,
+     521
+    ]
+   },
+   {
+    "id": 2221,
+    "lat": -27.56,
+    "lon": 142.34,
+    "borders_states": [
+     285,
+     1075
+    ]
+   },
+   {
+    "id": 5198,
+    "lat": -24.9,
+    "lon": 146.02,
+    "borders_states": [
+     521
+    ]
+   },
+   {
+    "id": 10941,
+    "lat": -27.41,
+    "lon": 144.6,
+    "borders_states": [
+     285,
+     521
+    ]
+   },
+   {
+    "id": 12949,
+    "lat": -24.31,
+    "lon": 144.2,
+    "borders_states": [
+     521,
+     1075
+    ]
+   }
+  ]
+ },
+ {
+  "id": 979,
+  "name": "STATE_979",
+  "file": "979 - Kaiser Wilhelms Land.txt",
+  "owner": "PNG",
+  "cores": [
+   "PNG"
+  ],
+  "claims": [],
+  "manpower": 1440000,
+  "category": "rural",
+  "centroid": [
+   -4.6,
+   144.1
+  ],
+  "neighbour_states": [
+   523,
+   669,
+   1073
+  ],
+  "provinces": [
+   {
+    "id": 4418,
+    "lat": -7.18,
+    "lon": 146.6,
+    "borders_states": [
+     523,
+     1073
+    ]
+   },
+   {
+    "id": 12237,
+    "lat": -6.52,
+    "lon": 146.56,
+    "name": "Lae",
+    "vp": 3.0,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 10251,
+    "lat": -6.22,
+    "lon": 147.35
+   },
+   {
+    "id": 7365,
+    "lat": -6.02,
+    "lon": 146.75
+   },
+   {
+    "id": 12193,
+    "lat": -5.85,
+    "lon": 146.13,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 12154,
+    "lat": -5.39,
+    "lon": 145.4,
+    "name": "Madang",
+    "vp": 2.0,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 7614,
+    "lat": -4.77,
+    "lon": 145.09,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 4393,
+    "lat": -4.33,
+    "lon": 144.68,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 1389,
+    "lat": -4.05,
+    "lon": 144.07,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 12240,
+    "lat": -3.62,
+    "lon": 143.43,
+    "name": "Wewak",
+    "vp": 1.0,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 12400,
+    "lat": -3.48,
+    "lon": 142.47,
+    "borders_states": [
+     1073
+    ]
+   },
+   {
+    "id": 10423,
+    "lat": -3.3,
+    "lon": 141.28,
+    "borders_states": [
+     669,
+     1073
+    ]
+   }
+  ]
+ }
+]

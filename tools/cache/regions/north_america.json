@@ -1,0 +1,10879 @@
+[
+ {
+  "id": 101,
+  "name": "Greenland",
+  "file": "101-Greenland.txt",
+  "owner": "DEN",
+  "cores": [
+   "DEN",
+   "GRN"
+  ],
+  "claims": [],
+  "manpower": 56124,
+  "category": "wasteland",
+  "centroid": [
+   65.53,
+   -46.16
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 10245,
+    "lat": 66.31,
+    "lon": -51.15
+   },
+   {
+    "id": 10636,
+    "lat": 68.24,
+    "lon": -39.68
+   },
+   {
+    "id": 12512,
+    "lat": 61.39,
+    "lon": -47.21,
+    "name": "Nuuk",
+    "vp": 1.0
+   },
+   {
+    "id": 13058,
+    "lat": 66.58,
+    "lon": -46.94
+   },
+   {
+    "id": 13066,
+    "lat": 64.5,
+    "lon": -44.34
+   }
+  ]
+ },
+ {
+  "id": 261,
+  "name": "Ohio",
+  "file": "261-USA.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 11353140,
+  "category": "large_city",
+  "centroid": [
+   40.46,
+   -82.4
+  ],
+  "neighbour_states": [
+   276,
+   358,
+   360,
+   369,
+   393,
+   396,
+   816
+  ],
+  "provinces": [
+   {
+    "id": 659,
+    "lat": 40.66,
+    "lon": -83.04
+   },
+   {
+    "id": 689,
+    "lat": 41.34,
+    "lon": -84.11,
+    "borders_states": [
+     393,
+     396
+    ]
+   },
+   {
+    "id": 827,
+    "lat": 39.92,
+    "lon": -81.8
+   },
+   {
+    "id": 831,
+    "lat": 39.7,
+    "lon": -84.38,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 882,
+    "lat": 41.45,
+    "lon": -80.81,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 971,
+    "lat": 38.63,
+    "lon": -82.42,
+    "borders_states": [
+     369,
+     816
+    ]
+   },
+   {
+    "id": 3685,
+    "lat": 41.2,
+    "lon": -83.19,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 3829,
+    "lat": 39.58,
+    "lon": -81.16,
+    "borders_states": [
+     816
+    ]
+   },
+   {
+    "id": 3853,
+    "lat": 40.4,
+    "lon": -82.27
+   },
+   {
+    "id": 3872,
+    "lat": 40.87,
+    "lon": -83.88
+   },
+   {
+    "id": 4442,
+    "lat": 40.87,
+    "lon": -80.88,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 4601,
+    "lat": 39.1,
+    "lon": -84.06,
+    "borders_states": [
+     369,
+     396
+    ]
+   },
+   {
+    "id": 6855,
+    "lat": 39.91,
+    "lon": -82.65,
+    "name": "Columbus",
+    "vp": 5.0
+   },
+   {
+    "id": 6874,
+    "lat": 40.55,
+    "lon": -81.53
+   },
+   {
+    "id": 6890,
+    "lat": 41.17,
+    "lon": -81.61,
+    "name": "Cleveland",
+    "vp": 10.0
+   },
+   {
+    "id": 7528,
+    "lat": 39.18,
+    "lon": -81.79,
+    "borders_states": [
+     816
+    ]
+   },
+   {
+    "id": 9760,
+    "lat": 39.29,
+    "lon": -82.47
+   },
+   {
+    "id": 9775,
+    "lat": 39.31,
+    "lon": -83.14
+   },
+   {
+    "id": 9808,
+    "lat": 40.26,
+    "lon": -80.86,
+    "borders_states": [
+     360,
+     816
+    ]
+   },
+   {
+    "id": 9825,
+    "lat": 41.01,
+    "lon": -82.3
+   },
+   {
+    "id": 11760,
+    "lat": 40.14,
+    "lon": -83.34
+   },
+   {
+    "id": 11776,
+    "lat": 39.76,
+    "lon": -83.71
+   },
+   {
+    "id": 11791,
+    "lat": 40.5,
+    "lon": -84.27,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 11890,
+    "lat": 38.66,
+    "lon": -83.38,
+    "borders_states": [
+     369
+    ]
+   },
+   {
+    "id": 13154,
+    "lat": 41.98,
+    "lon": -81.27,
+    "type": "lake",
+    "borders_states": [
+     276,
+     358,
+     360,
+     393
+    ]
+   }
+  ]
+ },
+ {
+  "id": 276,
+  "name": "Southern Ontario",
+  "file": "276-Canada.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 10799534,
+  "category": "metropolis",
+  "centroid": [
+   44.47,
+   -78.85
+  ],
+  "neighbour_states": [
+   261,
+   358,
+   393,
+   468,
+   682,
+   862
+  ],
+  "provinces": [
+   {
+    "id": 605,
+    "lat": 44.65,
+    "lon": -77.79
+   },
+   {
+    "id": 722,
+    "lat": 42.71,
+    "lon": -81.13,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 749,
+    "lat": 42.82,
+    "lon": -79.41,
+    "name": "Queenston-Chippawa",
+    "borders_states": [
+     261,
+     358
+    ]
+   },
+   {
+    "id": 774,
+    "lat": 43.3,
+    "lon": -80.53
+   },
+   {
+    "id": 779,
+    "lat": 44.03,
+    "lon": -80.6,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 3605,
+    "lat": 44.45,
+    "lon": -76.58,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 3608,
+    "lat": 44.97,
+    "lon": -77.25
+   },
+   {
+    "id": 3635,
+    "lat": 45.49,
+    "lon": -76.85,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 3640,
+    "lat": 45.61,
+    "lon": -80.13,
+    "borders_states": [
+     393,
+     682
+    ]
+   },
+   {
+    "id": 3661,
+    "lat": 45.74,
+    "lon": -77.59,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 3763,
+    "lat": 43.18,
+    "lon": -79.98,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 3775,
+    "lat": 43.65,
+    "lon": -79.38,
+    "name": "Toronto",
+    "vp": 10.0,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 3778,
+    "lat": 45.42,
+    "lon": -75.7,
+    "name": "Ottawa",
+    "vp": 20.0,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 4270,
+    "lat": 45.4,
+    "lon": -74.79,
+    "borders_states": [
+     358,
+     468,
+     862
+    ]
+   },
+   {
+    "id": 6607,
+    "lat": 43.87,
+    "lon": -79.93,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 6610,
+    "lat": 44.58,
+    "lon": -81.19,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 6625,
+    "lat": 44.89,
+    "lon": -75.69,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 6630,
+    "lat": 44.96,
+    "lon": -76.4
+   },
+   {
+    "id": 6662,
+    "lat": 45.23,
+    "lon": -78.81
+   },
+   {
+    "id": 6676,
+    "lat": 46.13,
+    "lon": -78.92,
+    "borders_states": [
+     682,
+     862
+    ]
+   },
+   {
+    "id": 6797,
+    "lat": 43.92,
+    "lon": -78.62,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 9580,
+    "lat": 44.11,
+    "lon": -77.95,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 9583,
+    "lat": 44.22,
+    "lon": -79.15
+   },
+   {
+    "id": 9585,
+    "lat": 44.56,
+    "lon": -79.53,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 9634,
+    "lat": 45.91,
+    "lon": -78.19,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 9667,
+    "lat": 42.24,
+    "lon": -82.12,
+    "borders_states": [
+     261,
+     393
+    ]
+   },
+   {
+    "id": 9711,
+    "lat": 42.8,
+    "lon": -81.85,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 9743,
+    "lat": 43.84,
+    "lon": -81.29,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 11567,
+    "lat": 44.13,
+    "lon": -77.26,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 11569,
+    "lat": 44.54,
+    "lon": -78.55
+   },
+   {
+    "id": 11585,
+    "lat": 45.18,
+    "lon": -78.1
+   },
+   {
+    "id": 11602,
+    "lat": 45.64,
+    "lon": -79.35,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 11695,
+    "lat": 42.68,
+    "lon": -80.33,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 11725,
+    "lat": 43.34,
+    "lon": -81.21,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 11728,
+    "lat": 45.07,
+    "lon": -79.73,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 13156,
+    "lat": 42.29,
+    "lon": -82.62,
+    "type": "lake",
+    "borders_states": [
+     261,
+     393
+    ]
+   }
+  ]
+ },
+ {
+  "id": 277,
+  "name": "Mexico City",
+  "file": "277-Mexico.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 31560150,
+  "category": "megalopolis",
+  "centroid": [
+   20.38,
+   -99.99
+  ],
+  "neighbour_states": [
+   477,
+   478,
+   479,
+   485
+  ],
+  "provinces": [
+   {
+    "id": 1965,
+    "lat": 19.43,
+    "lon": -99.13,
+    "name": "Mexico City",
+    "vp": 25.0,
+    "borders_states": [
+     477,
+     485
+    ]
+   },
+   {
+    "id": 2008,
+    "lat": 21.03,
+    "lon": -101.15,
+    "name": "León",
+    "vp": 10.0,
+    "borders_states": [
+     478,
+     479,
+     485
+    ]
+   },
+   {
+    "id": 2011,
+    "lat": 20.7,
+    "lon": -99.99,
+    "borders_states": [
+     479
+    ]
+   },
+   {
+    "id": 7913,
+    "lat": 20.55,
+    "lon": -98.81,
+    "borders_states": [
+     477,
+     479
+    ]
+   },
+   {
+    "id": 12755,
+    "lat": 19.57,
+    "lon": -100.33,
+    "borders_states": [
+     485
+    ]
+   }
+  ]
+ },
+ {
+  "id": 331,
+  "name": "Newfoundland",
+  "file": "331-Newfoundland.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 509392,
+  "category": "rural",
+  "centroid": [
+   51.23,
+   -56.49
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 7758,
+    "lat": 51.36,
+    "lon": -54.73
+   },
+   {
+    "id": 7788,
+    "lat": 50.65,
+    "lon": -58.32
+   },
+   {
+    "id": 12505,
+    "lat": 49.89,
+    "lon": -53.86,
+    "name": "St. John's"
+   },
+   {
+    "id": 12680,
+    "lat": 50.48,
+    "lon": -56.2
+   },
+   {
+    "id": 12698,
+    "lat": 52.66,
+    "lon": -56.99
+   }
+  ]
+ },
+ {
+  "id": 332,
+  "name": "Labrador",
+  "file": "332-Labrador.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 17534,
+  "category": "wasteland",
+  "centroid": [
+   56.95,
+   -62.52
+  ],
+  "neighbour_states": [
+   466,
+   860
+  ],
+  "provinces": [
+   {
+    "id": 1426,
+    "lat": 60.56,
+    "lon": -63.2,
+    "borders_states": [
+     466
+    ]
+   },
+   {
+    "id": 1785,
+    "lat": 54.85,
+    "lon": -66.35,
+    "borders_states": [
+     860
+    ]
+   },
+   {
+    "id": 4720,
+    "lat": 55.97,
+    "lon": -58.29,
+    "borders_states": [
+     860
+    ]
+   },
+   {
+    "id": 4787,
+    "lat": 54.07,
+    "lon": -62.81,
+    "borders_states": [
+     860
+    ]
+   },
+   {
+    "id": 12503,
+    "lat": 57.05,
+    "lon": -61.67
+   },
+   {
+    "id": 13165,
+    "lat": 56.38,
+    "lon": -64.99,
+    "type": "lake",
+    "borders_states": [
+     466,
+     860
+    ]
+   },
+   {
+    "id": 13180,
+    "lat": 56.66,
+    "lon": -60.2,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 357,
+  "name": "New England",
+  "file": "357-New England.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 13922517,
+  "category": "metropolis",
+  "centroid": [
+   44.43,
+   -70.98
+  ],
+  "neighbour_states": [
+   358,
+   465,
+   468
+  ],
+  "provinces": [
+   {
+    "id": 715,
+    "lat": 42.54,
+    "lon": -72.4
+   },
+   {
+    "id": 718,
+    "lat": 42.53,
+    "lon": -73.21,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 733,
+    "lat": 43.86,
+    "lon": -71.85
+   },
+   {
+    "id": 905,
+    "lat": 41.61,
+    "lon": -70.98
+   },
+   {
+    "id": 908,
+    "lat": 42.16,
+    "lon": -73.34,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 1282,
+    "lat": 46.23,
+    "lon": -68.68,
+    "borders_states": [
+     465
+    ]
+   },
+   {
+    "id": 1338,
+    "lat": 45.06,
+    "lon": -68.77
+   },
+   {
+    "id": 1619,
+    "lat": 45.34,
+    "lon": -68.04,
+    "borders_states": [
+     465
+    ]
+   },
+   {
+    "id": 3710,
+    "lat": 42.16,
+    "lon": -72.51
+   },
+   {
+    "id": 3712,
+    "lat": 43.14,
+    "lon": -71.66
+   },
+   {
+    "id": 3715,
+    "lat": 43.2,
+    "lon": -72.44
+   },
+   {
+    "id": 3732,
+    "lat": 43.88,
+    "lon": -70.88
+   },
+   {
+    "id": 3906,
+    "lat": 41.98,
+    "lon": -71.58
+   },
+   {
+    "id": 4287,
+    "lat": 47.22,
+    "lon": -68.68,
+    "borders_states": [
+     465
+    ]
+   },
+   {
+    "id": 4445,
+    "lat": 44.07,
+    "lon": -72.97,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 6719,
+    "lat": 44.83,
+    "lon": -71.01,
+    "borders_states": [
+     468
+    ]
+   },
+   {
+    "id": 6732,
+    "lat": 42.56,
+    "lon": -71.6,
+    "name": "Boston",
+    "vp": 20.0
+   },
+   {
+    "id": 6909,
+    "lat": 41.39,
+    "lon": -73.09
+   },
+   {
+    "id": 7462,
+    "lat": 44.53,
+    "lon": -70.02
+   },
+   {
+    "id": 7629,
+    "lat": 44.85,
+    "lon": -72.58,
+    "borders_states": [
+     468
+    ]
+   },
+   {
+    "id": 9675,
+    "lat": 43.15,
+    "lon": -73.15,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 9832,
+    "lat": 41.41,
+    "lon": -72.52,
+    "name": "Providence",
+    "vp": 1.0
+   },
+   {
+    "id": 9847,
+    "lat": 41.27,
+    "lon": -73.65,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 9850,
+    "lat": 41.79,
+    "lon": -73.39,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 10247,
+    "lat": 47.31,
+    "lon": -69.59,
+    "borders_states": [
+     465,
+     468
+    ]
+   },
+   {
+    "id": 10318,
+    "lat": 45.91,
+    "lon": -69.58
+   },
+   {
+    "id": 10481,
+    "lat": 44.7,
+    "lon": -71.71,
+    "borders_states": [
+     468
+    ]
+   },
+   {
+    "id": 11830,
+    "lat": 41.69,
+    "lon": -72.27
+   },
+   {
+    "id": 12202,
+    "lat": 45.56,
+    "lon": -70.52,
+    "borders_states": [
+     468
+    ]
+   },
+   {
+    "id": 12221,
+    "lat": 46.61,
+    "lon": -69.89,
+    "borders_states": [
+     468
+    ]
+   },
+   {
+    "id": 12459,
+    "lat": 45.17,
+    "lon": -69.6,
+    "name": "Bangor",
+    "vp": 1.0
+   },
+   {
+    "id": 13158,
+    "lat": 44.73,
+    "lon": -73.46,
+    "type": "lake",
+    "borders_states": [
+     358,
+     468
+    ]
+   }
+  ]
+ },
+ {
+  "id": 358,
+  "name": "New York",
+  "file": "358-New York.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 18976457,
+  "category": "megalopolis",
+  "centroid": [
+   42.95,
+   -75.94
+  ],
+  "neighbour_states": [
+   261,
+   276,
+   357,
+   359,
+   360,
+   468
+  ],
+  "provinces": [
+   {
+    "id": 598,
+    "lat": 44.52,
+    "lon": -75.36,
+    "borders_states": [
+     276
+    ]
+   },
+   {
+    "id": 706,
+    "lat": 41.52,
+    "lon": -74.99,
+    "borders_states": [
+     359,
+     360
+    ]
+   },
+   {
+    "id": 734,
+    "lat": 42.88,
+    "lon": -78.14
+   },
+   {
+    "id": 859,
+    "lat": 40.76,
+    "lon": -73.08
+   },
+   {
+    "id": 1436,
+    "lat": 42.67,
+    "lon": -75.09
+   },
+   {
+    "id": 3602,
+    "lat": 44.72,
+    "lon": -74.65,
+    "borders_states": [
+     276,
+     468
+    ]
+   },
+   {
+    "id": 3702,
+    "lat": 42.57,
+    "lon": -76.64
+   },
+   {
+    "id": 3733,
+    "lat": 42.79,
+    "lon": -77.45
+   },
+   {
+    "id": 3747,
+    "lat": 43.04,
+    "lon": -76.69
+   },
+   {
+    "id": 3806,
+    "lat": 42.42,
+    "lon": -73.89,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 3878,
+    "lat": 40.71,
+    "lon": -74.01,
+    "name": "New York",
+    "vp": 30.0,
+    "borders_states": [
+     357,
+     359
+    ]
+   },
+   {
+    "id": 3894,
+    "lat": 41.2,
+    "lon": -74.46,
+    "borders_states": [
+     359
+    ]
+   },
+   {
+    "id": 6707,
+    "lat": 42.02,
+    "lon": -79.22,
+    "borders_states": [
+     261,
+     360
+    ]
+   },
+   {
+    "id": 6717,
+    "lat": 42.23,
+    "lon": -75.85,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 6778,
+    "lat": 44.04,
+    "lon": -75.93,
+    "borders_states": [
+     276
+    ]
+   },
+   {
+    "id": 6795,
+    "lat": 43.39,
+    "lon": -76.16
+   },
+   {
+    "id": 6911,
+    "lat": 41.51,
+    "lon": -74.04,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 6916,
+    "lat": 43.59,
+    "lon": -75.54
+   },
+   {
+    "id": 9664,
+    "lat": 42.17,
+    "lon": -78.29,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 9673,
+    "lat": 42.22,
+    "lon": -74.59
+   },
+   {
+    "id": 9693,
+    "lat": 42.64,
+    "lon": -74.43
+   },
+   {
+    "id": 9708,
+    "lat": 42.89,
+    "lon": -75.72
+   },
+   {
+    "id": 9721,
+    "lat": 43.27,
+    "lon": -74.98
+   },
+   {
+    "id": 9754,
+    "lat": 44.01,
+    "lon": -74.98
+   },
+   {
+    "id": 9774,
+    "lat": 41.75,
+    "lon": -74.51
+   },
+   {
+    "id": 10381,
+    "lat": 44.0,
+    "lon": -74.02,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 11650,
+    "lat": 42.1,
+    "lon": -76.69,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 11654,
+    "lat": 42.67,
+    "lon": -78.77,
+    "name": "Buffalo",
+    "vp": 3.0,
+    "borders_states": [
+     261,
+     276
+    ]
+   },
+   {
+    "id": 11660,
+    "lat": 41.99,
+    "lon": -75.27,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 11662,
+    "lat": 44.73,
+    "lon": -73.92,
+    "borders_states": [
+     357,
+     468
+    ]
+   },
+   {
+    "id": 11665,
+    "lat": 43.26,
+    "lon": -73.79,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 11680,
+    "lat": 42.14,
+    "lon": -77.54,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 11722,
+    "lat": 43.38,
+    "lon": -74.39
+   },
+   {
+    "id": 13157,
+    "lat": 43.48,
+    "lon": -77.89,
+    "type": "lake",
+    "borders_states": [
+     276
+    ]
+   }
+  ]
+ },
+ {
+  "id": 359,
+  "name": "New Jersey",
+  "file": "359-New Jersey.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 8414350,
+  "category": "metropolis",
+  "centroid": [
+   40.03,
+   -74.9
+  ],
+  "neighbour_states": [
+   358,
+   360
+  ],
+  "provinces": [
+   {
+    "id": 3693,
+    "lat": 40.91,
+    "lon": -74.91,
+    "borders_states": [
+     358,
+     360
+    ]
+   },
+   {
+    "id": 3863,
+    "lat": 40.52,
+    "lon": -75.14,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 6882,
+    "lat": 40.69,
+    "lon": -74.55,
+    "name": "Newark",
+    "vp": 5.0,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 9801,
+    "lat": 39.89,
+    "lon": -74.56
+   },
+   {
+    "id": 9864,
+    "lat": 39.44,
+    "lon": -74.73
+   },
+   {
+    "id": 11740,
+    "lat": 39.13,
+    "lon": -75.16
+   },
+   {
+    "id": 11782,
+    "lat": 40.19,
+    "lon": -74.82,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 11900,
+    "lat": 39.6,
+    "lon": -75.2,
+    "borders_states": [
+     360
+    ]
+   }
+  ]
+ },
+ {
+  "id": 360,
+  "name": "Pennsylvania",
+  "file": "360-Pennsylvania.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 12281054,
+  "category": "metropolis",
+  "centroid": [
+   40.7,
+   -77.87
+  ],
+  "neighbour_states": [
+   261,
+   358,
+   359,
+   361,
+   816
+  ],
+  "provinces": [
+   {
+    "id": 702,
+    "lat": 41.17,
+    "lon": -78.01
+   },
+   {
+    "id": 822,
+    "lat": 39.73,
+    "lon": -76.81,
+    "borders_states": [
+     361
+    ]
+   },
+   {
+    "id": 847,
+    "lat": 40.2,
+    "lon": -78.02
+   },
+   {
+    "id": 862,
+    "lat": 41.06,
+    "lon": -76.52
+   },
+   {
+    "id": 880,
+    "lat": 40.65,
+    "lon": -79.24
+   },
+   {
+    "id": 891,
+    "lat": 41.13,
+    "lon": -75.42,
+    "borders_states": [
+     358,
+     359
+    ]
+   },
+   {
+    "id": 894,
+    "lat": 41.65,
+    "lon": -76.24,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 3687,
+    "lat": 41.68,
+    "lon": -80.09,
+    "borders_states": [
+     261,
+     358
+    ]
+   },
+   {
+    "id": 3697,
+    "lat": 41.61,
+    "lon": -77.03,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 3802,
+    "lat": 39.97,
+    "lon": -80.21,
+    "borders_states": [
+     261,
+     816
+    ]
+   },
+   {
+    "id": 3824,
+    "lat": 39.8,
+    "lon": -76.22,
+    "borders_states": [
+     361
+    ]
+   },
+   {
+    "id": 3847,
+    "lat": 39.86,
+    "lon": -77.33,
+    "borders_states": [
+     361
+    ]
+   },
+   {
+    "id": 3850,
+    "lat": 40.27,
+    "lon": -78.77
+   },
+   {
+    "id": 3880,
+    "lat": 41.14,
+    "lon": -78.64
+   },
+   {
+    "id": 3897,
+    "lat": 41.5,
+    "lon": -75.69,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 6705,
+    "lat": 41.11,
+    "lon": -80.08,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 6845,
+    "lat": 39.94,
+    "lon": -75.48,
+    "name": "Philadelphia",
+    "vp": 20.0,
+    "borders_states": [
+     359,
+     361
+    ]
+   },
+   {
+    "id": 6869,
+    "lat": 40.21,
+    "lon": -76.05
+   },
+   {
+    "id": 6872,
+    "lat": 40.74,
+    "lon": -77.88
+   },
+   {
+    "id": 6885,
+    "lat": 40.72,
+    "lon": -77.22
+   },
+   {
+    "id": 6899,
+    "lat": 41.09,
+    "lon": -79.37
+   },
+   {
+    "id": 9662,
+    "lat": 41.53,
+    "lon": -79.42,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 9789,
+    "lat": 39.73,
+    "lon": -79.57,
+    "borders_states": [
+     361,
+     816
+    ]
+   },
+   {
+    "id": 9804,
+    "lat": 40.35,
+    "lon": -77.41
+   },
+   {
+    "id": 9820,
+    "lat": 40.78,
+    "lon": -76.12
+   },
+   {
+    "id": 9836,
+    "lat": 41.6,
+    "lon": -78.07,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 11648,
+    "lat": 41.6,
+    "lon": -78.81,
+    "borders_states": [
+     358
+    ]
+   },
+   {
+    "id": 11758,
+    "lat": 39.76,
+    "lon": -78.04,
+    "borders_states": [
+     361
+    ]
+   },
+   {
+    "id": 11769,
+    "lat": 39.77,
+    "lon": -78.73,
+    "borders_states": [
+     361
+    ]
+   },
+   {
+    "id": 11785,
+    "lat": 40.34,
+    "lon": -76.69
+   },
+   {
+    "id": 11789,
+    "lat": 40.14,
+    "lon": -79.45
+   },
+   {
+    "id": 11799,
+    "lat": 40.57,
+    "lon": -75.58,
+    "borders_states": [
+     359
+    ]
+   },
+   {
+    "id": 11800,
+    "lat": 40.58,
+    "lon": -79.98,
+    "name": "Pittsburgh",
+    "vp": 15.0,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 11817,
+    "lat": 41.22,
+    "lon": -77.25
+   },
+   {
+    "id": 12405,
+    "lat": 40.67,
+    "lon": -78.55
+   }
+  ]
+ },
+ {
+  "id": 361,
+  "name": "Maryland",
+  "file": "361-Maryland.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 6652145,
+  "category": "metropolis",
+  "centroid": [
+   38.9,
+   -76.81
+  ],
+  "neighbour_states": [
+   360,
+   362,
+   816
+  ],
+  "provinces": [
+   {
+    "id": 3957,
+    "lat": 38.91,
+    "lon": -77.04,
+    "name": "Washington",
+    "vp": 40.0,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 6823,
+    "lat": 39.35,
+    "lon": -78.97,
+    "borders_states": [
+     360,
+     816
+    ]
+   },
+   {
+    "id": 6892,
+    "lat": 38.39,
+    "lon": -76.04,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 6929,
+    "lat": 39.36,
+    "lon": -77.67,
+    "borders_states": [
+     360,
+     362,
+     816
+    ]
+   },
+   {
+    "id": 6984,
+    "lat": 39.33,
+    "lon": -76.74,
+    "name": "Baltimore",
+    "vp": 5.0,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 9758,
+    "lat": 39.2,
+    "lon": -75.96,
+    "borders_states": [
+     360
+    ]
+   },
+   {
+    "id": 9786,
+    "lat": 38.41,
+    "lon": -75.56,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 11892,
+    "lat": 38.32,
+    "lon": -76.84,
+    "borders_states": [
+     362
+    ]
+   }
+  ]
+ },
+ {
+  "id": 362,
+  "name": "Virginia",
+  "file": "362-Virginia.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 7078515,
+  "category": "large_city",
+  "centroid": [
+   37.28,
+   -78.87
+  ],
+  "neighbour_states": [
+   361,
+   363,
+   368,
+   369,
+   816
+  ],
+  "provinces": [
+   {
+    "id": 788,
+    "lat": 36.52,
+    "lon": -76.62,
+    "name": "Norfolk",
+    "vp": 10.0,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 865,
+    "lat": 37.27,
+    "lon": -76.92
+   },
+   {
+    "id": 873,
+    "lat": 38.42,
+    "lon": -77.68,
+    "borders_states": [
+     361
+    ]
+   },
+   {
+    "id": 951,
+    "lat": 38.81,
+    "lon": -78.15,
+    "borders_states": [
+     361,
+     816
+    ]
+   },
+   {
+    "id": 1506,
+    "lat": 37.12,
+    "lon": -80.21,
+    "borders_states": [
+     816
+    ]
+   },
+   {
+    "id": 3823,
+    "lat": 37.72,
+    "lon": -78.13
+   },
+   {
+    "id": 3917,
+    "lat": 37.53,
+    "lon": -75.84,
+    "borders_states": [
+     361
+    ]
+   },
+   {
+    "id": 3925,
+    "lat": 36.55,
+    "lon": -78.15,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 6846,
+    "lat": 37.8,
+    "lon": -77.13
+   },
+   {
+    "id": 7558,
+    "lat": 36.67,
+    "lon": -81.35,
+    "borders_states": [
+     363,
+     368,
+     816
+    ]
+   },
+   {
+    "id": 9779,
+    "lat": 36.67,
+    "lon": -82.39,
+    "borders_states": [
+     368,
+     369,
+     816
+    ]
+   },
+   {
+    "id": 9931,
+    "lat": 36.52,
+    "lon": -79.25,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 10343,
+    "lat": 37.75,
+    "lon": -79.38,
+    "borders_states": [
+     816
+    ]
+   },
+   {
+    "id": 10412,
+    "lat": 37.06,
+    "lon": -79.24,
+    "name": "Richmond",
+    "vp": 15.0
+   },
+   {
+    "id": 10439,
+    "lat": 36.54,
+    "lon": -80.37,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 11738,
+    "lat": 36.81,
+    "lon": -77.39,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 11841,
+    "lat": 37.13,
+    "lon": -78.28
+   },
+   {
+    "id": 11873,
+    "lat": 38.27,
+    "lon": -78.74,
+    "borders_states": [
+     816
+    ]
+   }
+  ]
+ },
+ {
+  "id": 363,
+  "name": "North Carolina",
+  "file": "363-North Carolina.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 8049313,
+  "category": "large_city",
+  "centroid": [
+   35.29,
+   -79.36
+  ],
+  "neighbour_states": [
+   362,
+   364,
+   365,
+   368
+  ],
+  "provinces": [
+   {
+    "id": 1019,
+    "lat": 33.97,
+    "lon": -78.38,
+    "borders_states": [
+     364
+    ]
+   },
+   {
+    "id": 1077,
+    "lat": 35.41,
+    "lon": -76.3
+   },
+   {
+    "id": 1132,
+    "lat": 34.48,
+    "lon": -77.8
+   },
+   {
+    "id": 1163,
+    "lat": 34.8,
+    "lon": -76.97
+   },
+   {
+    "id": 4168,
+    "lat": 35.29,
+    "lon": -77.44
+   },
+   {
+    "id": 6943,
+    "lat": 35.98,
+    "lon": -77.18,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 7045,
+    "lat": 35.84,
+    "lon": -78.82,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 7083,
+    "lat": 35.04,
+    "lon": -79.36,
+    "borders_states": [
+     364
+    ]
+   },
+   {
+    "id": 7138,
+    "lat": 34.94,
+    "lon": -80.42,
+    "name": "Charlotte",
+    "vp": 3.0,
+    "borders_states": [
+     364
+    ]
+   },
+   {
+    "id": 7643,
+    "lat": 35.36,
+    "lon": -82.5,
+    "borders_states": [
+     364,
+     368
+    ]
+   },
+   {
+    "id": 9876,
+    "lat": 36.04,
+    "lon": -76.36,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 9967,
+    "lat": 35.03,
+    "lon": -83.48,
+    "borders_states": [
+     364,
+     365,
+     368
+    ]
+   },
+   {
+    "id": 10051,
+    "lat": 34.44,
+    "lon": -79.04,
+    "borders_states": [
+     364
+    ]
+   },
+   {
+    "id": 10081,
+    "lat": 35.55,
+    "lon": -79.81
+   },
+   {
+    "id": 10096,
+    "lat": 35.56,
+    "lon": -80.82
+   },
+   {
+    "id": 10468,
+    "lat": 36.05,
+    "lon": -81.2,
+    "borders_states": [
+     362,
+     368
+    ]
+   },
+   {
+    "id": 10495,
+    "lat": 35.35,
+    "lon": -81.65,
+    "borders_states": [
+     364,
+     368
+    ]
+   },
+   {
+    "id": 11783,
+    "lat": 35.88,
+    "lon": -77.96,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 12054,
+    "lat": 35.03,
+    "lon": -78.38
+   },
+   {
+    "id": 12445,
+    "lat": 36.05,
+    "lon": -79.88,
+    "borders_states": [
+     362
+    ]
+   }
+  ]
+ },
+ {
+  "id": 364,
+  "name": "South Carolina",
+  "file": "364-South Carolina.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 4012012,
+  "category": "city",
+  "centroid": [
+   33.68,
+   -80.87
+  ],
+  "neighbour_states": [
+   363,
+   365
+  ],
+  "provinces": [
+   {
+    "id": 1485,
+    "lat": 34.27,
+    "lon": -82.57,
+    "borders_states": [
+     363,
+     365
+    ]
+   },
+   {
+    "id": 1547,
+    "lat": 32.51,
+    "lon": -80.96,
+    "borders_states": [
+     365
+    ]
+   },
+   {
+    "id": 3994,
+    "lat": 33.39,
+    "lon": -81.69,
+    "borders_states": [
+     365
+    ]
+   },
+   {
+    "id": 4491,
+    "lat": 34.46,
+    "lon": -81.01,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 4653,
+    "lat": 34.7,
+    "lon": -81.99,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 7012,
+    "lat": 33.74,
+    "lon": -80.41
+   },
+   {
+    "id": 7134,
+    "lat": 34.26,
+    "lon": -80.07,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 7202,
+    "lat": 32.75,
+    "lon": -79.99,
+    "name": "Charleston",
+    "vp": 1.0
+   },
+   {
+    "id": 7527,
+    "lat": 34.08,
+    "lon": -81.56
+   },
+   {
+    "id": 10029,
+    "lat": 33.29,
+    "lon": -80.72
+   },
+   {
+    "id": 10047,
+    "lat": 33.5,
+    "lon": -79.6
+   },
+   {
+    "id": 11927,
+    "lat": 33.85,
+    "lon": -79.21,
+    "borders_states": [
+     363
+    ]
+   }
+  ]
+ },
+ {
+  "id": 365,
+  "name": "Georgia",
+  "file": "365-Georgia.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 8186453,
+  "category": "metropolis",
+  "centroid": [
+   32.45,
+   -83.35
+  ],
+  "neighbour_states": [
+   363,
+   364,
+   366,
+   367,
+   368
+  ],
+  "provinces": [
+   {
+    "id": 638,
+    "lat": 33.42,
+    "lon": -83.52
+   },
+   {
+    "id": 968,
+    "lat": 34.45,
+    "lon": -84.98,
+    "borders_states": [
+     367,
+     368
+    ]
+   },
+   {
+    "id": 1433,
+    "lat": 30.69,
+    "lon": -82.59,
+    "borders_states": [
+     366
+    ]
+   },
+   {
+    "id": 1480,
+    "lat": 31.17,
+    "lon": -81.95,
+    "borders_states": [
+     366
+    ]
+   },
+   {
+    "id": 5090,
+    "lat": 34.34,
+    "lon": -84.17,
+    "borders_states": [
+     363,
+     368
+    ]
+   },
+   {
+    "id": 7118,
+    "lat": 33.11,
+    "lon": -82.51,
+    "borders_states": [
+     364
+    ]
+   },
+   {
+    "id": 7583,
+    "lat": 32.58,
+    "lon": -84.58,
+    "borders_states": [
+     367
+    ]
+   },
+   {
+    "id": 7612,
+    "lat": 32.26,
+    "lon": -83.04
+   },
+   {
+    "id": 9949,
+    "lat": 34.31,
+    "lon": -83.4,
+    "borders_states": [
+     363,
+     364
+    ]
+   },
+   {
+    "id": 9996,
+    "lat": 33.54,
+    "lon": -84.93,
+    "borders_states": [
+     367
+    ]
+   },
+   {
+    "id": 10394,
+    "lat": 33.7,
+    "lon": -82.9,
+    "borders_states": [
+     364
+    ]
+   },
+   {
+    "id": 10437,
+    "lat": 32.22,
+    "lon": -82.29
+   },
+   {
+    "id": 10465,
+    "lat": 32.54,
+    "lon": -81.74,
+    "borders_states": [
+     364
+    ]
+   },
+   {
+    "id": 10492,
+    "lat": 32.4,
+    "lon": -83.84
+   },
+   {
+    "id": 11975,
+    "lat": 31.71,
+    "lon": -81.36,
+    "borders_states": [
+     364
+    ]
+   },
+   {
+    "id": 12325,
+    "lat": 30.82,
+    "lon": -84.11,
+    "borders_states": [
+     366,
+     367
+    ]
+   },
+   {
+    "id": 12384,
+    "lat": 33.52,
+    "lon": -84.17,
+    "name": "Atlanta",
+    "vp": 10.0
+   },
+   {
+    "id": 12470,
+    "lat": 31.38,
+    "lon": -83.27
+   },
+   {
+    "id": 12498,
+    "lat": 31.54,
+    "lon": -84.45,
+    "borders_states": [
+     367
+    ]
+   }
+  ]
+ },
+ {
+  "id": 367,
+  "name": "Alabama",
+  "file": "367-Alabama.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 4447100,
+  "category": "city",
+  "centroid": [
+   32.58,
+   -86.71
+  ],
+  "neighbour_states": [
+   365,
+   366,
+   368,
+   370
+  ],
+  "provinces": [
+   {
+    "id": 492,
+    "lat": 31.74,
+    "lon": -86.65
+   },
+   {
+    "id": 860,
+    "lat": 32.01,
+    "lon": -85.44,
+    "borders_states": [
+     365
+    ]
+   },
+   {
+    "id": 1587,
+    "lat": 33.52,
+    "lon": -87.69,
+    "borders_states": [
+     370
+    ]
+   },
+   {
+    "id": 4594,
+    "lat": 33.53,
+    "lon": -85.63,
+    "borders_states": [
+     365
+    ]
+   },
+   {
+    "id": 4622,
+    "lat": 32.58,
+    "lon": -87.76,
+    "borders_states": [
+     370
+    ]
+   },
+   {
+    "id": 4756,
+    "lat": 31.78,
+    "lon": -87.76,
+    "borders_states": [
+     370
+    ]
+   },
+   {
+    "id": 5059,
+    "lat": 34.54,
+    "lon": -86.32,
+    "borders_states": [
+     368
+    ]
+   },
+   {
+    "id": 7422,
+    "lat": 32.62,
+    "lon": -86.75
+   },
+   {
+    "id": 7480,
+    "lat": 30.88,
+    "lon": -88.06,
+    "name": "Mobile",
+    "vp": 1.0,
+    "borders_states": [
+     370
+    ]
+   },
+   {
+    "id": 7640,
+    "lat": 31.18,
+    "lon": -85.49,
+    "borders_states": [
+     365,
+     366
+    ]
+   },
+   {
+    "id": 10192,
+    "lat": 34.34,
+    "lon": -87.38,
+    "borders_states": [
+     368,
+     370
+    ]
+   },
+   {
+    "id": 10520,
+    "lat": 30.79,
+    "lon": -87.47,
+    "borders_states": [
+     366
+    ]
+   },
+   {
+    "id": 11509,
+    "lat": 32.79,
+    "lon": -85.7,
+    "borders_states": [
+     365
+    ]
+   },
+   {
+    "id": 11942,
+    "lat": 31.11,
+    "lon": -86.46,
+    "borders_states": [
+     366
+    ]
+   },
+   {
+    "id": 12735,
+    "lat": 33.52,
+    "lon": -86.78,
+    "name": "Birmingham",
+    "vp": 1.0
+   },
+   {
+    "id": 12803,
+    "lat": 34.07,
+    "lon": -85.98,
+    "borders_states": [
+     365,
+     368
+    ]
+   }
+  ]
+ },
+ {
+  "id": 368,
+  "name": "Tennessee",
+  "file": "368-Tennesse.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 5689283,
+  "category": "city",
+  "centroid": [
+   35.61,
+   -86.23
+  ],
+  "neighbour_states": [
+   362,
+   363,
+   365,
+   367,
+   369,
+   370,
+   372,
+   373
+  ],
+  "provinces": [
+   {
+    "id": 913,
+    "lat": 36.12,
+    "lon": -83.41,
+    "borders_states": [
+     362,
+     369
+    ]
+   },
+   {
+    "id": 1758,
+    "lat": 35.4,
+    "lon": -85.25,
+    "borders_states": [
+     365
+    ]
+   },
+   {
+    "id": 1987,
+    "lat": 35.83,
+    "lon": -88.19,
+    "borders_states": [
+     369
+    ]
+   },
+   {
+    "id": 7615,
+    "lat": 35.92,
+    "lon": -89.08,
+    "borders_states": [
+     369,
+     372,
+     373
+    ]
+   },
+   {
+    "id": 7791,
+    "lat": 35.59,
+    "lon": -83.47,
+    "borders_states": [
+     363
+    ]
+   },
+   {
+    "id": 7797,
+    "lat": 35.22,
+    "lon": -89.51,
+    "borders_states": [
+     370,
+     372
+    ]
+   },
+   {
+    "id": 8014,
+    "lat": 36.09,
+    "lon": -82.32,
+    "borders_states": [
+     362,
+     363
+    ]
+   },
+   {
+    "id": 8083,
+    "lat": 36.07,
+    "lon": -85.76,
+    "borders_states": [
+     369
+    ]
+   },
+   {
+    "id": 10281,
+    "lat": 35.19,
+    "lon": -86.15,
+    "borders_states": [
+     365,
+     367
+    ]
+   },
+   {
+    "id": 10615,
+    "lat": 35.15,
+    "lon": -88.63,
+    "borders_states": [
+     370
+    ]
+   },
+   {
+    "id": 10657,
+    "lat": 35.98,
+    "lon": -84.4,
+    "borders_states": [
+     369
+    ]
+   },
+   {
+    "id": 10824,
+    "lat": 35.02,
+    "lon": -87.37,
+    "borders_states": [
+     367,
+     370
+    ]
+   },
+   {
+    "id": 10909,
+    "lat": 35.12,
+    "lon": -84.55,
+    "borders_states": [
+     363,
+     365
+    ]
+   },
+   {
+    "id": 12501,
+    "lat": 35.66,
+    "lon": -87.18,
+    "name": "Nashville",
+    "vp": 3.0
+   },
+   {
+    "id": 12670,
+    "lat": 36.18,
+    "lon": -87.03,
+    "borders_states": [
+     369
+    ]
+   }
+  ]
+ },
+ {
+  "id": 369,
+  "name": "Kentucky",
+  "file": "369-Kentucky.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "CSA"
+  ],
+  "manpower": 4041769,
+  "category": "city",
+  "centroid": [
+   37.29,
+   -85.19
+  ],
+  "neighbour_states": [
+   261,
+   362,
+   368,
+   373,
+   395,
+   396,
+   816
+  ],
+  "provinces": [
+   {
+    "id": 1445,
+    "lat": 38.24,
+    "lon": -84.5,
+    "borders_states": [
+     261,
+     396
+    ]
+   },
+   {
+    "id": 1582,
+    "lat": 36.64,
+    "lon": -83.81,
+    "borders_states": [
+     362,
+     368
+    ]
+   },
+   {
+    "id": 4402,
+    "lat": 36.84,
+    "lon": -87.66,
+    "borders_states": [
+     368,
+     395
+    ]
+   },
+   {
+    "id": 4452,
+    "lat": 38.16,
+    "lon": -83.73,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 4988,
+    "lat": 36.63,
+    "lon": -85.42,
+    "borders_states": [
+     368
+    ]
+   },
+   {
+    "id": 6696,
+    "lat": 37.84,
+    "lon": -85.57,
+    "name": "Louisville",
+    "vp": 1.0,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 6974,
+    "lat": 36.85,
+    "lon": -86.52,
+    "borders_states": [
+     368
+    ]
+   },
+   {
+    "id": 7547,
+    "lat": 37.9,
+    "lon": -82.91,
+    "borders_states": [
+     261,
+     816
+    ]
+   },
+   {
+    "id": 9727,
+    "lat": 37.47,
+    "lon": -83.7
+   },
+   {
+    "id": 10586,
+    "lat": 36.6,
+    "lon": -88.51,
+    "borders_states": [
+     368,
+     373,
+     395
+    ]
+   },
+   {
+    "id": 10727,
+    "lat": 37.41,
+    "lon": -87.08,
+    "borders_states": [
+     395,
+     396
+    ]
+   },
+   {
+    "id": 12568,
+    "lat": 37.13,
+    "lon": -84.4
+   },
+   {
+    "id": 12637,
+    "lat": 37.12,
+    "lon": -82.75,
+    "borders_states": [
+     362,
+     816
+    ]
+   },
+   {
+    "id": 12709,
+    "lat": 37.31,
+    "lon": -85.23
+   }
+  ]
+ },
+ {
+  "id": 370,
+  "name": "Mississippi",
+  "file": "370-Mississippi.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 2844658,
+  "category": "town",
+  "centroid": [
+   32.58,
+   -89.53
+  ],
+  "neighbour_states": [
+   367,
+   368,
+   371,
+   372
+  ],
+  "provinces": [
+   {
+    "id": 1615,
+    "lat": 31.57,
+    "lon": -88.99,
+    "borders_states": [
+     367
+    ]
+   },
+   {
+    "id": 4464,
+    "lat": 30.66,
+    "lon": -89.34,
+    "name": "Biloxi",
+    "vp": 1.0,
+    "borders_states": [
+     371
+    ]
+   },
+   {
+    "id": 4510,
+    "lat": 33.76,
+    "lon": -90.28,
+    "borders_states": [
+     372
+    ]
+   },
+   {
+    "id": 4565,
+    "lat": 32.26,
+    "lon": -89.8
+   },
+   {
+    "id": 4650,
+    "lat": 31.32,
+    "lon": -90.01,
+    "borders_states": [
+     371
+    ]
+   },
+   {
+    "id": 7464,
+    "lat": 34.49,
+    "lon": -89.62,
+    "borders_states": [
+     368,
+     372
+    ]
+   },
+   {
+    "id": 7668,
+    "lat": 30.73,
+    "lon": -88.69,
+    "borders_states": [
+     367
+    ]
+   },
+   {
+    "id": 8110,
+    "lat": 33.0,
+    "lon": -88.83,
+    "borders_states": [
+     367
+    ]
+   },
+   {
+    "id": 10410,
+    "lat": 32.68,
+    "lon": -90.54,
+    "borders_states": [
+     371,
+     372
+    ]
+   },
+   {
+    "id": 10449,
+    "lat": 31.43,
+    "lon": -90.84,
+    "borders_states": [
+     371
+    ]
+   },
+   {
+    "id": 10753,
+    "lat": 34.39,
+    "lon": -88.47,
+    "borders_states": [
+     367,
+     368
+    ]
+   },
+   {
+    "id": 11717,
+    "lat": 33.72,
+    "lon": -88.77,
+    "borders_states": [
+     367
+    ]
+   },
+   {
+    "id": 12328,
+    "lat": 33.24,
+    "lon": -89.78
+   },
+   {
+    "id": 12429,
+    "lat": 32.26,
+    "lon": -88.79,
+    "borders_states": [
+     367
+    ]
+   }
+  ]
+ },
+ {
+  "id": 371,
+  "name": "Louisiana",
+  "file": "371-Louisiana.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 4468976,
+  "category": "city",
+  "centroid": [
+   30.97,
+   -91.9
+  ],
+  "neighbour_states": [
+   370,
+   372,
+   375
+  ],
+  "provinces": [
+   {
+    "id": 1453,
+    "lat": 30.54,
+    "lon": -90.87,
+    "borders_states": [
+     370
+    ]
+   },
+   {
+    "id": 1528,
+    "lat": 30.95,
+    "lon": -93.08,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 1559,
+    "lat": 32.39,
+    "lon": -91.58,
+    "borders_states": [
+     370,
+     372
+    ]
+   },
+   {
+    "id": 1643,
+    "lat": 30.64,
+    "lon": -92.18
+   },
+   {
+    "id": 4507,
+    "lat": 29.86,
+    "lon": -91.8
+   },
+   {
+    "id": 4522,
+    "lat": 32.53,
+    "lon": -93.02,
+    "borders_states": [
+     372
+    ]
+   },
+   {
+    "id": 4535,
+    "lat": 29.82,
+    "lon": -91.01
+   },
+   {
+    "id": 7524,
+    "lat": 30.53,
+    "lon": -90.07,
+    "borders_states": [
+     370
+    ]
+   },
+   {
+    "id": 7552,
+    "lat": 29.83,
+    "lon": -90.06,
+    "name": "New Orleans",
+    "vp": 10.0
+   },
+   {
+    "id": 7555,
+    "lat": 31.85,
+    "lon": -92.54
+   },
+   {
+    "id": 7599,
+    "lat": 31.41,
+    "lon": -91.71,
+    "borders_states": [
+     370
+    ]
+   },
+   {
+    "id": 12313,
+    "lat": 30.03,
+    "lon": -93.0,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 12398,
+    "lat": 29.32,
+    "lon": -89.9
+   },
+   {
+    "id": 12401,
+    "lat": 31.95,
+    "lon": -93.53,
+    "borders_states": [
+     372,
+     375
+    ]
+   }
+  ]
+ },
+ {
+  "id": 372,
+  "name": "Arkansas",
+  "file": "372-Arkansas.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [],
+  "manpower": 2673400,
+  "category": "town",
+  "centroid": [
+   34.71,
+   -92.27
+  ],
+  "neighbour_states": [
+   368,
+   370,
+   371,
+   373,
+   374,
+   375
+  ],
+  "provinces": [
+   {
+    "id": 1503,
+    "lat": 33.09,
+    "lon": -92.81,
+    "borders_states": [
+     371,
+     375
+    ]
+   },
+   {
+    "id": 1646,
+    "lat": 34.71,
+    "lon": -90.69,
+    "borders_states": [
+     368,
+     370
+    ]
+   },
+   {
+    "id": 4444,
+    "lat": 34.31,
+    "lon": -91.45
+   },
+   {
+    "id": 4567,
+    "lat": 35.66,
+    "lon": -93.8,
+    "borders_states": [
+     373,
+     374
+    ]
+   },
+   {
+    "id": 4597,
+    "lat": 35.54,
+    "lon": -92.74,
+    "borders_states": [
+     373
+    ]
+   },
+   {
+    "id": 4625,
+    "lat": 35.66,
+    "lon": -90.4,
+    "borders_states": [
+     368,
+     373
+    ]
+   },
+   {
+    "id": 7485,
+    "lat": 33.75,
+    "lon": -93.75,
+    "borders_states": [
+     374,
+     375
+    ]
+   },
+   {
+    "id": 7543,
+    "lat": 33.62,
+    "lon": -91.91
+   },
+   {
+    "id": 7586,
+    "lat": 35.98,
+    "lon": -91.47,
+    "borders_states": [
+     373
+    ]
+   },
+   {
+    "id": 10355,
+    "lat": 33.25,
+    "lon": -91.35,
+    "borders_states": [
+     370,
+     371
+    ]
+   },
+   {
+    "id": 10477,
+    "lat": 35.15,
+    "lon": -91.8
+   },
+   {
+    "id": 12458,
+    "lat": 33.86,
+    "lon": -92.86
+   },
+   {
+    "id": 12489,
+    "lat": 34.39,
+    "lon": -92.41,
+    "name": "Little Rock",
+    "vp": 1.0
+   },
+   {
+    "id": 12778,
+    "lat": 34.68,
+    "lon": -93.63,
+    "borders_states": [
+     374
+    ]
+   }
+  ]
+ },
+ {
+  "id": 373,
+  "name": "Missouri",
+  "file": "373-Missouri.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "CSA"
+  ],
+  "manpower": 5595211,
+  "category": "large_city",
+  "centroid": [
+   38.13,
+   -92.27
+  ],
+  "neighbour_states": [
+   368,
+   369,
+   372,
+   374,
+   383,
+   384,
+   392,
+   395
+  ],
+  "provinces": [
+   {
+    "id": 1441,
+    "lat": 37.64,
+    "lon": -92.38
+   },
+   {
+    "id": 1523,
+    "lat": 38.76,
+    "lon": -91.14,
+    "borders_states": [
+     395
+    ]
+   },
+   {
+    "id": 1534,
+    "lat": 36.7,
+    "lon": -93.97,
+    "borders_states": [
+     372,
+     374,
+     383
+    ]
+   },
+   {
+    "id": 1564,
+    "lat": 37.68,
+    "lon": -93.7,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 1621,
+    "lat": 37.96,
+    "lon": -91.4
+   },
+   {
+    "id": 4449,
+    "lat": 37.23,
+    "lon": -89.93,
+    "borders_states": [
+     395
+    ]
+   },
+   {
+    "id": 4540,
+    "lat": 36.43,
+    "lon": -89.64,
+    "borders_states": [
+     368,
+     369,
+     372,
+     395
+    ]
+   },
+   {
+    "id": 4569,
+    "lat": 37.94,
+    "lon": -90.43,
+    "name": "Saint Louis",
+    "vp": 10.0,
+    "borders_states": [
+     395
+    ]
+   },
+   {
+    "id": 7449,
+    "lat": 39.91,
+    "lon": -91.92,
+    "borders_states": [
+     392,
+     395
+    ]
+   },
+   {
+    "id": 7607,
+    "lat": 39.19,
+    "lon": -91.99,
+    "borders_states": [
+     395
+    ]
+   },
+   {
+    "id": 10333,
+    "lat": 39.99,
+    "lon": -94.57,
+    "borders_states": [
+     383,
+     384,
+     392
+    ]
+   },
+   {
+    "id": 10370,
+    "lat": 36.77,
+    "lon": -93.05,
+    "name": "Springfield",
+    "vp": 1.0,
+    "borders_states": [
+     372
+    ]
+   },
+   {
+    "id": 10391,
+    "lat": 39.34,
+    "lon": -93.8,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 10516,
+    "lat": 40.04,
+    "lon": -93.12,
+    "borders_states": [
+     392
+    ]
+   },
+   {
+    "id": 10717,
+    "lat": 38.49,
+    "lon": -93.93,
+    "name": "Kansas City",
+    "vp": 10.0,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 12346,
+    "lat": 36.84,
+    "lon": -90.92,
+    "borders_states": [
+     372
+    ]
+   },
+   {
+    "id": 12361,
+    "lat": 38.49,
+    "lon": -92.87
+   },
+   {
+    "id": 12463,
+    "lat": 36.72,
+    "lon": -91.99,
+    "borders_states": [
+     372
+    ]
+   }
+  ]
+ },
+ {
+  "id": 374,
+  "name": "Oklahoma",
+  "file": "374-Oklahoma.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 3450654,
+  "category": "city",
+  "centroid": [
+   35.33,
+   -97.34
+  ],
+  "neighbour_states": [
+   372,
+   373,
+   375,
+   376,
+   382,
+   383
+  ],
+  "provinces": [
+   {
+    "id": 1618,
+    "lat": 35.24,
+    "lon": -95.63
+   },
+   {
+    "id": 1806,
+    "lat": 36.17,
+    "lon": -95.79,
+    "name": "Tulsa",
+    "vp": 1.0,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 2043,
+    "lat": 35.86,
+    "lon": -94.71,
+    "borders_states": [
+     372,
+     373,
+     383
+    ]
+   },
+   {
+    "id": 4919,
+    "lat": 34.47,
+    "lon": -99.04,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 5103,
+    "lat": 35.05,
+    "lon": -96.63
+   },
+   {
+    "id": 6803,
+    "lat": 34.71,
+    "lon": -95.1,
+    "borders_states": [
+     372
+    ]
+   },
+   {
+    "id": 7762,
+    "lat": 36.12,
+    "lon": -99.34,
+    "borders_states": [
+     375,
+     383
+    ]
+   },
+   {
+    "id": 7904,
+    "lat": 36.06,
+    "lon": -97.01,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 7945,
+    "lat": 34.02,
+    "lon": -95.05,
+    "borders_states": [
+     372,
+     375
+    ]
+   },
+   {
+    "id": 8025,
+    "lat": 34.04,
+    "lon": -96.46,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 9822,
+    "lat": 34.68,
+    "lon": -97.7
+   },
+   {
+    "id": 10702,
+    "lat": 35.21,
+    "lon": -99.01,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 10798,
+    "lat": 35.51,
+    "lon": -97.96
+   },
+   {
+    "id": 11743,
+    "lat": 34.04,
+    "lon": -97.72,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 11802,
+    "lat": 36.36,
+    "lon": -98.23,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 12624,
+    "lat": 36.51,
+    "lon": -101.49,
+    "borders_states": [
+     375,
+     376,
+     382,
+     383
+    ]
+   }
+  ]
+ },
+ {
+  "id": 375,
+  "name": "Texas",
+  "file": "375-Texas.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "CSA"
+  ],
+  "claims": [
+   "MEX"
+  ],
+  "manpower": 20851820,
+  "category": "metropolis",
+  "centroid": [
+   31.41,
+   -99.19
+  ],
+  "neighbour_states": [
+   371,
+   372,
+   374,
+   376,
+   479,
+   480,
+   482
+  ],
+  "provinces": [
+   {
+    "id": 805,
+    "lat": 31.54,
+    "lon": -95.34
+   },
+   {
+    "id": 1500,
+    "lat": 30.03,
+    "lon": -94.28,
+    "borders_states": [
+     371
+    ]
+   },
+   {
+    "id": 1915,
+    "lat": 32.72,
+    "lon": -99.53
+   },
+   {
+    "id": 1927,
+    "lat": 29.79,
+    "lon": -97.85
+   },
+   {
+    "id": 1954,
+    "lat": 29.66,
+    "lon": -103.65,
+    "borders_states": [
+     480,
+     482
+    ]
+   },
+   {
+    "id": 1998,
+    "lat": 32.12,
+    "lon": -102.07,
+    "borders_states": [
+     376
+    ]
+   },
+   {
+    "id": 2019,
+    "lat": 29.1,
+    "lon": -99.91,
+    "borders_states": [
+     480
+    ]
+   },
+   {
+    "id": 2042,
+    "lat": 28.49,
+    "lon": -97.25
+   },
+   {
+    "id": 2055,
+    "lat": 35.9,
+    "lon": -100.75,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 2082,
+    "lat": 33.31,
+    "lon": -97.1,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 3875,
+    "lat": 33.65,
+    "lon": -99.64,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 3960,
+    "lat": 32.63,
+    "lon": -96.83,
+    "name": "Dallas",
+    "vp": 10.0
+   },
+   {
+    "id": 3972,
+    "lat": 35.01,
+    "lon": -100.6,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 4577,
+    "lat": 31.93,
+    "lon": -94.46,
+    "borders_states": [
+     371
+    ]
+   },
+   {
+    "id": 4884,
+    "lat": 29.25,
+    "lon": -96.66
+   },
+   {
+    "id": 4955,
+    "lat": 31.27,
+    "lon": -102.37,
+    "borders_states": [
+     376
+    ]
+   },
+   {
+    "id": 5001,
+    "lat": 33.28,
+    "lon": -94.49,
+    "borders_states": [
+     371,
+     372,
+     374
+    ]
+   },
+   {
+    "id": 5022,
+    "lat": 30.97,
+    "lon": -97.59
+   },
+   {
+    "id": 5038,
+    "lat": 30.3,
+    "lon": -102.38,
+    "borders_states": [
+     480
+    ]
+   },
+   {
+    "id": 5061,
+    "lat": 27.72,
+    "lon": -99.26,
+    "borders_states": [
+     480
+    ]
+   },
+   {
+    "id": 5085,
+    "lat": 33.5,
+    "lon": -98.48,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 6785,
+    "lat": 27.27,
+    "lon": -97.95
+   },
+   {
+    "id": 6798,
+    "lat": 30.61,
+    "lon": -99.27
+   },
+   {
+    "id": 6968,
+    "lat": 32.62,
+    "lon": -94.53,
+    "borders_states": [
+     371
+    ]
+   },
+   {
+    "id": 6987,
+    "lat": 28.27,
+    "lon": -98.39
+   },
+   {
+    "id": 7628,
+    "lat": 30.68,
+    "lon": -94.87
+   },
+   {
+    "id": 7836,
+    "lat": 31.45,
+    "lon": -98.73
+   },
+   {
+    "id": 7981,
+    "lat": 32.06,
+    "lon": -98.08
+   },
+   {
+    "id": 8064,
+    "lat": 31.45,
+    "lon": -100.76
+   },
+   {
+    "id": 9773,
+    "lat": 33.35,
+    "lon": -102.32,
+    "borders_states": [
+     376
+    ]
+   },
+   {
+    "id": 9829,
+    "lat": 33.23,
+    "lon": -95.73,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 9908,
+    "lat": 35.7,
+    "lon": -102.21,
+    "borders_states": [
+     374,
+     376
+    ]
+   },
+   {
+    "id": 9920,
+    "lat": 32.85,
+    "lon": -97.9
+   },
+   {
+    "id": 10337,
+    "lat": 29.76,
+    "lon": -95.37,
+    "name": "Houston",
+    "vp": 10.0
+   },
+   {
+    "id": 10504,
+    "lat": 30.83,
+    "lon": -95.93
+   },
+   {
+    "id": 10740,
+    "lat": 31.32,
+    "lon": -105.17,
+    "borders_states": [
+     376,
+     482
+    ]
+   },
+   {
+    "id": 10778,
+    "lat": 32.32,
+    "lon": -95.73
+   },
+   {
+    "id": 10861,
+    "lat": 31.74,
+    "lon": -96.7
+   },
+   {
+    "id": 10894,
+    "lat": 30.84,
+    "lon": -103.88,
+    "borders_states": [
+     376,
+     482
+    ]
+   },
+   {
+    "id": 12301,
+    "lat": 32.9,
+    "lon": -101.14
+   },
+   {
+    "id": 12341,
+    "lat": 30.35,
+    "lon": -96.81
+   },
+   {
+    "id": 12369,
+    "lat": 26.42,
+    "lon": -98.05,
+    "borders_states": [
+     479,
+     480
+    ]
+   },
+   {
+    "id": 12410,
+    "lat": 29.37,
+    "lon": -95.9
+   },
+   {
+    "id": 12486,
+    "lat": 31.05,
+    "lon": -93.96,
+    "borders_states": [
+     371
+    ]
+   },
+   {
+    "id": 12728,
+    "lat": 30.18,
+    "lon": -100.76,
+    "borders_states": [
+     480
+    ]
+   },
+   {
+    "id": 12782,
+    "lat": 29.34,
+    "lon": -98.56,
+    "name": "San Antonio",
+    "vp": 1.0
+   },
+   {
+    "id": 12848,
+    "lat": 33.83,
+    "lon": -100.78
+   },
+   {
+    "id": 12875,
+    "lat": 31.97,
+    "lon": -99.76
+   },
+   {
+    "id": 12893,
+    "lat": 34.61,
+    "lon": -102.12,
+    "borders_states": [
+     376
+    ]
+   }
+  ]
+ },
+ {
+  "id": 376,
+  "name": "New Mexico",
+  "file": "376-New Mexico.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "MEX"
+  ],
+  "manpower": 1819046,
+  "category": "town",
+  "centroid": [
+   34.27,
+   -105.93
+  ],
+  "neighbour_states": [
+   374,
+   375,
+   377,
+   382,
+   482,
+   483
+  ],
+  "provinces": [
+   {
+    "id": 1972,
+    "lat": 34.61,
+    "lon": -107.82,
+    "borders_states": [
+     377
+    ]
+   },
+   {
+    "id": 2102,
+    "lat": 36.02,
+    "lon": -103.5,
+    "borders_states": [
+     374,
+     375,
+     382
+    ]
+   },
+   {
+    "id": 3867,
+    "lat": 32.39,
+    "lon": -104.85,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 3883,
+    "lat": 33.68,
+    "lon": -106.24
+   },
+   {
+    "id": 4975,
+    "lat": 34.78,
+    "lon": -105.49,
+    "name": "Albuquerque",
+    "vp": 1.0
+   },
+   {
+    "id": 5044,
+    "lat": 32.05,
+    "lon": -108.0,
+    "borders_states": [
+     377,
+     482,
+     483
+    ]
+   },
+   {
+    "id": 8070,
+    "lat": 33.54,
+    "lon": -104.9
+   },
+   {
+    "id": 10642,
+    "lat": 36.27,
+    "lon": -104.91,
+    "borders_states": [
+     382
+    ]
+   },
+   {
+    "id": 10645,
+    "lat": 36.13,
+    "lon": -108.03,
+    "borders_states": [
+     377,
+     382
+    ]
+   },
+   {
+    "id": 10867,
+    "lat": 34.21,
+    "lon": -103.4,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 10914,
+    "lat": 33.33,
+    "lon": -107.93,
+    "borders_states": [
+     377
+    ]
+   },
+   {
+    "id": 12552,
+    "lat": 36.0,
+    "lon": -106.46,
+    "borders_states": [
+     382
+    ]
+   },
+   {
+    "id": 12684,
+    "lat": 35.12,
+    "lon": -104.44
+   },
+   {
+    "id": 12720,
+    "lat": 32.68,
+    "lon": -103.52,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 12791,
+    "lat": 32.33,
+    "lon": -106.22,
+    "borders_states": [
+     375,
+     482
+    ]
+   }
+  ]
+ },
+ {
+  "id": 377,
+  "name": "Arizona",
+  "file": "377-Arizona.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "MEX"
+  ],
+  "manpower": 5130632,
+  "category": "large_city",
+  "centroid": [
+   34.2,
+   -111.56
+  ],
+  "neighbour_states": [
+   376,
+   378,
+   379,
+   380,
+   382,
+   483,
+   484
+  ],
+  "provinces": [
+   {
+    "id": 850,
+    "lat": 36.38,
+    "lon": -112.87,
+    "borders_states": [
+     379,
+     380
+    ]
+   },
+   {
+    "id": 853,
+    "lat": 33.57,
+    "lon": -112.07,
+    "name": "Phoenix",
+    "vp": 3.0
+   },
+   {
+    "id": 1793,
+    "lat": 34.58,
+    "lon": -112.52
+   },
+   {
+    "id": 3834,
+    "lat": 32.11,
+    "lon": -111.22,
+    "borders_states": [
+     483
+    ]
+   },
+   {
+    "id": 4796,
+    "lat": 33.77,
+    "lon": -109.48,
+    "borders_states": [
+     376
+    ]
+   },
+   {
+    "id": 6897,
+    "lat": 35.08,
+    "lon": -109.87,
+    "borders_states": [
+     376
+    ]
+   },
+   {
+    "id": 7747,
+    "lat": 33.9,
+    "lon": -110.74
+   },
+   {
+    "id": 7821,
+    "lat": 36.09,
+    "lon": -110.93,
+    "borders_states": [
+     380
+    ]
+   },
+   {
+    "id": 7920,
+    "lat": 32.17,
+    "lon": -109.68,
+    "borders_states": [
+     376,
+     483
+    ]
+   },
+   {
+    "id": 8115,
+    "lat": 33.43,
+    "lon": -113.71,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 10573,
+    "lat": 36.29,
+    "lon": -109.65,
+    "borders_states": [
+     376,
+     380,
+     382
+    ]
+   },
+   {
+    "id": 10783,
+    "lat": 32.54,
+    "lon": -112.92,
+    "borders_states": [
+     378,
+     483,
+     484
+    ]
+   },
+   {
+    "id": 11814,
+    "lat": 35.1,
+    "lon": -113.94,
+    "borders_states": [
+     378,
+     379
+    ]
+   },
+   {
+    "id": 12765,
+    "lat": 35.47,
+    "lon": -112.15
+   }
+  ]
+ },
+ {
+  "id": 378,
+  "name": "California",
+  "file": "378-California.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "MEX"
+  ],
+  "manpower": 33871648,
+  "category": "megalopolis",
+  "centroid": [
+   37.36,
+   -119.75
+  ],
+  "neighbour_states": [
+   377,
+   379,
+   385,
+   484
+  ],
+  "provinces": [
+   {
+    "id": 610,
+    "lat": 40.85,
+    "lon": -124.15
+   },
+   {
+    "id": 677,
+    "lat": 38.74,
+    "lon": -122.85
+   },
+   {
+    "id": 710,
+    "lat": 39.22,
+    "lon": -120.81,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 766,
+    "lat": 40.1,
+    "lon": -121.51
+   },
+   {
+    "id": 768,
+    "lat": 40.14,
+    "lon": -122.68
+   },
+   {
+    "id": 781,
+    "lat": 40.91,
+    "lon": -123.07
+   },
+   {
+    "id": 823,
+    "lat": 33.69,
+    "lon": -116.13
+   },
+   {
+    "id": 941,
+    "lat": 35.66,
+    "lon": -118.28
+   },
+   {
+    "id": 986,
+    "lat": 35.85,
+    "lon": -120.84
+   },
+   {
+    "id": 1432,
+    "lat": 37.86,
+    "lon": -119.24,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 1562,
+    "lat": 32.83,
+    "lon": -116.86,
+    "name": "San Diego",
+    "vp": 15.0,
+    "borders_states": [
+     484
+    ]
+   },
+   {
+    "id": 1601,
+    "lat": 38.58,
+    "lon": -120.2,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 1651,
+    "lat": 36.09,
+    "lon": -117.07,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 3588,
+    "lat": 40.92,
+    "lon": -122.12
+   },
+   {
+    "id": 3644,
+    "lat": 41.5,
+    "lon": -124.03,
+    "borders_states": [
+     385
+    ]
+   },
+   {
+    "id": 3677,
+    "lat": 37.72,
+    "lon": -121.61
+   },
+   {
+    "id": 3678,
+    "lat": 38.22,
+    "lon": -122.08
+   },
+   {
+    "id": 3784,
+    "lat": 35.86,
+    "lon": -120.1
+   },
+   {
+    "id": 3840,
+    "lat": 36.51,
+    "lon": -121.41
+   },
+   {
+    "id": 4331,
+    "lat": 41.6,
+    "lon": -120.95,
+    "borders_states": [
+     379,
+     385
+    ]
+   },
+   {
+    "id": 4518,
+    "lat": 36.63,
+    "lon": -119.78
+   },
+   {
+    "id": 4657,
+    "lat": 35.27,
+    "lon": -115.7,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 4727,
+    "lat": 34.08,
+    "lon": -114.9,
+    "borders_states": [
+     377,
+     379
+    ]
+   },
+   {
+    "id": 6482,
+    "lat": 41.66,
+    "lon": -123.3,
+    "borders_states": [
+     385
+    ]
+   },
+   {
+    "id": 6665,
+    "lat": 41.67,
+    "lon": -122.29,
+    "borders_states": [
+     385
+    ]
+   },
+   {
+    "id": 6681,
+    "lat": 39.08,
+    "lon": -123.31
+   },
+   {
+    "id": 6694,
+    "lat": 37.79,
+    "lon": -120.65
+   },
+   {
+    "id": 6699,
+    "lat": 38.24,
+    "lon": -121.13
+   },
+   {
+    "id": 6745,
+    "lat": 39.45,
+    "lon": -122.76
+   },
+   {
+    "id": 6757,
+    "lat": 39.54,
+    "lon": -123.69
+   },
+   {
+    "id": 6772,
+    "lat": 40.16,
+    "lon": -123.3
+   },
+   {
+    "id": 6861,
+    "lat": 36.87,
+    "lon": -120.83
+   },
+   {
+    "id": 6876,
+    "lat": 37.32,
+    "lon": -120.13
+   },
+   {
+    "id": 6881,
+    "lat": 34.95,
+    "lon": -120.32
+   },
+   {
+    "id": 7517,
+    "lat": 33.38,
+    "lon": -117.03
+   },
+   {
+    "id": 7667,
+    "lat": 36.93,
+    "lon": -117.89,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 7986,
+    "lat": 33.01,
+    "lon": -115.19,
+    "borders_states": [
+     377,
+     484
+    ]
+   },
+   {
+    "id": 9637,
+    "lat": 37.11,
+    "lon": -121.82
+   },
+   {
+    "id": 9671,
+    "lat": 37.77,
+    "lon": -122.42,
+    "name": "San Francisco",
+    "vp": 25.0
+   },
+   {
+    "id": 9697,
+    "lat": 39.86,
+    "lon": -122.13
+   },
+   {
+    "id": 9713,
+    "lat": 38.96,
+    "lon": -121.58,
+    "name": "Sacramento",
+    "vp": 1.0
+   },
+   {
+    "id": 9730,
+    "lat": 40.22,
+    "lon": -124.02
+   },
+   {
+    "id": 9814,
+    "lat": 34.05,
+    "lon": -118.24,
+    "name": "Los Angeles",
+    "vp": 30.0
+   },
+   {
+    "id": 9855,
+    "lat": 34.75,
+    "lon": -118.48
+   },
+   {
+    "id": 9911,
+    "lat": 35.77,
+    "lon": -119.18
+   },
+   {
+    "id": 10159,
+    "lat": 40.94,
+    "lon": -121.0,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 10387,
+    "lat": 35.21,
+    "lon": -117.02
+   },
+   {
+    "id": 10483,
+    "lat": 34.6,
+    "lon": -117.68
+   },
+   {
+    "id": 11658,
+    "lat": 38.93,
+    "lon": -122.19
+   },
+   {
+    "id": 11698,
+    "lat": 40.13,
+    "lon": -120.69,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 11757,
+    "lat": 33.72,
+    "lon": -117.48
+   },
+   {
+    "id": 11763,
+    "lat": 36.79,
+    "lon": -118.86
+   },
+   {
+    "id": 11795,
+    "lat": 34.3,
+    "lon": -116.85
+   },
+   {
+    "id": 11859,
+    "lat": 34.54,
+    "lon": -119.31
+   },
+   {
+    "id": 11876,
+    "lat": 35.19,
+    "lon": -119.67
+   },
+   {
+    "id": 12303,
+    "lat": 34.49,
+    "lon": -115.98
+   },
+   {
+    "id": 12374,
+    "lat": 32.96,
+    "lon": -116.23,
+    "borders_states": [
+     484
+    ]
+   }
+  ]
+ },
+ {
+  "id": 379,
+  "name": "Nevada",
+  "file": "379-Nevada.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "MEX"
+  ],
+  "manpower": 1998257,
+  "category": "city",
+  "centroid": [
+   39.28,
+   -116.77
+  ],
+  "neighbour_states": [
+   377,
+   378,
+   380,
+   385,
+   387
+  ],
+  "provinces": [
+   {
+    "id": 1862,
+    "lat": 41.28,
+    "lon": -116.79,
+    "borders_states": [
+     385,
+     387
+    ]
+   },
+   {
+    "id": 4521,
+    "lat": 38.07,
+    "lon": -117.93,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 4607,
+    "lat": 39.06,
+    "lon": -119.25,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 4736,
+    "lat": 40.28,
+    "lon": -118.36
+   },
+   {
+    "id": 4799,
+    "lat": 36.08,
+    "lon": -115.0,
+    "name": "Las Vegas",
+    "borders_states": [
+     377,
+     378
+    ]
+   },
+   {
+    "id": 4816,
+    "lat": 38.1,
+    "lon": -115.82
+   },
+   {
+    "id": 7756,
+    "lat": 40.89,
+    "lon": -114.93,
+    "borders_states": [
+     380,
+     387
+    ]
+   },
+   {
+    "id": 7827,
+    "lat": 40.09,
+    "lon": -116.64
+   },
+   {
+    "id": 7879,
+    "lat": 37.43,
+    "lon": -114.61,
+    "borders_states": [
+     377,
+     380
+    ]
+   },
+   {
+    "id": 10422,
+    "lat": 40.33,
+    "lon": -119.72,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 10591,
+    "lat": 39.24,
+    "lon": -114.87,
+    "borders_states": [
+     380
+    ]
+   },
+   {
+    "id": 12134,
+    "lat": 41.49,
+    "lon": -119.2,
+    "borders_states": [
+     378,
+     385
+    ]
+   },
+   {
+    "id": 12399,
+    "lat": 38.92,
+    "lon": -117.14
+   },
+   {
+    "id": 12425,
+    "lat": 36.96,
+    "lon": -116.39,
+    "borders_states": [
+     378
+    ]
+   }
+  ]
+ },
+ {
+  "id": 380,
+  "name": "Utah",
+  "file": "380-Utah.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "MEX"
+  ],
+  "manpower": 2233169,
+  "category": "city",
+  "centroid": [
+   39.2,
+   -111.62
+  ],
+  "neighbour_states": [
+   377,
+   379,
+   381,
+   382,
+   387
+  ],
+  "provinces": [
+   {
+    "id": 1663,
+    "lat": 41.03,
+    "lon": -113.46,
+    "borders_states": [
+     379,
+     387
+    ]
+   },
+   {
+    "id": 1740,
+    "lat": 37.37,
+    "lon": -111.52,
+    "borders_states": [
+     377
+    ]
+   },
+   {
+    "id": 1756,
+    "lat": 39.29,
+    "lon": -109.41,
+    "borders_states": [
+     382
+    ]
+   },
+   {
+    "id": 4668,
+    "lat": 40.23,
+    "lon": -110.11,
+    "borders_states": [
+     381,
+     382
+    ]
+   },
+   {
+    "id": 4742,
+    "lat": 38.57,
+    "lon": -110.49
+   },
+   {
+    "id": 4865,
+    "lat": 40.22,
+    "lon": -111.7,
+    "name": "Salt Lake City",
+    "vp": 1.0,
+    "borders_states": [
+     381
+    ]
+   },
+   {
+    "id": 7764,
+    "lat": 38.08,
+    "lon": -109.34,
+    "borders_states": [
+     382
+    ]
+   },
+   {
+    "id": 7818,
+    "lat": 37.19,
+    "lon": -109.84,
+    "borders_states": [
+     377,
+     382
+    ]
+   },
+   {
+    "id": 10582,
+    "lat": 41.36,
+    "lon": -111.89,
+    "borders_states": [
+     381,
+     387
+    ]
+   },
+   {
+    "id": 10651,
+    "lat": 39.78,
+    "lon": -113.25,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 10662,
+    "lat": 38.83,
+    "lon": -111.71
+   },
+   {
+    "id": 12573,
+    "lat": 38.65,
+    "lon": -113.27,
+    "borders_states": [
+     379
+    ]
+   },
+   {
+    "id": 12699,
+    "lat": 37.43,
+    "lon": -113.24,
+    "borders_states": [
+     377,
+     379
+    ]
+   },
+   {
+    "id": 13153,
+    "lat": 40.89,
+    "lon": -112.52,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 381,
+  "name": "Wyoming",
+  "file": "381-Wyoming.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 493782,
+  "category": "rural",
+  "centroid": [
+   42.72,
+   -107.37
+  ],
+  "neighbour_states": [
+   380,
+   382,
+   384,
+   387,
+   388,
+   390
+  ],
+  "provinces": [
+   {
+    "id": 1815,
+    "lat": 43.25,
+    "lon": -108.23
+   },
+   {
+    "id": 4610,
+    "lat": 43.91,
+    "lon": -105.99,
+    "borders_states": [
+     388
+    ]
+   },
+   {
+    "id": 4723,
+    "lat": 41.37,
+    "lon": -104.58,
+    "borders_states": [
+     382,
+     384
+    ]
+   },
+   {
+    "id": 4794,
+    "lat": 42.64,
+    "lon": -104.64,
+    "borders_states": [
+     384,
+     390
+    ]
+   },
+   {
+    "id": 4820,
+    "lat": 43.83,
+    "lon": -104.48,
+    "borders_states": [
+     388,
+     390
+    ]
+   },
+   {
+    "id": 7688,
+    "lat": 42.31,
+    "lon": -109.07
+   },
+   {
+    "id": 7814,
+    "lat": 43.94,
+    "lon": -107.45,
+    "borders_states": [
+     388
+    ]
+   },
+   {
+    "id": 7888,
+    "lat": 41.73,
+    "lon": -110.36,
+    "borders_states": [
+     380,
+     387
+    ]
+   },
+   {
+    "id": 10640,
+    "lat": 41.81,
+    "lon": -105.85,
+    "borders_states": [
+     382
+    ]
+   },
+   {
+    "id": 10711,
+    "lat": 42.76,
+    "lon": -106.74
+   },
+   {
+    "id": 12561,
+    "lat": 41.51,
+    "lon": -107.3,
+    "borders_states": [
+     382
+    ]
+   },
+   {
+    "id": 12633,
+    "lat": 41.4,
+    "lon": -108.78,
+    "borders_states": [
+     380,
+     382
+    ]
+   },
+   {
+    "id": 12651,
+    "lat": 43.73,
+    "lon": -109.93,
+    "borders_states": [
+     387,
+     388
+    ]
+   }
+  ]
+ },
+ {
+  "id": 382,
+  "name": "Colorado",
+  "file": "382-Colorado.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "MEX"
+  ],
+  "manpower": 4301261,
+  "category": "large_city",
+  "centroid": [
+   38.93,
+   -105.26
+  ],
+  "neighbour_states": [
+   374,
+   376,
+   377,
+   380,
+   381,
+   383,
+   384
+  ],
+  "provinces": [
+   {
+    "id": 868,
+    "lat": 38.27,
+    "lon": -106.56
+   },
+   {
+    "id": 1658,
+    "lat": 39.24,
+    "lon": -106.7
+   },
+   {
+    "id": 1738,
+    "lat": 37.32,
+    "lon": -102.93,
+    "borders_states": [
+     374,
+     376,
+     383
+    ]
+   },
+   {
+    "id": 1809,
+    "lat": 38.37,
+    "lon": -103.65
+   },
+   {
+    "id": 1827,
+    "lat": 39.74,
+    "lon": -104.99,
+    "name": "Denver",
+    "vp": 5.0
+   },
+   {
+    "id": 3869,
+    "lat": 40.46,
+    "lon": -105.93,
+    "borders_states": [
+     381
+    ]
+   },
+   {
+    "id": 6887,
+    "lat": 39.63,
+    "lon": -107.81,
+    "borders_states": [
+     380
+    ]
+   },
+   {
+    "id": 7684,
+    "lat": 38.5,
+    "lon": -108.2,
+    "borders_states": [
+     380
+    ]
+   },
+   {
+    "id": 7780,
+    "lat": 40.47,
+    "lon": -103.91,
+    "borders_states": [
+     381,
+     384
+    ]
+   },
+   {
+    "id": 7999,
+    "lat": 37.49,
+    "lon": -108.12,
+    "borders_states": [
+     376,
+     377,
+     380
+    ]
+   },
+   {
+    "id": 9792,
+    "lat": 37.25,
+    "lon": -106.54,
+    "borders_states": [
+     376
+    ]
+   },
+   {
+    "id": 10535,
+    "lat": 40.43,
+    "lon": -107.98,
+    "borders_states": [
+     380,
+     381
+    ]
+   },
+   {
+    "id": 10588,
+    "lat": 38.91,
+    "lon": -105.05
+   },
+   {
+    "id": 11772,
+    "lat": 40.32,
+    "lon": -102.31,
+    "borders_states": [
+     383,
+     384
+    ]
+   },
+   {
+    "id": 12570,
+    "lat": 38.73,
+    "lon": -102.24,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 12627,
+    "lat": 37.6,
+    "lon": -104.92,
+    "borders_states": [
+     376
+    ]
+   },
+   {
+    "id": 12642,
+    "lat": 39.5,
+    "lon": -103.33
+   }
+  ]
+ },
+ {
+  "id": 383,
+  "name": "Kansas",
+  "file": "383-Kansas.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 2688418,
+  "category": "city",
+  "centroid": [
+   38.21,
+   -98.13
+  ],
+  "neighbour_states": [
+   373,
+   374,
+   382,
+   384
+  ],
+  "provinces": [
+   {
+    "id": 1352,
+    "lat": 38.24,
+    "lon": -95.96
+   },
+   {
+    "id": 1753,
+    "lat": 39.05,
+    "lon": -97.88,
+    "borders_states": [
+     384
+    ]
+   },
+   {
+    "id": 4586,
+    "lat": 37.21,
+    "lon": -100.86,
+    "borders_states": [
+     374,
+     382
+    ]
+   },
+   {
+    "id": 4740,
+    "lat": 37.16,
+    "lon": -97.7,
+    "name": "Wichita",
+    "vp": 3.0,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 4757,
+    "lat": 39.2,
+    "lon": -95.28,
+    "borders_states": [
+     373,
+     384
+    ]
+   },
+   {
+    "id": 4811,
+    "lat": 37.15,
+    "lon": -96.25,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 4814,
+    "lat": 38.04,
+    "lon": -100.62,
+    "borders_states": [
+     382
+    ]
+   },
+   {
+    "id": 4871,
+    "lat": 39.17,
+    "lon": -101.03,
+    "borders_states": [
+     382,
+     384
+    ]
+   },
+   {
+    "id": 7834,
+    "lat": 38.23,
+    "lon": -94.89,
+    "name": "Topeka",
+    "vp": 1.0,
+    "borders_states": [
+     373
+    ]
+   },
+   {
+    "id": 7892,
+    "lat": 37.98,
+    "lon": -97.01
+   },
+   {
+    "id": 9802,
+    "lat": 37.16,
+    "lon": -94.98,
+    "borders_states": [
+     373,
+     374
+    ]
+   },
+   {
+    "id": 10340,
+    "lat": 37.23,
+    "lon": -98.96,
+    "borders_states": [
+     374
+    ]
+   },
+   {
+    "id": 10532,
+    "lat": 39.08,
+    "lon": -99.52,
+    "borders_states": [
+     384
+    ]
+   },
+   {
+    "id": 12024,
+    "lat": 38.13,
+    "lon": -98.72
+   },
+   {
+    "id": 12513,
+    "lat": 39.37,
+    "lon": -96.66,
+    "borders_states": [
+     384
+    ]
+   }
+  ]
+ },
+ {
+  "id": 384,
+  "name": "Nebraska",
+  "file": "384-Nebraska.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 1711263,
+  "category": "large_town",
+  "centroid": [
+   41.25,
+   -99.54
+  ],
+  "neighbour_states": [
+   373,
+   381,
+   382,
+   383,
+   390,
+   392
+  ],
+  "provinces": [
+   {
+    "id": 1683,
+    "lat": 42.1,
+    "lon": -97.62,
+    "borders_states": [
+     390
+    ]
+   },
+   {
+    "id": 3613,
+    "lat": 41.45,
+    "lon": -101.64
+   },
+   {
+    "id": 3708,
+    "lat": 40.33,
+    "lon": -97.4,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 3855,
+    "lat": 41.02,
+    "lon": -99.65
+   },
+   {
+    "id": 4749,
+    "lat": 42.15,
+    "lon": -102.95,
+    "borders_states": [
+     381,
+     390
+    ]
+   },
+   {
+    "id": 4760,
+    "lat": 41.16,
+    "lon": -102.87,
+    "borders_states": [
+     381,
+     382
+    ]
+   },
+   {
+    "id": 4830,
+    "lat": 40.37,
+    "lon": -100.9,
+    "borders_states": [
+     382,
+     383
+    ]
+   },
+   {
+    "id": 7840,
+    "lat": 42.13,
+    "lon": -100.88,
+    "borders_states": [
+     390
+    ]
+   },
+   {
+    "id": 7852,
+    "lat": 41.18,
+    "lon": -98.0
+   },
+   {
+    "id": 10606,
+    "lat": 40.14,
+    "lon": -99.14,
+    "borders_states": [
+     383
+    ]
+   },
+   {
+    "id": 10676,
+    "lat": 40.33,
+    "lon": -96.17,
+    "borders_states": [
+     373,
+     383,
+     392
+    ]
+   },
+   {
+    "id": 12516,
+    "lat": 42.03,
+    "lon": -99.2,
+    "borders_states": [
+     390
+    ]
+   },
+   {
+    "id": 12586,
+    "lat": 41.47,
+    "lon": -96.39,
+    "name": "Omaha",
+    "vp": 1.0,
+    "borders_states": [
+     390,
+     392
+    ]
+   }
+  ]
+ },
+ {
+  "id": 385,
+  "name": "Oregon",
+  "file": "385-Oregon.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 3421399,
+  "category": "large_city",
+  "centroid": [
+   43.73,
+   -120.81
+  ],
+  "neighbour_states": [
+   378,
+   379,
+   386,
+   387
+  ],
+  "provinces": [
+   {
+    "id": 505,
+    "lat": 42.33,
+    "lon": -124.35,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 528,
+    "lat": 43.44,
+    "lon": -123.3
+   },
+   {
+    "id": 1414,
+    "lat": 43.95,
+    "lon": -120.7
+   },
+   {
+    "id": 3471,
+    "lat": 42.28,
+    "lon": -122.54,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 3513,
+    "lat": 45.0,
+    "lon": -122.75,
+    "name": "Portland",
+    "vp": 1.0,
+    "borders_states": [
+     386
+    ]
+   },
+   {
+    "id": 4274,
+    "lat": 43.71,
+    "lon": -122.12
+   },
+   {
+    "id": 4328,
+    "lat": 44.26,
+    "lon": -123.0
+   },
+   {
+    "id": 4347,
+    "lat": 42.64,
+    "lon": -121.17,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 4380,
+    "lat": 44.49,
+    "lon": -124.02
+   },
+   {
+    "id": 4826,
+    "lat": 44.18,
+    "lon": -119.27
+   },
+   {
+    "id": 7398,
+    "lat": 44.54,
+    "lon": -121.89
+   },
+   {
+    "id": 7721,
+    "lat": 43.51,
+    "lon": -117.92,
+    "borders_states": [
+     387
+    ]
+   },
+   {
+    "id": 7865,
+    "lat": 45.28,
+    "lon": -119.32,
+    "borders_states": [
+     386
+    ]
+   },
+   {
+    "id": 10151,
+    "lat": 43.01,
+    "lon": -122.43
+   },
+   {
+    "id": 10183,
+    "lat": 45.72,
+    "lon": -123.77,
+    "borders_states": [
+     386
+    ]
+   },
+   {
+    "id": 10305,
+    "lat": 42.64,
+    "lon": -119.69,
+    "borders_states": [
+     378,
+     379
+    ]
+   },
+   {
+    "id": 10625,
+    "lat": 42.37,
+    "lon": -118.1,
+    "borders_states": [
+     379,
+     387
+    ]
+   },
+   {
+    "id": 11495,
+    "lat": 42.95,
+    "lon": -124.29
+   },
+   {
+    "id": 11733,
+    "lat": 42.5,
+    "lon": -123.52,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 12183,
+    "lat": 45.03,
+    "lon": -120.93,
+    "borders_states": [
+     386
+    ]
+   },
+   {
+    "id": 12211,
+    "lat": 45.18,
+    "lon": -123.64,
+    "borders_states": [
+     386
+    ]
+   },
+   {
+    "id": 12281,
+    "lat": 43.74,
+    "lon": -124.0
+   },
+   {
+    "id": 12553,
+    "lat": 44.95,
+    "lon": -117.73,
+    "borders_states": [
+     386,
+     387
+    ]
+   }
+  ]
+ },
+ {
+  "id": 386,
+  "name": "Washington",
+  "file": "386-Washington.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 5894121,
+  "category": "large_city",
+  "centroid": [
+   47.11,
+   -120.71
+  ],
+  "neighbour_states": [
+   385,
+   387,
+   473
+  ],
+  "provinces": [
+   {
+    "id": 1320,
+    "lat": 48.24,
+    "lon": -120.44,
+    "borders_states": [
+     473
+    ]
+   },
+   {
+    "id": 1690,
+    "lat": 47.39,
+    "lon": -117.91,
+    "name": "Spokane",
+    "vp": 1.0,
+    "borders_states": [
+     387
+    ]
+   },
+   {
+    "id": 4296,
+    "lat": 47.58,
+    "lon": -123.68
+   },
+   {
+    "id": 4398,
+    "lat": 46.61,
+    "lon": -123.95
+   },
+   {
+    "id": 4747,
+    "lat": 46.54,
+    "lon": -119.43
+   },
+   {
+    "id": 7255,
+    "lat": 45.82,
+    "lon": -121.91,
+    "borders_states": [
+     385
+    ]
+   },
+   {
+    "id": 7315,
+    "lat": 47.61,
+    "lon": -122.33,
+    "name": "Seattle",
+    "vp": 10.0
+   },
+   {
+    "id": 7386,
+    "lat": 46.98,
+    "lon": -123.01
+   },
+   {
+    "id": 7414,
+    "lat": 48.24,
+    "lon": -121.62,
+    "borders_states": [
+     473
+    ]
+   },
+   {
+    "id": 7442,
+    "lat": 46.69,
+    "lon": -121.98
+   },
+   {
+    "id": 10155,
+    "lat": 46.7,
+    "lon": -120.82
+   },
+   {
+    "id": 10157,
+    "lat": 48.34,
+    "lon": -122.74,
+    "borders_states": [
+     473
+    ]
+   },
+   {
+    "id": 10198,
+    "lat": 48.2,
+    "lon": -119.03,
+    "borders_states": [
+     473
+    ]
+   },
+   {
+    "id": 10242,
+    "lat": 47.66,
+    "lon": -124.54
+   },
+   {
+    "id": 10271,
+    "lat": 45.96,
+    "lon": -122.87,
+    "borders_states": [
+     385
+    ]
+   },
+   {
+    "id": 10327,
+    "lat": 47.32,
+    "lon": -119.52
+   },
+   {
+    "id": 10687,
+    "lat": 45.9,
+    "lon": -118.09,
+    "borders_states": [
+     385,
+     387
+    ]
+   },
+   {
+    "id": 10690,
+    "lat": 45.95,
+    "lon": -119.96,
+    "borders_states": [
+     385
+    ]
+   },
+   {
+    "id": 10693,
+    "lat": 48.2,
+    "lon": -117.8,
+    "borders_states": [
+     387,
+     473
+    ]
+   },
+   {
+    "id": 12155,
+    "lat": 45.75,
+    "lon": -120.93,
+    "borders_states": [
+     385
+    ]
+   },
+   {
+    "id": 12214,
+    "lat": 47.4,
+    "lon": -121.27
+   },
+   {
+    "id": 12673,
+    "lat": 46.6,
+    "lon": -118.04,
+    "borders_states": [
+     387
+    ]
+   }
+  ]
+ },
+ {
+  "id": 387,
+  "name": "Idaho",
+  "file": "387-Idaho.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 1293953,
+  "category": "town",
+  "centroid": [
+   44.16,
+   -114.77
+  ],
+  "neighbour_states": [
+   379,
+   380,
+   381,
+   385,
+   386,
+   388,
+   473
+  ],
+  "provinces": [
+   {
+    "id": 1789,
+    "lat": 43.01,
+    "lon": -113.36
+   },
+   {
+    "id": 1832,
+    "lat": 48.11,
+    "lon": -116.8,
+    "borders_states": [
+     386,
+     388,
+     473
+    ]
+   },
+   {
+    "id": 3781,
+    "lat": 45.83,
+    "lon": -115.2,
+    "borders_states": [
+     388
+    ]
+   },
+   {
+    "id": 4778,
+    "lat": 45.92,
+    "lon": -116.5,
+    "borders_states": [
+     385,
+     386
+    ]
+   },
+   {
+    "id": 7845,
+    "lat": 44.46,
+    "lon": -115.58
+   },
+   {
+    "id": 9616,
+    "lat": 43.97,
+    "lon": -116.7,
+    "name": "Boise",
+    "vp": 1.0,
+    "borders_states": [
+     385
+    ]
+   },
+   {
+    "id": 9695,
+    "lat": 42.05,
+    "lon": -113.85,
+    "borders_states": [
+     379,
+     380
+    ]
+   },
+   {
+    "id": 10556,
+    "lat": 43.16,
+    "lon": -115.24
+   },
+   {
+    "id": 10602,
+    "lat": 44.29,
+    "lon": -113.97,
+    "borders_states": [
+     388
+    ]
+   },
+   {
+    "id": 10672,
+    "lat": 43.8,
+    "lon": -111.84,
+    "borders_states": [
+     381,
+     388
+    ]
+   },
+   {
+    "id": 12124,
+    "lat": 47.02,
+    "lon": -116.42,
+    "borders_states": [
+     386,
+     388
+    ]
+   },
+   {
+    "id": 12535,
+    "lat": 42.5,
+    "lon": -111.76,
+    "borders_states": [
+     380,
+     381
+    ]
+   },
+   {
+    "id": 12607,
+    "lat": 42.4,
+    "lon": -116.3,
+    "borders_states": [
+     379,
+     385
+    ]
+   }
+  ]
+ },
+ {
+  "id": 388,
+  "name": "Montana",
+  "file": "388-Montana.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 902195,
+  "category": "rural",
+  "centroid": [
+   46.61,
+   -109.58
+  ],
+  "neighbour_states": [
+   381,
+   387,
+   389,
+   390,
+   469,
+   470,
+   473
+  ],
+  "provinces": [
+   {
+    "id": 1736,
+    "lat": 44.96,
+    "lon": -112.43,
+    "borders_states": [
+     387
+    ]
+   },
+   {
+    "id": 1767,
+    "lat": 45.97,
+    "lon": -104.62,
+    "borders_states": [
+     389,
+     390
+    ]
+   },
+   {
+    "id": 1851,
+    "lat": 45.01,
+    "lon": -109.09,
+    "borders_states": [
+     381
+    ]
+   },
+   {
+    "id": 1854,
+    "lat": 47.66,
+    "lon": -113.47,
+    "borders_states": [
+     470,
+     473
+    ]
+   },
+   {
+    "id": 1857,
+    "lat": 48.28,
+    "lon": -112.13,
+    "borders_states": [
+     470
+    ]
+   },
+   {
+    "id": 4741,
+    "lat": 45.39,
+    "lon": -110.89,
+    "borders_states": [
+     381,
+     387
+    ]
+   },
+   {
+    "id": 4838,
+    "lat": 48.24,
+    "lon": -115.23,
+    "borders_states": [
+     387,
+     473
+    ]
+   },
+   {
+    "id": 4857,
+    "lat": 46.27,
+    "lon": -107.71
+   },
+   {
+    "id": 4860,
+    "lat": 46.72,
+    "lon": -110.88,
+    "name": "Great Falls",
+    "vp": 1.0
+   },
+   {
+    "id": 4863,
+    "lat": 47.96,
+    "lon": -106.81,
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 6742,
+    "lat": 45.94,
+    "lon": -113.79,
+    "borders_states": [
+     387
+    ]
+   },
+   {
+    "id": 7760,
+    "lat": 45.14,
+    "lon": -106.73,
+    "borders_states": [
+     381
+    ]
+   },
+   {
+    "id": 7779,
+    "lat": 46.25,
+    "lon": -112.57
+   },
+   {
+    "id": 7880,
+    "lat": 46.66,
+    "lon": -106.32
+   },
+   {
+    "id": 7883,
+    "lat": 47.99,
+    "lon": -104.72,
+    "borders_states": [
+     389,
+     469
+    ]
+   },
+   {
+    "id": 10587,
+    "lat": 44.92,
+    "lon": -104.82,
+    "borders_states": [
+     381,
+     390
+    ]
+   },
+   {
+    "id": 10593,
+    "lat": 48.05,
+    "lon": -110.03,
+    "borders_states": [
+     469,
+     470
+    ]
+   },
+   {
+    "id": 10624,
+    "lat": 47.75,
+    "lon": -108.38,
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 10706,
+    "lat": 47.06,
+    "lon": -104.89,
+    "borders_states": [
+     389
+    ]
+   },
+   {
+    "id": 11712,
+    "lat": 47.47,
+    "lon": -111.67
+   },
+   {
+    "id": 12572,
+    "lat": 46.75,
+    "lon": -109.32
+   },
+   {
+    "id": 12585,
+    "lat": 45.7,
+    "lon": -109.17
+   },
+   {
+    "id": 12676,
+    "lat": 47.27,
+    "lon": -115.03,
+    "borders_states": [
+     387
+    ]
+   }
+  ]
+ },
+ {
+  "id": 389,
+  "name": "North Dakota",
+  "file": "389-North Dakota.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 642200,
+  "category": "rural",
+  "centroid": [
+   46.77,
+   -100.2
+  ],
+  "neighbour_states": [
+   388,
+   390,
+   391,
+   467,
+   469
+  ],
+  "provinces": [
+   {
+    "id": 1752,
+    "lat": 46.64,
+    "lon": -98.5
+   },
+   {
+    "id": 1836,
+    "lat": 46.05,
+    "lon": -99.88,
+    "name": "Bismarck",
+    "vp": 1.0,
+    "borders_states": [
+     390
+    ]
+   },
+   {
+    "id": 1870,
+    "lat": 47.68,
+    "lon": -97.78,
+    "borders_states": [
+     391,
+     467
+    ]
+   },
+   {
+    "id": 3719,
+    "lat": 46.55,
+    "lon": -97.21,
+    "borders_states": [
+     391
+    ]
+   },
+   {
+    "id": 4759,
+    "lat": 47.86,
+    "lon": -102.42,
+    "borders_states": [
+     388,
+     467,
+     469
+    ]
+   },
+   {
+    "id": 4772,
+    "lat": 45.82,
+    "lon": -98.74,
+    "borders_states": [
+     390
+    ]
+   },
+   {
+    "id": 6722,
+    "lat": 45.89,
+    "lon": -102.92,
+    "borders_states": [
+     388,
+     390
+    ]
+   },
+   {
+    "id": 7877,
+    "lat": 46.88,
+    "lon": -102.82,
+    "borders_states": [
+     388
+    ]
+   },
+   {
+    "id": 10685,
+    "lat": 45.61,
+    "lon": -97.06,
+    "borders_states": [
+     390,
+     391
+    ]
+   },
+   {
+    "id": 10709,
+    "lat": 47.16,
+    "lon": -100.7
+   },
+   {
+    "id": 12566,
+    "lat": 45.97,
+    "lon": -101.22,
+    "borders_states": [
+     390
+    ]
+   },
+   {
+    "id": 12685,
+    "lat": 47.76,
+    "lon": -99.54,
+    "borders_states": [
+     467
+    ]
+   }
+  ]
+ },
+ {
+  "id": 390,
+  "name": "South Dakota",
+  "file": "390-South Dakota.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 754844,
+  "category": "rural",
+  "centroid": [
+   43.94,
+   -99.96
+  ],
+  "neighbour_states": [
+   381,
+   384,
+   388,
+   389,
+   391,
+   392
+  ],
+  "provinces": [
+   {
+    "id": 1747,
+    "lat": 43.85,
+    "lon": -102.91,
+    "name": "Rapid City",
+    "vp": 1.0,
+    "borders_states": [
+     381,
+     388
+    ]
+   },
+   {
+    "id": 1875,
+    "lat": 43.49,
+    "lon": -100.95,
+    "borders_states": [
+     384
+    ]
+   },
+   {
+    "id": 3750,
+    "lat": 44.74,
+    "lon": -101.03,
+    "borders_states": [
+     389
+    ]
+   },
+   {
+    "id": 4839,
+    "lat": 44.94,
+    "lon": -102.85,
+    "borders_states": [
+     388,
+     389
+    ]
+   },
+   {
+    "id": 4880,
+    "lat": 44.76,
+    "lon": -97.25,
+    "borders_states": [
+     389,
+     391
+    ]
+   },
+   {
+    "id": 7745,
+    "lat": 43.02,
+    "lon": -102.36,
+    "borders_states": [
+     381,
+     384
+    ]
+   },
+   {
+    "id": 7771,
+    "lat": 43.07,
+    "lon": -99.66,
+    "borders_states": [
+     384
+    ]
+   },
+   {
+    "id": 7862,
+    "lat": 44.88,
+    "lon": -99.08,
+    "borders_states": [
+     389
+    ]
+   },
+   {
+    "id": 10569,
+    "lat": 43.02,
+    "lon": -98.16,
+    "borders_states": [
+     384
+    ]
+   },
+   {
+    "id": 10595,
+    "lat": 42.93,
+    "lon": -96.82,
+    "borders_states": [
+     384,
+     391,
+     392
+    ]
+   },
+   {
+    "id": 12620,
+    "lat": 44.02,
+    "lon": -99.1
+   },
+   {
+    "id": 12667,
+    "lat": 43.87,
+    "lon": -96.96,
+    "borders_states": [
+     391
+    ]
+   }
+  ]
+ },
+ {
+  "id": 391,
+  "name": "Minnesota",
+  "file": "391-Minnesota.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 4919479,
+  "category": "large_city",
+  "centroid": [
+   45.78,
+   -94.0
+  ],
+  "neighbour_states": [
+   389,
+   390,
+   392,
+   394,
+   467,
+   682
+  ],
+  "provinces": [
+   {
+    "id": 1719,
+    "lat": 44.87,
+    "lon": -92.92,
+    "borders_states": [
+     394
+    ]
+   },
+   {
+    "id": 1734,
+    "lat": 46.57,
+    "lon": -92.26,
+    "borders_states": [
+     394,
+     682
+    ]
+   },
+   {
+    "id": 1866,
+    "lat": 44.54,
+    "lon": -93.71,
+    "name": "Minneapolis",
+    "vp": 5.0
+   },
+   {
+    "id": 1867,
+    "lat": 44.18,
+    "lon": -95.75,
+    "borders_states": [
+     390
+    ]
+   },
+   {
+    "id": 4664,
+    "lat": 43.56,
+    "lon": -91.96,
+    "borders_states": [
+     392,
+     394
+    ]
+   },
+   {
+    "id": 4807,
+    "lat": 43.76,
+    "lon": -93.15,
+    "borders_states": [
+     392,
+     394
+    ]
+   },
+   {
+    "id": 6752,
+    "lat": 45.29,
+    "lon": -94.6
+   },
+   {
+    "id": 6767,
+    "lat": 47.24,
+    "lon": -90.7,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 6827,
+    "lat": 45.47,
+    "lon": -93.64
+   },
+   {
+    "id": 7536,
+    "lat": 43.51,
+    "lon": -94.36,
+    "borders_states": [
+     392
+    ]
+   },
+   {
+    "id": 7896,
+    "lat": 47.45,
+    "lon": -92.52,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 9880,
+    "lat": 44.2,
+    "lon": -94.45
+   },
+   {
+    "id": 10618,
+    "lat": 45.86,
+    "lon": -95.83,
+    "borders_states": [
+     389
+    ]
+   },
+   {
+    "id": 10719,
+    "lat": 44.9,
+    "lon": -95.59,
+    "borders_states": [
+     389,
+     390
+    ]
+   },
+   {
+    "id": 11667,
+    "lat": 47.87,
+    "lon": -95.58,
+    "borders_states": [
+     389,
+     467,
+     682
+    ]
+   },
+   {
+    "id": 12550,
+    "lat": 45.78,
+    "lon": -92.65,
+    "borders_states": [
+     394
+    ]
+   },
+   {
+    "id": 12577,
+    "lat": 43.42,
+    "lon": -95.46,
+    "borders_states": [
+     390,
+     392
+    ]
+   },
+   {
+    "id": 12588,
+    "lat": 47.27,
+    "lon": -93.95,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 12597,
+    "lat": 46.93,
+    "lon": -95.74,
+    "borders_states": [
+     389
+    ]
+   },
+   {
+    "id": 12693,
+    "lat": 46.31,
+    "lon": -94.31
+   }
+  ]
+ },
+ {
+  "id": 392,
+  "name": "Iowa",
+  "file": "392-Iowa.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 2926324,
+  "category": "city",
+  "centroid": [
+   41.79,
+   -93.27
+  ],
+  "neighbour_states": [
+   373,
+   384,
+   390,
+   391,
+   394,
+   395
+  ],
+  "provinces": [
+   {
+    "id": 1586,
+    "lat": 40.63,
+    "lon": -92.44,
+    "borders_states": [
+     373
+    ]
+   },
+   {
+    "id": 1678,
+    "lat": 40.78,
+    "lon": -93.59,
+    "borders_states": [
+     373
+    ]
+   },
+   {
+    "id": 1770,
+    "lat": 41.5,
+    "lon": -94.16,
+    "name": "Des Moines",
+    "vp": 3.0
+   },
+   {
+    "id": 1831,
+    "lat": 42.88,
+    "lon": -91.69,
+    "borders_states": [
+     391,
+     394
+    ]
+   },
+   {
+    "id": 4691,
+    "lat": 42.77,
+    "lon": -93.88,
+    "borders_states": [
+     391
+    ]
+   },
+   {
+    "id": 7306,
+    "lat": 41.73,
+    "lon": -91.86
+   },
+   {
+    "id": 7458,
+    "lat": 41.31,
+    "lon": -92.54
+   },
+   {
+    "id": 7539,
+    "lat": 40.85,
+    "lon": -91.43,
+    "borders_states": [
+     373,
+     395
+    ]
+   },
+   {
+    "id": 9892,
+    "lat": 40.8,
+    "lon": -95.04,
+    "borders_states": [
+     373,
+     384
+    ]
+   },
+   {
+    "id": 9910,
+    "lat": 42.26,
+    "lon": -91.25,
+    "borders_states": [
+     394
+    ]
+   },
+   {
+    "id": 10478,
+    "lat": 41.69,
+    "lon": -90.59,
+    "borders_states": [
+     394,
+     395
+    ]
+   },
+   {
+    "id": 10666,
+    "lat": 41.84,
+    "lon": -95.35,
+    "borders_states": [
+     384
+    ]
+   },
+   {
+    "id": 11788,
+    "lat": 42.5,
+    "lon": -94.68,
+    "borders_states": [
+     391
+    ]
+   },
+   {
+    "id": 11971,
+    "lat": 42.59,
+    "lon": -92.8,
+    "borders_states": [
+     391
+    ]
+   },
+   {
+    "id": 12418,
+    "lat": 41.96,
+    "lon": -93.35
+   },
+   {
+    "id": 12646,
+    "lat": 42.63,
+    "lon": -95.77,
+    "borders_states": [
+     384,
+     390,
+     391
+    ]
+   }
+  ]
+ },
+ {
+  "id": 393,
+  "name": "Michigan",
+  "file": "393-Michigan.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 9938444,
+  "category": "metropolis",
+  "centroid": [
+   44.18,
+   -84.84
+  ],
+  "neighbour_states": [
+   261,
+   276,
+   394,
+   395,
+   396,
+   682
+  ],
+  "provinces": [
+   {
+    "id": 691,
+    "lat": 41.87,
+    "lon": -84.41,
+    "borders_states": [
+     261,
+     396
+    ]
+   },
+   {
+    "id": 695,
+    "lat": 41.9,
+    "lon": -85.25,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 709,
+    "lat": 45.5,
+    "lon": -87.24,
+    "borders_states": [
+     394
+    ]
+   },
+   {
+    "id": 751,
+    "lat": 45.89,
+    "lon": -86.17,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 3766,
+    "lat": 43.73,
+    "lon": -84.1
+   },
+   {
+    "id": 4854,
+    "lat": 46.05,
+    "lon": -87.88,
+    "borders_states": [
+     394,
+     682
+    ]
+   },
+   {
+    "id": 5205,
+    "lat": 45.96,
+    "lon": -84.77,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 6710,
+    "lat": 42.33,
+    "lon": -83.21,
+    "name": "Detroit",
+    "vp": 20.0,
+    "borders_states": [
+     261,
+     276
+    ]
+   },
+   {
+    "id": 6769,
+    "lat": 42.76,
+    "lon": -84.25
+   },
+   {
+    "id": 6782,
+    "lat": 43.31,
+    "lon": -85.01
+   },
+   {
+    "id": 7420,
+    "lat": 44.5,
+    "lon": -85.38
+   },
+   {
+    "id": 9684,
+    "lat": 42.48,
+    "lon": -84.84
+   },
+   {
+    "id": 9724,
+    "lat": 42.85,
+    "lon": -82.71,
+    "borders_states": [
+     276
+    ]
+   },
+   {
+    "id": 9746,
+    "lat": 43.48,
+    "lon": -82.97
+   },
+   {
+    "id": 9747,
+    "lat": 43.92,
+    "lon": -85.7
+   },
+   {
+    "id": 10233,
+    "lat": 45.06,
+    "lon": -84.47
+   },
+   {
+    "id": 10303,
+    "lat": 44.58,
+    "lon": -83.6
+   },
+   {
+    "id": 10599,
+    "lat": 46.27,
+    "lon": -88.82,
+    "borders_states": [
+     394,
+     682
+    ]
+   },
+   {
+    "id": 11641,
+    "lat": 42.01,
+    "lon": -86.06,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 11656,
+    "lat": 41.97,
+    "lon": -83.75,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 11669,
+    "lat": 43.03,
+    "lon": -83.6
+   },
+   {
+    "id": 11685,
+    "lat": 42.59,
+    "lon": -85.57
+   },
+   {
+    "id": 11714,
+    "lat": 43.29,
+    "lon": -85.83
+   },
+   {
+    "id": 11731,
+    "lat": 44.22,
+    "lon": -84.57
+   },
+   {
+    "id": 13155,
+    "lat": 44.22,
+    "lon": -85.71,
+    "type": "lake",
+    "borders_states": [
+     394,
+     395,
+     396,
+     682
+    ]
+   },
+   {
+    "id": 13199,
+    "lat": 43.41,
+    "lon": -82.08,
+    "type": "lake",
+    "borders_states": [
+     276
+    ]
+   },
+   {
+    "id": 13200,
+    "lat": 44.33,
+    "lon": -82.37,
+    "type": "lake",
+    "borders_states": [
+     276,
+     682
+    ]
+   },
+   {
+    "id": 13201,
+    "lat": 45.07,
+    "lon": -80.83,
+    "type": "lake",
+    "borders_states": [
+     276,
+     682
+    ]
+   }
+  ]
+ },
+ {
+  "id": 394,
+  "name": "Wisconsin",
+  "file": "394-Wisconsin.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 5363675,
+  "category": "large_city",
+  "centroid": [
+   44.33,
+   -89.75
+  ],
+  "neighbour_states": [
+   391,
+   392,
+   393,
+   395,
+   682
+  ],
+  "provinces": [
+   {
+    "id": 703,
+    "lat": 45.31,
+    "lon": -88.86,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 926,
+    "lat": 43.82,
+    "lon": -89.12
+   },
+   {
+    "id": 1560,
+    "lat": 42.62,
+    "lon": -89.99,
+    "borders_states": [
+     392,
+     395
+    ]
+   },
+   {
+    "id": 1760,
+    "lat": 43.93,
+    "lon": -90.3
+   },
+   {
+    "id": 1849,
+    "lat": 45.76,
+    "lon": -90.72,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 3699,
+    "lat": 44.73,
+    "lon": -92.07,
+    "borders_states": [
+     391
+    ]
+   },
+   {
+    "id": 4029,
+    "lat": 44.79,
+    "lon": -90.77
+   },
+   {
+    "id": 4166,
+    "lat": 44.33,
+    "lon": -87.72,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 4738,
+    "lat": 45.03,
+    "lon": -87.97,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 4834,
+    "lat": 44.51,
+    "lon": -88.87
+   },
+   {
+    "id": 7776,
+    "lat": 45.54,
+    "lon": -91.56,
+    "borders_states": [
+     391,
+     682
+    ]
+   },
+   {
+    "id": 7829,
+    "lat": 44.57,
+    "lon": -89.81
+   },
+   {
+    "id": 9657,
+    "lat": 43.61,
+    "lon": -88.05,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 9678,
+    "lat": 45.53,
+    "lon": -89.77,
+    "borders_states": [
+     393,
+     682
+    ]
+   },
+   {
+    "id": 10341,
+    "lat": 43.22,
+    "lon": -90.24,
+    "borders_states": [
+     391,
+     392
+    ]
+   },
+   {
+    "id": 10526,
+    "lat": 44.07,
+    "lon": -91.32,
+    "borders_states": [
+     391
+    ]
+   },
+   {
+    "id": 12357,
+    "lat": 42.82,
+    "lon": -88.12,
+    "name": "Milwaukee",
+    "vp": 5.0,
+    "borders_states": [
+     393,
+     395
+    ]
+   },
+   {
+    "id": 12456,
+    "lat": 42.99,
+    "lon": -89.01,
+    "borders_states": [
+     395
+    ]
+   }
+  ]
+ },
+ {
+  "id": 395,
+  "name": "Illinois",
+  "file": "395-Illinois.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 12419293,
+  "category": "metropolis",
+  "centroid": [
+   39.97,
+   -88.97
+  ],
+  "neighbour_states": [
+   369,
+   373,
+   392,
+   393,
+   394,
+   396
+  ],
+  "provinces": [
+   {
+    "id": 720,
+    "lat": 40.03,
+    "lon": -88.51
+   },
+   {
+    "id": 954,
+    "lat": 37.57,
+    "lon": -88.29,
+    "borders_states": [
+     369,
+     396
+    ]
+   },
+   {
+    "id": 1527,
+    "lat": 40.39,
+    "lon": -89.97
+   },
+   {
+    "id": 1604,
+    "lat": 38.46,
+    "lon": -87.94,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 1655,
+    "lat": 40.01,
+    "lon": -87.65,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 4508,
+    "lat": 39.26,
+    "lon": -87.77,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 4590,
+    "lat": 40.04,
+    "lon": -90.78,
+    "borders_states": [
+     373,
+     392
+    ]
+   },
+   {
+    "id": 6737,
+    "lat": 41.47,
+    "lon": -89.31
+   },
+   {
+    "id": 7611,
+    "lat": 40.85,
+    "lon": -88.74
+   },
+   {
+    "id": 7626,
+    "lat": 38.58,
+    "lon": -88.82
+   },
+   {
+    "id": 7831,
+    "lat": 37.55,
+    "lon": -89.07,
+    "borders_states": [
+     369,
+     373
+    ]
+   },
+   {
+    "id": 9450,
+    "lat": 41.88,
+    "lon": -87.63,
+    "name": "Chicago",
+    "vp": 30.0,
+    "borders_states": [
+     393,
+     394,
+     396
+    ]
+   },
+   {
+    "id": 9682,
+    "lat": 41.18,
+    "lon": -87.74,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 10339,
+    "lat": 40.91,
+    "lon": -89.59
+   },
+   {
+    "id": 10393,
+    "lat": 40.89,
+    "lon": -90.5,
+    "borders_states": [
+     392
+    ]
+   },
+   {
+    "id": 10457,
+    "lat": 39.31,
+    "lon": -89.89,
+    "borders_states": [
+     373
+    ]
+   },
+   {
+    "id": 10461,
+    "lat": 40.63,
+    "lon": -87.78,
+    "borders_states": [
+     396
+    ]
+   },
+   {
+    "id": 11589,
+    "lat": 41.99,
+    "lon": -89.66,
+    "borders_states": [
+     392,
+     394
+    ]
+   },
+   {
+    "id": 12305,
+    "lat": 38.38,
+    "lon": -89.71,
+    "borders_states": [
+     373
+    ]
+   },
+   {
+    "id": 12312,
+    "lat": 42.17,
+    "lon": -88.55,
+    "borders_states": [
+     394
+    ]
+   },
+   {
+    "id": 12365,
+    "lat": 39.42,
+    "lon": -90.64,
+    "borders_states": [
+     373
+    ]
+   },
+   {
+    "id": 12368,
+    "lat": 41.58,
+    "lon": -88.4
+   },
+   {
+    "id": 12497,
+    "lat": 40.09,
+    "lon": -89.39
+   },
+   {
+    "id": 12697,
+    "lat": 39.38,
+    "lon": -88.94
+   }
+  ]
+ },
+ {
+  "id": 396,
+  "name": "Indiana",
+  "file": "396-Indiana.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 6080485,
+  "category": "large_city",
+  "centroid": [
+   39.77,
+   -86.07
+  ],
+  "neighbour_states": [
+   261,
+   369,
+   393,
+   395
+  ],
+  "provinces": [
+   {
+    "id": 870,
+    "lat": 40.85,
+    "lon": -85.02,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 1595,
+    "lat": 39.47,
+    "lon": -85.91,
+    "name": "Indianapolis",
+    "vp": 5.0
+   },
+   {
+    "id": 1881,
+    "lat": 38.28,
+    "lon": -85.74,
+    "borders_states": [
+     369
+    ]
+   },
+   {
+    "id": 4437,
+    "lat": 40.67,
+    "lon": -86.91,
+    "borders_states": [
+     395
+    ]
+   },
+   {
+    "id": 4527,
+    "lat": 38.95,
+    "lon": -85.0,
+    "borders_states": [
+     261,
+     369
+    ]
+   },
+   {
+    "id": 4531,
+    "lat": 39.84,
+    "lon": -86.76,
+    "borders_states": [
+     395
+    ]
+   },
+   {
+    "id": 6713,
+    "lat": 41.39,
+    "lon": -86.85,
+    "borders_states": [
+     393,
+     395
+    ]
+   },
+   {
+    "id": 7551,
+    "lat": 40.18,
+    "lon": -86.0
+   },
+   {
+    "id": 9653,
+    "lat": 40.89,
+    "lon": -86.03
+   },
+   {
+    "id": 9654,
+    "lat": 41.42,
+    "lon": -86.02,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 9796,
+    "lat": 39.66,
+    "lon": -85.05,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 9810,
+    "lat": 40.31,
+    "lon": -85.18,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 10448,
+    "lat": 38.86,
+    "lon": -85.92
+   },
+   {
+    "id": 11621,
+    "lat": 38.19,
+    "lon": -86.54,
+    "borders_states": [
+     369
+    ]
+   },
+   {
+    "id": 11635,
+    "lat": 38.13,
+    "lon": -87.26,
+    "borders_states": [
+     369,
+     395
+    ]
+   },
+   {
+    "id": 11637,
+    "lat": 41.38,
+    "lon": -85.13,
+    "borders_states": [
+     261,
+     393
+    ]
+   },
+   {
+    "id": 12437,
+    "lat": 39.06,
+    "lon": -86.86,
+    "borders_states": [
+     395
+    ]
+   }
+  ]
+ },
+ {
+  "id": 463,
+  "name": "Alaska",
+  "file": "463-Alaska.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "SOV"
+  ],
+  "manpower": 626932,
+  "category": "rural",
+  "centroid": [
+   60.71,
+   -153.77
+  ],
+  "neighbour_states": [
+   471,
+   864
+  ],
+  "provinces": [
+   {
+    "id": 1135,
+    "lat": 53.57,
+    "lon": -177.4
+   },
+   {
+    "id": 1830,
+    "lat": 60.57,
+    "lon": -158.95
+   },
+   {
+    "id": 4833,
+    "lat": 59.97,
+    "lon": -150.62
+   },
+   {
+    "id": 4848,
+    "lat": 60.87,
+    "lon": -143.93,
+    "borders_states": [
+     864
+    ]
+   },
+   {
+    "id": 7855,
+    "lat": 62.29,
+    "lon": -162.93
+   },
+   {
+    "id": 7884,
+    "lat": 57.45,
+    "lon": -154.25
+   },
+   {
+    "id": 10679,
+    "lat": 61.28,
+    "lon": -153.79
+   },
+   {
+    "id": 10694,
+    "lat": 56.07,
+    "lon": -162.24
+   },
+   {
+    "id": 10707,
+    "lat": 59.44,
+    "lon": -139.66,
+    "borders_states": [
+     864
+    ]
+   },
+   {
+    "id": 12661,
+    "lat": 58.69,
+    "lon": -156.53
+   },
+   {
+    "id": 13069,
+    "lat": 62.52,
+    "lon": -147.82,
+    "borders_states": [
+     864
+    ]
+   },
+   {
+    "id": 13090,
+    "lat": 54.47,
+    "lon": -168.9,
+    "name": "Unalaska",
+    "vp": 1.0
+   },
+   {
+    "id": 13091,
+    "lat": 61.22,
+    "lon": -149.9,
+    "name": "Anchorage",
+    "vp": 3.0
+   },
+   {
+    "id": 13202,
+    "lat": 55.59,
+    "lon": -132.76,
+    "borders_states": [
+     471
+    ]
+   },
+   {
+    "id": 13203,
+    "lat": 57.84,
+    "lon": -135.55,
+    "borders_states": [
+     471,
+     864
+    ]
+   }
+  ]
+ },
+ {
+  "id": 464,
+  "name": "Nova Scotia",
+  "file": "464-Nova Scotia.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 1073704,
+  "category": "large_town",
+  "centroid": [
+   45.85,
+   -63.8
+  ],
+  "neighbour_states": [
+   465
+  ],
+  "provinces": [
+   {
+    "id": 1354,
+    "lat": 44.95,
+    "lon": -65.42
+   },
+   {
+    "id": 4360,
+    "lat": 47.02,
+    "lon": -63.78
+   },
+   {
+    "id": 4430,
+    "lat": 46.95,
+    "lon": -61.43
+   },
+   {
+    "id": 4623,
+    "lat": 44.37,
+    "lon": -66.07
+   },
+   {
+    "id": 7304,
+    "lat": 46.15,
+    "lon": -64.25,
+    "borders_states": [
+     465
+    ]
+   },
+   {
+    "id": 7361,
+    "lat": 45.38,
+    "lon": -64.55,
+    "name": "Halifax",
+    "vp": 3.0
+   },
+   {
+    "id": 7644,
+    "lat": 45.62,
+    "lon": -63.47
+   },
+   {
+    "id": 10244,
+    "lat": 45.98,
+    "lon": -62.48
+   }
+  ]
+ },
+ {
+  "id": 465,
+  "name": "New Brunswick",
+  "file": "465-New Brunswick.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 814595,
+  "category": "town",
+  "centroid": [
+   47.15,
+   -66.82
+  ],
+  "neighbour_states": [
+   357,
+   464,
+   468
+  ],
+  "provinces": [
+   {
+    "id": 634,
+    "lat": 46.93,
+    "lon": -67.57,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 1424,
+    "lat": 46.71,
+    "lon": -65.27,
+    "name": "Moncton",
+    "borders_states": [
+     464
+    ]
+   },
+   {
+    "id": 4285,
+    "lat": 46.18,
+    "lon": -66.12,
+    "name": "Saint John"
+   },
+   {
+    "id": 4342,
+    "lat": 46.05,
+    "lon": -67.43,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 4362,
+    "lat": 48.07,
+    "lon": -68.24,
+    "borders_states": [
+     357,
+     468
+    ]
+   },
+   {
+    "id": 4432,
+    "lat": 47.87,
+    "lon": -65.8
+   },
+   {
+    "id": 7379,
+    "lat": 48.04,
+    "lon": -67.0,
+    "borders_states": [
+     468
+    ]
+   },
+   {
+    "id": 12289,
+    "lat": 47.0,
+    "lon": -66.54
+   }
+  ]
+ },
+ {
+  "id": 466,
+  "name": "Nord du Quebec",
+  "file": "466-Quebec.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 40834,
+  "category": "pastoral",
+  "centroid": [
+   59.01,
+   -73.09
+  ],
+  "neighbour_states": [
+   332,
+   860,
+   861,
+   862,
+   863
+  ],
+  "provinces": [
+   {
+    "id": 490,
+    "lat": 52.59,
+    "lon": -77.45,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 1712,
+    "lat": 64.17,
+    "lon": -81.49
+   },
+   {
+    "id": 3208,
+    "lat": 59.0,
+    "lon": -67.46,
+    "borders_states": [
+     332,
+     860,
+     861
+    ]
+   },
+   {
+    "id": 3691,
+    "lat": 67.7,
+    "lon": -68.65
+   },
+   {
+    "id": 6740,
+    "lat": 52.68,
+    "lon": -74.67,
+    "borders_states": [
+     861,
+     862
+    ]
+   },
+   {
+    "id": 7364,
+    "lat": 60.09,
+    "lon": -71.49
+   },
+   {
+    "id": 7813,
+    "lat": 68.48,
+    "lon": -66.06
+   },
+   {
+    "id": 10176,
+    "lat": 55.26,
+    "lon": -74.51,
+    "borders_states": [
+     861
+    ]
+   },
+   {
+    "id": 12147,
+    "lat": 61.63,
+    "lon": -75.4
+   },
+   {
+    "id": 13162,
+    "lat": 51.9,
+    "lon": -73.38,
+    "type": "lake",
+    "borders_states": [
+     861,
+     862,
+     863
+    ]
+   },
+   {
+    "id": 13166,
+    "lat": 56.52,
+    "lon": -73.11,
+    "type": "lake",
+    "borders_states": [
+     861
+    ]
+   },
+   {
+    "id": 13181,
+    "lat": 54.79,
+    "lon": -76.84,
+    "type": "lake"
+   },
+   {
+    "id": 13184,
+    "lat": 57.61,
+    "lon": -74.68,
+    "type": "lake"
+   },
+   {
+    "id": 13186,
+    "lat": 58.79,
+    "lon": -75.34,
+    "type": "lake"
+   },
+   {
+    "id": 13196,
+    "lat": 56.04,
+    "lon": -76.71
+   },
+   {
+    "id": 13314,
+    "lat": 56.78,
+    "lon": -79.26
+   }
+  ]
+ },
+ {
+  "id": 467,
+  "name": "Manitoba",
+  "file": "467-Manitoba.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 1063100,
+  "category": "city",
+  "centroid": [
+   50.51,
+   -98.48
+  ],
+  "neighbour_states": [
+   389,
+   391,
+   469,
+   682,
+   865,
+   866,
+   867
+  ],
+  "provinces": [
+   {
+    "id": 1848,
+    "lat": 48.76,
+    "lon": -100.59,
+    "borders_states": [
+     389,
+     469
+    ]
+   },
+   {
+    "id": 1873,
+    "lat": 48.69,
+    "lon": -95.9,
+    "borders_states": [
+     389,
+     391,
+     682
+    ]
+   },
+   {
+    "id": 3721,
+    "lat": 49.84,
+    "lon": -100.48,
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 4218,
+    "lat": 50.88,
+    "lon": -100.16,
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 4426,
+    "lat": 49.84,
+    "lon": -95.61,
+    "borders_states": [
+     682,
+     866,
+     867
+    ]
+   },
+   {
+    "id": 4790,
+    "lat": 48.8,
+    "lon": -97.58,
+    "borders_states": [
+     389
+    ]
+   },
+   {
+    "id": 4872,
+    "lat": 49.9,
+    "lon": -97.14,
+    "name": "Winnipeg",
+    "vp": 5.0
+   },
+   {
+    "id": 5119,
+    "lat": 51.3,
+    "lon": -98.12
+   },
+   {
+    "id": 12145,
+    "lat": 48.75,
+    "lon": -99.22,
+    "borders_states": [
+     389
+    ]
+   },
+   {
+    "id": 12636,
+    "lat": 52.21,
+    "lon": -100.79,
+    "borders_states": [
+     469,
+     865,
+     867
+    ]
+   },
+   {
+    "id": 12688,
+    "lat": 49.8,
+    "lon": -98.88
+   },
+   {
+    "id": 13163,
+    "lat": 52.08,
+    "lon": -98.29,
+    "type": "lake",
+    "borders_states": [
+     867
+    ]
+   }
+  ]
+ },
+ {
+  "id": 468,
+  "name": "Saint Lawrence",
+  "file": "468-Nunavut.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 6418672,
+  "category": "large_city",
+  "centroid": [
+   47.47,
+   -70.59
+  ],
+  "neighbour_states": [
+   276,
+   357,
+   358,
+   465,
+   862,
+   863
+  ],
+  "provinces": [
+   {
+    "id": 1284,
+    "lat": 47.51,
+    "lon": -70.28,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 4305,
+    "lat": 49.18,
+    "lon": -67.27,
+    "borders_states": [
+     465
+    ]
+   },
+   {
+    "id": 4345,
+    "lat": 46.06,
+    "lon": -74.19,
+    "name": "Montréal",
+    "vp": 20.0,
+    "borders_states": [
+     276,
+     862
+    ]
+   },
+   {
+    "id": 4417,
+    "lat": 46.16,
+    "lon": -72.78
+   },
+   {
+    "id": 4422,
+    "lat": 49.47,
+    "lon": -65.73
+   },
+   {
+    "id": 7289,
+    "lat": 45.51,
+    "lon": -72.82,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 7291,
+    "lat": 47.41,
+    "lon": -72.74,
+    "borders_states": [
+     863
+    ]
+   },
+   {
+    "id": 7345,
+    "lat": 45.49,
+    "lon": -73.74,
+    "borders_states": [
+     276,
+     357,
+     358
+    ]
+   },
+   {
+    "id": 7433,
+    "lat": 46.95,
+    "lon": -71.23
+   },
+   {
+    "id": 9601,
+    "lat": 47.11,
+    "lon": -73.45,
+    "borders_states": [
+     862,
+     863
+    ]
+   },
+   {
+    "id": 10174,
+    "lat": 46.33,
+    "lon": -71.0,
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 10230,
+    "lat": 45.7,
+    "lon": -71.75,
+    "name": "Sherbrooke",
+    "borders_states": [
+     357
+    ]
+   },
+   {
+    "id": 10320,
+    "lat": 46.54,
+    "lon": -71.99
+   },
+   {
+    "id": 12149,
+    "lat": 47.51,
+    "lon": -71.56,
+    "name": "Québec",
+    "vp": 3.0,
+    "borders_states": [
+     863
+    ]
+   },
+   {
+    "id": 12291,
+    "lat": 48.6,
+    "lon": -68.94,
+    "borders_states": [
+     357,
+     465
+    ]
+   }
+  ]
+ },
+ {
+  "id": 469,
+  "name": "Saskatchewan",
+  "file": "469-Saskatchewan.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 977577,
+  "category": "town",
+  "centroid": [
+   51.22,
+   -105.92
+  ],
+  "neighbour_states": [
+   388,
+   389,
+   467,
+   470,
+   865
+  ],
+  "provinces": [
+   {
+    "id": 736,
+    "lat": 52.86,
+    "lon": -106.21,
+    "borders_states": [
+     865
+    ]
+   },
+   {
+    "id": 1788,
+    "lat": 49.14,
+    "lon": -102.02,
+    "borders_states": [
+     389,
+     467
+    ]
+   },
+   {
+    "id": 3481,
+    "lat": 51.89,
+    "lon": -104.82
+   },
+   {
+    "id": 3498,
+    "lat": 54.07,
+    "lon": -108.97,
+    "borders_states": [
+     470,
+     865
+    ]
+   },
+   {
+    "id": 3769,
+    "lat": 49.21,
+    "lon": -106.83,
+    "borders_states": [
+     388
+    ]
+   },
+   {
+    "id": 4739,
+    "lat": 51.75,
+    "lon": -106.82,
+    "name": "Saskatoon"
+   },
+   {
+    "id": 9669,
+    "lat": 52.25,
+    "lon": -109.06,
+    "borders_states": [
+     470
+    ]
+   },
+   {
+    "id": 10552,
+    "lat": 49.52,
+    "lon": -108.99,
+    "borders_states": [
+     388,
+     470
+    ]
+   },
+   {
+    "id": 10611,
+    "lat": 50.23,
+    "lon": -105.69
+   },
+   {
+    "id": 10656,
+    "lat": 52.65,
+    "lon": -102.58,
+    "borders_states": [
+     467,
+     865
+    ]
+   },
+   {
+    "id": 11440,
+    "lat": 50.91,
+    "lon": -108.44,
+    "borders_states": [
+     470
+    ]
+   },
+   {
+    "id": 12593,
+    "lat": 50.99,
+    "lon": -102.11,
+    "borders_states": [
+     467
+    ]
+   },
+   {
+    "id": 12603,
+    "lat": 49.16,
+    "lon": -103.83,
+    "borders_states": [
+     388,
+     389
+    ]
+   },
+   {
+    "id": 12663,
+    "lat": 50.71,
+    "lon": -103.86
+   }
+  ]
+ },
+ {
+  "id": 470,
+  "name": "Alberta",
+  "file": "470-Alberta.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 2982690,
+  "category": "large_city",
+  "centroid": [
+   54.06,
+   -114.15
+  ],
+  "neighbour_states": [
+   388,
+   469,
+   471,
+   472,
+   473,
+   865
+  ],
+  "provinces": [
+   {
+    "id": 515,
+    "lat": 53.01,
+    "lon": -112.53
+   },
+   {
+    "id": 1262,
+    "lat": 49.41,
+    "lon": -113.31,
+    "borders_states": [
+     388,
+     473
+    ]
+   },
+   {
+    "id": 1347,
+    "lat": 52.7,
+    "lon": -117.99,
+    "borders_states": [
+     471,
+     473
+    ]
+   },
+   {
+    "id": 1763,
+    "lat": 54.73,
+    "lon": -118.77,
+    "borders_states": [
+     471,
+     472
+    ]
+   },
+   {
+    "id": 1804,
+    "lat": 54.24,
+    "lon": -111.12,
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 3010,
+    "lat": 53.84,
+    "lon": -114.08,
+    "name": "Edmonton",
+    "vp": 3.0
+   },
+   {
+    "id": 3706,
+    "lat": 50.91,
+    "lon": -113.53
+   },
+   {
+    "id": 4765,
+    "lat": 51.04,
+    "lon": -115.49,
+    "borders_states": [
+     473
+    ]
+   },
+   {
+    "id": 6726,
+    "lat": 52.56,
+    "lon": -110.72,
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 6754,
+    "lat": 53.07,
+    "lon": -116.16
+   },
+   {
+    "id": 7348,
+    "lat": 56.69,
+    "lon": -111.11,
+    "borders_states": [
+     469,
+     472,
+     865
+    ]
+   },
+   {
+    "id": 7718,
+    "lat": 49.54,
+    "lon": -110.98,
+    "borders_states": [
+     388,
+     469
+    ]
+   },
+   {
+    "id": 7766,
+    "lat": 56.44,
+    "lon": -115.66,
+    "borders_states": [
+     472
+    ]
+   },
+   {
+    "id": 7787,
+    "lat": 52.44,
+    "lon": -114.35
+   },
+   {
+    "id": 10684,
+    "lat": 51.34,
+    "lon": -111.74,
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 12166,
+    "lat": 54.96,
+    "lon": -113.33
+   },
+   {
+    "id": 12534,
+    "lat": 56.89,
+    "lon": -113.31,
+    "borders_states": [
+     472
+    ]
+   }
+  ]
+ },
+ {
+  "id": 471,
+  "name": "Upper British Columbia",
+  "file": "471-Northwestern Canada.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 239722,
+  "category": "rural",
+  "centroid": [
+   56.62,
+   -127.4
+  ],
+  "neighbour_states": [
+   463,
+   470,
+   472,
+   473,
+   864
+  ],
+  "provinces": [
+   {
+    "id": 917,
+    "lat": 56.75,
+    "lon": -124.42,
+    "borders_states": [
+     472
+    ]
+   },
+   {
+    "id": 1411,
+    "lat": 54.86,
+    "lon": -121.63,
+    "borders_states": [
+     470,
+     472,
+     473
+    ]
+   },
+   {
+    "id": 1799,
+    "lat": 54.82,
+    "lon": -129.71,
+    "borders_states": [
+     463
+    ]
+   },
+   {
+    "id": 1872,
+    "lat": 58.16,
+    "lon": -131.59,
+    "borders_states": [
+     463,
+     864
+    ]
+   },
+   {
+    "id": 4678,
+    "lat": 58.86,
+    "lon": -126.68,
+    "borders_states": [
+     472,
+     864
+    ]
+   },
+   {
+    "id": 5403,
+    "lat": 57.25,
+    "lon": -129.39,
+    "type": "lake"
+   },
+   {
+    "id": 10548,
+    "lat": 53.73,
+    "lon": -127.95,
+    "borders_states": [
+     473
+    ]
+   },
+   {
+    "id": 12508,
+    "lat": 56.33,
+    "lon": -127.4
+   },
+   {
+    "id": 12571,
+    "lat": 54.47,
+    "lon": -124.67,
+    "borders_states": [
+     473
+    ]
+   }
+  ]
+ },
+ {
+  "id": 472,
+  "name": "Northwest Territories",
+  "file": "472-Northwest Territories.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 50043,
+  "category": "wasteland",
+  "centroid": [
+   61.16,
+   -116.08
+  ],
+  "neighbour_states": [
+   470,
+   471,
+   683,
+   864,
+   865
+  ],
+  "provinces": [
+   {
+    "id": 2407,
+    "lat": 59.95,
+    "lon": -115.65,
+    "borders_states": [
+     470
+    ]
+   },
+   {
+    "id": 2976,
+    "lat": 60.24,
+    "lon": -109.07,
+    "type": "lake"
+   },
+   {
+    "id": 4272,
+    "lat": 63.24,
+    "lon": -110.28,
+    "type": "lake"
+   },
+   {
+    "id": 7696,
+    "lat": 62.91,
+    "lon": -119.41
+   },
+   {
+    "id": 7830,
+    "lat": 60.08,
+    "lon": -121.43,
+    "borders_states": [
+     471,
+     864
+    ]
+   },
+   {
+    "id": 7858,
+    "lat": 57.44,
+    "lon": -120.15,
+    "borders_states": [
+     470,
+     471
+    ]
+   },
+   {
+    "id": 7901,
+    "lat": 61.74,
+    "lon": -105.89,
+    "borders_states": [
+     683,
+     865
+    ]
+   },
+   {
+    "id": 8653,
+    "lat": 62.12,
+    "lon": -113.97,
+    "type": "lake"
+   },
+   {
+    "id": 10527,
+    "lat": 63.43,
+    "lon": -112.51
+   },
+   {
+    "id": 10703,
+    "lat": 62.48,
+    "lon": -126.02,
+    "borders_states": [
+     864
+    ]
+   },
+   {
+    "id": 13075,
+    "lat": 60.95,
+    "lon": -110.79,
+    "borders_states": [
+     470
+    ]
+   },
+   {
+    "id": 13167,
+    "lat": 59.55,
+    "lon": -109.33,
+    "type": "lake",
+    "borders_states": [
+     470,
+     865
+    ]
+   },
+   {
+    "id": 13189,
+    "lat": 60.49,
+    "lon": -103.7,
+    "type": "lake"
+   },
+   {
+    "id": 13192,
+    "lat": 58.61,
+    "lon": -112.12,
+    "type": "lake",
+    "borders_states": [
+     470
+    ]
+   }
+  ]
+ },
+ {
+  "id": 473,
+  "name": "British Columbia",
+  "file": "473-British Columbia.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 3042991,
+  "category": "large_city",
+  "centroid": [
+   51.09,
+   -121.81
+  ],
+  "neighbour_states": [
+   386,
+   387,
+   388,
+   470,
+   471
+  ],
+  "provinces": [
+   {
+    "id": 1323,
+    "lat": 52.66,
+    "lon": -123.55,
+    "borders_states": [
+     471
+    ]
+   },
+   {
+    "id": 1393,
+    "lat": 49.85,
+    "lon": -123.77
+   },
+   {
+    "id": 1408,
+    "lat": 49.28,
+    "lon": -123.12,
+    "name": "Vancouver",
+    "vp": 15.0
+   },
+   {
+    "id": 1737,
+    "lat": 51.76,
+    "lon": -121.57
+   },
+   {
+    "id": 1858,
+    "lat": 50.19,
+    "lon": -122.57
+   },
+   {
+    "id": 4343,
+    "lat": 50.83,
+    "lon": -119.38
+   },
+   {
+    "id": 4385,
+    "lat": 50.0,
+    "lon": -124.83
+   },
+   {
+    "id": 4413,
+    "lat": 49.4,
+    "lon": -122.25
+   },
+   {
+    "id": 4428,
+    "lat": 48.86,
+    "lon": -122.93,
+    "borders_states": [
+     386
+    ]
+   },
+   {
+    "id": 4870,
+    "lat": 52.64,
+    "lon": -125.18,
+    "borders_states": [
+     471
+    ]
+   },
+   {
+    "id": 4877,
+    "lat": 51.1,
+    "lon": -117.63,
+    "borders_states": [
+     470
+    ]
+   },
+   {
+    "id": 7677,
+    "lat": 49.36,
+    "lon": -119.05,
+    "borders_states": [
+     386
+    ]
+   },
+   {
+    "id": 7753,
+    "lat": 49.26,
+    "lon": -120.87,
+    "borders_states": [
+     386
+    ]
+   },
+   {
+    "id": 7761,
+    "lat": 52.34,
+    "lon": -119.75,
+    "borders_states": [
+     470,
+     471
+    ]
+   },
+   {
+    "id": 7820,
+    "lat": 49.51,
+    "lon": -115.67,
+    "borders_states": [
+     387,
+     388,
+     470
+    ]
+   },
+   {
+    "id": 7853,
+    "lat": 50.39,
+    "lon": -121.03
+   },
+   {
+    "id": 10228,
+    "lat": 52.18,
+    "lon": -127.4,
+    "borders_states": [
+     471
+    ]
+   },
+   {
+    "id": 10258,
+    "lat": 51.25,
+    "lon": -125.39
+   },
+   {
+    "id": 10273,
+    "lat": 51.07,
+    "lon": -123.39
+   },
+   {
+    "id": 10644,
+    "lat": 53.2,
+    "lon": -122.05,
+    "borders_states": [
+     471
+    ]
+   },
+   {
+    "id": 12231,
+    "lat": 50.85,
+    "lon": -126.79
+   },
+   {
+    "id": 12578,
+    "lat": 49.48,
+    "lon": -117.38,
+    "borders_states": [
+     386,
+     387
+    ]
+   }
+  ]
+ },
+ {
+  "id": 476,
+  "name": "Oaxaca",
+  "file": "476-Oaxaca.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 6830594,
+  "category": "large_town",
+  "centroid": [
+   17.26,
+   -95.85
+  ],
+  "neighbour_states": [
+   475,
+   477,
+   485
+  ],
+  "provinces": [
+   {
+    "id": 2021,
+    "lat": 17.86,
+    "lon": -93.78,
+    "name": "Villahermosa",
+    "vp": 3.0,
+    "borders_states": [
+     475
+    ]
+   },
+   {
+    "id": 8236,
+    "lat": 16.75,
+    "lon": -95.07,
+    "borders_states": [
+     475
+    ]
+   },
+   {
+    "id": 10773,
+    "lat": 17.61,
+    "lon": -97.04,
+    "borders_states": [
+     477,
+     485
+    ]
+   },
+   {
+    "id": 10889,
+    "lat": 17.94,
+    "lon": -95.25,
+    "name": "Coatzacoalcos",
+    "vp": 1.0,
+    "borders_states": [
+     477
+    ]
+   },
+   {
+    "id": 12712,
+    "lat": 16.51,
+    "lon": -97.02,
+    "borders_states": [
+     485
+    ]
+   }
+  ]
+ },
+ {
+  "id": 477,
+  "name": "Veracruz",
+  "file": "477-Veracruz.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 11448307,
+  "category": "city",
+  "centroid": [
+   19.6,
+   -97.54
+  ],
+  "neighbour_states": [
+   277,
+   476,
+   479,
+   485
+  ],
+  "provinces": [
+   {
+    "id": 8079,
+    "lat": 21.18,
+    "lon": -98.01,
+    "borders_states": [
+     277,
+     479
+    ]
+   },
+   {
+    "id": 8089,
+    "lat": 18.77,
+    "lon": -98.04,
+    "name": "Puebla",
+    "vp": 10.0,
+    "borders_states": [
+     277,
+     476,
+     485
+    ]
+   },
+   {
+    "id": 10732,
+    "lat": 19.92,
+    "lon": -97.29,
+    "borders_states": [
+     277
+    ]
+   },
+   {
+    "id": 12810,
+    "lat": 18.84,
+    "lon": -96.43,
+    "name": "Veracruz",
+    "vp": 5.0,
+    "borders_states": [
+     476
+    ]
+   }
+  ]
+ },
+ {
+  "id": 478,
+  "name": "Jalisco",
+  "file": "478-Nayarit.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 9429099,
+  "category": "large_city",
+  "centroid": [
+   21.09,
+   -103.61
+  ],
+  "neighbour_states": [
+   277,
+   479,
+   481,
+   485
+  ],
+  "provinces": [
+   {
+    "id": 2051,
+    "lat": 19.53,
+    "lon": -103.94,
+    "borders_states": [
+     485
+    ]
+   },
+   {
+    "id": 5052,
+    "lat": 21.15,
+    "lon": -102.69,
+    "borders_states": [
+     277,
+     485
+    ]
+   },
+   {
+    "id": 10172,
+    "lat": 22.25,
+    "lon": -102.29,
+    "name": "Aguascalientes",
+    "vp": 5.0,
+    "borders_states": [
+     277,
+     479,
+     481
+    ]
+   },
+   {
+    "id": 12746,
+    "lat": 20.89,
+    "lon": -104.77,
+    "name": "Puerto Vallarta",
+    "vp": 1.0
+   },
+   {
+    "id": 12873,
+    "lat": 22.16,
+    "lon": -104.29,
+    "borders_states": [
+     481
+    ]
+   },
+   {
+    "id": 13089,
+    "lat": 20.33,
+    "lon": -103.4,
+    "name": "Guadalajara",
+    "vp": 10.0,
+    "borders_states": [
+     485
+    ]
+   }
+  ]
+ },
+ {
+  "id": 479,
+  "name": "Tamaulipas",
+  "file": "479-Tamaulipas.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 4167582,
+  "category": "large_town",
+  "centroid": [
+   23.53,
+   -99.44
+  ],
+  "neighbour_states": [
+   277,
+   375,
+   477,
+   478,
+   480,
+   481
+  ],
+  "provinces": [
+   {
+    "id": 1952,
+    "lat": 23.38,
+    "lon": -101.21,
+    "borders_states": [
+     478,
+     480,
+     481
+    ]
+   },
+   {
+    "id": 2083,
+    "lat": 23.04,
+    "lon": -99.67
+   },
+   {
+    "id": 4956,
+    "lat": 22.12,
+    "lon": -100.28,
+    "name": "San Luis Potosi",
+    "vp": 10.0,
+    "borders_states": [
+     277,
+     478
+    ]
+   },
+   {
+    "id": 5015,
+    "lat": 25.24,
+    "lon": -98.02,
+    "name": "Matamoros",
+    "vp": 5.0,
+    "borders_states": [
+     375,
+     480
+    ]
+   },
+   {
+    "id": 5021,
+    "lat": 22.39,
+    "lon": -98.47,
+    "borders_states": [
+     277,
+     477
+    ]
+   },
+   {
+    "id": 12721,
+    "lat": 24.37,
+    "lon": -100.14,
+    "borders_states": [
+     480
+    ]
+   },
+   {
+    "id": 13088,
+    "lat": 23.95,
+    "lon": -98.47,
+    "borders_states": [
+     480
+    ]
+   }
+  ]
+ },
+ {
+  "id": 480,
+  "name": "Coahuila",
+  "file": "480-Coahuila.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 7017211,
+  "category": "large_city",
+  "centroid": [
+   26.66,
+   -101.53
+  ],
+  "neighbour_states": [
+   375,
+   479,
+   481,
+   482
+  ],
+  "provinces": [
+   {
+    "id": 2060,
+    "lat": 27.17,
+    "lon": -100.43,
+    "name": "Nuevo Laredo",
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 2104,
+    "lat": 28.64,
+    "lon": -102.44,
+    "borders_states": [
+     375,
+     482
+    ]
+   },
+   {
+    "id": 7973,
+    "lat": 25.52,
+    "lon": -102.15,
+    "borders_states": [
+     479,
+     481
+    ]
+   },
+   {
+    "id": 10738,
+    "lat": 24.27,
+    "lon": -101.98,
+    "borders_states": [
+     479,
+     481
+    ]
+   },
+   {
+    "id": 10746,
+    "lat": 27.07,
+    "lon": -102.04
+   },
+   {
+    "id": 10769,
+    "lat": 25.77,
+    "lon": -99.28,
+    "name": "Reynosa",
+    "vp": 5.0,
+    "borders_states": [
+     375,
+     479
+    ]
+   },
+   {
+    "id": 10800,
+    "lat": 26.91,
+    "lon": -103.27,
+    "borders_states": [
+     481,
+     482
+    ]
+   },
+   {
+    "id": 12811,
+    "lat": 28.63,
+    "lon": -101.09,
+    "name": "Piedras Negras",
+    "vp": 1.0,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 12835,
+    "lat": 25.74,
+    "lon": -100.53,
+    "name": "Monterrey",
+    "vp": 10.0,
+    "borders_states": [
+     479
+    ]
+   }
+  ]
+ },
+ {
+  "id": 481,
+  "name": "Durango",
+  "file": "481-Sinaloa.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 4639115,
+  "category": "town",
+  "centroid": [
+   24.65,
+   -105.5
+  ],
+  "neighbour_states": [
+   478,
+   479,
+   480,
+   482,
+   483
+  ],
+  "provinces": [
+   {
+    "id": 1945,
+    "lat": 25.93,
+    "lon": -108.29,
+    "borders_states": [
+     482,
+     483
+    ]
+   },
+   {
+    "id": 4946,
+    "lat": 24.35,
+    "lon": -105.71
+   },
+   {
+    "id": 7921,
+    "lat": 23.66,
+    "lon": -104.93,
+    "name": "Durango",
+    "vp": 10.0,
+    "borders_states": [
+     478
+    ]
+   },
+   {
+    "id": 8003,
+    "lat": 25.83,
+    "lon": -104.39,
+    "borders_states": [
+     480,
+     482
+    ]
+   },
+   {
+    "id": 8057,
+    "lat": 24.65,
+    "lon": -107.13,
+    "name": "Culiacán",
+    "borders_states": [
+     482
+    ]
+   },
+   {
+    "id": 10853,
+    "lat": 24.55,
+    "lon": -103.85,
+    "borders_states": [
+     480
+    ]
+   },
+   {
+    "id": 10871,
+    "lat": 25.44,
+    "lon": -105.86,
+    "borders_states": [
+     482
+    ]
+   },
+   {
+    "id": 10895,
+    "lat": 23.04,
+    "lon": -105.73,
+    "name": "Mazatlán",
+    "borders_states": [
+     478
+    ]
+   },
+   {
+    "id": 12804,
+    "lat": 23.29,
+    "lon": -103.4,
+    "borders_states": [
+     478,
+     479,
+     480
+    ]
+   }
+  ]
+ },
+ {
+  "id": 482,
+  "name": "Chihuahua",
+  "file": "482-Chihuahua.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 3052907,
+  "category": "city",
+  "centroid": [
+   28.72,
+   -106.39
+  ],
+  "neighbour_states": [
+   375,
+   376,
+   480,
+   481,
+   483
+  ],
+  "provinces": [
+   {
+    "id": 2037,
+    "lat": 29.53,
+    "lon": -105.38,
+    "borders_states": [
+     375
+    ]
+   },
+   {
+    "id": 4898,
+    "lat": 26.6,
+    "lon": -107.12,
+    "borders_states": [
+     481
+    ]
+   },
+   {
+    "id": 7935,
+    "lat": 27.92,
+    "lon": -108.01,
+    "borders_states": [
+     481,
+     483
+    ]
+   },
+   {
+    "id": 8097,
+    "lat": 30.7,
+    "lon": -106.01,
+    "name": "Juárez",
+    "vp": 10.0,
+    "borders_states": [
+     375,
+     376
+    ]
+   },
+   {
+    "id": 10809,
+    "lat": 30.93,
+    "lon": -107.45,
+    "borders_states": [
+     376,
+     483
+    ]
+   },
+   {
+    "id": 10830,
+    "lat": 28.02,
+    "lon": -106.03,
+    "name": "Chihuahua",
+    "vp": 10.0
+   },
+   {
+    "id": 10916,
+    "lat": 26.9,
+    "lon": -105.79,
+    "borders_states": [
+     481
+    ]
+   },
+   {
+    "id": 12745,
+    "lat": 29.11,
+    "lon": -106.8
+   },
+   {
+    "id": 12827,
+    "lat": 29.76,
+    "lon": -107.98,
+    "borders_states": [
+     483
+    ]
+   },
+   {
+    "id": 12850,
+    "lat": 27.18,
+    "lon": -104.49,
+    "borders_states": [
+     480,
+     481
+    ]
+   },
+   {
+    "id": 12897,
+    "lat": 28.62,
+    "lon": -104.34,
+    "borders_states": [
+     375,
+     480
+    ]
+   }
+  ]
+ },
+ {
+  "id": 483,
+  "name": "Sonora",
+  "file": "483-Sonora.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 2216969,
+  "category": "town",
+  "centroid": [
+   29.66,
+   -110.73
+  ],
+  "neighbour_states": [
+   376,
+   377,
+   481,
+   482,
+   484
+  ],
+  "provinces": [
+   {
+    "id": 2069,
+    "lat": 30.91,
+    "lon": -112.23,
+    "borders_states": [
+     377
+    ]
+   },
+   {
+    "id": 4908,
+    "lat": 28.33,
+    "lon": -110.55,
+    "name": "Guaymas"
+   },
+   {
+    "id": 4977,
+    "lat": 27.08,
+    "lon": -109.38,
+    "name": "Ciudad Obregón",
+    "borders_states": [
+     481,
+     482
+    ]
+   },
+   {
+    "id": 5071,
+    "lat": 30.81,
+    "lon": -109.02,
+    "name": "Agua Prieta",
+    "borders_states": [
+     376,
+     377,
+     482
+    ]
+   },
+   {
+    "id": 8012,
+    "lat": 30.75,
+    "lon": -110.58,
+    "borders_states": [
+     377
+    ]
+   },
+   {
+    "id": 8033,
+    "lat": 28.33,
+    "lon": -109.16,
+    "borders_states": [
+     482
+    ]
+   },
+   {
+    "id": 10765,
+    "lat": 29.52,
+    "lon": -110.23,
+    "name": "Hermosillo",
+    "vp": 5.0
+   },
+   {
+    "id": 10848,
+    "lat": 29.53,
+    "lon": -111.8
+   },
+   {
+    "id": 12833,
+    "lat": 31.84,
+    "lon": -113.72,
+    "borders_states": [
+     377,
+     484
+    ]
+   },
+   {
+    "id": 13214,
+    "lat": 29.75,
+    "lon": -109.03,
+    "borders_states": [
+     482
+    ]
+   }
+  ]
+ },
+ {
+  "id": 484,
+  "name": "Baja California",
+  "file": "484-Baja California.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 2911408,
+  "category": "city",
+  "centroid": [
+   28.39,
+   -113.59
+  ],
+  "neighbour_states": [
+   377,
+   378,
+   483
+  ],
+  "provinces": [
+   {
+    "id": 1892,
+    "lat": 31.28,
+    "lon": -115.89,
+    "name": "Ensenada"
+   },
+   {
+    "id": 1904,
+    "lat": 27.66,
+    "lon": -113.76
+   },
+   {
+    "id": 7964,
+    "lat": 28.92,
+    "lon": -113.72
+   },
+   {
+    "id": 8119,
+    "lat": 26.84,
+    "lon": -112.29
+   },
+   {
+    "id": 12461,
+    "lat": 32.2,
+    "lon": -116.27,
+    "name": "Tijuana",
+    "vp": 10.0,
+    "borders_states": [
+     378
+    ]
+   },
+   {
+    "id": 12736,
+    "lat": 24.56,
+    "lon": -110.97,
+    "name": "La Paz"
+   },
+   {
+    "id": 12859,
+    "lat": 30.17,
+    "lon": -115.01
+   },
+   {
+    "id": 13215,
+    "lat": 32.23,
+    "lon": -115.29,
+    "name": "Mexicali",
+    "borders_states": [
+     377,
+     378,
+     483
+    ]
+   },
+   {
+    "id": 13216,
+    "lat": 31.33,
+    "lon": -115.12,
+    "borders_states": [
+     483
+    ]
+   }
+  ]
+ },
+ {
+  "id": 485,
+  "name": "Guerrero",
+  "file": "485-Guerrero.txt",
+  "owner": "MEX",
+  "cores": [
+   "MEX"
+  ],
+  "claims": [],
+  "manpower": 7065316,
+  "category": "town",
+  "centroid": [
+   18.34,
+   -100.77
+  ],
+  "neighbour_states": [
+   277,
+   476,
+   477,
+   478
+  ],
+  "provinces": [
+   {
+    "id": 4887,
+    "lat": 19.47,
+    "lon": -101.66,
+    "name": "Morelia",
+    "vp": 3.0,
+    "borders_states": [
+     277,
+     478
+    ]
+   },
+   {
+    "id": 5066,
+    "lat": 17.94,
+    "lon": -101.04
+   },
+   {
+    "id": 8032,
+    "lat": 18.7,
+    "lon": -102.6,
+    "name": "Manzanillo",
+    "vp": 1.0,
+    "borders_states": [
+     478
+    ]
+   },
+   {
+    "id": 10730,
+    "lat": 17.31,
+    "lon": -99.14,
+    "name": "Acapulco",
+    "vp": 5.0,
+    "borders_states": [
+     476,
+     477
+    ]
+   },
+   {
+    "id": 10832,
+    "lat": 18.45,
+    "lon": -99.91,
+    "borders_states": [
+     277,
+     477
+    ]
+   }
+  ]
+ },
+ {
+  "id": 629,
+  "name": "Hawaii",
+  "file": "629-Hawaii.txt",
+  "owner": "USA",
+  "cores": [
+   "USA",
+   "HAW"
+  ],
+  "claims": [],
+  "manpower": 1211537,
+  "category": "city",
+  "centroid": [
+   20.08,
+   -156.16
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 4180,
+    "lat": 21.31,
+    "lon": -157.86,
+    "name": "Honolulu",
+    "vp": 15.0
+   },
+   {
+    "id": 7112,
+    "lat": 21.93,
+    "lon": -159.65
+   },
+   {
+    "id": 7195,
+    "lat": 20.49,
+    "lon": -156.14
+   },
+   {
+    "id": 10048,
+    "lat": 19.1,
+    "lon": -155.02
+   },
+   {
+    "id": 12021,
+    "lat": 19.06,
+    "lon": -154.45,
+    "name": "Hilo",
+    "vp": 3.0
+   }
+  ]
+ },
+ {
+  "id": 630,
+  "name": "Johnston Atoll",
+  "file": "630-Johnston Atoll.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 1000,
+  "category": "tiny_island",
+  "centroid": [
+   17.94,
+   -173.09
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13051,
+    "lat": 17.94,
+    "lon": -173.09
+   }
+  ]
+ },
+ {
+  "id": 631,
+  "name": "Midway Island",
+  "file": "631-Midway Island.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [],
+  "manpower": 50,
+  "category": "tiny_island",
+  "centroid": [
+   27.53,
+   -181.14
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13052,
+    "lat": 27.53,
+    "lon": -181.14,
+    "name": "Midway",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 682,
+  "name": "Northern Ontario",
+  "file": "682-Northern Ontario.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 736015,
+  "category": "rural",
+  "centroid": [
+   48.8,
+   -86.11
+  ],
+  "neighbour_states": [
+   276,
+   391,
+   393,
+   394,
+   467,
+   862,
+   866
+  ],
+  "provinces": [
+   {
+    "id": 602,
+    "lat": 47.23,
+    "lon": -83.87
+   },
+   {
+    "id": 777,
+    "lat": 48.01,
+    "lon": -84.96
+   },
+   {
+    "id": 1299,
+    "lat": 47.87,
+    "lon": -80.47,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 1769,
+    "lat": 48.39,
+    "lon": -91.64,
+    "borders_states": [
+     391
+    ]
+   },
+   {
+    "id": 1782,
+    "lat": 48.52,
+    "lon": -82.96
+   },
+   {
+    "id": 4775,
+    "lat": 48.7,
+    "lon": -87.91
+   },
+   {
+    "id": 4784,
+    "lat": 48.72,
+    "lon": -80.56,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 4869,
+    "lat": 47.6,
+    "lon": -82.16
+   },
+   {
+    "id": 4875,
+    "lat": 49.38,
+    "lon": -93.87,
+    "borders_states": [
+     391,
+     467,
+     866
+    ]
+   },
+   {
+    "id": 6510,
+    "lat": 46.52,
+    "lon": -79.74,
+    "borders_states": [
+     276,
+     862
+    ]
+   },
+   {
+    "id": 7366,
+    "lat": 46.86,
+    "lon": -81.79
+   },
+   {
+    "id": 7794,
+    "lat": 50.2,
+    "lon": -86.17,
+    "borders_states": [
+     866
+    ]
+   },
+   {
+    "id": 7899,
+    "lat": 48.26,
+    "lon": -89.65,
+    "name": "Thunder Bay",
+    "borders_states": [
+     391
+    ]
+   },
+   {
+    "id": 9467,
+    "lat": 46.14,
+    "lon": -80.86,
+    "borders_states": [
+     276,
+     393
+    ]
+   },
+   {
+    "id": 9480,
+    "lat": 47.11,
+    "lon": -80.35,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 9740,
+    "lat": 51.31,
+    "lon": -82.02,
+    "borders_states": [
+     866
+    ]
+   },
+   {
+    "id": 10621,
+    "lat": 50.22,
+    "lon": -80.41,
+    "borders_states": [
+     862
+    ]
+   },
+   {
+    "id": 10718,
+    "lat": 48.96,
+    "lon": -85.58
+   },
+   {
+    "id": 11571,
+    "lat": 50.11,
+    "lon": -92.1,
+    "borders_states": [
+     866
+    ]
+   },
+   {
+    "id": 12278,
+    "lat": 46.02,
+    "lon": -82.23,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 12582,
+    "lat": 46.39,
+    "lon": -83.43,
+    "borders_states": [
+     393
+    ]
+   },
+   {
+    "id": 12701,
+    "lat": 49.9,
+    "lon": -83.1,
+    "borders_states": [
+     866
+    ]
+   },
+   {
+    "id": 13094,
+    "lat": 49.92,
+    "lon": -89.3,
+    "borders_states": [
+     866
+    ]
+   },
+   {
+    "id": 13159,
+    "lat": 47.07,
+    "lon": -87.55,
+    "type": "lake",
+    "borders_states": [
+     391,
+     393,
+     394
+    ]
+   },
+   {
+    "id": 13161,
+    "lat": 49.3,
+    "lon": -88.22,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 683,
+  "name": "Nunavut",
+  "file": "683-Northeastern Canada.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 6894,
+  "category": "wasteland",
+  "centroid": [
+   62.0,
+   -97.58
+  ],
+  "neighbour_states": [
+   472,
+   865,
+   867
+  ],
+  "provinces": [
+   {
+    "id": 2947,
+    "lat": 61.92,
+    "lon": -99.83,
+    "borders_states": [
+     472,
+     867
+    ]
+   },
+   {
+    "id": 8962,
+    "lat": 60.3,
+    "lon": -101.31,
+    "type": "lake",
+    "borders_states": [
+     472,
+     865,
+     867
+    ]
+   },
+   {
+    "id": 10721,
+    "lat": 62.19,
+    "lon": -94.69,
+    "borders_states": [
+     867
+    ]
+   },
+   {
+    "id": 13188,
+    "lat": 59.95,
+    "lon": -98.9,
+    "type": "lake",
+    "borders_states": [
+     867
+    ]
+   },
+   {
+    "id": 13190,
+    "lat": 62.57,
+    "lon": -97.42,
+    "type": "lake"
+   },
+   {
+    "id": 13191,
+    "lat": 63.02,
+    "lon": -100.8,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 696,
+  "name": "Bermuda",
+  "file": "696-Bermuda.txt",
+  "owner": "ENG",
+  "cores": [
+   "ENG"
+  ],
+  "claims": [],
+  "manpower": 62059,
+  "category": "small_island",
+  "centroid": [
+   32.0,
+   -63.08
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13010,
+    "lat": 32.0,
+    "lon": -63.08,
+    "name": "Hamilton",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 727,
+  "name": "Line Islands",
+  "file": "727-Line Islands.txt",
+  "owner": "KIR",
+  "cores": [
+   "KIR"
+  ],
+  "claims": [],
+  "manpower": 6275,
+  "category": "small_island",
+  "centroid": [
+   7.09,
+   -163.42
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13048,
+    "lat": 9.06,
+    "lon": -165.88
+   },
+   {
+    "id": 13049,
+    "lat": 7.17,
+    "lon": -163.42
+   },
+   {
+    "id": 13053,
+    "lat": 5.27,
+    "lon": -161.25
+   }
+  ]
+ },
+ {
+  "id": 730,
+  "name": "St Pierre and Miquelon",
+  "file": "730-St Pierre and Miquelon .txt",
+  "owner": "FRA",
+  "cores": [
+   "FRA"
+  ],
+  "claims": [],
+  "manpower": 6316,
+  "category": "tiny_island",
+  "centroid": [
+   49.27,
+   -56.88
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 373,
+    "lat": 49.27,
+    "lon": -56.88
+   }
+  ]
+ },
+ {
+  "id": 739,
+  "name": "Haida Gwaii",
+  "file": "739-Haida Gwaii.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 5079,
+  "category": "small_island",
+  "centroid": [
+   52.93,
+   -132.64
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1869,
+    "lat": 52.93,
+    "lon": -132.64
+   }
+  ]
+ },
+ {
+  "id": 740,
+  "name": "Vancouver Island",
+  "file": "740-Vancouver Island.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 675490,
+  "category": "large_town",
+  "centroid": [
+   49.4,
+   -126.17
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 7259,
+    "lat": 48.57,
+    "lon": -124.56,
+    "name": "Victoria"
+   },
+   {
+    "id": 1214,
+    "lat": 49.09,
+    "lon": -125.6
+   },
+   {
+    "id": 12259,
+    "lat": 50.21,
+    "lon": -127.95
+   },
+   {
+    "id": 12272,
+    "lat": 49.51,
+    "lon": -126.81
+   },
+   {
+    "id": 1420,
+    "lat": 49.86,
+    "lon": -126.31
+   }
+  ]
+ },
+ {
+  "id": 816,
+  "name": "West Virginia",
+  "file": "816-West Virginia.txt",
+  "owner": "USA",
+  "cores": [
+   "USA"
+  ],
+  "claims": [
+   "CSA"
+  ],
+  "manpower": 1808344,
+  "category": "town",
+  "centroid": [
+   38.4,
+   -80.62
+  ],
+  "neighbour_states": [
+   261,
+   360,
+   361,
+   362,
+   369
+  ],
+  "provinces": [
+   {
+    "id": 801,
+    "lat": 39.15,
+    "lon": -80.49,
+    "borders_states": [
+     261,
+     360
+    ]
+   },
+   {
+    "id": 3941,
+    "lat": 38.47,
+    "lon": -80.09,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 3975,
+    "lat": 38.78,
+    "lon": -81.03,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 4627,
+    "lat": 37.37,
+    "lon": -81.62,
+    "borders_states": [
+     362,
+     369
+    ]
+   },
+   {
+    "id": 6850,
+    "lat": 39.83,
+    "lon": -80.58,
+    "borders_states": [
+     261,
+     360
+    ]
+   },
+   {
+    "id": 6958,
+    "lat": 38.67,
+    "lon": -79.39,
+    "borders_states": [
+     361,
+     362
+    ]
+   },
+   {
+    "id": 6971,
+    "lat": 37.87,
+    "lon": -82.11,
+    "borders_states": [
+     261,
+     369
+    ]
+   },
+   {
+    "id": 7466,
+    "lat": 37.38,
+    "lon": -80.8,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 7588,
+    "lat": 37.98,
+    "lon": -81.16,
+    "name": "Charleston",
+    "vp": 3.0
+   },
+   {
+    "id": 7646,
+    "lat": 37.94,
+    "lon": -80.41,
+    "borders_states": [
+     362
+    ]
+   },
+   {
+    "id": 9923,
+    "lat": 39.2,
+    "lon": -79.8,
+    "borders_states": [
+     360,
+     361
+    ]
+   },
+   {
+    "id": 10441,
+    "lat": 38.44,
+    "lon": -81.66,
+    "borders_states": [
+     261
+    ]
+   },
+   {
+    "id": 11888,
+    "lat": 39.04,
+    "lon": -78.59,
+    "borders_states": [
+     361,
+     362
+    ]
+   }
+  ]
+ },
+ {
+  "id": 860,
+  "name": "Cote-Nord",
+  "file": "860-Cote-Nord.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 108983,
+  "category": "rural",
+  "centroid": [
+   52.72,
+   -65.72
+  ],
+  "neighbour_states": [
+   332,
+   466,
+   861,
+   863
+  ],
+  "provinces": [
+   {
+    "id": 7683,
+    "lat": 52.3,
+    "lon": -64.93,
+    "borders_states": [
+     332
+    ]
+   },
+   {
+    "id": 7807,
+    "lat": 50.55,
+    "lon": -69.89,
+    "borders_states": [
+     861,
+     863
+    ]
+   },
+   {
+    "id": 7810,
+    "lat": 54.07,
+    "lon": -59.26,
+    "borders_states": [
+     332
+    ]
+   },
+   {
+    "id": 10534,
+    "lat": 52.35,
+    "lon": -62.12,
+    "borders_states": [
+     332
+    ]
+   },
+   {
+    "id": 10715,
+    "lat": 51.63,
+    "lon": -67.77,
+    "borders_states": [
+     861
+    ]
+   },
+   {
+    "id": 12600,
+    "lat": 55.14,
+    "lon": -68.06,
+    "borders_states": [
+     332,
+     466,
+     861
+    ]
+   },
+   {
+    "id": 13293,
+    "lat": 50.45,
+    "lon": -63.53
+   }
+  ]
+ },
+ {
+  "id": 861,
+  "name": "Saguenay",
+  "file": "861-Saguenay.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 3076,
+  "category": "pastoral",
+  "centroid": [
+   54.11,
+   -70.75
+  ],
+  "neighbour_states": [
+   466,
+   860,
+   863
+  ],
+  "provinces": [
+   {
+    "id": 1657,
+    "lat": 52.47,
+    "lon": -71.24,
+    "borders_states": [
+     466,
+     860,
+     863
+    ]
+   },
+   {
+    "id": 4666,
+    "lat": 55.16,
+    "lon": -70.59,
+    "borders_states": [
+     466,
+     860
+    ]
+   },
+   {
+    "id": 13164,
+    "lat": 52.84,
+    "lon": -68.69,
+    "type": "lake",
+    "borders_states": [
+     860
+    ]
+   }
+  ]
+ },
+ {
+  "id": 862,
+  "name": "Ouest du Quebec",
+  "file": "862-ouest du quebec.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 528175,
+  "category": "rural",
+  "centroid": [
+   48.56,
+   -76.7
+  ],
+  "neighbour_states": [
+   276,
+   466,
+   468,
+   682,
+   863
+  ],
+  "provinces": [
+   {
+    "id": 983,
+    "lat": 49.51,
+    "lon": -74.41,
+    "borders_states": [
+     466,
+     863
+    ]
+   },
+   {
+    "id": 1341,
+    "lat": 46.36,
+    "lon": -75.42,
+    "borders_states": [
+     276,
+     468
+    ]
+   },
+   {
+    "id": 1764,
+    "lat": 47.9,
+    "lon": -76.25
+   },
+   {
+    "id": 3911,
+    "lat": 49.64,
+    "lon": -76.4,
+    "borders_states": [
+     466
+    ]
+   },
+   {
+    "id": 7435,
+    "lat": 47.03,
+    "lon": -74.34,
+    "borders_states": [
+     468,
+     863
+    ]
+   },
+   {
+    "id": 7875,
+    "lat": 47.61,
+    "lon": -77.72
+   },
+   {
+    "id": 10249,
+    "lat": 46.99,
+    "lon": -78.64,
+    "borders_states": [
+     276,
+     682
+    ]
+   },
+   {
+    "id": 10700,
+    "lat": 47.59,
+    "lon": -75.19,
+    "borders_states": [
+     863
+    ]
+   },
+   {
+    "id": 11682,
+    "lat": 50.26,
+    "lon": -78.68,
+    "borders_states": [
+     466,
+     682
+    ]
+   },
+   {
+    "id": 11902,
+    "lat": 48.49,
+    "lon": -78.41,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 12205,
+    "lat": 46.72,
+    "lon": -77.13,
+    "borders_states": [
+     276
+    ]
+   },
+   {
+    "id": 12276,
+    "lat": 46.07,
+    "lon": -76.54,
+    "borders_states": [
+     276
+    ]
+   }
+  ]
+ },
+ {
+  "id": 863,
+  "name": "Maurice",
+  "file": "863-Maurice.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 285277,
+  "category": "town",
+  "centroid": [
+   49.37,
+   -72.1
+  ],
+  "neighbour_states": [
+   466,
+   468,
+   860,
+   861,
+   862
+  ],
+  "provinces": [
+   {
+    "id": 1356,
+    "lat": 48.41,
+    "lon": -70.91,
+    "borders_states": [
+     468
+    ]
+   },
+   {
+    "id": 4419,
+    "lat": 48.7,
+    "lon": -73.44,
+    "borders_states": [
+     468,
+     862
+    ]
+   },
+   {
+    "id": 4769,
+    "lat": 49.19,
+    "lon": -70.28,
+    "borders_states": [
+     860
+    ]
+   },
+   {
+    "id": 7893,
+    "lat": 50.23,
+    "lon": -72.42,
+    "borders_states": [
+     466,
+     860,
+     861,
+     862
+    ]
+   },
+   {
+    "id": 12223,
+    "lat": 48.37,
+    "lon": -72.21,
+    "name": "Saguenay",
+    "borders_states": [
+     468
+    ]
+   },
+   {
+    "id": 13160,
+    "lat": 48.26,
+    "lon": -73.15,
+    "type": "lake",
+    "borders_states": [
+     468
+    ]
+   }
+  ]
+ },
+ {
+  "id": 864,
+  "name": "Yukon Territory",
+  "file": "864-Yukon.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 30095,
+  "category": "wasteland",
+  "centroid": [
+   61.59,
+   -134.7
+  ],
+  "neighbour_states": [
+   463,
+   471,
+   472
+  ],
+  "provinces": [
+   {
+    "id": 3606,
+    "lat": 63.0,
+    "lon": -134.39,
+    "borders_states": [
+     472
+    ]
+   },
+   {
+    "id": 7869,
+    "lat": 60.99,
+    "lon": -137.99,
+    "borders_states": [
+     463,
+     471
+    ]
+   },
+   {
+    "id": 7891,
+    "lat": 61.02,
+    "lon": -130.43,
+    "borders_states": [
+     471,
+     472
+    ]
+   }
+  ]
+ },
+ {
+  "id": 865,
+  "name": "Northern Saskatchewan",
+  "file": "865-Northern Saskatchewan.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 32928,
+  "category": "pastoral",
+  "centroid": [
+   56.71,
+   -105.54
+  ],
+  "neighbour_states": [
+   467,
+   469,
+   470,
+   472,
+   683,
+   867
+  ],
+  "provinces": [
+   {
+    "id": 1671,
+    "lat": 54.63,
+    "lon": -107.03,
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 3800,
+    "lat": 56.61,
+    "lon": -104.26
+   },
+   {
+    "id": 4695,
+    "lat": 58.54,
+    "lon": -104.42,
+    "borders_states": [
+     472,
+     683,
+     867
+    ]
+   },
+   {
+    "id": 6779,
+    "lat": 57.98,
+    "lon": -108.45,
+    "borders_states": [
+     469,
+     470,
+     472
+    ]
+   },
+   {
+    "id": 12682,
+    "lat": 55.15,
+    "lon": -104.3,
+    "borders_states": [
+     467,
+     469,
+     867
+    ]
+   },
+   {
+    "id": 13168,
+    "lat": 56.97,
+    "lon": -102.24,
+    "type": "lake",
+    "borders_states": [
+     867
+    ]
+   },
+   {
+    "id": 13183,
+    "lat": 56.05,
+    "lon": -108.25,
+    "type": "lake",
+    "borders_states": [
+     469
+    ]
+   },
+   {
+    "id": 13185,
+    "lat": 57.45,
+    "lon": -106.4,
+    "type": "lake"
+   },
+   {
+    "id": 13187,
+    "lat": 57.87,
+    "lon": -102.86,
+    "type": "lake",
+    "borders_states": [
+     867
+    ]
+   }
+  ]
+ },
+ {
+  "id": 866,
+  "name": "Districts of Ontario",
+  "file": "866-Districts of Ontario.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 20256,
+  "category": "pastoral",
+  "centroid": [
+   53.19,
+   -87.95
+  ],
+  "neighbour_states": [
+   467,
+   682,
+   867
+  ],
+  "provinces": [
+   {
+    "id": 761,
+    "lat": 53.06,
+    "lon": -84.22,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 763,
+    "lat": 52.42,
+    "lon": -92.72,
+    "borders_states": [
+     467,
+     682,
+     867
+    ]
+   },
+   {
+    "id": 3736,
+    "lat": 52.03,
+    "lon": -89.04,
+    "borders_states": [
+     682
+    ]
+   },
+   {
+    "id": 4753,
+    "lat": 54.9,
+    "lon": -88.12,
+    "borders_states": [
+     867
+    ]
+   },
+   {
+    "id": 13315,
+    "lat": 53.08,
+    "lon": -81.21
+   }
+  ]
+ },
+ {
+  "id": 867,
+  "name": "Northern Manitoba",
+  "file": "867-Northern Manitoba.txt",
+  "owner": "CAN",
+  "cores": [
+   "CAN"
+  ],
+  "claims": [],
+  "manpower": 87343,
+  "category": "pastoral",
+  "centroid": [
+   55.9,
+   -96.52
+  ],
+  "neighbour_states": [
+   467,
+   683,
+   865,
+   866
+  ],
+  "provinces": [
+   {
+    "id": 5239,
+    "lat": 58.27,
+    "lon": -96.36,
+    "borders_states": [
+     683
+    ]
+   },
+   {
+    "id": 6728,
+    "lat": 53.84,
+    "lon": -95.87,
+    "borders_states": [
+     467
+    ]
+   },
+   {
+    "id": 7185,
+    "lat": 56.35,
+    "lon": -95.1
+   },
+   {
+    "id": 7782,
+    "lat": 54.66,
+    "lon": -99.69,
+    "borders_states": [
+     467,
+     865
+    ]
+   },
+   {
+    "id": 9615,
+    "lat": 51.85,
+    "lon": -95.58,
+    "borders_states": [
+     467,
+     866
+    ]
+   },
+   {
+    "id": 10585,
+    "lat": 57.86,
+    "lon": -100.08,
+    "borders_states": [
+     683,
+     865
+    ]
+   },
+   {
+    "id": 10605,
+    "lat": 55.2,
+    "lon": -92.19,
+    "borders_states": [
+     866
+    ]
+   },
+   {
+    "id": 13182,
+    "lat": 53.58,
+    "lon": -94.0,
+    "type": "lake",
+    "borders_states": [
+     866
+    ]
+   }
+  ]
+ },
+ {
+  "id": 875,
+  "name": "Chukchi Peninsula",
+  "file": "875-Chukchi Peninsulay.txt",
+  "owner": "SOV",
+  "cores": [
+   "SOV",
+   "CKK"
+  ],
+  "claims": [],
+  "manpower": 10000,
+  "category": "pastoral",
+  "centroid": [
+   64.06,
+   -177.94
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13204,
+    "lat": 63.63,
+    "lon": -177.4,
+    "name": "Lavrentiya",
+    "vp": 1.0
+   },
+   {
+    "id": 13254,
+    "lat": 64.39,
+    "lon": -178.37
+   }
+  ]
+ }
+]

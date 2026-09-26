@@ -1,0 +1,5986 @@
+[
+ {
+  "id": 278,
+  "name": "Pampas",
+  "file": "278-Argentina.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 16850500,
+  "category": "megalopolis",
+  "centroid": [
+   -36.47,
+   -60.68
+  ],
+  "neighbour_states": [
+   510,
+   512,
+   956,
+   958
+  ],
+  "provinces": [
+   {
+    "id": 1555,
+    "lat": -35.75,
+    "lon": -58.44
+   },
+   {
+    "id": 1568,
+    "lat": -36.83,
+    "lon": -58.8
+   },
+   {
+    "id": 1596,
+    "lat": -37.09,
+    "lon": -62.66
+   },
+   {
+    "id": 1624,
+    "lat": -38.09,
+    "lon": -58.68
+   },
+   {
+    "id": 1639,
+    "lat": -38.14,
+    "lon": -61.77
+   },
+   {
+    "id": 4573,
+    "lat": -36.78,
+    "lon": -57.28
+   },
+   {
+    "id": 4602,
+    "lat": -37.3,
+    "lon": -59.94
+   },
+   {
+    "id": 4643,
+    "lat": -38.38,
+    "lon": -60.11
+   },
+   {
+    "id": 7621,
+    "lat": -37.69,
+    "lon": -57.56,
+    "name": "Mar del Plata",
+    "vp": 10.0
+   },
+   {
+    "id": 10375,
+    "lat": -34.88,
+    "lon": -62.75,
+    "borders_states": [
+     956,
+     958
+    ]
+   },
+   {
+    "id": 10390,
+    "lat": -34.5,
+    "lon": -60.81,
+    "borders_states": [
+     956
+    ]
+   },
+   {
+    "id": 10402,
+    "lat": -35.02,
+    "lon": -59.47
+   },
+   {
+    "id": 10418,
+    "lat": -35.94,
+    "lon": -62.51,
+    "borders_states": [
+     958
+    ]
+   },
+   {
+    "id": 12351,
+    "lat": -33.82,
+    "lon": -59.51,
+    "borders_states": [
+     510,
+     956
+    ]
+   },
+   {
+    "id": 12364,
+    "lat": -34.6,
+    "lon": -58.38,
+    "name": "Buenos Aires",
+    "vp": 30.0,
+    "borders_states": [
+     510
+    ]
+   },
+   {
+    "id": 12379,
+    "lat": -35.6,
+    "lon": -57.51
+   },
+   {
+    "id": 12394,
+    "lat": -35.97,
+    "lon": -60.3
+   },
+   {
+    "id": 12409,
+    "lat": -37.05,
+    "lon": -61.23
+   },
+   {
+    "id": 12494,
+    "lat": -38.6,
+    "lon": -63.02,
+    "borders_states": [
+     512
+    ]
+   },
+   {
+    "id": 12998,
+    "lat": -36.91,
+    "lon": -64.12,
+    "borders_states": [
+     512,
+     958
+    ]
+   }
+  ]
+ },
+ {
+  "id": 279,
+  "name": "Santiago",
+  "file": "279-Chile.txt",
+  "owner": "CHL",
+  "cores": [
+   "CHL"
+  ],
+  "claims": [],
+  "manpower": 11792400,
+  "category": "metropolis",
+  "centroid": [
+   -33.52,
+   -71.14
+  ],
+  "neighbour_states": [
+   511,
+   512,
+   950,
+   952,
+   960
+  ],
+  "provinces": [
+   {
+    "id": 650,
+    "lat": -33.45,
+    "lon": -70.67,
+    "name": "Santiago",
+    "vp": 30.0,
+    "borders_states": [
+     511
+    ]
+   },
+   {
+    "id": 5191,
+    "lat": -32.19,
+    "lon": -71.29,
+    "borders_states": [
+     511
+    ]
+   },
+   {
+    "id": 8194,
+    "lat": -30.49,
+    "lon": -71.13,
+    "name": "La Serena",
+    "vp": 10.0,
+    "borders_states": [
+     511,
+     952,
+     960
+    ]
+   },
+   {
+    "id": 8222,
+    "lat": -33.78,
+    "lon": -71.42,
+    "name": "Valparaíso",
+    "vp": 10.0
+   },
+   {
+    "id": 8229,
+    "lat": -35.01,
+    "lon": -70.78,
+    "borders_states": [
+     511
+    ]
+   },
+   {
+    "id": 8251,
+    "lat": -36.38,
+    "lon": -70.93,
+    "name": "Chillán",
+    "vp": 5.0,
+    "borders_states": [
+     511,
+     512,
+     950
+    ]
+   },
+   {
+    "id": 12984,
+    "lat": -35.92,
+    "lon": -71.69,
+    "name": "Concepción",
+    "vp": 20.0,
+    "borders_states": [
+     950
+    ]
+   }
+  ]
+ },
+ {
+  "id": 280,
+  "name": "Mato Grosso",
+  "file": "280-Brazil.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 2954400,
+  "category": "town",
+  "centroid": [
+   -14.72,
+   -55.93
+  ],
+  "neighbour_states": [
+   487,
+   495,
+   496,
+   501,
+   504,
+   505,
+   938,
+   941,
+   942,
+   965,
+   966
+  ],
+  "provinces": [
+   {
+    "id": 2111,
+    "lat": -15.9,
+    "lon": -56.33,
+    "name": "Cuiabá",
+    "vp": 2.0,
+    "borders_states": [
+     505
+    ]
+   },
+   {
+    "id": 2142,
+    "lat": -15.82,
+    "lon": -58.77,
+    "borders_states": [
+     487
+    ]
+   },
+   {
+    "id": 2181,
+    "lat": -20.45,
+    "lon": -52.55,
+    "borders_states": [
+     496,
+     501,
+     504,
+     505
+    ]
+   },
+   {
+    "id": 2204,
+    "lat": -11.88,
+    "lon": -53.82,
+    "borders_states": [
+     505,
+     938,
+     941,
+     966
+    ]
+   },
+   {
+    "id": 8175,
+    "lat": -12.04,
+    "lon": -57.63,
+    "borders_states": [
+     495,
+     965,
+     966
+    ]
+   },
+   {
+    "id": 8189,
+    "lat": -18.55,
+    "lon": -56.75,
+    "borders_states": [
+     487,
+     504,
+     505
+    ]
+   },
+   {
+    "id": 10959,
+    "lat": -19.26,
+    "lon": -54.23,
+    "borders_states": [
+     504,
+     505
+    ]
+   },
+   {
+    "id": 11010,
+    "lat": -14.28,
+    "lon": -60.24,
+    "borders_states": [
+     487,
+     942,
+     965
+    ]
+   }
+  ]
+ },
+ {
+  "id": 299,
+  "name": "Falkland Islands",
+  "file": "299-Falkand Islands.txt",
+  "owner": "ENG",
+  "cores": [
+   "ENG"
+  ],
+  "claims": [
+   "ARG"
+  ],
+  "manpower": 2900,
+  "category": "enclave",
+  "centroid": [
+   -47.29,
+   -57.36
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 12960,
+    "lat": -47.32,
+    "lon": -56.85,
+    "name": "Port Stanley",
+    "vp": 1.0
+   },
+   {
+    "id": 13292,
+    "lat": -47.24,
+    "lon": -58.05
+   }
+  ]
+ },
+ {
+  "id": 300,
+  "name": "Uruguay",
+  "file": "300-Uruguay.txt",
+  "owner": "URG",
+  "cores": [
+   "URG"
+  ],
+  "claims": [],
+  "manpower": 2249800,
+  "category": "large_city",
+  "centroid": [
+   -34.36,
+   -56.21
+  ],
+  "neighbour_states": [
+   945,
+   946
+  ],
+  "provinces": [
+   {
+    "id": 4457,
+    "lat": -34.02,
+    "lon": -57.46,
+    "borders_states": [
+     946
+    ]
+   },
+   {
+    "id": 10362,
+    "lat": -34.9,
+    "lon": -56.16,
+    "name": "Montevideo",
+    "vp": 30.0
+   },
+   {
+    "id": 12336,
+    "lat": -34.83,
+    "lon": -54.81,
+    "borders_states": [
+     945
+    ]
+   },
+   {
+    "id": 12496,
+    "lat": -33.82,
+    "lon": -56.42,
+    "borders_states": [
+     945,
+     946
+    ]
+   }
+  ]
+ },
+ {
+  "id": 301,
+  "name": "Paraguay",
+  "file": "301-paraguay.txt",
+  "owner": "PAR",
+  "cores": [
+   "PAR"
+  ],
+  "claims": [],
+  "manpower": 5161900,
+  "category": "city",
+  "centroid": [
+   -24.91,
+   -56.89
+  ],
+  "neighbour_states": [
+   504,
+   509,
+   510,
+   688,
+   944,
+   957
+  ],
+  "provinces": [
+   {
+    "id": 2152,
+    "lat": -25.26,
+    "lon": -57.58,
+    "name": "Asunción",
+    "vp": 30.0,
+    "borders_states": [
+     688,
+     957
+    ]
+   },
+   {
+    "id": 2173,
+    "lat": -26.68,
+    "lon": -57.76,
+    "name": "Fortress Humaitá",
+    "borders_states": [
+     509,
+     510,
+     957
+    ]
+   },
+   {
+    "id": 2194,
+    "lat": -26.22,
+    "lon": -56.04,
+    "name": "Encarnación",
+    "vp": 10.0,
+    "borders_states": [
+     510,
+     944
+    ]
+   },
+   {
+    "id": 11023,
+    "lat": -23.11,
+    "lon": -57.23,
+    "name": "Pedro Juan Caballero",
+    "vp": 10.0,
+    "borders_states": [
+     504,
+     688
+    ]
+   },
+   {
+    "id": 12901,
+    "lat": -24.57,
+    "lon": -55.77,
+    "name": "Ciudad del Este",
+    "borders_states": [
+     504,
+     944
+    ]
+   }
+  ]
+ },
+ {
+  "id": 302,
+  "name": "La Paz",
+  "file": "302-bolivia.txt",
+  "owner": "BOL",
+  "cores": [
+   "BOL"
+  ],
+  "claims": [],
+  "manpower": 4343100,
+  "category": "city",
+  "centroid": [
+   -19.13,
+   -66.28
+  ],
+  "neighbour_states": [
+   487,
+   492,
+   494,
+   506,
+   688,
+   947,
+   951,
+   957,
+   959
+  ],
+  "provinces": [
+   {
+    "id": 2174,
+    "lat": -20.93,
+    "lon": -67.4,
+    "borders_states": [
+     506,
+     951,
+     959
+    ]
+   },
+   {
+    "id": 5179,
+    "lat": -19.34,
+    "lon": -64.63,
+    "name": "Sucre",
+    "vp": 20.0,
+    "borders_states": [
+     487
+    ]
+   },
+   {
+    "id": 5229,
+    "lat": -21.57,
+    "lon": -64.53,
+    "borders_states": [
+     957,
+     959
+    ]
+   },
+   {
+    "id": 5230,
+    "lat": -16.49,
+    "lon": -68.12,
+    "name": "La Paz",
+    "vp": 20.0
+   },
+   {
+    "id": 8157,
+    "lat": -17.32,
+    "lon": -66.73,
+    "borders_states": [
+     487
+    ]
+   },
+   {
+    "id": 8225,
+    "lat": -15.4,
+    "lon": -68.23,
+    "borders_states": [
+     487,
+     492,
+     494
+    ]
+   },
+   {
+    "id": 10938,
+    "lat": -18.11,
+    "lon": -64.71,
+    "borders_states": [
+     487
+    ]
+   },
+   {
+    "id": 10952,
+    "lat": -18.37,
+    "lon": -68.16,
+    "borders_states": [
+     492,
+     947,
+     951
+    ]
+   },
+   {
+    "id": 10987,
+    "lat": -20.71,
+    "lon": -65.6
+   },
+   {
+    "id": 12930,
+    "lat": -19.14,
+    "lon": -66.12,
+    "name": "Sucre"
+   },
+   {
+    "id": 12979,
+    "lat": -20.56,
+    "lon": -63.31,
+    "borders_states": [
+     487,
+     688,
+     957
+    ]
+   },
+   {
+    "id": 13134,
+    "lat": -18.77,
+    "lon": -66.95,
+    "type": "lake"
+   },
+   {
+    "id": 13174,
+    "lat": -16.41,
+    "lon": -68.75,
+    "type": "lake",
+    "borders_states": [
+     492
+    ]
+   },
+   {
+    "id": 13195,
+    "lat": -17.16,
+    "lon": -68.05,
+    "borders_states": [
+     492
+    ]
+   }
+  ]
+ },
+ {
+  "id": 303,
+  "name": "Lima",
+  "file": "303-Peru.txt",
+  "owner": "PRU",
+  "cores": [
+   "PRU"
+  ],
+  "claims": [],
+  "manpower": 16274400,
+  "category": "metropolis",
+  "centroid": [
+   -9.0,
+   -77.88
+  ],
+  "neighbour_states": [
+   305,
+   490,
+   491,
+   492,
+   494
+  ],
+  "provinces": [
+   {
+    "id": 2156,
+    "lat": -5.46,
+    "lon": -80.51,
+    "name": "Piura",
+    "vp": 2.0,
+    "borders_states": [
+     305,
+     490
+    ]
+   },
+   {
+    "id": 2162,
+    "lat": -11.91,
+    "lon": -75.49,
+    "borders_states": [
+     492,
+     494
+    ]
+   },
+   {
+    "id": 5190,
+    "lat": -8.94,
+    "lon": -78.36
+   },
+   {
+    "id": 8199,
+    "lat": -7.12,
+    "lon": -79.17,
+    "borders_states": [
+     490,
+     491
+    ]
+   },
+   {
+    "id": 12969,
+    "lat": -8.24,
+    "lon": -77.27,
+    "borders_states": [
+     491,
+     494
+    ]
+   },
+   {
+    "id": 12983,
+    "lat": -10.52,
+    "lon": -77.16,
+    "borders_states": [
+     494
+    ]
+   },
+   {
+    "id": 12997,
+    "lat": -12.05,
+    "lon": -77.04,
+    "name": "Lima",
+    "vp": 10.0,
+    "borders_states": [
+     492
+    ]
+   }
+  ]
+ },
+ {
+  "id": 305,
+  "name": "Ecuador",
+  "file": "305-Ecuador.txt",
+  "owner": "ECU",
+  "cores": [
+   "ECU"
+  ],
+  "claims": [],
+  "manpower": 12282500,
+  "category": "large_city",
+  "centroid": [
+   -1.58,
+   -78.6
+  ],
+  "neighbour_states": [
+   303,
+   306,
+   486,
+   490,
+   491
+  ],
+  "provinces": [
+   {
+    "id": 5051,
+    "lat": -1.5,
+    "lon": -78.86
+   },
+   {
+    "id": 5120,
+    "lat": -4.09,
+    "lon": -79.79,
+    "name": "Machala",
+    "borders_states": [
+     303,
+     490
+    ]
+   },
+   {
+    "id": 8047,
+    "lat": 0.25,
+    "lon": -79.55,
+    "borders_states": [
+     306
+    ]
+   },
+   {
+    "id": 8075,
+    "lat": -0.3,
+    "lon": -76.71,
+    "borders_states": [
+     306,
+     486,
+     491
+    ]
+   },
+   {
+    "id": 8252,
+    "lat": -1.78,
+    "lon": -80.22,
+    "name": "Guayaquil",
+    "vp": 1.0
+   },
+   {
+    "id": 10888,
+    "lat": -1.69,
+    "lon": -77.06,
+    "borders_states": [
+     490,
+     491
+    ]
+   },
+   {
+    "id": 11020,
+    "lat": -3.0,
+    "lon": -78.92,
+    "borders_states": [
+     490
+    ]
+   },
+   {
+    "id": 12798,
+    "lat": -0.18,
+    "lon": -78.47,
+    "name": "Quito",
+    "vp": 5.0,
+    "borders_states": [
+     306
+    ]
+   }
+  ]
+ },
+ {
+  "id": 306,
+  "name": "Cundinamarca",
+  "file": "306-Colombia.txt",
+  "owner": "COL",
+  "cores": [
+   "COL"
+  ],
+  "claims": [],
+  "manpower": 21120000,
+  "category": "metropolis",
+  "centroid": [
+   3.68,
+   -75.37
+  ],
+  "neighbour_states": [
+   305,
+   307,
+   486,
+   489,
+   493
+  ],
+  "provinces": [
+   {
+    "id": 2079,
+    "lat": 2.51,
+    "lon": -75.3,
+    "borders_states": [
+     486
+    ]
+   },
+   {
+    "id": 7936,
+    "lat": 2.89,
+    "lon": -76.58,
+    "borders_states": [
+     493
+    ]
+   },
+   {
+    "id": 7991,
+    "lat": 1.99,
+    "lon": -77.97,
+    "borders_states": [
+     305
+    ]
+   },
+   {
+    "id": 7993,
+    "lat": 6.19,
+    "lon": -72.71,
+    "borders_states": [
+     307,
+     486,
+     489,
+     493
+    ]
+   },
+   {
+    "id": 10747,
+    "lat": 4.87,
+    "lon": -74.22,
+    "name": "Bogota",
+    "vp": 10.0,
+    "borders_states": [
+     486,
+     493
+    ]
+   },
+   {
+    "id": 10790,
+    "lat": 4.24,
+    "lon": -75.66,
+    "borders_states": [
+     493
+    ]
+   },
+   {
+    "id": 10846,
+    "lat": 1.09,
+    "lon": -77.22,
+    "borders_states": [
+     305,
+     486
+    ]
+   }
+  ]
+ },
+ {
+  "id": 309,
+  "name": "Suriname",
+  "file": "309-Dutch SA.txt",
+  "owner": "SUR",
+  "cores": [
+   "SUR"
+  ],
+  "claims": [],
+  "manpower": 470000,
+  "category": "rural",
+  "centroid": [
+   3.88,
+   -56.4
+  ],
+  "neighbour_states": [
+   310,
+   687,
+   968
+  ],
+  "provinces": [
+   {
+    "id": 1928,
+    "lat": 2.72,
+    "lon": -56.31,
+    "borders_states": [
+     310,
+     687,
+     968
+    ]
+   },
+   {
+    "id": 10906,
+    "lat": 4.61,
+    "lon": -55.5,
+    "name": "Paramaribo",
+    "vp": 1.0,
+    "borders_states": [
+     310
+    ]
+   },
+   {
+    "id": 12828,
+    "lat": 4.5,
+    "lon": -57.22,
+    "borders_states": [
+     687
+    ]
+   }
+  ]
+ },
+ {
+  "id": 310,
+  "name": "French Guiana",
+  "file": "310-French SA.txt",
+  "owner": "FRA",
+  "cores": [
+   "FRA",
+   "CAY"
+  ],
+  "claims": [],
+  "manpower": 158000,
+  "category": "pastoral",
+  "centroid": [
+   3.63,
+   -53.69
+  ],
+  "neighbour_states": [
+   309,
+   939,
+   968
+  ],
+  "provinces": [
+   {
+    "id": 4934,
+    "lat": 2.76,
+    "lon": -53.84,
+    "borders_states": [
+     309,
+     939,
+     968
+    ]
+   },
+   {
+    "id": 12885,
+    "lat": 4.38,
+    "lon": -53.56,
+    "name": "Cayenne",
+    "vp": 1.0,
+    "borders_states": [
+     309,
+     939
+    ]
+   }
+  ]
+ },
+ {
+  "id": 486,
+  "name": "Meta",
+  "file": "486-Meta.txt",
+  "owner": "COL",
+  "cores": [
+   "COL"
+  ],
+  "claims": [],
+  "manpower": 1880000,
+  "category": "rural",
+  "centroid": [
+   2.0,
+   -71.57
+  ],
+  "neighbour_states": [
+   305,
+   306,
+   307,
+   488,
+   491,
+   495,
+   961
+  ],
+  "provinces": [
+   {
+    "id": 1887,
+    "lat": 5.65,
+    "lon": -71.25,
+    "borders_states": [
+     306,
+     307
+    ]
+   },
+   {
+    "id": 2007,
+    "lat": 1.17,
+    "lon": -74.44,
+    "borders_states": [
+     305,
+     306,
+     491
+    ]
+   },
+   {
+    "id": 5026,
+    "lat": 4.12,
+    "lon": -70.82,
+    "borders_states": [
+     306,
+     307,
+     488
+    ]
+   },
+   {
+    "id": 10792,
+    "lat": 2.48,
+    "lon": -69.61,
+    "borders_states": [
+     488,
+     495
+    ]
+   },
+   {
+    "id": 12729,
+    "lat": 0.59,
+    "lon": -71.04,
+    "borders_states": [
+     495,
+     961
+    ]
+   },
+   {
+    "id": 12770,
+    "lat": -0.3,
+    "lon": -72.53,
+    "borders_states": [
+     491
+    ]
+   },
+   {
+    "id": 12825,
+    "lat": -1.75,
+    "lon": -72.07,
+    "borders_states": [
+     491,
+     495,
+     961
+    ]
+   }
+  ]
+ },
+ {
+  "id": 487,
+  "name": "Santa Cruz",
+  "file": "487-Amazinas.txt",
+  "owner": "BOL",
+  "cores": [
+   "BOL"
+  ],
+  "claims": [],
+  "manpower": 3986900,
+  "category": "town",
+  "centroid": [
+   -15.35,
+   -63.86
+  ],
+  "neighbour_states": [
+   280,
+   302,
+   494,
+   495,
+   504,
+   688,
+   940,
+   942,
+   963
+  ],
+  "provinces": [
+   {
+    "id": 2160,
+    "lat": -18.72,
+    "lon": -62.37,
+    "name": "Santa Cruz de la Sierra",
+    "borders_states": [
+     302,
+     688
+    ]
+   },
+   {
+    "id": 5188,
+    "lat": -13.07,
+    "lon": -67.89,
+    "borders_states": [
+     302,
+     494
+    ]
+   },
+   {
+    "id": 8211,
+    "lat": -12.63,
+    "lon": -66.23,
+    "name": "Trinidad",
+    "vp": 10.0,
+    "borders_states": [
+     942
+    ]
+   },
+   {
+    "id": 8240,
+    "lat": -16.59,
+    "lon": -65.27,
+    "name": "Cochabamba",
+    "vp": 10.0,
+    "borders_states": [
+     302
+    ]
+   },
+   {
+    "id": 10924,
+    "lat": -17.64,
+    "lon": -63.61,
+    "borders_states": [
+     302
+    ]
+   },
+   {
+    "id": 10982,
+    "lat": -13.82,
+    "lon": -63.06,
+    "borders_states": [
+     280,
+     942
+    ]
+   },
+   {
+    "id": 10996,
+    "lat": -14.97,
+    "lon": -66.29,
+    "borders_states": [
+     302
+    ]
+   },
+   {
+    "id": 12902,
+    "lat": -17.31,
+    "lon": -59.99,
+    "borders_states": [
+     280
+    ]
+   },
+   {
+    "id": 12916,
+    "lat": -18.73,
+    "lon": -59.77,
+    "borders_states": [
+     280,
+     504,
+     688
+    ]
+   },
+   {
+    "id": 12917,
+    "lat": -11.03,
+    "lon": -67.59,
+    "borders_states": [
+     494,
+     495,
+     940,
+     942,
+     963
+    ]
+   },
+   {
+    "id": 12973,
+    "lat": -15.63,
+    "lon": -63.01,
+    "name": "Santa Cruz",
+    "vp": 20.0,
+    "borders_states": [
+     280
+    ]
+   }
+  ]
+ },
+ {
+  "id": 488,
+  "name": "Bolivar",
+  "file": "488-Bolivar.txt",
+  "owner": "VEN",
+  "cores": [
+   "VEN"
+  ],
+  "claims": [],
+  "manpower": 1349200,
+  "category": "rural",
+  "centroid": [
+   5.13,
+   -64.62
+  ],
+  "neighbour_states": [
+   307,
+   486,
+   495,
+   687,
+   967,
+   969
+  ],
+  "provinces": [
+   {
+    "id": 1981,
+    "lat": 7.85,
+    "lon": -61.23,
+    "borders_states": [
+     307,
+     687
+    ]
+   },
+   {
+    "id": 5317,
+    "lat": 3.93,
+    "lon": -66.11,
+    "borders_states": [
+     486,
+     967
+    ]
+   },
+   {
+    "id": 7915,
+    "lat": 6.13,
+    "lon": -66.16,
+    "borders_states": [
+     307,
+     486
+    ]
+   },
+   {
+    "id": 8050,
+    "lat": 2.0,
+    "lon": -66.33,
+    "borders_states": [
+     486,
+     495,
+     967
+    ]
+   },
+   {
+    "id": 10736,
+    "lat": 7.3,
+    "lon": -64.65,
+    "borders_states": [
+     307
+    ]
+   },
+   {
+    "id": 10849,
+    "lat": 4.86,
+    "lon": -63.79,
+    "borders_states": [
+     967,
+     969
+    ]
+   },
+   {
+    "id": 10879,
+    "lat": 7.13,
+    "lon": -62.68,
+    "name": "Ciudad Guayana",
+    "vp": 1.0,
+    "borders_states": [
+     307,
+     687
+    ]
+   },
+   {
+    "id": 13362,
+    "lat": 5.1,
+    "lon": -62.04,
+    "borders_states": [
+     687,
+     969
+    ]
+   }
+  ]
+ },
+ {
+  "id": 490,
+  "name": "Pastaza",
+  "file": "490-Pastaza.txt",
+  "owner": "PRU",
+  "cores": [
+   "PRU"
+  ],
+  "claims": [
+   "ECU"
+  ],
+  "manpower": 1084800,
+  "category": "rural",
+  "centroid": [
+   -3.68,
+   -76.19
+  ],
+  "neighbour_states": [
+   303,
+   305,
+   491
+  ],
+  "provinces": [
+   {
+    "id": 8149,
+    "lat": -3.26,
+    "lon": -75.89,
+    "borders_states": [
+     305,
+     491
+    ]
+   },
+   {
+    "id": 10942,
+    "lat": -5.09,
+    "lon": -78.91,
+    "borders_states": [
+     303,
+     305,
+     491
+    ]
+   },
+   {
+    "id": 13289,
+    "lat": -3.7,
+    "lon": -74.36,
+    "name": "Iquitos",
+    "vp": 2.0,
+    "borders_states": [
+     491
+    ]
+   },
+   {
+    "id": 13290,
+    "lat": -3.82,
+    "lon": -77.64,
+    "borders_states": [
+     305,
+     491
+    ]
+   }
+  ]
+ },
+ {
+  "id": 491,
+  "name": "Loreto",
+  "file": "491-Loreto.txt",
+  "owner": "PRU",
+  "cores": [
+   "PRU"
+  ],
+  "claims": [],
+  "manpower": 1274700,
+  "category": "rural",
+  "centroid": [
+   -4.79,
+   -74.59
+  ],
+  "neighbour_states": [
+   303,
+   305,
+   486,
+   490,
+   494,
+   495,
+   964
+  ],
+  "provinces": [
+   {
+    "id": 5162,
+    "lat": -5.85,
+    "lon": -77.46,
+    "borders_states": [
+     303,
+     490
+    ]
+   },
+   {
+    "id": 8213,
+    "lat": -5.04,
+    "lon": -73.15,
+    "borders_states": [
+     486,
+     490,
+     494,
+     495,
+     964
+    ]
+   },
+   {
+    "id": 10970,
+    "lat": -6.4,
+    "lon": -75.64,
+    "name": "Yurimaguas",
+    "vp": 1.0,
+    "borders_states": [
+     303,
+     490,
+     494
+    ]
+   },
+   {
+    "id": 12869,
+    "lat": -3.13,
+    "lon": -71.9,
+    "borders_states": [
+     486,
+     490
+    ]
+   },
+   {
+    "id": 13291,
+    "lat": -1.63,
+    "lon": -74.42,
+    "borders_states": [
+     305,
+     486,
+     490
+    ]
+   }
+  ]
+ },
+ {
+  "id": 492,
+  "name": "Arequipa",
+  "file": "492-Piura.txt",
+  "owner": "PRU",
+  "cores": [
+   "PRU"
+  ],
+  "claims": [],
+  "manpower": 4325500,
+  "category": "large_town",
+  "centroid": [
+   -14.93,
+   -72.91
+  ],
+  "neighbour_states": [
+   302,
+   303,
+   494,
+   947
+  ],
+  "provinces": [
+   {
+    "id": 2182,
+    "lat": -14.91,
+    "lon": -70.54,
+    "borders_states": [
+     302,
+     494
+    ]
+   },
+   {
+    "id": 2210,
+    "lat": -15.88,
+    "lon": -71.6,
+    "name": "Arequipa",
+    "vp": 5.0,
+    "borders_states": [
+     947
+    ]
+   },
+   {
+    "id": 2225,
+    "lat": -14.02,
+    "lon": -75.8,
+    "borders_states": [
+     303
+    ]
+   },
+   {
+    "id": 5202,
+    "lat": -15.24,
+    "lon": -73.7,
+    "borders_states": [
+     494
+    ]
+   },
+   {
+    "id": 12953,
+    "lat": -13.7,
+    "lon": -74.06,
+    "borders_states": [
+     303,
+     494
+    ]
+   },
+   {
+    "id": 13175,
+    "lat": -15.86,
+    "lon": -69.3,
+    "type": "lake",
+    "borders_states": [
+     302
+    ]
+   },
+   {
+    "id": 13286,
+    "lat": -16.5,
+    "lon": -69.62,
+    "name": "Puno",
+    "vp": 1.0,
+    "borders_states": [
+     302,
+     947
+    ]
+   },
+   {
+    "id": 13288,
+    "lat": -16.54,
+    "lon": -72.48,
+    "name": "Mollendo",
+    "vp": 1.0,
+    "borders_states": [
+     947
+    ]
+   }
+  ]
+ },
+ {
+  "id": 494,
+  "name": "Ucayali",
+  "file": "494-Ucayali.txt",
+  "owner": "PRU",
+  "cores": [
+   "PRU"
+  ],
+  "claims": [],
+  "manpower": 2460400,
+  "category": "rural",
+  "centroid": [
+   -11.25,
+   -72.65
+  ],
+  "neighbour_states": [
+   302,
+   303,
+   487,
+   491,
+   492,
+   940,
+   964
+  ],
+  "provinces": [
+   {
+    "id": 2212,
+    "lat": -9.66,
+    "lon": -75.34,
+    "borders_states": [
+     303,
+     491
+    ]
+   },
+   {
+    "id": 2226,
+    "lat": -7.73,
+    "lon": -74.7,
+    "name": "Pucallpa",
+    "vp": 2.0,
+    "borders_states": [
+     491,
+     940,
+     964
+    ]
+   },
+   {
+    "id": 5166,
+    "lat": -13.14,
+    "lon": -72.7,
+    "name": "Cusco",
+    "vp": 3.0,
+    "borders_states": [
+     303,
+     492
+    ]
+   },
+   {
+    "id": 8160,
+    "lat": -11.17,
+    "lon": -72.54,
+    "borders_states": [
+     303,
+     940
+    ]
+   },
+   {
+    "id": 8191,
+    "lat": -12.0,
+    "lon": -70.63,
+    "name": "Puerto Maldonado",
+    "vp": 1.0,
+    "borders_states": [
+     487,
+     940
+    ]
+   },
+   {
+    "id": 10940,
+    "lat": -13.4,
+    "lon": -70.1,
+    "borders_states": [
+     302,
+     487,
+     492
+    ]
+   },
+   {
+    "id": 13316,
+    "lat": -9.91,
+    "lon": -73.74,
+    "borders_states": [
+     940
+    ]
+   }
+  ]
+ },
+ {
+  "id": 495,
+  "name": "Amazonas",
+  "file": "495-Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 2840000,
+  "category": "city",
+  "centroid": [
+   -3.87,
+   -63.51
+  ],
+  "neighbour_states": [
+   280,
+   486,
+   487,
+   488,
+   491,
+   938,
+   940,
+   942,
+   961,
+   962,
+   963,
+   964,
+   965,
+   966,
+   967,
+   968,
+   969
+  ],
+  "provinces": [
+   {
+    "id": 1979,
+    "lat": -5.81,
+    "lon": -60.99,
+    "borders_states": [
+     965
+    ]
+   },
+   {
+    "id": 5083,
+    "lat": 0.89,
+    "lon": -67.63,
+    "borders_states": [
+     486,
+     488,
+     967
+    ]
+   },
+   {
+    "id": 10934,
+    "lat": -3.12,
+    "lon": -60.02,
+    "name": "Manaus",
+    "vp": 1.0,
+    "borders_states": [
+     968
+    ]
+   },
+   {
+    "id": 13083,
+    "lat": -3.06,
+    "lon": -69.34,
+    "borders_states": [
+     486,
+     491,
+     964
+    ]
+   },
+   {
+    "id": 13317,
+    "lat": -8.54,
+    "lon": -68.16,
+    "borders_states": [
+     940,
+     964
+    ]
+   },
+   {
+    "id": 13318,
+    "lat": -7.45,
+    "lon": -66.15,
+    "borders_states": [
+     964
+    ]
+   },
+   {
+    "id": 13319,
+    "lat": -6.26,
+    "lon": -65.17,
+    "borders_states": [
+     964
+    ]
+   },
+   {
+    "id": 13320,
+    "lat": -5.14,
+    "lon": -63.55,
+    "borders_states": [
+     964
+    ]
+   },
+   {
+    "id": 13321,
+    "lat": -4.21,
+    "lon": -64.8,
+    "borders_states": [
+     964
+    ]
+   },
+   {
+    "id": 13322,
+    "lat": -3.32,
+    "lon": -67.03,
+    "borders_states": [
+     964
+    ]
+   },
+   {
+    "id": 13323,
+    "lat": -4.16,
+    "lon": -69.17,
+    "borders_states": [
+     964
+    ]
+   },
+   {
+    "id": 13324,
+    "lat": -8.65,
+    "lon": -67.15,
+    "borders_states": [
+     940,
+     963
+    ]
+   },
+   {
+    "id": 13325,
+    "lat": -8.05,
+    "lon": -65.6,
+    "borders_states": [
+     963
+    ]
+   },
+   {
+    "id": 13326,
+    "lat": -9.18,
+    "lon": -65.12,
+    "borders_states": [
+     487,
+     942,
+     963
+    ]
+   },
+   {
+    "id": 13327,
+    "lat": -7.67,
+    "lon": -63.64,
+    "borders_states": [
+     963
+    ]
+   },
+   {
+    "id": 13328,
+    "lat": -6.74,
+    "lon": -64.48,
+    "borders_states": [
+     963
+    ]
+   },
+   {
+    "id": 13329,
+    "lat": -6.18,
+    "lon": -63.12,
+    "borders_states": [
+     962,
+     963
+    ]
+   },
+   {
+    "id": 13331,
+    "lat": -5.12,
+    "lon": -62.55,
+    "borders_states": [
+     962
+    ]
+   },
+   {
+    "id": 13332,
+    "lat": -5.74,
+    "lon": -61.69,
+    "borders_states": [
+     962
+    ]
+   },
+   {
+    "id": 13333,
+    "lat": -4.63,
+    "lon": -60.48,
+    "borders_states": [
+     962
+    ]
+   },
+   {
+    "id": 13334,
+    "lat": -4.18,
+    "lon": -61.24,
+    "borders_states": [
+     962
+    ]
+   },
+   {
+    "id": 13335,
+    "lat": -8.35,
+    "lon": -63.44,
+    "borders_states": [
+     942,
+     965
+    ]
+   },
+   {
+    "id": 13336,
+    "lat": -6.94,
+    "lon": -62.47,
+    "borders_states": [
+     965
+    ]
+   },
+   {
+    "id": 13337,
+    "lat": -4.49,
+    "lon": -59.39,
+    "borders_states": [
+     965
+    ]
+   },
+   {
+    "id": 13339,
+    "lat": -0.54,
+    "lon": -61.94,
+    "borders_states": [
+     968,
+     969
+    ]
+   },
+   {
+    "id": 13341,
+    "lat": 0.44,
+    "lon": -62.39,
+    "borders_states": [
+     967,
+     969
+    ]
+   },
+   {
+    "id": 13342,
+    "lat": -1.15,
+    "lon": -63.11,
+    "borders_states": [
+     967
+    ]
+   },
+   {
+    "id": 13343,
+    "lat": -2.45,
+    "lon": -67.16
+   },
+   {
+    "id": 13344,
+    "lat": -0.37,
+    "lon": -65.31,
+    "borders_states": [
+     967
+    ]
+   },
+   {
+    "id": 13345,
+    "lat": 0.32,
+    "lon": -68.22,
+    "borders_states": [
+     486
+    ]
+   },
+   {
+    "id": 13346,
+    "lat": -0.31,
+    "lon": -68.56,
+    "borders_states": [
+     486,
+     961
+    ]
+   },
+   {
+    "id": 13347,
+    "lat": -1.01,
+    "lon": -65.59,
+    "borders_states": [
+     961
+    ]
+   },
+   {
+    "id": 13348,
+    "lat": -2.12,
+    "lon": -63.05,
+    "borders_states": [
+     961
+    ]
+   },
+   {
+    "id": 13349,
+    "lat": -3.8,
+    "lon": -62.17,
+    "borders_states": [
+     961
+    ]
+   },
+   {
+    "id": 13350,
+    "lat": -3.5,
+    "lon": -64.56,
+    "borders_states": [
+     961
+    ]
+   },
+   {
+    "id": 13351,
+    "lat": -1.84,
+    "lon": -66.63,
+    "borders_states": [
+     961
+    ]
+   },
+   {
+    "id": 13352,
+    "lat": -1.61,
+    "lon": -68.79,
+    "borders_states": [
+     486,
+     961
+    ]
+   },
+   {
+    "id": 13353,
+    "lat": -2.4,
+    "lon": -56.86,
+    "borders_states": [
+     938,
+     968
+    ]
+   },
+   {
+    "id": 13355,
+    "lat": -3.17,
+    "lon": -57.06,
+    "borders_states": [
+     938,
+     965
+    ]
+   },
+   {
+    "id": 13356,
+    "lat": -4.31,
+    "lon": -55.81,
+    "borders_states": [
+     938,
+     966
+    ]
+   },
+   {
+    "id": 13357,
+    "lat": -6.48,
+    "lon": -57.74,
+    "borders_states": [
+     966
+    ]
+   },
+   {
+    "id": 13358,
+    "lat": -4.43,
+    "lon": -56.92,
+    "borders_states": [
+     965
+    ]
+   },
+   {
+    "id": 13359,
+    "lat": -6.44,
+    "lon": -58.79,
+    "borders_states": [
+     965
+    ]
+   },
+   {
+    "id": 13360,
+    "lat": -8.1,
+    "lon": -59.33,
+    "borders_states": [
+     280,
+     965,
+     966
+    ]
+   }
+  ]
+ },
+ {
+  "id": 496,
+  "name": "Minas Gerais",
+  "file": "496-Para.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 17891500,
+  "category": "metropolis",
+  "centroid": [
+   -18.81,
+   -44.89
+  ],
+  "neighbour_states": [
+   280,
+   499,
+   500,
+   501,
+   505,
+   941,
+   943
+  ],
+  "provinces": [
+   {
+    "id": 4570,
+    "lat": -19.19,
+    "lon": -41.76,
+    "borders_states": [
+     943
+    ]
+   },
+   {
+    "id": 5223,
+    "lat": -15.82,
+    "lon": -42.7,
+    "borders_states": [
+     499
+    ]
+   },
+   {
+    "id": 7589,
+    "lat": -20.16,
+    "lon": -42.66,
+    "borders_states": [
+     943
+    ]
+   },
+   {
+    "id": 8233,
+    "lat": -16.0,
+    "lon": -44.13,
+    "borders_states": [
+     499
+    ]
+   },
+   {
+    "id": 10931,
+    "lat": -17.65,
+    "lon": -44.07
+   },
+   {
+    "id": 12903,
+    "lat": -16.4,
+    "lon": -41.08,
+    "borders_states": [
+     499
+    ]
+   },
+   {
+    "id": 12909,
+    "lat": -17.5,
+    "lon": -41.91,
+    "borders_states": [
+     499,
+     943
+    ]
+   },
+   {
+    "id": 12938,
+    "lat": -19.0,
+    "lon": -43.5
+   },
+   {
+    "id": 10945,
+    "lat": -19.54,
+    "lon": -49.87,
+    "borders_states": [
+     280,
+     501,
+     505
+    ]
+   },
+   {
+    "id": 12977,
+    "lat": -19.19,
+    "lon": -48.23,
+    "borders_states": [
+     501,
+     505
+    ]
+   },
+   {
+    "id": 2167,
+    "lat": -19.72,
+    "lon": -46.5,
+    "borders_states": [
+     501
+    ]
+   },
+   {
+    "id": 7476,
+    "lat": -19.44,
+    "lon": -44.95,
+    "name": "Belo Horizonte",
+    "vp": 10.0
+   },
+   {
+    "id": 8148,
+    "lat": -20.82,
+    "lon": -44.04
+   },
+   {
+    "id": 12923,
+    "lat": -18.04,
+    "lon": -46.48,
+    "borders_states": [
+     505
+    ]
+   },
+   {
+    "id": 2190,
+    "lat": -15.46,
+    "lon": -45.46,
+    "borders_states": [
+     499,
+     505,
+     941
+    ]
+   },
+   {
+    "id": 2218,
+    "lat": -16.77,
+    "lon": -46.27,
+    "borders_states": [
+     505
+    ]
+   },
+   {
+    "id": 12438,
+    "lat": -21.3,
+    "lon": -47.36,
+    "borders_states": [
+     501
+    ]
+   },
+   {
+    "id": 10360,
+    "lat": -22.68,
+    "lon": -46.84,
+    "borders_states": [
+     501
+    ]
+   },
+   {
+    "id": 8210,
+    "lat": -21.0,
+    "lon": -45.79
+   },
+   {
+    "id": 12479,
+    "lat": -22.16,
+    "lon": -45.94,
+    "borders_states": [
+     501
+    ]
+   },
+   {
+    "id": 2185,
+    "lat": -21.96,
+    "lon": -44.92,
+    "borders_states": [
+     500,
+     501
+    ]
+   },
+   {
+    "id": 8226,
+    "lat": -21.24,
+    "lon": -42.47,
+    "borders_states": [
+     500,
+     943
+    ]
+   },
+   {
+    "id": 12334,
+    "lat": -21.97,
+    "lon": -43.32,
+    "name": "Petrópolis",
+    "borders_states": [
+     500
+    ]
+   }
+  ]
+ },
+ {
+  "id": 497,
+  "name": "Maranhão",
+  "file": "497-Maranhao.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 5651500,
+  "category": "large_town",
+  "centroid": [
+   -3.92,
+   -45.38
+  ],
+  "neighbour_states": [
+   937,
+   938,
+   941
+  ],
+  "provinces": [
+   {
+    "id": 2150,
+    "lat": -4.8,
+    "lon": -44.3,
+    "borders_states": [
+     937
+    ]
+   },
+   {
+    "id": 5220,
+    "lat": -1.42,
+    "lon": -45.68,
+    "borders_states": [
+     938
+    ]
+   },
+   {
+    "id": 12913,
+    "lat": -3.97,
+    "lon": -46.72,
+    "borders_states": [
+     938,
+     941
+    ]
+   },
+   {
+    "id": 12933,
+    "lat": -2.17,
+    "lon": -43.57,
+    "name": "São Luís",
+    "vp": 20.0,
+    "borders_states": [
+     937
+    ]
+   },
+   {
+    "id": 12947,
+    "lat": -7.32,
+    "lon": -46.42,
+    "borders_states": [
+     937,
+     941
+    ]
+   }
+  ]
+ },
+ {
+  "id": 498,
+  "name": "Rio Grande do Norte",
+  "file": "498-Rio Grande.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 2776800,
+  "category": "city",
+  "centroid": [
+   -5.15,
+   -36.65
+  ],
+  "neighbour_states": [
+   935,
+   936
+  ],
+  "provinces": [
+   {
+    "id": 2175,
+    "lat": -5.24,
+    "lon": -36.87,
+    "borders_states": [
+     936
+    ]
+   },
+   {
+    "id": 10933,
+    "lat": -5.37,
+    "lon": -35.55,
+    "name": "Natal",
+    "vp": 10.0,
+    "borders_states": [
+     936
+    ]
+   },
+   {
+    "id": 13273,
+    "lat": -4.66,
+    "lon": -37.75,
+    "borders_states": [
+     935,
+     936
+    ]
+   }
+  ]
+ },
+ {
+  "id": 499,
+  "name": "Bahia",
+  "file": "499-Bahia.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 14854700,
+  "category": "large_city",
+  "centroid": [
+   -12.25,
+   -41.51
+  ],
+  "neighbour_states": [
+   496,
+   936,
+   937,
+   941,
+   943
+  ],
+  "provinces": [
+   {
+    "id": 4617,
+    "lat": -10.18,
+    "lon": -38.54,
+    "borders_states": [
+     936
+    ]
+   },
+   {
+    "id": 5194,
+    "lat": -13.86,
+    "lon": -42.46,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 8143,
+    "lat": -10.62,
+    "lon": -37.35,
+    "borders_states": [
+     936
+    ]
+   },
+   {
+    "id": 8177,
+    "lat": -11.54,
+    "lon": -42.19
+   },
+   {
+    "id": 8184,
+    "lat": -11.4,
+    "lon": -39.89
+   },
+   {
+    "id": 8197,
+    "lat": -13.35,
+    "lon": -39.37
+   },
+   {
+    "id": 8242,
+    "lat": -9.36,
+    "lon": -39.63,
+    "borders_states": [
+     936
+    ]
+   },
+   {
+    "id": 10392,
+    "lat": -12.97,
+    "lon": -40.54
+   },
+   {
+    "id": 10926,
+    "lat": -10.29,
+    "lon": -41.49
+   },
+   {
+    "id": 10946,
+    "lat": -11.77,
+    "lon": -38.42,
+    "name": "Salvador",
+    "vp": 20.0
+   },
+   {
+    "id": 5174,
+    "lat": -13.71,
+    "lon": -44.96,
+    "borders_states": [
+     496,
+     941
+    ]
+   },
+   {
+    "id": 8129,
+    "lat": -11.77,
+    "lon": -44.91,
+    "borders_states": [
+     937,
+     941
+    ]
+   },
+   {
+    "id": 5218,
+    "lat": -9.44,
+    "lon": -42.6,
+    "borders_states": [
+     936,
+     937
+    ]
+   },
+   {
+    "id": 12422,
+    "lat": -15.06,
+    "lon": -41.18,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 10419,
+    "lat": -15.58,
+    "lon": -39.53,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 11002,
+    "lat": -17.24,
+    "lon": -39.66,
+    "borders_states": [
+     496,
+     943
+    ]
+   }
+  ]
+ },
+ {
+  "id": 500,
+  "name": "Rio de Janeiro",
+  "file": "500-Rio de Janerio.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 14391300,
+  "category": "metropolis",
+  "centroid": [
+   -22.53,
+   -42.82
+  ],
+  "neighbour_states": [
+   496,
+   501,
+   943
+  ],
+  "provinces": [
+   {
+    "id": 5172,
+    "lat": -22.78,
+    "lon": -44.32,
+    "name": "Vassouras",
+    "borders_states": [
+     496,
+     501
+    ]
+   },
+   {
+    "id": 8190,
+    "lat": -22.63,
+    "lon": -42.17,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 10980,
+    "lat": -22.91,
+    "lon": -43.17,
+    "name": "Rio de Janeiro",
+    "vp": 20.0,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 12996,
+    "lat": -21.87,
+    "lon": -41.5,
+    "borders_states": [
+     496,
+     943
+    ]
+   }
+  ]
+ },
+ {
+  "id": 501,
+  "name": "São Paulo",
+  "file": "501-Saol Paulo.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 37032400,
+  "category": "megalopolis",
+  "centroid": [
+   -22.48,
+   -49.04
+  ],
+  "neighbour_states": [
+   280,
+   496,
+   500,
+   504,
+   944
+  ],
+  "provinces": [
+   {
+    "id": 1583,
+    "lat": -22.21,
+    "lon": -51.9,
+    "borders_states": [
+     280,
+     504,
+     944
+    ]
+   },
+   {
+    "id": 5186,
+    "lat": -21.63,
+    "lon": -49.08,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 7636,
+    "lat": -20.75,
+    "lon": -48.62,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 10513,
+    "lat": -23.55,
+    "lon": -46.63,
+    "name": "São Paulo",
+    "vp": 20.0,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 10947,
+    "lat": -23.61,
+    "lon": -47.95,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 10994,
+    "lat": -21.45,
+    "lon": -51.07,
+    "borders_states": [
+     280
+    ]
+   },
+   {
+    "id": 11003,
+    "lat": -22.61,
+    "lon": -50.13,
+    "borders_states": [
+     944
+    ]
+   },
+   {
+    "id": 11008,
+    "lat": -23.71,
+    "lon": -49.17,
+    "borders_states": [
+     944
+    ]
+   },
+   {
+    "id": 12937,
+    "lat": -20.57,
+    "lon": -50.46,
+    "borders_states": [
+     280,
+     496
+    ]
+   },
+   {
+    "id": 12972,
+    "lat": -22.58,
+    "lon": -48.34,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 10432,
+    "lat": -23.09,
+    "lon": -45.27,
+    "borders_states": [
+     496,
+     500
+    ]
+   },
+   {
+    "id": 5112,
+    "lat": -23.88,
+    "lon": -45.96,
+    "name": "Santos",
+    "vp": 10.0
+   },
+   {
+    "id": 5167,
+    "lat": -24.37,
+    "lon": -47.41
+   },
+   {
+    "id": 7553,
+    "lat": -24.71,
+    "lon": -48.39,
+    "borders_states": [
+     944
+    ]
+   }
+  ]
+ },
+ {
+  "id": 502,
+  "name": "Rio Grande do Sul",
+  "file": "502-Rio Grande Sul.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 10187800,
+  "category": "large_city",
+  "centroid": [
+   -29.61,
+   -53.31
+  ],
+  "neighbour_states": [
+   503,
+   510,
+   945,
+   946
+  ],
+  "provinces": [
+   {
+    "id": 1542,
+    "lat": -28.19,
+    "lon": -51.88,
+    "borders_states": [
+     503
+    ]
+   },
+   {
+    "id": 1585,
+    "lat": -28.84,
+    "lon": -55.69,
+    "borders_states": [
+     510
+    ]
+   },
+   {
+    "id": 1598,
+    "lat": -29.57,
+    "lon": -53.96
+   },
+   {
+    "id": 4436,
+    "lat": -31.07,
+    "lon": -52.21
+   },
+   {
+    "id": 4575,
+    "lat": -30.01,
+    "lon": -55.98,
+    "borders_states": [
+     510,
+     946
+    ]
+   },
+   {
+    "id": 4589,
+    "lat": -30.42,
+    "lon": -53.65
+   },
+   {
+    "id": 4604,
+    "lat": -31.17,
+    "lon": -54.14,
+    "borders_states": [
+     945,
+     946
+    ]
+   },
+   {
+    "id": 5110,
+    "lat": -27.65,
+    "lon": -53.87,
+    "borders_states": [
+     503,
+     510
+    ]
+   },
+   {
+    "id": 7581,
+    "lat": -28.63,
+    "lon": -53.96,
+    "name": "Santa Maria",
+    "vp": 10.0
+   },
+   {
+    "id": 7594,
+    "lat": -29.42,
+    "lon": -52.11
+   },
+   {
+    "id": 7638,
+    "lat": -32.35,
+    "lon": -52.76,
+    "borders_states": [
+     945
+    ]
+   },
+   {
+    "id": 10447,
+    "lat": -30.53,
+    "lon": -51.44,
+    "name": "Porto Alegre",
+    "vp": 20.0
+   },
+   {
+    "id": 12396,
+    "lat": -29.21,
+    "lon": -50.61,
+    "borders_states": [
+     503
+    ]
+   }
+  ]
+ },
+ {
+  "id": 503,
+  "name": "Santa Catarina",
+  "file": "503-Santa Catarina.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 5356400,
+  "category": "city",
+  "centroid": [
+   -27.26,
+   -51.24
+  ],
+  "neighbour_states": [
+   502,
+   510,
+   944
+  ],
+  "provinces": [
+   {
+    "id": 1529,
+    "lat": -27.17,
+    "lon": -51.45,
+    "borders_states": [
+     502,
+     944
+    ]
+   },
+   {
+    "id": 4548,
+    "lat": -28.39,
+    "lon": -49.76,
+    "name": "Florianópolis",
+    "vp": 10.0,
+    "borders_states": [
+     502
+    ]
+   },
+   {
+    "id": 10405,
+    "lat": -27.31,
+    "lon": -49.7,
+    "name": "Joinville",
+    "vp": 10.0,
+    "borders_states": [
+     944
+    ]
+   },
+   {
+    "id": 12466,
+    "lat": -26.33,
+    "lon": -53.34,
+    "borders_states": [
+     502,
+     510,
+     944
+    ]
+   }
+  ]
+ },
+ {
+  "id": 504,
+  "name": "Iguaçú",
+  "file": "504-Iguacu.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 1628000,
+  "category": "large_town",
+  "centroid": [
+   -21.58,
+   -55.86
+  ],
+  "neighbour_states": [
+   280,
+   301,
+   487,
+   501,
+   688,
+   944
+  ],
+  "provinces": [
+   {
+    "id": 5200,
+    "lat": -20.99,
+    "lon": -57.48,
+    "borders_states": [
+     280,
+     301,
+     487,
+     688
+    ]
+   },
+   {
+    "id": 8224,
+    "lat": -22.64,
+    "lon": -54.73,
+    "borders_states": [
+     280,
+     301,
+     501,
+     944
+    ]
+   },
+   {
+    "id": 12951,
+    "lat": -21.02,
+    "lon": -55.57,
+    "name": "Campo Grande",
+    "vp": 10.0,
+    "borders_states": [
+     280,
+     301
+    ]
+   }
+  ]
+ },
+ {
+  "id": 505,
+  "name": "Goiás",
+  "file": "505-Goias.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 7054400,
+  "category": "metropolis",
+  "centroid": [
+   -16.19,
+   -51.18
+  ],
+  "neighbour_states": [
+   280,
+   496,
+   941
+  ],
+  "provinces": [
+   {
+    "id": 5115,
+    "lat": -18.1,
+    "lon": -51.69,
+    "borders_states": [
+     280,
+     496
+    ]
+   },
+   {
+    "id": 5148,
+    "lat": -15.3,
+    "lon": -53.16,
+    "borders_states": [
+     280,
+     941
+    ]
+   },
+   {
+    "id": 5208,
+    "lat": -15.16,
+    "lon": -48.48,
+    "name": "Brasilia",
+    "vp": 30.0,
+    "borders_states": [
+     496,
+     941
+    ]
+   },
+   {
+    "id": 8140,
+    "lat": -17.12,
+    "lon": -48.54,
+    "borders_states": [
+     496
+    ]
+   },
+   {
+    "id": 12959,
+    "lat": -14.56,
+    "lon": -50.32,
+    "borders_states": [
+     941
+    ]
+   },
+   {
+    "id": 12987,
+    "lat": -16.35,
+    "lon": -51.1,
+    "name": "Goiânia",
+    "vp": 10.0
+   }
+  ]
+ },
+ {
+  "id": 506,
+  "name": "Antofagasta",
+  "file": "506-Northern Chile.txt",
+  "owner": "CHL",
+  "cores": [
+   "CHL"
+  ],
+  "claims": [
+   "BOL"
+  ],
+  "manpower": 495700,
+  "category": "large_town",
+  "centroid": [
+   -23.42,
+   -69.18
+  ],
+  "neighbour_states": [
+   302,
+   508,
+   951,
+   952,
+   959
+  ],
+  "provinces": [
+   {
+    "id": 5146,
+    "lat": -23.57,
+    "lon": -68.75,
+    "borders_states": [
+     508
+    ]
+   },
+   {
+    "id": 5171,
+    "lat": -24.91,
+    "lon": -69.61,
+    "borders_states": [
+     508,
+     952
+    ]
+   },
+   {
+    "id": 12994,
+    "lat": -23.38,
+    "lon": -69.83,
+    "vp": 20.0
+   },
+   {
+    "id": 13301,
+    "lat": -21.9,
+    "lon": -69.7,
+    "borders_states": [
+     951
+    ]
+   },
+   {
+    "id": 13302,
+    "lat": -22.13,
+    "lon": -68.55,
+    "name": "Calama",
+    "vp": 5.0,
+    "borders_states": [
+     302,
+     951
+    ]
+   },
+   {
+    "id": 13304,
+    "lat": -23.37,
+    "lon": -67.83,
+    "borders_states": [
+     302,
+     508,
+     959
+    ]
+   }
+  ]
+ },
+ {
+  "id": 507,
+  "name": "Magallanes",
+  "file": "507-Southern Chile.txt",
+  "owner": "CHL",
+  "cores": [
+   "CHL"
+  ],
+  "claims": [],
+  "manpower": 151400,
+  "category": "pastoral",
+  "centroid": [
+   -48.21,
+   -69.21
+  ],
+  "neighbour_states": [
+   949,
+   953,
+   954
+  ],
+  "provinces": [
+   {
+    "id": 5201,
+    "lat": -48.0,
+    "lon": -68.69,
+    "name": "Punta Delgada",
+    "vp": 10.0,
+    "borders_states": [
+     954
+    ]
+   },
+   {
+    "id": 5209,
+    "lat": -49.06,
+    "lon": -67.63,
+    "borders_states": [
+     953
+    ]
+   },
+   {
+    "id": 5215,
+    "lat": -48.75,
+    "lon": -69.44,
+    "name": "Punta Arenas",
+    "vp": 20.0
+   },
+   {
+    "id": 8218,
+    "lat": -47.18,
+    "lon": -70.79,
+    "borders_states": [
+     949,
+     954
+    ]
+   },
+   {
+    "id": 8913,
+    "lat": -48.88,
+    "lon": -68.27,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 508,
+  "name": "Tucuman",
+  "file": "508-Argentine Northwest.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 1698000,
+  "category": "large_town",
+  "centroid": [
+   -25.83,
+   -66.46
+  ],
+  "neighbour_states": [
+   506,
+   509,
+   952,
+   959,
+   960
+  ],
+  "provinces": [
+   {
+    "id": 8195,
+    "lat": -25.79,
+    "lon": -67.46,
+    "borders_states": [
+     506,
+     952,
+     959,
+     960
+    ]
+   },
+   {
+    "id": 8216,
+    "lat": -25.64,
+    "lon": -65.0,
+    "name": "Tucumán",
+    "vp": 10.0,
+    "borders_states": [
+     509,
+     959
+    ]
+   },
+   {
+    "id": 13309,
+    "lat": -26.75,
+    "lon": -65.77,
+    "name": "Catamarca",
+    "vp": 5.0,
+    "borders_states": [
+     509,
+     960
+    ]
+   },
+   {
+    "id": 13310,
+    "lat": -24.72,
+    "lon": -67.84,
+    "borders_states": [
+     506,
+     959
+    ]
+   }
+  ]
+ },
+ {
+  "id": 509,
+  "name": "Chaco Austral",
+  "file": "509-Gran Chaco.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 1815500,
+  "category": "town",
+  "centroid": [
+   -26.97,
+   -62.31
+  ],
+  "neighbour_states": [
+   301,
+   508,
+   510,
+   956,
+   957,
+   958,
+   959,
+   960
+  ],
+  "provinces": [
+   {
+    "id": 2106,
+    "lat": -26.54,
+    "lon": -60.13,
+    "name": "Resistencia",
+    "vp": 5.0,
+    "borders_states": [
+     301,
+     510,
+     957
+    ]
+   },
+   {
+    "id": 2208,
+    "lat": -26.44,
+    "lon": -63.03
+   },
+   {
+    "id": 5143,
+    "lat": -27.36,
+    "lon": -64.44,
+    "borders_states": [
+     508,
+     960
+    ]
+   },
+   {
+    "id": 5213,
+    "lat": -27.69,
+    "lon": -60.63,
+    "borders_states": [
+     510,
+     956
+    ]
+   },
+   {
+    "id": 8169,
+    "lat": -28.34,
+    "lon": -61.96,
+    "borders_states": [
+     956
+    ]
+   },
+   {
+    "id": 8255,
+    "lat": -29.02,
+    "lon": -63.67,
+    "borders_states": [
+     956,
+     958,
+     960
+    ]
+   },
+   {
+    "id": 10965,
+    "lat": -24.44,
+    "lon": -63.58,
+    "borders_states": [
+     508,
+     957,
+     959
+    ]
+   },
+   {
+    "id": 10986,
+    "lat": -25.2,
+    "lon": -61.95,
+    "borders_states": [
+     957
+    ]
+   }
+  ]
+ },
+ {
+  "id": 510,
+  "name": "Mesopotamia",
+  "file": "510-Mesopotamia.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 3100100,
+  "category": "large_town",
+  "centroid": [
+   -29.87,
+   -58.06
+  ],
+  "neighbour_states": [
+   278,
+   301,
+   502,
+   503,
+   509,
+   944,
+   946,
+   956
+  ],
+  "provinces": [
+   {
+    "id": 1449,
+    "lat": -32.12,
+    "lon": -59.8,
+    "name": "Paraná",
+    "vp": 10.0,
+    "borders_states": [
+     956
+    ]
+   },
+   {
+    "id": 8187,
+    "lat": -29.52,
+    "lon": -58.41,
+    "borders_states": [
+     502,
+     509,
+     946,
+     956
+    ]
+   },
+   {
+    "id": 8238,
+    "lat": -28.36,
+    "lon": -57.03,
+    "borders_states": [
+     301,
+     502
+    ]
+   },
+   {
+    "id": 10515,
+    "lat": -33.17,
+    "lon": -59.0,
+    "borders_states": [
+     278,
+     956
+    ]
+   },
+   {
+    "id": 10943,
+    "lat": -30.76,
+    "lon": -58.72,
+    "borders_states": [
+     946,
+     956
+    ]
+   },
+   {
+    "id": 11007,
+    "lat": -26.85,
+    "lon": -55.08,
+    "name": "Posadas",
+    "vp": 5.0,
+    "borders_states": [
+     301,
+     502,
+     503,
+     944
+    ]
+   },
+   {
+    "id": 12453,
+    "lat": -31.96,
+    "lon": -58.37,
+    "borders_states": [
+     946
+    ]
+   },
+   {
+    "id": 12964,
+    "lat": -28.01,
+    "lon": -58.52,
+    "name": "Corrientes",
+    "vp": 10.0,
+    "borders_states": [
+     301,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "id": 511,
+  "name": "Mendoza",
+  "file": "511-Cuyo.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 1603200,
+  "category": "city",
+  "centroid": [
+   -33.07,
+   -69.14
+  ],
+  "neighbour_states": [
+   279,
+   512,
+   958,
+   960
+  ],
+  "provinces": [
+   {
+    "id": 2179,
+    "lat": -31.52,
+    "lon": -70.1,
+    "borders_states": [
+     279,
+     960
+    ]
+   },
+   {
+    "id": 2215,
+    "lat": -35.26,
+    "lon": -69.26,
+    "borders_states": [
+     279,
+     512,
+     958
+    ]
+   },
+   {
+    "id": 8215,
+    "lat": -33.26,
+    "lon": -68.16,
+    "borders_states": [
+     958
+    ]
+   },
+   {
+    "id": 10964,
+    "lat": -31.36,
+    "lon": -68.63,
+    "name": "Mendoza",
+    "vp": 20.0,
+    "borders_states": [
+     958,
+     960
+    ]
+   },
+   {
+    "id": 10992,
+    "lat": -33.63,
+    "lon": -69.41,
+    "borders_states": [
+     279
+    ]
+   }
+  ]
+ },
+ {
+  "id": 512,
+  "name": "Patagonia",
+  "file": "512-Patagonia.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 1042300,
+  "category": "town",
+  "centroid": [
+   -38.63,
+   -66.92
+  ],
+  "neighbour_states": [
+   278,
+   279,
+   511,
+   950,
+   955,
+   958
+  ],
+  "provinces": [
+   {
+    "id": 2149,
+    "lat": -37.41,
+    "lon": -66.89,
+    "borders_states": [
+     278,
+     958
+    ]
+   },
+   {
+    "id": 2199,
+    "lat": -39.2,
+    "lon": -69.83,
+    "borders_states": [
+     950,
+     955
+    ]
+   },
+   {
+    "id": 8192,
+    "lat": -36.97,
+    "lon": -69.46,
+    "borders_states": [
+     279,
+     511,
+     950,
+     958
+    ]
+   },
+   {
+    "id": 10935,
+    "lat": -37.17,
+    "lon": -65.48,
+    "borders_states": [
+     278,
+     958
+    ]
+   },
+   {
+    "id": 10981,
+    "lat": -39.99,
+    "lon": -64.44
+   },
+   {
+    "id": 12306,
+    "lat": -38.37,
+    "lon": -67.9,
+    "name": "Neuquén",
+    "vp": 20.0
+   },
+   {
+    "id": 12321,
+    "lat": -39.47,
+    "lon": -63.5,
+    "name": "Viedma",
+    "vp": 10.0,
+    "borders_states": [
+     278
+    ]
+   },
+   {
+    "id": 12349,
+    "lat": -40.63,
+    "lon": -65.48,
+    "borders_states": [
+     955
+    ]
+   },
+   {
+    "id": 12982,
+    "lat": -39.91,
+    "lon": -67.39,
+    "borders_states": [
+     955
+    ]
+   }
+  ]
+ },
+ {
+  "id": 649,
+  "name": "Galapagos Islands",
+  "file": "649-Galapagos Islands.txt",
+  "owner": "ECU",
+  "cores": [
+   "ECU"
+  ],
+  "claims": [],
+  "manpower": 17500,
+  "category": "tiny_island",
+  "centroid": [
+   -2.19,
+   -91.08
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 5023,
+    "lat": -2.19,
+    "lon": -91.08,
+    "name": "Puerto Ayora",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 687,
+  "name": "British Guyana",
+  "file": "687-British Guyana.txt",
+  "owner": "GYA",
+  "cores": [
+   "GYA"
+  ],
+  "claims": [
+   "VEN"
+  ],
+  "manpower": 745000,
+  "category": "rural",
+  "centroid": [
+   4.55,
+   -59.42
+  ],
+  "neighbour_states": [
+   309,
+   488,
+   968,
+   969
+  ],
+  "provinces": [
+   {
+    "id": 4982,
+    "lat": 5.08,
+    "lon": -58.73,
+    "name": "Georgetown",
+    "vp": 1.0,
+    "borders_states": [
+     309,
+     969
+    ]
+   },
+   {
+    "id": 8107,
+    "lat": 2.3,
+    "lon": -59.2,
+    "borders_states": [
+     309,
+     968,
+     969
+    ]
+   },
+   {
+    "id": 12716,
+    "lat": 6.41,
+    "lon": -60.06,
+    "borders_states": [
+     488,
+     969
+    ]
+   }
+  ]
+ },
+ {
+  "id": 688,
+  "name": "Chaco Boreal",
+  "file": "688-Chaco Boreal.txt",
+  "owner": "PAR",
+  "cores": [
+   "PAR"
+  ],
+  "claims": [],
+  "manpower": 138100,
+  "category": "pastoral",
+  "centroid": [
+   -21.89,
+   -60.16
+  ],
+  "neighbour_states": [
+   301,
+   302,
+   487,
+   504,
+   957
+  ],
+  "provinces": [
+   {
+    "id": 2195,
+    "lat": -22.76,
+    "lon": -61.11,
+    "name": "Filadelfia",
+    "vp": 20.0,
+    "borders_states": [
+     957
+    ]
+   },
+   {
+    "id": 2209,
+    "lat": -23.61,
+    "lon": -59.09,
+    "borders_states": [
+     301,
+     957
+    ]
+   },
+   {
+    "id": 5165,
+    "lat": -20.09,
+    "lon": -59.74,
+    "name": "Mayor Pablo Lagerenza",
+    "vp": 10.0,
+    "borders_states": [
+     487,
+     504
+    ]
+   },
+   {
+    "id": 8203,
+    "lat": -21.05,
+    "lon": -61.67,
+    "borders_states": [
+     302,
+     487,
+     957
+    ]
+   },
+   {
+    "id": 10973,
+    "lat": -21.62,
+    "lon": -59.47,
+    "borders_states": [
+     301,
+     504
+    ]
+   }
+  ]
+ },
+ {
+  "id": 720,
+  "name": "South Georgia",
+  "file": "720-South Georgia.txt",
+  "owner": "ENG",
+  "cores": [
+   "ENG"
+  ],
+  "claims": [
+   "ARG"
+  ],
+  "manpower": 20,
+  "category": "tiny_island",
+  "centroid": [
+   -50.36,
+   -35.44
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 10995,
+    "lat": -50.36,
+    "lon": -35.44
+   }
+  ]
+ },
+ {
+  "id": 935,
+  "name": "STATE_935",
+  "file": "935 - Ceara.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 7430700,
+  "category": "large_city",
+  "centroid": [
+   -3.73,
+   -39.71
+  ],
+  "neighbour_states": [
+   498,
+   936,
+   937
+  ],
+  "provinces": [
+   {
+    "id": 2132,
+    "lat": -2.42,
+    "lon": -40.38,
+    "borders_states": [
+     937
+    ]
+   },
+   {
+    "id": 2178,
+    "lat": -4.54,
+    "lon": -40.13,
+    "borders_states": [
+     936,
+     937
+    ]
+   },
+   {
+    "id": 5107,
+    "lat": -3.35,
+    "lon": -38.92,
+    "name": "Fortaleza",
+    "vp": 10.0,
+    "borders_states": [
+     498
+    ]
+   },
+   {
+    "id": 8179,
+    "lat": -4.84,
+    "lon": -38.48,
+    "borders_states": [
+     498,
+     936
+    ]
+   }
+  ]
+ },
+ {
+  "id": 936,
+  "name": "STATE_936",
+  "file": "936 - Pernambuco.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 14184800,
+  "category": "large_city",
+  "centroid": [
+   -7.79,
+   -37.41
+  ],
+  "neighbour_states": [
+   498,
+   499,
+   935,
+   937
+  ],
+  "provinces": [
+   {
+    "id": 1446,
+    "lat": -7.76,
+    "lon": -35.85
+   },
+   {
+    "id": 1524,
+    "lat": -9.48,
+    "lon": -37.19,
+    "borders_states": [
+     499
+    ]
+   },
+   {
+    "id": 2164,
+    "lat": -6.42,
+    "lon": -39.45,
+    "borders_states": [
+     935,
+     937
+    ]
+   },
+   {
+    "id": 2227,
+    "lat": -6.78,
+    "lon": -34.97,
+    "borders_states": [
+     498
+    ]
+   },
+   {
+    "id": 5168,
+    "lat": -8.05,
+    "lon": -34.88,
+    "name": "Recife",
+    "vp": 20.0
+   },
+   {
+    "id": 5182,
+    "lat": -9.01,
+    "lon": -36.64
+   },
+   {
+    "id": 7561,
+    "lat": -6.68,
+    "lon": -37.68,
+    "borders_states": [
+     498,
+     935
+    ]
+   },
+   {
+    "id": 8227,
+    "lat": -8.09,
+    "lon": -39.9,
+    "borders_states": [
+     499,
+     937
+    ]
+   },
+   {
+    "id": 10345,
+    "lat": -8.41,
+    "lon": -38.14,
+    "borders_states": [
+     499
+    ]
+   },
+   {
+    "id": 10939,
+    "lat": -9.08,
+    "lon": -35.36
+   },
+   {
+    "id": 10967,
+    "lat": -8.57,
+    "lon": -35.88
+   },
+   {
+    "id": 10989,
+    "lat": -6.72,
+    "lon": -36.09,
+    "borders_states": [
+     498
+    ]
+   },
+   {
+    "id": 10998,
+    "lat": -9.81,
+    "lon": -36.06,
+    "borders_states": [
+     499
+    ]
+   },
+   {
+    "id": 12961,
+    "lat": -8.02,
+    "lon": -37.04
+   }
+  ]
+ },
+ {
+  "id": 937,
+  "name": "STATE_937",
+  "file": "937 - Piaui.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 2843300,
+  "category": "large_town",
+  "centroid": [
+   -7.12,
+   -43.26
+  ],
+  "neighbour_states": [
+   497,
+   499,
+   935,
+   936,
+   941
+  ],
+  "provinces": [
+   {
+    "id": 2228,
+    "lat": -3.31,
+    "lon": -41.99,
+    "borders_states": [
+     497,
+     935
+    ]
+   },
+   {
+    "id": 5153,
+    "lat": -6.0,
+    "lon": -41.65,
+    "name": "Teresina",
+    "vp": 10.0,
+    "borders_states": [
+     497,
+     935,
+     936
+    ]
+   },
+   {
+    "id": 5204,
+    "lat": -9.41,
+    "lon": -44.83,
+    "borders_states": [
+     497,
+     499
+    ]
+   },
+   {
+    "id": 10984,
+    "lat": -7.49,
+    "lon": -43.04,
+    "borders_states": [
+     497,
+     499,
+     936
+    ]
+   },
+   {
+    "id": 13275,
+    "lat": -9.16,
+    "lon": -46.32,
+    "borders_states": [
+     497,
+     499,
+     941
+    ]
+   }
+  ]
+ },
+ {
+  "id": 938,
+  "name": "STATE_938",
+  "file": "938 - Para.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 5842300,
+  "category": "city",
+  "centroid": [
+   -4.78,
+   -50.78
+  ],
+  "neighbour_states": [
+   280,
+   495,
+   497,
+   939,
+   941,
+   966,
+   968
+  ],
+  "provinces": [
+   {
+    "id": 2035,
+    "lat": -3.21,
+    "lon": -53.68,
+    "borders_states": [
+     495,
+     939,
+     966
+    ]
+   },
+   {
+    "id": 2214,
+    "lat": -5.53,
+    "lon": -50.21,
+    "borders_states": [
+     941
+    ]
+   },
+   {
+    "id": 10874,
+    "lat": -3.14,
+    "lon": -51.51,
+    "borders_states": [
+     966
+    ]
+   },
+   {
+    "id": 10956,
+    "lat": -7.68,
+    "lon": -51.71,
+    "borders_states": [
+     280,
+     941,
+     966
+    ]
+   },
+   {
+    "id": 12853,
+    "lat": -1.86,
+    "lon": -47.49,
+    "name": "Belém",
+    "vp": 10.0,
+    "borders_states": [
+     497
+    ]
+   },
+   {
+    "id": 12999,
+    "lat": -3.76,
+    "lon": -48.57,
+    "borders_states": [
+     497,
+     941
+    ]
+   },
+   {
+    "id": 13274,
+    "lat": -1.35,
+    "lon": -50.22
+   },
+   {
+    "id": 13354,
+    "lat": -2.31,
+    "lon": -54.94,
+    "borders_states": [
+     495,
+     939,
+     968
+    ]
+   }
+  ]
+ },
+ {
+  "id": 939,
+  "name": "STATE_939",
+  "file": "939 - Amapa.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 477000,
+  "category": "rural",
+  "centroid": [
+   0.68,
+   -51.97
+  ],
+  "neighbour_states": [
+   310,
+   938,
+   968
+  ],
+  "provinces": [
+   {
+    "id": 4980,
+    "lat": -0.87,
+    "lon": -52.31,
+    "name": "Macapá",
+    "vp": 10.0,
+    "borders_states": [
+     938,
+     968
+    ]
+   },
+   {
+    "id": 13276,
+    "lat": 1.73,
+    "lon": -51.74,
+    "borders_states": [
+     310,
+     968
+    ]
+   }
+  ]
+ },
+ {
+  "id": 940,
+  "name": "STATE_940",
+  "file": "940 - Acre.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 557500,
+  "category": "rural",
+  "centroid": [
+   -9.39,
+   -70.75
+  ],
+  "neighbour_states": [
+   487,
+   494,
+   495,
+   963,
+   964
+  ],
+  "provinces": [
+   {
+    "id": 13278,
+    "lat": -10.13,
+    "lon": -69.13,
+    "name": "Rio Branco",
+    "vp": 2.0,
+    "borders_states": [
+     487,
+     494,
+     495,
+     963,
+     964
+    ]
+   },
+   {
+    "id": 13279,
+    "lat": -8.86,
+    "lon": -71.67,
+    "borders_states": [
+     494,
+     964
+    ]
+   },
+   {
+    "id": 13280,
+    "lat": -8.48,
+    "lon": -73.54,
+    "borders_states": [
+     494,
+     964
+    ]
+   }
+  ]
+ },
+ {
+  "id": 941,
+  "name": "STATE_941",
+  "file": "941 - Tocantins.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 1157100,
+  "category": "rural",
+  "centroid": [
+   -10.98,
+   -48.42
+  ],
+  "neighbour_states": [
+   280,
+   496,
+   497,
+   499,
+   505,
+   937,
+   938
+  ],
+  "provinces": [
+   {
+    "id": 2168,
+    "lat": -8.83,
+    "lon": -49.05,
+    "borders_states": [
+     280,
+     497,
+     938
+    ]
+   },
+   {
+    "id": 5151,
+    "lat": -10.32,
+    "lon": -47.54,
+    "name": "Palmas",
+    "vp": 1.0,
+    "borders_states": [
+     497,
+     499,
+     937
+    ]
+   },
+   {
+    "id": 13281,
+    "lat": -12.82,
+    "lon": -49.67,
+    "borders_states": [
+     280,
+     505
+    ]
+   },
+   {
+    "id": 13282,
+    "lat": -13.55,
+    "lon": -47.29,
+    "borders_states": [
+     496,
+     499,
+     505
+    ]
+   }
+  ]
+ },
+ {
+  "id": 942,
+  "name": "STATE_942",
+  "file": "942 - Rondonia.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 1329800,
+  "category": "rural",
+  "centroid": [
+   -11.05,
+   -63.27
+  ],
+  "neighbour_states": [
+   280,
+   487,
+   495,
+   965
+  ],
+  "provinces": [
+   {
+    "id": 12939,
+    "lat": -10.99,
+    "lon": -64.31,
+    "name": "Porto Velho",
+    "vp": 2.0,
+    "borders_states": [
+     487,
+     495
+    ]
+   },
+   {
+    "id": 13283,
+    "lat": -10.14,
+    "lon": -62.45,
+    "borders_states": [
+     495,
+     965
+    ]
+   },
+   {
+    "id": 13284,
+    "lat": -12.42,
+    "lon": -62.33,
+    "borders_states": [
+     280,
+     487,
+     965
+    ]
+   }
+  ]
+ },
+ {
+  "id": 943,
+  "name": "STATE_943",
+  "file": "943 - Espirito Santo.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 3097200,
+  "category": "city",
+  "centroid": [
+   -19.62,
+   -40.7
+  ],
+  "neighbour_states": [
+   496,
+   499,
+   500
+  ],
+  "provinces": [
+   {
+    "id": 2153,
+    "lat": -20.83,
+    "lon": -41.35,
+    "borders_states": [
+     496,
+     500
+    ]
+   },
+   {
+    "id": 8196,
+    "lat": -18.59,
+    "lon": -40.49,
+    "borders_states": [
+     496,
+     499
+    ]
+   },
+   {
+    "id": 10999,
+    "lat": -19.98,
+    "lon": -40.42,
+    "name": "Serra",
+    "vp": 10.0,
+    "borders_states": [
+     496
+    ]
+   }
+  ]
+ },
+ {
+  "id": 944,
+  "name": "STATE_944",
+  "file": "944 - Parana.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 9563500,
+  "category": "large_city",
+  "centroid": [
+   -24.79,
+   -51.56
+  ],
+  "neighbour_states": [
+   301,
+   501,
+   503,
+   504,
+   510
+  ],
+  "provinces": [
+   {
+    "id": 2109,
+    "lat": -23.58,
+    "lon": -50.89,
+    "borders_states": [
+     501
+    ]
+   },
+   {
+    "id": 4533,
+    "lat": -26.26,
+    "lon": -49.37,
+    "borders_states": [
+     503
+    ]
+   },
+   {
+    "id": 4587,
+    "lat": -23.54,
+    "lon": -53.26,
+    "borders_states": [
+     301,
+     501,
+     504
+    ]
+   },
+   {
+    "id": 5156,
+    "lat": -26.16,
+    "lon": -51.26,
+    "borders_states": [
+     503
+    ]
+   },
+   {
+    "id": 5178,
+    "lat": -24.97,
+    "lon": -53.64,
+    "borders_states": [
+     301,
+     503,
+     510
+    ]
+   },
+   {
+    "id": 8181,
+    "lat": -25.12,
+    "lon": -49.43,
+    "name": "Curitiba",
+    "vp": 10.0,
+    "borders_states": [
+     501
+    ]
+   },
+   {
+    "id": 8239,
+    "lat": -24.79,
+    "lon": -51.43
+   }
+  ]
+ },
+ {
+  "id": 945,
+  "name": "STATE_945",
+  "file": "945 - Cerro Largo.txt",
+  "owner": "URG",
+  "cores": [
+   "URG"
+  ],
+  "claims": [],
+  "manpower": 344600,
+  "category": "town",
+  "centroid": [
+   -33.35,
+   -54.27
+  ],
+  "neighbour_states": [
+   300,
+   502,
+   946
+  ],
+  "provinces": [
+   {
+    "id": 1641,
+    "lat": -32.67,
+    "lon": -53.6,
+    "name": "Melo",
+    "vp": 10.0,
+    "borders_states": [
+     502,
+     946
+    ]
+   },
+   {
+    "id": 1654,
+    "lat": -33.68,
+    "lon": -55.23,
+    "name": "Florida",
+    "vp": 10.0,
+    "borders_states": [
+     300,
+     946
+    ]
+   },
+   {
+    "id": 10347,
+    "lat": -33.99,
+    "lon": -53.68,
+    "borders_states": [
+     300,
+     502
+    ]
+   },
+   {
+    "id": 12481,
+    "lat": -33.18,
+    "lon": -54.4,
+    "borders_states": [
+     946
+    ]
+   }
+  ]
+ },
+ {
+  "id": 946,
+  "name": "STATE_946",
+  "file": "946 - Paysandu.txt",
+  "owner": "URG",
+  "cores": [
+   "URG"
+  ],
+  "claims": [],
+  "manpower": 705600,
+  "category": "town",
+  "centroid": [
+   -31.87,
+   -56.39
+  ],
+  "neighbour_states": [
+   300,
+   502,
+   510,
+   945
+  ],
+  "provinces": [
+   {
+    "id": 1613,
+    "lat": -32.48,
+    "lon": -55.93,
+    "name": "Rincón del Bonete",
+    "borders_states": [
+     300,
+     945
+    ]
+   },
+   {
+    "id": 1626,
+    "lat": -31.78,
+    "lon": -55.0,
+    "borders_states": [
+     502,
+     945
+    ]
+   },
+   {
+    "id": 10502,
+    "lat": -32.85,
+    "lon": -57.36,
+    "name": "Paysandú",
+    "vp": 10.0,
+    "borders_states": [
+     300,
+     510
+    ]
+   },
+   {
+    "id": 12440,
+    "lat": -30.79,
+    "lon": -56.67,
+    "borders_states": [
+     502,
+     510
+    ]
+   },
+   {
+    "id": 12468,
+    "lat": -31.68,
+    "lon": -57.06,
+    "name": "Salto",
+    "vp": 20.0,
+    "borders_states": [
+     510
+    ]
+   }
+  ]
+ },
+ {
+  "id": 947,
+  "name": "STATE_947",
+  "file": "947 - Tacna.txt",
+  "owner": "PRU",
+  "cores": [
+   "PRU"
+  ],
+  "claims": [],
+  "manpower": 430200,
+  "category": "town",
+  "centroid": [
+   -17.28,
+   -70.57
+  ],
+  "neighbour_states": [
+   302,
+   492,
+   951
+  ],
+  "provinces": [
+   {
+    "id": 13086,
+    "lat": -17.57,
+    "lon": -70.17,
+    "name": "Tacna",
+    "vp": 2.0,
+    "borders_states": [
+     302,
+     492,
+     951
+    ]
+   },
+   {
+    "id": 13287,
+    "lat": -16.97,
+    "lon": -70.98,
+    "borders_states": [
+     492
+    ]
+   }
+  ]
+ },
+ {
+  "id": 948,
+  "name": "STATE_948",
+  "file": "948 - Easter Island.txt",
+  "owner": "CHL",
+  "cores": [
+   "CHL"
+  ],
+  "claims": [],
+  "manpower": 3700,
+  "category": "small_island",
+  "centroid": [
+   -31.57,
+   -90.99
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13294,
+    "lat": -31.57,
+    "lon": -90.99,
+    "name": "Hanga Roa",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 949,
+  "name": "STATE_949",
+  "file": "949 - Aysen.txt",
+  "owner": "CHL",
+  "cores": [
+   "CHL"
+  ],
+  "claims": [],
+  "manpower": 91800,
+  "category": "pastoral",
+  "centroid": [
+   -43.78,
+   -71.05
+  ],
+  "neighbour_states": [
+   507,
+   950,
+   954,
+   955
+  ],
+  "provinces": [
+   {
+    "id": 2161,
+    "lat": -43.36,
+    "lon": -70.56,
+    "name": "Coyhaique",
+    "vp": 2.0,
+    "borders_states": [
+     954,
+     955
+    ]
+   },
+   {
+    "id": 5118,
+    "lat": -41.79,
+    "lon": -70.71,
+    "borders_states": [
+     950,
+     955
+    ]
+   },
+   {
+    "id": 5159,
+    "lat": -43.63,
+    "lon": -72.02
+   },
+   {
+    "id": 8198,
+    "lat": -45.67,
+    "lon": -71.06,
+    "borders_states": [
+     507,
+     954
+    ]
+   },
+   {
+    "id": 10961,
+    "lat": -44.55,
+    "lon": -70.95,
+    "borders_states": [
+     954
+    ]
+   },
+   {
+    "id": 13295,
+    "lat": -45.69,
+    "lon": -72.06
+   }
+  ]
+ },
+ {
+  "id": 950,
+  "name": "STATE_950",
+  "file": "950 - Araucania.txt",
+  "owner": "CHL",
+  "cores": [
+   "CHL"
+  ],
+  "claims": [],
+  "manpower": 1949600,
+  "category": "town",
+  "centroid": [
+   -38.96,
+   -71.45
+  ],
+  "neighbour_states": [
+   279,
+   512,
+   949,
+   955
+  ],
+  "provinces": [
+   {
+    "id": 5121,
+    "lat": -37.86,
+    "lon": -71.89,
+    "name": "Temuco",
+    "vp": 5.0,
+    "borders_states": [
+     279
+    ]
+   },
+   {
+    "id": 5169,
+    "lat": -40.0,
+    "lon": -71.03,
+    "name": "Puerto Montt",
+    "vp": 10.0,
+    "borders_states": [
+     512,
+     949,
+     955
+    ]
+   },
+   {
+    "id": 12920,
+    "lat": -38.11,
+    "lon": -70.91,
+    "borders_states": [
+     279,
+     512
+    ]
+   },
+   {
+    "id": 12954,
+    "lat": -39.95,
+    "lon": -71.81
+   },
+   {
+    "id": 13297,
+    "lat": -41.45,
+    "lon": -72.02
+   }
+  ]
+ },
+ {
+  "id": 951,
+  "name": "STATE_951",
+  "file": "951 - Arica.txt",
+  "owner": "CHL",
+  "cores": [
+   "CHL"
+  ],
+  "claims": [
+   "PRU"
+  ],
+  "manpower": 430100,
+  "category": "large_town",
+  "centroid": [
+   -19.75,
+   -69.36
+  ],
+  "neighbour_states": [
+   302,
+   506,
+   947
+  ],
+  "provinces": [
+   {
+    "id": 5131,
+    "lat": -18.54,
+    "lon": -69.52,
+    "name": "Arica",
+    "vp": 3.0,
+    "borders_states": [
+     302,
+     947
+    ]
+   },
+   {
+    "id": 8217,
+    "lat": -20.68,
+    "lon": -69.71,
+    "name": "Iquique",
+    "vp": 10.0,
+    "borders_states": [
+     506
+    ]
+   },
+   {
+    "id": 8231,
+    "lat": -20.92,
+    "lon": -68.81,
+    "borders_states": [
+     302,
+     506
+    ]
+   },
+   {
+    "id": 13303,
+    "lat": -19.66,
+    "lon": -69.25,
+    "borders_states": [
+     302
+    ]
+   }
+  ]
+ },
+ {
+  "id": 952,
+  "name": "STATE_952",
+  "file": "952 - Atacama.txt",
+  "owner": "CHL",
+  "cores": [
+   "CHL"
+  ],
+  "claims": [],
+  "manpower": 255200,
+  "category": "town",
+  "centroid": [
+   -27.42,
+   -70.19
+  ],
+  "neighbour_states": [
+   279,
+   506,
+   508,
+   960
+  ],
+  "provinces": [
+   {
+    "id": 5192,
+    "lat": -26.67,
+    "lon": -69.29,
+    "borders_states": [
+     506,
+     508,
+     960
+    ]
+   },
+   {
+    "id": 5228,
+    "lat": -28.54,
+    "lon": -71.04,
+    "name": "Copiapó",
+    "vp": 10.0,
+    "borders_states": [
+     279
+    ]
+   },
+   {
+    "id": 11000,
+    "lat": -26.46,
+    "lon": -70.34,
+    "borders_states": [
+     506
+    ]
+   },
+   {
+    "id": 12914,
+    "lat": -28.63,
+    "lon": -70.25,
+    "borders_states": [
+     279,
+     960
+    ]
+   }
+  ]
+ },
+ {
+  "id": 953,
+  "name": "STATE_953",
+  "file": "953 - Tierra del Fuego.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 102600,
+  "category": "pastoral",
+  "centroid": [
+   -49.56,
+   -66.22
+  ],
+  "neighbour_states": [
+   507
+  ],
+  "provinces": [
+   {
+    "id": 11009,
+    "lat": -49.08,
+    "lon": -66.71,
+    "borders_states": [
+     507
+    ]
+   },
+   {
+    "id": 13299,
+    "lat": -49.75,
+    "lon": -65.47
+   },
+   {
+    "id": 13300,
+    "lat": -49.74,
+    "lon": -66.58,
+    "name": "Ushuaia",
+    "vp": 5.0,
+    "borders_states": [
+     507
+    ]
+   }
+  ]
+ },
+ {
+  "id": 954,
+  "name": "STATE_954",
+  "file": "954 - Santa Cruz.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 339000,
+  "category": "pastoral",
+  "centroid": [
+   -45.56,
+   -68.24
+  ],
+  "neighbour_states": [
+   507,
+   949,
+   955
+  ],
+  "provinces": [
+   {
+    "id": 2169,
+    "lat": -44.33,
+    "lon": -68.84,
+    "borders_states": [
+     949,
+     955
+    ]
+   },
+   {
+    "id": 5173,
+    "lat": -46.83,
+    "lon": -68.05,
+    "name": "Rio Gallegos",
+    "vp": 10.0,
+    "borders_states": [
+     507
+    ]
+   },
+   {
+    "id": 12946,
+    "lat": -45.89,
+    "lon": -69.54,
+    "borders_states": [
+     507,
+     949
+    ]
+   },
+   {
+    "id": 12952,
+    "lat": -45.2,
+    "lon": -66.71
+   },
+   {
+    "id": 13305,
+    "lat": -43.9,
+    "lon": -66.95,
+    "name": "Comodoro Rivadavia",
+    "vp": 20.0,
+    "borders_states": [
+     955
+    ]
+   }
+  ]
+ },
+ {
+  "id": 955,
+  "name": "STATE_955",
+  "file": "955 - Chubut.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 280300,
+  "category": "rural",
+  "centroid": [
+   -42.06,
+   -67.39
+  ],
+  "neighbour_states": [
+   512,
+   949,
+   950,
+   954
+  ],
+  "provinces": [
+   {
+    "id": 8161,
+    "lat": -41.54,
+    "lon": -69.29,
+    "name": "Esquel",
+    "vp": 10.0,
+    "borders_states": [
+     512,
+     949,
+     950
+    ]
+   },
+   {
+    "id": 8176,
+    "lat": -42.91,
+    "lon": -67.35,
+    "borders_states": [
+     954
+    ]
+   },
+   {
+    "id": 10953,
+    "lat": -42.78,
+    "lon": -65.28,
+    "name": "Rawson",
+    "borders_states": [
+     954
+    ]
+   },
+   {
+    "id": 11005,
+    "lat": -41.6,
+    "lon": -67.01,
+    "borders_states": [
+     512
+    ]
+   },
+   {
+    "id": 13296,
+    "lat": -41.73,
+    "lon": -63.34
+   },
+   {
+    "id": 13306,
+    "lat": -43.32,
+    "lon": -69.13,
+    "borders_states": [
+     949,
+     954
+    ]
+   },
+   {
+    "id": 13307,
+    "lat": -41.48,
+    "lon": -65.15,
+    "name": "Puerto Madryn",
+    "vp": 10.0,
+    "borders_states": [
+     512
+    ]
+   }
+  ]
+ },
+ {
+  "id": 956,
+  "name": "STATE_956",
+  "file": "956 - Santa Fe.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 3045400,
+  "category": "city",
+  "centroid": [
+   -31.54,
+   -61.94
+  ],
+  "neighbour_states": [
+   278,
+   509,
+   510,
+   958
+  ],
+  "provinces": [
+   {
+    "id": 2172,
+    "lat": -30.06,
+    "lon": -60.18,
+    "borders_states": [
+     509,
+     510
+    ]
+   },
+   {
+    "id": 5163,
+    "lat": -31.38,
+    "lon": -61.43,
+    "name": "Santa Fe de la Vera Cruz",
+    "vp": 10.0,
+    "borders_states": [
+     510
+    ]
+   },
+   {
+    "id": 7500,
+    "lat": -32.74,
+    "lon": -61.12,
+    "name": "Rosario",
+    "vp": 20.0,
+    "borders_states": [
+     278,
+     510
+    ]
+   },
+   {
+    "id": 8208,
+    "lat": -33.68,
+    "lon": -62.5,
+    "borders_states": [
+     278,
+     958
+    ]
+   },
+   {
+    "id": 10985,
+    "lat": -32.36,
+    "lon": -63.12,
+    "borders_states": [
+     958
+    ]
+   },
+   {
+    "id": 10975,
+    "lat": -30.56,
+    "lon": -63.07,
+    "borders_states": [
+     509,
+     958
+    ]
+   },
+   {
+    "id": 13000,
+    "lat": -29.95,
+    "lon": -61.48,
+    "borders_states": [
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "id": 957,
+  "name": "STATE_957",
+  "file": "957 - Formosa.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 554700,
+  "category": "rural",
+  "centroid": [
+   -24.11,
+   -61.33
+  ],
+  "neighbour_states": [
+   301,
+   302,
+   509,
+   688,
+   959
+  ],
+  "provinces": [
+   {
+    "id": 10944,
+    "lat": -22.81,
+    "lon": -63.39,
+    "borders_states": [
+     302,
+     509,
+     688,
+     959
+    ]
+   },
+   {
+    "id": 12922,
+    "lat": -25.29,
+    "lon": -59.51,
+    "name": "Formosa",
+    "vp": 10.0,
+    "borders_states": [
+     301,
+     509,
+     688
+    ]
+   },
+   {
+    "id": 12943,
+    "lat": -23.92,
+    "lon": -61.55,
+    "borders_states": [
+     509,
+     688
+    ]
+   }
+  ]
+ },
+ {
+  "id": 958,
+  "name": "STATE_958",
+  "file": "958 - San Luis.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 3789600,
+  "category": "city",
+  "centroid": [
+   -32.75,
+   -65.86
+  ],
+  "neighbour_states": [
+   278,
+   509,
+   511,
+   512,
+   956,
+   960
+  ],
+  "provinces": [
+   {
+    "id": 2158,
+    "lat": -31.04,
+    "lon": -66.89,
+    "borders_states": [
+     511,
+     960
+    ]
+   },
+   {
+    "id": 5152,
+    "lat": -32.5,
+    "lon": -65.55,
+    "name": "Minister Pistarini Reservoir",
+    "borders_states": [
+     956
+    ]
+   },
+   {
+    "id": 5184,
+    "lat": -33.73,
+    "lon": -64.65,
+    "borders_states": [
+     278,
+     956
+    ]
+   },
+   {
+    "id": 5219,
+    "lat": -35.21,
+    "lon": -66.05,
+    "name": "Santa Rosa de Toay",
+    "vp": 10.0,
+    "borders_states": [
+     512
+    ]
+   },
+   {
+    "id": 7550,
+    "lat": -35.22,
+    "lon": -64.59,
+    "borders_states": [
+     278,
+     512
+    ]
+   },
+   {
+    "id": 11021,
+    "lat": -35.29,
+    "lon": -67.42,
+    "borders_states": [
+     511,
+     512
+    ]
+   },
+   {
+    "id": 11022,
+    "lat": -29.76,
+    "lon": -65.63,
+    "borders_states": [
+     509,
+     956,
+     960
+    ]
+   },
+   {
+    "id": 12942,
+    "lat": -31.2,
+    "lon": -64.56,
+    "name": "Córdoba",
+    "vp": 20.0,
+    "borders_states": [
+     956
+    ]
+   },
+   {
+    "id": 12970,
+    "lat": -33.24,
+    "lon": -66.74,
+    "borders_states": [
+     511
+    ]
+   }
+  ]
+ },
+ {
+  "id": 959,
+  "name": "STATE_959",
+  "file": "959 - Los Andes.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 1655200,
+  "category": "town",
+  "centroid": [
+   -23.75,
+   -65.81
+  ],
+  "neighbour_states": [
+   302,
+   506,
+   508,
+   509,
+   957
+  ],
+  "provinces": [
+   {
+    "id": 2224,
+    "lat": -22.72,
+    "lon": -65.83,
+    "name": "San Salvador de Jujuy",
+    "vp": 5.0,
+    "borders_states": [
+     302,
+     506,
+     957
+    ]
+   },
+   {
+    "id": 11001,
+    "lat": -24.04,
+    "lon": -66.11,
+    "name": "Salta",
+    "vp": 10.0,
+    "borders_states": [
+     506,
+     508
+    ]
+   },
+   {
+    "id": 13308,
+    "lat": -25.17,
+    "lon": -66.4,
+    "borders_states": [
+     508
+    ]
+   },
+   {
+    "id": 13311,
+    "lat": -24.24,
+    "lon": -64.53,
+    "borders_states": [
+     508,
+     509,
+     957
+    ]
+   }
+  ]
+ },
+ {
+  "id": 960,
+  "name": "STATE_960",
+  "file": "960 - San Juan.txt",
+  "owner": "ARG",
+  "cores": [
+   "ARG"
+  ],
+  "claims": [],
+  "manpower": 923600,
+  "category": "town",
+  "centroid": [
+   -28.4,
+   -67.84
+  ],
+  "neighbour_states": [
+   279,
+   508,
+   509,
+   511,
+   952,
+   958
+  ],
+  "provinces": [
+   {
+    "id": 2136,
+    "lat": -29.22,
+    "lon": -67.64,
+    "name": "San Juan",
+    "vp": 10.0,
+    "borders_states": [
+     511,
+     958
+    ]
+   },
+   {
+    "id": 8253,
+    "lat": -27.19,
+    "lon": -67.96,
+    "borders_states": [
+     508,
+     952
+    ]
+   },
+   {
+    "id": 12928,
+    "lat": -29.19,
+    "lon": -69.29,
+    "borders_states": [
+     279,
+     511,
+     952
+    ]
+   },
+   {
+    "id": 12978,
+    "lat": -28.03,
+    "lon": -66.23,
+    "name": "La Rioja",
+    "vp": 5.0,
+    "borders_states": [
+     508,
+     509,
+     958
+    ]
+   }
+  ]
+ },
+ {
+  "id": 961,
+  "name": "STATE_961",
+  "file": "961-Deep Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 20000,
+  "category": "wasteland",
+  "centroid": [
+   -1.94,
+   -65.7
+  ],
+  "neighbour_states": [
+   486,
+   495
+  ],
+  "provinces": [
+   {
+    "id": 12919,
+    "lat": -1.94,
+    "lon": -65.7,
+    "borders_states": [
+     486,
+     495
+    ]
+   }
+  ]
+ },
+ {
+  "id": 962,
+  "name": "STATE_962",
+  "file": "962-Deep Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 20000,
+  "category": "wasteland",
+  "centroid": [
+   -5.22,
+   -61.87
+  ],
+  "neighbour_states": [
+   495
+  ],
+  "provinces": [
+   {
+    "id": 13330,
+    "lat": -5.22,
+    "lon": -61.87,
+    "borders_states": [
+     495
+    ]
+   }
+  ]
+ },
+ {
+  "id": 963,
+  "name": "STATE_963",
+  "file": "963-Deep Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 40000,
+  "category": "wasteland",
+  "centroid": [
+   -8.34,
+   -65.27
+  ],
+  "neighbour_states": [
+   487,
+   495,
+   940
+  ],
+  "provinces": [
+   {
+    "id": 10960,
+    "lat": -9.08,
+    "lon": -66.22,
+    "borders_states": [
+     487,
+     495,
+     940
+    ]
+   },
+   {
+    "id": 12965,
+    "lat": -7.48,
+    "lon": -64.16,
+    "borders_states": [
+     495
+    ]
+   }
+  ]
+ },
+ {
+  "id": 964,
+  "name": "STATE_964",
+  "file": "964-Deep Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 130000,
+  "category": "wasteland",
+  "centroid": [
+   -6.11,
+   -69.19
+  ],
+  "neighbour_states": [
+   491,
+   494,
+   495,
+   940
+  ],
+  "provinces": [
+   {
+    "id": 2198,
+    "lat": -6.08,
+    "lon": -71.67,
+    "borders_states": [
+     491,
+     494,
+     495,
+     940
+    ]
+   },
+   {
+    "id": 5216,
+    "lat": -7.69,
+    "lon": -69.71,
+    "borders_states": [
+     495,
+     940
+    ]
+   },
+   {
+    "id": 8185,
+    "lat": -5.03,
+    "lon": -68.31,
+    "borders_states": [
+     495
+    ]
+   },
+   {
+    "id": 8254,
+    "lat": -5.71,
+    "lon": -66.53,
+    "borders_states": [
+     495
+    ]
+   }
+  ]
+ },
+ {
+  "id": 965,
+  "name": "STATE_965",
+  "file": "965-Deep Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 80000,
+  "category": "wasteland",
+  "centroid": [
+   -8.8,
+   -60.29
+  ],
+  "neighbour_states": [
+   280,
+   495,
+   942
+  ],
+  "provinces": [
+   {
+    "id": 2147,
+    "lat": -11.14,
+    "lon": -60.21,
+    "borders_states": [
+     280,
+     942
+    ]
+   },
+   {
+    "id": 5232,
+    "lat": -6.95,
+    "lon": -60.35,
+    "borders_states": [
+     280,
+     495,
+     942
+    ]
+   }
+  ]
+ },
+ {
+  "id": 966,
+  "name": "STATE_966",
+  "file": "966-Deep Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 30000,
+  "category": "wasteland",
+  "centroid": [
+   -7.38,
+   -55.26
+  ],
+  "neighbour_states": [
+   280,
+   495,
+   938
+  ],
+  "provinces": [
+   {
+    "id": 8172,
+    "lat": -7.38,
+    "lon": -55.26,
+    "borders_states": [
+     280,
+     495,
+     938
+    ]
+   }
+  ]
+ },
+ {
+  "id": 967,
+  "name": "STATE_967",
+  "file": "967-Deep Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 10000,
+  "category": "wasteland",
+  "centroid": [
+   1.48,
+   -63.67
+  ],
+  "neighbour_states": [
+   488,
+   495,
+   969
+  ],
+  "provinces": [
+   {
+    "id": 13285,
+    "lat": 1.48,
+    "lon": -63.67,
+    "borders_states": [
+     488,
+     495,
+     969
+    ]
+   }
+  ]
+ },
+ {
+  "id": 968,
+  "name": "STATE_968",
+  "file": "968-Deep Amazonas.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 40000,
+  "category": "wasteland",
+  "centroid": [
+   -0.38,
+   -57.41
+  ],
+  "neighbour_states": [
+   309,
+   310,
+   495,
+   687,
+   938,
+   939,
+   969
+  ],
+  "provinces": [
+   {
+    "id": 5008,
+    "lat": -0.58,
+    "lon": -59.46,
+    "borders_states": [
+     309,
+     495,
+     687,
+     969
+    ]
+   },
+   {
+    "id": 13277,
+    "lat": 0.1,
+    "lon": -55.23,
+    "borders_states": [
+     309,
+     310,
+     495,
+     938,
+     939
+    ]
+   },
+   {
+    "id": 13338,
+    "lat": -2.48,
+    "lon": -60.0,
+    "borders_states": [
+     495
+    ]
+   }
+  ]
+ },
+ {
+  "id": 969,
+  "name": "STATE_969",
+  "file": "969-Rio Branco.txt",
+  "owner": "BRA",
+  "cores": [
+   "BRA"
+  ],
+  "claims": [],
+  "manpower": 314400,
+  "category": "pastoral",
+  "centroid": [
+   3.04,
+   -61.49
+  ],
+  "neighbour_states": [
+   488,
+   495,
+   687,
+   967,
+   968
+  ],
+  "provinces": [
+   {
+    "id": 5214,
+    "lat": 3.13,
+    "lon": -60.89,
+    "name": "Boa Vista",
+    "vp": 1.0,
+    "borders_states": [
+     488,
+     495,
+     687,
+     968
+    ]
+   },
+   {
+    "id": 13340,
+    "lat": 2.46,
+    "lon": -61.86,
+    "borders_states": [
+     495,
+     967
+    ]
+   },
+   {
+    "id": 13361,
+    "lat": 3.48,
+    "lon": -62.25,
+    "borders_states": [
+     488,
+     967
+    ]
+   }
+  ]
+ }
+]

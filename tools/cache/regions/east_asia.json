@@ -1,0 +1,9151 @@
+[
+ {
+  "id": 1017,
+  "name": "STATE_1017",
+  "file": "1017 - Trung Bo.txt",
+  "owner": "VIN",
+  "cores": [
+   "VIN"
+  ],
+  "claims": [],
+  "manpower": 10110000,
+  "category": "town",
+  "centroid": [
+   18.59,
+   105.84
+  ],
+  "neighbour_states": [
+   286,
+   670,
+   671,
+   1068
+  ],
+  "provinces": [
+   {
+    "id": 1302,
+    "lat": 16.95,
+    "lon": 106.84,
+    "borders_states": [
+     670,
+     1068
+    ]
+   },
+   {
+    "id": 4379,
+    "lat": 16.4,
+    "lon": 107.35,
+    "name": "Hué",
+    "vp": 3.0,
+    "borders_states": [
+     286,
+     1068
+    ]
+   },
+   {
+    "id": 4397,
+    "lat": 18.8,
+    "lon": 105.48,
+    "borders_states": [
+     670
+    ]
+   },
+   {
+    "id": 7280,
+    "lat": 17.66,
+    "lon": 106.36,
+    "borders_states": [
+     670
+    ]
+   },
+   {
+    "id": 9988,
+    "lat": 19.5,
+    "lon": 104.63,
+    "borders_states": [
+     670
+    ]
+   },
+   {
+    "id": 10016,
+    "lat": 19.37,
+    "lon": 105.45
+   },
+   {
+    "id": 11909,
+    "lat": 20.06,
+    "lon": 105.24,
+    "borders_states": [
+     670,
+     671
+    ]
+   },
+   {
+    "id": 11936,
+    "lat": 19.99,
+    "lon": 105.75,
+    "borders_states": [
+     671
+    ]
+   },
+   {
+    "id": 12297,
+    "lat": 18.22,
+    "lon": 105.95,
+    "borders_states": [
+     670
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1018,
+  "name": "STATE_1018",
+  "file": "1018 - South Kyushu.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 2824000,
+  "category": "city",
+  "centroid": [
+   31.68,
+   130.97
+  ],
+  "neighbour_states": [
+   528
+  ],
+  "provinces": [
+   {
+    "id": 1020,
+    "lat": 31.87,
+    "lon": 131.34,
+    "name": "Miyazaki",
+    "vp": 2.0
+   },
+   {
+    "id": 1183,
+    "lat": 32.05,
+    "lon": 130.54
+   },
+   {
+    "id": 4102,
+    "lat": 31.51,
+    "lon": 130.43,
+    "name": "Kagoshima",
+    "vp": 15.0
+   },
+   {
+    "id": 4198,
+    "lat": 30.28,
+    "lon": 131.0
+   },
+   {
+    "id": 7178,
+    "lat": 32.42,
+    "lon": 131.47,
+    "borders_states": [
+     528
+    ]
+   },
+   {
+    "id": 11949,
+    "lat": 31.84,
+    "lon": 130.92
+   },
+   {
+    "id": 12006,
+    "lat": 32.31,
+    "lon": 130.94,
+    "borders_states": [
+     528
+    ]
+   },
+   {
+    "id": 12032,
+    "lat": 31.37,
+    "lon": 131.03
+   }
+  ]
+ },
+ {
+  "id": 1019,
+  "name": "STATE_1019",
+  "file": "1019 - South Tohoku.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 5736000,
+  "category": "large_city",
+  "centroid": [
+   37.87,
+   140.32
+  ],
+  "neighbour_states": [
+   282,
+   533,
+   534
+  ],
+  "provinces": [
+   {
+    "id": 1024,
+    "lat": 37.67,
+    "lon": 140.6
+   },
+   {
+    "id": 4067,
+    "lat": 38.57,
+    "lon": 140.17,
+    "name": "Sakata",
+    "borders_states": [
+     533,
+     534
+    ]
+   },
+   {
+    "id": 4122,
+    "lat": 37.21,
+    "lon": 139.63,
+    "borders_states": [
+     282,
+     534
+    ]
+   },
+   {
+    "id": 4153,
+    "lat": 37.89,
+    "lon": 140.03,
+    "borders_states": [
+     534
+    ]
+   },
+   {
+    "id": 4118,
+    "lat": 37.18,
+    "lon": 140.59,
+    "name": "Fukushima",
+    "vp": 2.0,
+    "borders_states": [
+     282
+    ]
+   },
+   {
+    "id": 7169,
+    "lat": 38.41,
+    "lon": 140.89,
+    "name": "Sendai",
+    "vp": 15.0,
+    "borders_states": [
+     533
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1020,
+  "name": "STATE_1020",
+  "file": "1020 - Sanin.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 1470000,
+  "category": "large_town",
+  "centroid": [
+   35.07,
+   133.08
+  ],
+  "neighbour_states": [
+   529,
+   531
+  ],
+  "provinces": [
+   {
+    "id": 1167,
+    "lat": 35.35,
+    "lon": 133.58,
+    "borders_states": [
+     529
+    ]
+   },
+   {
+    "id": 1191,
+    "lat": 34.81,
+    "lon": 132.36,
+    "borders_states": [
+     529
+    ]
+   },
+   {
+    "id": 7050,
+    "lat": 34.44,
+    "lon": 131.79,
+    "borders_states": [
+     529
+    ]
+   },
+   {
+    "id": 7145,
+    "lat": 35.2,
+    "lon": 132.91,
+    "name": "Matsue",
+    "borders_states": [
+     529
+    ]
+   },
+   {
+    "id": 10055,
+    "lat": 35.29,
+    "lon": 134.25,
+    "name": "Tottori",
+    "vp": 1.0,
+    "borders_states": [
+     529,
+     531
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1028,
+  "name": "STATE_1028",
+  "file": "1028 - Hamgyong.txt",
+  "owner": "NRK",
+  "cores": [
+   "NRK"
+  ],
+  "claims": [
+   "KOR"
+  ],
+  "manpower": 7963000,
+  "category": "town",
+  "centroid": [
+   40.74,
+   128.08
+  ],
+  "neighbour_states": [
+   328,
+   408,
+   527,
+   717,
+   1029
+  ],
+  "provinces": [
+   {
+    "id": 848,
+    "lat": 38.89,
+    "lon": 127.4,
+    "borders_states": [
+     527,
+     1029
+    ]
+   },
+   {
+    "id": 852,
+    "lat": 40.46,
+    "lon": 127.27
+   },
+   {
+    "id": 898,
+    "lat": 42.08,
+    "lon": 129.5,
+    "name": "Chongjin",
+    "vp": 1.0,
+    "borders_states": [
+     328,
+     717
+    ]
+   },
+   {
+    "id": 906,
+    "lat": 41.05,
+    "lon": 127.13,
+    "borders_states": [
+     328,
+     527
+    ]
+   },
+   {
+    "id": 959,
+    "lat": 41.05,
+    "lon": 129.34
+   },
+   {
+    "id": 978,
+    "lat": 40.17,
+    "lon": 126.77,
+    "borders_states": [
+     527
+    ]
+   },
+   {
+    "id": 3803,
+    "lat": 41.33,
+    "lon": 128.35,
+    "borders_states": [
+     328
+    ]
+   },
+   {
+    "id": 3852,
+    "lat": 40.3,
+    "lon": 128.3
+   },
+   {
+    "id": 3860,
+    "lat": 41.82,
+    "lon": 128.79,
+    "borders_states": [
+     328
+    ]
+   },
+   {
+    "id": 3981,
+    "lat": 40.08,
+    "lon": 127.73
+   },
+   {
+    "id": 3904,
+    "lat": 40.68,
+    "lon": 127.84
+   },
+   {
+    "id": 6928,
+    "lat": 39.75,
+    "lon": 127.25,
+    "name": "Hamhung",
+    "vp": 1.0
+   },
+   {
+    "id": 6922,
+    "lat": 40.62,
+    "lon": 128.9
+   },
+   {
+    "id": 6944,
+    "lat": 42.46,
+    "lon": 129.92,
+    "borders_states": [
+     408,
+     717
+    ]
+   },
+   {
+    "id": 6822,
+    "lat": 41.51,
+    "lon": 129.16
+   },
+   {
+    "id": 9899,
+    "lat": 41.14,
+    "lon": 127.64,
+    "borders_states": [
+     328
+    ]
+   },
+   {
+    "id": 11878,
+    "lat": 40.93,
+    "lon": 128.56
+   },
+   {
+    "id": 10083,
+    "lat": 39.16,
+    "lon": 126.92,
+    "borders_states": [
+     527
+    ]
+   },
+   {
+    "id": 11770,
+    "lat": 39.59,
+    "lon": 126.73,
+    "borders_states": [
+     527
+    ]
+   },
+   {
+    "id": 11775,
+    "lat": 40.68,
+    "lon": 126.66,
+    "borders_states": [
+     527
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1029,
+  "name": "STATE_1029",
+  "file": "1029 - Gangwon.txt",
+  "owner": "KOR",
+  "cores": [
+   "KOR"
+  ],
+  "claims": [
+   "NRK"
+  ],
+  "manpower": 2299000,
+  "category": "town",
+  "centroid": [
+   37.48,
+   128.23
+  ],
+  "neighbour_states": [
+   525,
+   527,
+   1028,
+   1030,
+   1031
+  ],
+  "provinces": [
+   {
+    "id": 1148,
+    "lat": 37.87,
+    "lon": 127.99,
+    "name": "Chuncheon",
+    "vp": 1.0,
+    "borders_states": [
+     525
+    ]
+   },
+   {
+    "id": 4004,
+    "lat": 38.17,
+    "lon": 127.43,
+    "borders_states": [
+     525,
+     527,
+     1028
+    ]
+   },
+   {
+    "id": 4103,
+    "lat": 36.66,
+    "lon": 128.5,
+    "borders_states": [
+     1030,
+     1031
+    ]
+   },
+   {
+    "id": 7021,
+    "lat": 37.55,
+    "lon": 128.29,
+    "borders_states": [
+     525
+    ]
+   },
+   {
+    "id": 9936,
+    "lat": 37.02,
+    "lon": 128.07,
+    "borders_states": [
+     525,
+     1031
+    ]
+   },
+   {
+    "id": 11958,
+    "lat": 38.36,
+    "lon": 127.92,
+    "borders_states": [
+     1028
+    ]
+   },
+   {
+    "id": 12011,
+    "lat": 37.24,
+    "lon": 128.77
+   },
+   {
+    "id": 11912,
+    "lat": 36.78,
+    "lon": 129.06,
+    "borders_states": [
+     1030
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1030,
+  "name": "STATE_1030",
+  "file": "1030 - Gyeongsang.txt",
+  "owner": "KOR",
+  "cores": [
+   "KOR"
+  ],
+  "claims": [
+   "NRK"
+  ],
+  "manpower": 12491000,
+  "category": "metropolis",
+  "centroid": [
+   35.56,
+   128.55
+  ],
+  "neighbour_states": [
+   1029,
+   1031
+  ],
+  "provinces": [
+   {
+    "id": 1054,
+    "lat": 34.88,
+    "lon": 128.08,
+    "borders_states": [
+     1031
+    ]
+   },
+   {
+    "id": 1081,
+    "lat": 35.83,
+    "lon": 128.12,
+    "borders_states": [
+     1031
+    ]
+   },
+   {
+    "id": 4056,
+    "lat": 35.49,
+    "lon": 129.2,
+    "name": "Busan",
+    "vp": 5.0
+   },
+   {
+    "id": 4086,
+    "lat": 35.55,
+    "lon": 128.69
+   },
+   {
+    "id": 7121,
+    "lat": 36.21,
+    "lon": 129.08,
+    "borders_states": [
+     1029
+    ]
+   },
+   {
+    "id": 10085,
+    "lat": 35.34,
+    "lon": 127.98,
+    "borders_states": [
+     1031
+    ]
+   },
+   {
+    "id": 12060,
+    "lat": 35.12,
+    "lon": 128.63
+   },
+   {
+    "id": 12089,
+    "lat": 36.08,
+    "lon": 128.62,
+    "name": "Daegu",
+    "vp": 1.0,
+    "borders_states": [
+     1029,
+     1031
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1031,
+  "name": "STATE_1031",
+  "file": "1031 - Chungcheong Jeolla.txt",
+  "owner": "KOR",
+  "cores": [
+   "KOR"
+  ],
+  "claims": [
+   "NRK"
+  ],
+  "manpower": 10050000,
+  "category": "city",
+  "centroid": [
+   35.51,
+   127.07
+  ],
+  "neighbour_states": [
+   525,
+   1029,
+   1030
+  ],
+  "provinces": [
+   {
+    "id": 1177,
+    "lat": 33.2,
+    "lon": 126.54,
+    "name": "Jeju"
+   },
+   {
+    "id": 4126,
+    "lat": 35.41,
+    "lon": 127.01,
+    "name": "Jeonju",
+    "vp": 1.0,
+    "borders_states": [
+     1030
+    ]
+   },
+   {
+    "id": 7175,
+    "lat": 35.95,
+    "lon": 126.82,
+    "name": "Gunsan"
+   },
+   {
+    "id": 7204,
+    "lat": 36.42,
+    "lon": 127.1,
+    "borders_states": [
+     525
+    ]
+   },
+   {
+    "id": 10110,
+    "lat": 34.94,
+    "lon": 126.57,
+    "name": "Gwangju",
+    "vp": 1.0
+   },
+   {
+    "id": 10115,
+    "lat": 36.41,
+    "lon": 127.89,
+    "name": "Cheongju",
+    "vp": 1.0,
+    "borders_states": [
+     525,
+     1029,
+     1030
+    ]
+   },
+   {
+    "id": 11948,
+    "lat": 34.42,
+    "lon": 126.65
+   },
+   {
+    "id": 11977,
+    "lat": 35.84,
+    "lon": 127.53,
+    "name": "Daejeon",
+    "vp": 1.0,
+    "borders_states": [
+     1030
+    ]
+   },
+   {
+    "id": 11992,
+    "lat": 36.48,
+    "lon": 126.5
+   },
+   {
+    "id": 12085,
+    "lat": 34.84,
+    "lon": 127.33,
+    "borders_states": [
+     1030
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1032,
+  "name": "STATE_1032",
+  "file": "1032 - Yanan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 16163875,
+  "category": "large_town",
+  "centroid": [
+   35.04,
+   108.57
+  ],
+  "neighbour_states": [
+   283,
+   607,
+   615,
+   622,
+   744,
+   1045
+  ],
+  "provinces": [
+   {
+    "id": 517,
+    "lat": 35.39,
+    "lon": 107.7,
+    "borders_states": [
+     283,
+     622,
+     1045
+    ]
+   },
+   {
+    "id": 5007,
+    "lat": 34.68,
+    "lon": 109.55,
+    "borders_states": [
+     607,
+     615,
+     744
+    ]
+   },
+   {
+    "id": 7208,
+    "lat": 35.61,
+    "lon": 109.95,
+    "borders_states": [
+     615,
+     622
+    ]
+   },
+   {
+    "id": 8049,
+    "lat": 35.44,
+    "lon": 108.85,
+    "name": "Yan'an",
+    "vp": 3.0,
+    "borders_states": [
+     622
+    ]
+   },
+   {
+    "id": 10733,
+    "lat": 34.45,
+    "lon": 107.11,
+    "borders_states": [
+     283,
+     744
+    ]
+   },
+   {
+    "id": 12156,
+    "lat": 34.52,
+    "lon": 108.31,
+    "borders_states": [
+     744
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1033,
+  "name": "STATE_1033",
+  "file": "1033 - Fangchenggang.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "GXC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 9200975,
+  "category": "town",
+  "centroid": [
+   21.82,
+   109.43
+  ],
+  "neighbour_states": [
+   592,
+   594,
+   671,
+   728
+  ],
+  "provinces": [
+   {
+    "id": 1018,
+    "lat": 22.07,
+    "lon": 109.11
+   },
+   {
+    "id": 4023,
+    "lat": 21.78,
+    "lon": 109.66,
+    "borders_states": [
+     594
+    ]
+   },
+   {
+    "id": 4160,
+    "lat": 20.56,
+    "lon": 110.18
+   },
+   {
+    "id": 7135,
+    "lat": 21.17,
+    "lon": 110.06,
+    "borders_states": [
+     728
+    ]
+   },
+   {
+    "id": 7192,
+    "lat": 22.44,
+    "lon": 109.69,
+    "borders_states": [
+     594
+    ]
+   },
+   {
+    "id": 10004,
+    "lat": 21.93,
+    "lon": 108.18,
+    "name": "Fangcheng",
+    "vp": 1.0,
+    "borders_states": [
+     594,
+     671
+    ]
+   },
+   {
+    "id": 10105,
+    "lat": 21.8,
+    "lon": 110.45,
+    "borders_states": [
+     592,
+     594,
+     728
+    ]
+   },
+   {
+    "id": 11926,
+    "lat": 22.53,
+    "lon": 108.76,
+    "borders_states": [
+     594
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1034,
+  "name": "STATE_1034",
+  "file": "1034 - Suzhou.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 26745250,
+  "category": "large_city",
+  "centroid": [
+   31.77,
+   120.35
+  ],
+  "neighbour_states": [
+   596,
+   598,
+   613,
+   749,
+   1035
+  ],
+  "provinces": [
+   {
+    "id": 996,
+    "lat": 31.39,
+    "lon": 119.45,
+    "borders_states": [
+     749,
+     1035
+    ]
+   },
+   {
+    "id": 1089,
+    "lat": 32.17,
+    "lon": 120.22,
+    "borders_states": [
+     598
+    ]
+   },
+   {
+    "id": 4091,
+    "lat": 32.3,
+    "lon": 120.93,
+    "name": "Nantong",
+    "vp": 1.0,
+    "borders_states": [
+     598
+    ]
+   },
+   {
+    "id": 7120,
+    "lat": 31.08,
+    "lon": 120.11,
+    "borders_states": [
+     596,
+     613,
+     749
+    ]
+   },
+   {
+    "id": 10076,
+    "lat": 31.64,
+    "lon": 120.53,
+    "name": "Suzhou",
+    "vp": 3.0,
+    "borders_states": [
+     613
+    ]
+   },
+   {
+    "id": 11928,
+    "lat": 31.88,
+    "lon": 121.5
+   },
+   {
+    "id": 11982,
+    "lat": 31.89,
+    "lon": 119.61,
+    "borders_states": [
+     598,
+     1035
+    ]
+   },
+   {
+    "id": 13142,
+    "lat": 31.54,
+    "lon": 120.05,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 1035,
+  "name": "STATE_1035",
+  "file": "1035 - Nanjing.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 12931100,
+  "category": "large_city",
+  "centroid": [
+   31.84,
+   118.73
+  ],
+  "neighbour_states": [
+   598,
+   606,
+   749,
+   1034
+  ],
+  "provinces": [
+   {
+    "id": 1099,
+    "lat": 31.26,
+    "lon": 118.64,
+    "borders_states": [
+     606,
+     749,
+     1034
+    ]
+   },
+   {
+    "id": 1146,
+    "lat": 31.84,
+    "lon": 118.43,
+    "borders_states": [
+     606
+    ]
+   },
+   {
+    "id": 4148,
+    "lat": 32.39,
+    "lon": 118.9,
+    "borders_states": [
+     598,
+     606
+    ]
+   },
+   {
+    "id": 11913,
+    "lat": 31.79,
+    "lon": 119.04,
+    "name": "Nanjing",
+    "vp": 20.0,
+    "borders_states": [
+     598,
+     1034
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1036,
+  "name": "STATE_1036",
+  "file": "1036 - Wuhan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 18414130,
+  "category": "metropolis",
+  "centroid": [
+   30.23,
+   114.25
+  ],
+  "neighbour_states": [
+   600,
+   602,
+   606,
+   620
+  ],
+  "provinces": [
+   {
+    "id": 4619,
+    "lat": 30.04,
+    "lon": 114.6,
+    "name": "Wuhan",
+    "vp": 10.0,
+    "borders_states": [
+     600,
+     602,
+     606
+    ]
+   },
+   {
+    "id": 7167,
+    "lat": 30.69,
+    "lon": 114.41,
+    "borders_states": [
+     606,
+     620
+    ]
+   },
+   {
+    "id": 12467,
+    "lat": 29.9,
+    "lon": 113.73,
+    "name": "Hankow",
+    "vp": 1.0,
+    "borders_states": [
+     602,
+     620
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1037,
+  "name": "STATE_1037",
+  "file": "1037 - Chongqing.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 33137720,
+  "category": "metropolis",
+  "centroid": [
+   29.06,
+   105.56
+  ],
+  "neighbour_states": [
+   325,
+   605,
+   748,
+   1041
+  ],
+  "provinces": [
+   {
+    "id": 4431,
+    "lat": 28.84,
+    "lon": 106.43,
+    "borders_states": [
+     605,
+     748
+    ]
+   },
+   {
+    "id": 6999,
+    "lat": 29.38,
+    "lon": 106.08,
+    "name": "Chongqing",
+    "vp": 20.0,
+    "borders_states": [
+     605
+    ]
+   },
+   {
+    "id": 7240,
+    "lat": 29.98,
+    "lon": 105.62,
+    "borders_states": [
+     605,
+     1041
+    ]
+   },
+   {
+    "id": 11972,
+    "lat": 28.21,
+    "lon": 105.22,
+    "name": "Yibin",
+    "vp": 1.0,
+    "borders_states": [
+     325,
+     748,
+     1041
+    ]
+   },
+   {
+    "id": 12705,
+    "lat": 29.02,
+    "lon": 104.97,
+    "borders_states": [
+     1041
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1038,
+  "name": "STATE_1038",
+  "file": "1038 - Jinan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 61387200,
+  "category": "large_town",
+  "centroid": [
+   36.11,
+   117.15
+  ],
+  "neighbour_states": [
+   597,
+   598,
+   607,
+   614
+  ],
+  "provinces": [
+   {
+    "id": 1069,
+    "lat": 36.57,
+    "lon": 117.48,
+    "name": "Jinan",
+    "vp": 5.0
+   },
+   {
+    "id": 1084,
+    "lat": 37.33,
+    "lon": 117.59
+   },
+   {
+    "id": 1124,
+    "lat": 35.12,
+    "lon": 118.76,
+    "borders_states": [
+     597,
+     598
+    ]
+   },
+   {
+    "id": 4010,
+    "lat": 34.71,
+    "lon": 115.99,
+    "borders_states": [
+     598,
+     607
+    ]
+   },
+   {
+    "id": 4037,
+    "lat": 35.83,
+    "lon": 117.45
+   },
+   {
+    "id": 4071,
+    "lat": 36.3,
+    "lon": 118.63,
+    "borders_states": [
+     597
+    ]
+   },
+   {
+    "id": 4181,
+    "lat": 35.15,
+    "lon": 118.19,
+    "name": "Linyi",
+    "vp": 1.0
+   },
+   {
+    "id": 7129,
+    "lat": 35.05,
+    "lon": 115.52,
+    "borders_states": [
+     607,
+     614
+    ]
+   },
+   {
+    "id": 7055,
+    "lat": 35.77,
+    "lon": 118.2,
+    "borders_states": [
+     597
+    ]
+   },
+   {
+    "id": 7092,
+    "lat": 36.76,
+    "lon": 115.71,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 7160,
+    "lat": 36.5,
+    "lon": 116.61
+   },
+   {
+    "id": 7189,
+    "lat": 37.0,
+    "lon": 117.15
+   },
+   {
+    "id": 7200,
+    "lat": 34.57,
+    "lon": 118.29,
+    "borders_states": [
+     598
+    ]
+   },
+   {
+    "id": 9956,
+    "lat": 34.53,
+    "lon": 117.55,
+    "borders_states": [
+     598
+    ]
+   },
+   {
+    "id": 9987,
+    "lat": 36.18,
+    "lon": 116.05
+   },
+   {
+    "id": 10003,
+    "lat": 37.4,
+    "lon": 116.33,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 10043,
+    "lat": 35.2,
+    "lon": 117.08,
+    "borders_states": [
+     598
+    ]
+   },
+   {
+    "id": 10072,
+    "lat": 35.96,
+    "lon": 116.82
+   },
+   {
+    "id": 10102,
+    "lat": 36.95,
+    "lon": 118.24,
+    "borders_states": [
+     597
+    ]
+   },
+   {
+    "id": 10119,
+    "lat": 37.72,
+    "lon": 117.85,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 11933,
+    "lat": 35.69,
+    "lon": 115.66,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 11962,
+    "lat": 36.93,
+    "lon": 116.42
+   },
+   {
+    "id": 11980,
+    "lat": 37.64,
+    "lon": 117.08,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 12015,
+    "lat": 35.14,
+    "lon": 117.68
+   },
+   {
+    "id": 12045,
+    "lat": 36.36,
+    "lon": 117.96
+   },
+   {
+    "id": 12069,
+    "lat": 35.38,
+    "lon": 116.41
+   },
+   {
+    "id": 12093,
+    "lat": 37.78,
+    "lon": 118.18,
+    "borders_states": [
+     597,
+     614
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1039,
+  "name": "STATE_1039",
+  "file": "1039 - Hebei-Chahar.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "MEN",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 3633700,
+  "category": "town",
+  "centroid": [
+   40.09,
+   115.32
+  ],
+  "neighbour_states": [
+   608,
+   609,
+   610,
+   611,
+   615,
+   621
+  ],
+  "provinces": [
+   {
+    "id": 1137,
+    "lat": 39.64,
+    "lon": 115.04,
+    "borders_states": [
+     608,
+     615
+    ]
+   },
+   {
+    "id": 1590,
+    "lat": 40.14,
+    "lon": 114.83,
+    "borders_states": [
+     611,
+     615,
+     621
+    ]
+   },
+   {
+    "id": 6904,
+    "lat": 40.32,
+    "lon": 115.87,
+    "name": "Kalgan",
+    "vp": 3.0,
+    "borders_states": [
+     608,
+     611
+    ]
+   },
+   {
+    "id": 9776,
+    "lat": 40.45,
+    "lon": 116.3,
+    "borders_states": [
+     608,
+     609,
+     610,
+     611
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1040,
+  "name": "STATE_1040",
+  "file": "1040 - Alxa.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW",
+   "MON"
+  ],
+  "manpower": 60900,
+  "category": "wasteland",
+  "centroid": [
+   40.89,
+   101.52
+  ],
+  "neighbour_states": [
+   616,
+   621,
+   756,
+   817,
+   1044
+  ],
+  "provinces": [
+   {
+    "id": 4783,
+    "lat": 41.4,
+    "lon": 101.15,
+    "name": "Ejin Banner",
+    "vp": 1.0,
+    "borders_states": [
+     817
+    ]
+   },
+   {
+    "id": 7727,
+    "lat": 41.65,
+    "lon": 99.06,
+    "borders_states": [
+     756,
+     817
+    ]
+   },
+   {
+    "id": 7803,
+    "lat": 40.98,
+    "lon": 104.64,
+    "borders_states": [
+     616,
+     621,
+     817
+    ]
+   },
+   {
+    "id": 8102,
+    "lat": 40.39,
+    "lon": 99.45,
+    "borders_states": [
+     756
+    ]
+   },
+   {
+    "id": 10770,
+    "lat": 39.83,
+    "lon": 101.33,
+    "borders_states": [
+     616,
+     756,
+     1044
+    ]
+   },
+   {
+    "id": 10899,
+    "lat": 40.79,
+    "lon": 102.91,
+    "borders_states": [
+     616,
+     817
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1041,
+  "name": "STATE_1041",
+  "file": "1041 - Chengdu.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 35159600,
+  "category": "metropolis",
+  "centroid": [
+   30.59,
+   104.51
+  ],
+  "neighbour_states": [
+   325,
+   605,
+   751,
+   753,
+   1037
+  ],
+  "provinces": [
+   {
+    "id": 1367,
+    "lat": 31.32,
+    "lon": 104.78,
+    "name": "Guanghan",
+    "vp": 1.0,
+    "borders_states": [
+     753
+    ]
+   },
+   {
+    "id": 1395,
+    "lat": 29.6,
+    "lon": 104.38,
+    "borders_states": [
+     1037
+    ]
+   },
+   {
+    "id": 4925,
+    "lat": 30.55,
+    "lon": 104.33,
+    "name": "Chengdu",
+    "vp": 10.0,
+    "borders_states": [
+     753,
+     1037
+    ]
+   },
+   {
+    "id": 8026,
+    "lat": 30.86,
+    "lon": 105.69,
+    "borders_states": [
+     605,
+     1037
+    ]
+   },
+   {
+    "id": 10132,
+    "lat": 31.86,
+    "lon": 104.13,
+    "borders_states": [
+     753
+    ]
+   },
+   {
+    "id": 12141,
+    "lat": 29.95,
+    "lon": 103.52,
+    "name": "Ya'an",
+    "borders_states": [
+     751,
+     753
+    ]
+   },
+   {
+    "id": 12767,
+    "lat": 31.92,
+    "lon": 105.51,
+    "borders_states": [
+     605,
+     753
+    ]
+   },
+   {
+    "id": 12819,
+    "lat": 28.74,
+    "lon": 103.66,
+    "borders_states": [
+     325,
+     751,
+     1037
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1042,
+  "name": "STATE_1042",
+  "file": "1042 - Khotan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "SIK",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 2142665,
+  "category": "rural",
+  "centroid": [
+   37.12,
+   84.6
+  ],
+  "neighbour_states": [
+   287,
+   322,
+   604,
+   619,
+   755,
+   758,
+   759,
+   787,
+   1086
+  ],
+  "provinces": [
+   {
+    "id": 1943,
+    "lat": 37.94,
+    "lon": 87.91,
+    "borders_states": [
+     287,
+     322,
+     759
+    ]
+   },
+   {
+    "id": 1970,
+    "lat": 36.93,
+    "lon": 77.22,
+    "name": "Yecheng",
+    "vp": 1.0,
+    "borders_states": [
+     287,
+     619,
+     787,
+     1086
+    ]
+   },
+   {
+    "id": 4973,
+    "lat": 36.43,
+    "lon": 81.79,
+    "name": "Hotan",
+    "vp": 3.0,
+    "borders_states": [
+     287,
+     758,
+     1086
+    ]
+   },
+   {
+    "id": 8112,
+    "lat": 36.89,
+    "lon": 79.14,
+    "borders_states": [
+     287,
+     1086
+    ]
+   },
+   {
+    "id": 10315,
+    "lat": 37.27,
+    "lon": 90.48,
+    "borders_states": [
+     322,
+     604,
+     755,
+     759
+    ]
+   },
+   {
+    "id": 10911,
+    "lat": 37.02,
+    "lon": 85.03,
+    "borders_states": [
+     287,
+     322,
+     758
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1044,
+  "name": "STATE_1044",
+  "file": "1044 - Wuwei.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "XSM",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 4211235,
+  "category": "rural",
+  "centroid": [
+   37.86,
+   102.6
+  ],
+  "neighbour_states": [
+   283,
+   616,
+   754,
+   755,
+   756,
+   1040,
+   1045
+  ],
+  "provinces": [
+   {
+    "id": 1630,
+    "lat": 36.49,
+    "lon": 104.01,
+    "borders_states": [
+     283,
+     616,
+     754,
+     1045
+    ]
+   },
+   {
+    "id": 5057,
+    "lat": 37.24,
+    "lon": 103.28,
+    "borders_states": [
+     616,
+     754
+    ]
+   },
+   {
+    "id": 5100,
+    "lat": 38.59,
+    "lon": 100.7,
+    "name": "Wuwei",
+    "vp": 1.0,
+    "borders_states": [
+     616,
+     755,
+     756,
+     1040
+    ]
+   },
+   {
+    "id": 12327,
+    "lat": 37.98,
+    "lon": 102.01,
+    "borders_states": [
+     616,
+     754,
+     755
+    ]
+   },
+   {
+    "id": 12776,
+    "lat": 38.44,
+    "lon": 103.47,
+    "borders_states": [
+     616
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1045,
+  "name": "STATE_1045",
+  "file": "1045 - Guyuan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "XSM",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 3000340,
+  "category": "rural",
+  "centroid": [
+   36.21,
+   106.28
+  ],
+  "neighbour_states": [
+   283,
+   616,
+   622,
+   1032,
+   1044
+  ],
+  "provinces": [
+   {
+    "id": 1985,
+    "lat": 36.33,
+    "lon": 105.87,
+    "borders_states": [
+     616
+    ]
+   },
+   {
+    "id": 3745,
+    "lat": 36.5,
+    "lon": 107.17,
+    "borders_states": [
+     616,
+     622
+    ]
+   },
+   {
+    "id": 5025,
+    "lat": 35.76,
+    "lon": 106.4,
+    "name": "Guyuan",
+    "vp": 1.0,
+    "borders_states": [
+     283,
+     622,
+     1032
+    ]
+   },
+   {
+    "id": 6638,
+    "lat": 36.17,
+    "lon": 105.07,
+    "borders_states": [
+     283,
+     616,
+     1044
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1046,
+  "name": "STATE_1046",
+  "file": "1046 - Yulin.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 3295705,
+  "category": "rural",
+  "centroid": [
+   37.51,
+   110.28
+  ],
+  "neighbour_states": [
+   615,
+   622,
+   746
+  ],
+  "provinces": [
+   {
+    "id": 1458,
+    "lat": 36.86,
+    "lon": 110.53,
+    "borders_states": [
+     615,
+     622
+    ]
+   },
+   {
+    "id": 7314,
+    "lat": 37.2,
+    "lon": 109.65,
+    "name": "Yulin",
+    "vp": 1.0,
+    "borders_states": [
+     622,
+     746
+    ]
+   },
+   {
+    "id": 7659,
+    "lat": 38.08,
+    "lon": 110.59,
+    "borders_states": [
+     615,
+     746
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1069,
+  "name": "STATE_1069",
+  "file": "1069 - Lan Chang.txt",
+  "owner": "LAO",
+  "cores": [
+   "LAO"
+  ],
+  "claims": [],
+  "manpower": 328000,
+  "category": "rural",
+  "centroid": [
+   18.99,
+   101.26
+  ],
+  "neighbour_states": [
+   670,
+   868,
+   869,
+   1077
+  ],
+  "provinces": [
+   {
+    "id": 10330,
+    "lat": 19.14,
+    "lon": 101.55,
+    "name": "Xayabuli",
+    "vp": 1.0,
+    "borders_states": [
+     670,
+     869
+    ]
+   },
+   {
+    "id": 10456,
+    "lat": 19.88,
+    "lon": 101.26,
+    "borders_states": [
+     670,
+     869
+    ]
+   },
+   {
+    "id": 10356,
+    "lat": 18.12,
+    "lon": 101.09,
+    "borders_states": [
+     670,
+     868,
+     869,
+     1077
+    ]
+   }
+  ]
+ },
+ {
+  "id": 282,
+  "name": "Kanto",
+  "file": "282-Japan.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 40434000,
+  "category": "megalopolis",
+  "centroid": [
+   36.1,
+   139.68
+  ],
+  "neighbour_states": [
+   532,
+   534,
+   1019
+  ],
+  "provinces": [
+   {
+    "id": 993,
+    "lat": 36.24,
+    "lon": 139.83,
+    "name": "Utsunomiya"
+   },
+   {
+    "id": 1097,
+    "lat": 35.96,
+    "lon": 139.15,
+    "name": "Saitama",
+    "borders_states": [
+     532
+    ]
+   },
+   {
+    "id": 1113,
+    "lat": 36.82,
+    "lon": 139.89,
+    "borders_states": [
+     1019
+    ]
+   },
+   {
+    "id": 1182,
+    "lat": 35.68,
+    "lon": 139.69,
+    "name": "Tokyo",
+    "vp": 50.0
+   },
+   {
+    "id": 4000,
+    "lat": 36.56,
+    "lon": 139.29,
+    "borders_states": [
+     534,
+     1019
+    ]
+   },
+   {
+    "id": 4100,
+    "lat": 36.05,
+    "lon": 140.35,
+    "name": "Hitachi"
+   },
+   {
+    "id": 4184,
+    "lat": 35.2,
+    "lon": 140.09
+   },
+   {
+    "id": 4188,
+    "lat": 35.68,
+    "lon": 140.35,
+    "name": "Chiba"
+   },
+   {
+    "id": 7016,
+    "lat": 36.6,
+    "lon": 140.39,
+    "name": "Iwaki",
+    "borders_states": [
+     1019
+    ]
+   },
+   {
+    "id": 9998,
+    "lat": 35.42,
+    "lon": 139.28,
+    "name": "Yokohama",
+    "borders_states": [
+     532
+    ]
+   },
+   {
+    "id": 11908,
+    "lat": 36.36,
+    "lon": 138.76,
+    "name": "Takasaki",
+    "borders_states": [
+     532,
+     534
+    ]
+   }
+  ]
+ },
+ {
+  "id": 283,
+  "name": "Gansu",
+  "file": "283-China.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "XSM",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 12845840,
+  "category": "town",
+  "centroid": [
+   34.68,
+   104.83
+  ],
+  "neighbour_states": [
+   605,
+   744,
+   753,
+   754,
+   1032,
+   1044,
+   1045
+  ],
+  "provinces": [
+   {
+    "id": 531,
+    "lat": 33.17,
+    "lon": 104.69,
+    "borders_states": [
+     605,
+     744,
+     753
+    ]
+   },
+   {
+    "id": 556,
+    "lat": 35.15,
+    "lon": 105.08,
+    "borders_states": [
+     1045
+    ]
+   },
+   {
+    "id": 1647,
+    "lat": 35.3,
+    "lon": 106.52,
+    "borders_states": [
+     1032,
+     1045
+    ]
+   },
+   {
+    "id": 1933,
+    "lat": 34.77,
+    "lon": 105.65,
+    "borders_states": [
+     744,
+     1032
+    ]
+   },
+   {
+    "id": 2022,
+    "lat": 35.61,
+    "lon": 104.01,
+    "name": "Lanzhou",
+    "vp": 3.0,
+    "borders_states": [
+     754,
+     1044,
+     1045
+    ]
+   },
+   {
+    "id": 4313,
+    "lat": 34.39,
+    "lon": 102.84,
+    "borders_states": [
+     753,
+     754
+    ]
+   },
+   {
+    "id": 7397,
+    "lat": 34.44,
+    "lon": 103.96,
+    "borders_states": [
+     753
+    ]
+   },
+   {
+    "id": 7911,
+    "lat": 33.93,
+    "lon": 105.63,
+    "name": "Tianshui",
+    "vp": 1.0,
+    "borders_states": [
+     744
+    ]
+   },
+   {
+    "id": 12797,
+    "lat": 34.88,
+    "lon": 103.87,
+    "borders_states": [
+     754
+    ]
+   },
+   {
+    "id": 12882,
+    "lat": 34.37,
+    "lon": 104.95,
+    "borders_states": [
+     744,
+     753
+    ]
+   }
+  ]
+ },
+ {
+  "id": 287,
+  "name": "Taklamakan",
+  "file": "287-Sinkiang.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "SIK",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 1837150,
+  "category": "rural",
+  "centroid": [
+   39.41,
+   83.04
+  ],
+  "neighbour_states": [
+   617,
+   619,
+   759,
+   1042
+  ],
+  "provinces": [
+   {
+    "id": 5016,
+    "lat": 38.97,
+    "lon": 79.92,
+    "borders_states": [
+     617,
+     619,
+     1042
+    ]
+   },
+   {
+    "id": 7790,
+    "lat": 38.36,
+    "lon": 78.21,
+    "borders_states": [
+     619,
+     1042
+    ]
+   },
+   {
+    "id": 8042,
+    "lat": 38.36,
+    "lon": 82.39,
+    "borders_states": [
+     1042
+    ]
+   },
+   {
+    "id": 8086,
+    "lat": 40.05,
+    "lon": 82.44,
+    "borders_states": [
+     617
+    ]
+   },
+   {
+    "id": 10885,
+    "lat": 39.86,
+    "lon": 85.27,
+    "borders_states": [
+     617,
+     1042
+    ]
+   },
+   {
+    "id": 12864,
+    "lat": 40.4,
+    "lon": 87.7,
+    "borders_states": [
+     617,
+     759,
+     1042
+    ]
+   }
+  ]
+ },
+ {
+  "id": 325,
+  "name": "Yunnan",
+  "file": "325-Yunnan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "YUN",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 31031595,
+  "category": "town",
+  "centroid": [
+   24.59,
+   103.0
+  ],
+  "neighbour_states": [
+   594,
+   603,
+   670,
+   671,
+   747,
+   748,
+   751,
+   993,
+   1037,
+   1041
+  ],
+  "provinces": [
+   {
+    "id": 1114,
+    "lat": 23.22,
+    "lon": 104.0,
+    "borders_states": [
+     671
+    ]
+   },
+   {
+    "id": 1172,
+    "lat": 24.02,
+    "lon": 105.47,
+    "borders_states": [
+     594,
+     671
+    ]
+   },
+   {
+    "id": 1196,
+    "lat": 23.58,
+    "lon": 104.88,
+    "borders_states": [
+     671
+    ]
+   },
+   {
+    "id": 1319,
+    "lat": 25.79,
+    "lon": 102.66,
+    "name": "Kunming",
+    "vp": 10.0,
+    "borders_states": [
+     747,
+     751
+    ]
+   },
+   {
+    "id": 1383,
+    "lat": 23.54,
+    "lon": 101.6
+   },
+   {
+    "id": 1522,
+    "lat": 22.9,
+    "lon": 102.66,
+    "borders_states": [
+     670,
+     671
+    ]
+   },
+   {
+    "id": 1653,
+    "lat": 24.18,
+    "lon": 104.26,
+    "borders_states": [
+     594
+    ]
+   },
+   {
+    "id": 4192,
+    "lat": 26.3,
+    "lon": 104.09,
+    "borders_states": [
+     603
+    ]
+   },
+   {
+    "id": 4501,
+    "lat": 23.77,
+    "lon": 102.95,
+    "name": "Mengzi",
+    "vp": 1.0
+   },
+   {
+    "id": 5072,
+    "lat": 27.76,
+    "lon": 104.24,
+    "name": "Zhenxiong",
+    "vp": 1.0,
+    "borders_states": [
+     603,
+     748,
+     751,
+     1037,
+     1041
+    ]
+   },
+   {
+    "id": 7446,
+    "lat": 25.16,
+    "lon": 103.12
+   },
+   {
+    "id": 7606,
+    "lat": 25.36,
+    "lon": 104.35,
+    "borders_states": [
+     594,
+     603
+    ]
+   },
+   {
+    "id": 8023,
+    "lat": 24.99,
+    "lon": 101.36,
+    "borders_states": [
+     747
+    ]
+   },
+   {
+    "id": 10346,
+    "lat": 24.24,
+    "lon": 101.98
+   },
+   {
+    "id": 10776,
+    "lat": 22.33,
+    "lon": 101.29,
+    "borders_states": [
+     670,
+     747,
+     993
+    ]
+   },
+   {
+    "id": 12262,
+    "lat": 23.65,
+    "lon": 100.72,
+    "name": "Pu'er",
+    "vp": 1.0,
+    "borders_states": [
+     747
+    ]
+   },
+   {
+    "id": 12282,
+    "lat": 24.63,
+    "lon": 103.71
+   },
+   {
+    "id": 12841,
+    "lat": 26.85,
+    "lon": 103.43,
+    "borders_states": [
+     603,
+     751
+    ]
+   }
+  ]
+ },
+ {
+  "id": 326,
+  "name": "Hong Kong",
+  "file": "326-HongKong.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "HOK",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 6630000,
+  "category": "metropolis",
+  "centroid": [
+   22.32,
+   114.17
+  ],
+  "neighbour_states": [
+   593
+  ],
+  "provinces": [
+   {
+    "id": 10062,
+    "lat": 22.32,
+    "lon": 114.17,
+    "name": "Hong Kong",
+    "vp": 3.0,
+    "borders_states": [
+     593
+    ]
+   }
+  ]
+ },
+ {
+  "id": 524,
+  "name": "Taiwan",
+  "file": "524-Taiwan.txt",
+  "owner": "TAW",
+  "cores": [
+   "TAW",
+   "CHI"
+  ],
+  "claims": [
+   "PRC"
+  ],
+  "manpower": 22090000,
+  "category": "metropolis",
+  "centroid": [
+   23.83,
+   120.93
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1091,
+    "lat": 23.66,
+    "lon": 120.32
+   },
+   {
+    "id": 1175,
+    "lat": 23.07,
+    "lon": 121.01
+   },
+   {
+    "id": 4096,
+    "lat": 23.82,
+    "lon": 121.27
+   },
+   {
+    "id": 7186,
+    "lat": 25.03,
+    "lon": 121.57,
+    "name": "Taipei",
+    "vp": 5.0
+   },
+   {
+    "id": 7214,
+    "lat": 24.77,
+    "lon": 121.0
+   },
+   {
+    "id": 9955,
+    "lat": 24.45,
+    "lon": 121.43
+   },
+   {
+    "id": 11914,
+    "lat": 22.47,
+    "lon": 120.68
+   },
+   {
+    "id": 11959,
+    "lat": 24.21,
+    "lon": 120.75
+   },
+   {
+    "id": 12027,
+    "lat": 23.61,
+    "lon": 120.82
+   },
+   {
+    "id": 12068,
+    "lat": 23.01,
+    "lon": 120.4,
+    "name": "Gaoxiong",
+    "vp": 1.0
+   }
+  ]
+ },
+ {
+  "id": 525,
+  "name": "South Korea",
+  "file": "525-South Korea.txt",
+  "owner": "KOR",
+  "cores": [
+   "KOR"
+  ],
+  "claims": [
+   "NRK"
+  ],
+  "manpower": 22160000,
+  "category": "megalopolis",
+  "centroid": [
+   37.2,
+   127.14
+  ],
+  "neighbour_states": [
+   527,
+   1029,
+   1031
+  ],
+  "provinces": [
+   {
+    "id": 1100,
+    "lat": 36.8,
+    "lon": 127.47,
+    "borders_states": [
+     1029,
+     1031
+    ]
+   },
+   {
+    "id": 7125,
+    "lat": 37.57,
+    "lon": 126.98,
+    "name": "Seoul",
+    "vp": 3.0,
+    "borders_states": [
+     527,
+     1029
+    ]
+   },
+   {
+    "id": 7221,
+    "lat": 37.06,
+    "lon": 126.81,
+    "borders_states": [
+     1031
+    ]
+   },
+   {
+    "id": 10036,
+    "lat": 37.32,
+    "lon": 127.53,
+    "borders_states": [
+     1029
+    ]
+   }
+  ]
+ },
+ {
+  "id": 526,
+  "name": "Okinawa",
+  "file": "526-Okinawa.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 1450000,
+  "category": "small_island",
+  "centroid": [
+   26.2,
+   127.54
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 1123,
+    "lat": 27.61,
+    "lon": 128.89
+   },
+   {
+    "id": 7115,
+    "lat": 28.45,
+    "lon": 129.62
+   },
+   {
+    "id": 10124,
+    "lat": 26.42,
+    "lon": 127.74
+   },
+   {
+    "id": 11932,
+    "lat": 25.23,
+    "lon": 126.64,
+    "name": "Naha",
+    "vp": 10.0
+   }
+  ]
+ },
+ {
+  "id": 527,
+  "name": "North Korea",
+  "file": "527-North Korea.txt",
+  "owner": "NRK",
+  "cores": [
+   "NRK"
+  ],
+  "claims": [
+   "KOR"
+  ],
+  "manpower": 14737000,
+  "category": "large_town",
+  "centroid": [
+   39.31,
+   126.01
+  ],
+  "neighbour_states": [
+   328,
+   525,
+   716,
+   1028,
+   1029
+  ],
+  "provinces": [
+   {
+    "id": 912,
+    "lat": 39.79,
+    "lon": 125.42
+   },
+   {
+    "id": 1003,
+    "lat": 37.95,
+    "lon": 126.02,
+    "name": "Haeju",
+    "vp": 1.0
+   },
+   {
+    "id": 3912,
+    "lat": 39.92,
+    "lon": 126.33,
+    "borders_states": [
+     1028
+    ]
+   },
+   {
+    "id": 4052,
+    "lat": 39.04,
+    "lon": 125.76,
+    "name": "Pyongyang",
+    "vp": 40.0
+   },
+   {
+    "id": 4107,
+    "lat": 37.98,
+    "lon": 125.38
+   },
+   {
+    "id": 6963,
+    "lat": 41.34,
+    "lon": 126.73,
+    "borders_states": [
+     328,
+     1028
+    ]
+   },
+   {
+    "id": 7070,
+    "lat": 38.64,
+    "lon": 126.71,
+    "borders_states": [
+     1028
+    ]
+   },
+   {
+    "id": 7155,
+    "lat": 38.41,
+    "lon": 125.5
+   },
+   {
+    "id": 7171,
+    "lat": 39.21,
+    "lon": 126.39,
+    "borders_states": [
+     1028
+    ]
+   },
+   {
+    "id": 9790,
+    "lat": 39.55,
+    "lon": 125.93,
+    "borders_states": [
+     1028
+    ]
+   },
+   {
+    "id": 9795,
+    "lat": 40.5,
+    "lon": 125.64,
+    "borders_states": [
+     328,
+     716
+    ]
+   },
+   {
+    "id": 9918,
+    "lat": 40.2,
+    "lon": 125.17,
+    "borders_states": [
+     716
+    ]
+   },
+   {
+    "id": 9981,
+    "lat": 38.24,
+    "lon": 127.01,
+    "borders_states": [
+     525,
+     1028,
+     1029
+    ]
+   },
+   {
+    "id": 10065,
+    "lat": 38.77,
+    "lon": 126.15
+   },
+   {
+    "id": 11828,
+    "lat": 40.84,
+    "lon": 126.2,
+    "borders_states": [
+     328,
+     1028
+    ]
+   },
+   {
+    "id": 11835,
+    "lat": 39.95,
+    "lon": 124.75,
+    "name": "Sinijiu",
+    "vp": 1.0,
+    "borders_states": [
+     716
+    ]
+   },
+   {
+    "id": 11896,
+    "lat": 40.17,
+    "lon": 125.97,
+    "borders_states": [
+     1028
+    ]
+   },
+   {
+    "id": 11915,
+    "lat": 38.36,
+    "lon": 126.2
+   },
+   {
+    "id": 12040,
+    "lat": 37.92,
+    "lon": 126.54,
+    "borders_states": [
+     525
+    ]
+   }
+  ]
+ },
+ {
+  "id": 528,
+  "name": "Kyushu",
+  "file": "528-Nagasaki.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 10490000,
+  "category": "metropolis",
+  "centroid": [
+   33.08,
+   130.69
+  ],
+  "neighbour_states": [
+   1018
+  ],
+  "provinces": [
+   {
+    "id": 1025,
+    "lat": 33.58,
+    "lon": 130.75,
+    "name": "Kokura",
+    "vp": 10.0
+   },
+   {
+    "id": 1158,
+    "lat": 33.05,
+    "lon": 129.57,
+    "name": "Sasebo"
+   },
+   {
+    "id": 4027,
+    "lat": 33.33,
+    "lon": 131.41,
+    "name": "Beppu"
+   },
+   {
+    "id": 4164,
+    "lat": 33.02,
+    "lon": 130.62,
+    "name": "Kurume"
+   },
+   {
+    "id": 7110,
+    "lat": 33.31,
+    "lon": 130.31,
+    "name": "Fukuoka",
+    "vp": 5.0
+   },
+   {
+    "id": 9950,
+    "lat": 32.62,
+    "lon": 130.08,
+    "name": "Nagasaki",
+    "vp": 30.0
+   },
+   {
+    "id": 10011,
+    "lat": 34.26,
+    "lon": 129.31,
+    "name": "Tsushima"
+   },
+   {
+    "id": 10020,
+    "lat": 33.09,
+    "lon": 131.05,
+    "name": "Aso"
+   },
+   {
+    "id": 10092,
+    "lat": 32.86,
+    "lon": 131.68,
+    "name": "Oita",
+    "borders_states": [
+     1018
+    ]
+   },
+   {
+    "id": 11925,
+    "lat": 32.64,
+    "lon": 130.93,
+    "name": "Kumamoto",
+    "vp": 5.0,
+    "borders_states": [
+     1018
+    ]
+   }
+  ]
+ },
+ {
+  "id": 529,
+  "name": "Chugoku",
+  "file": "529-Hiroshima.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 6263000,
+  "category": "large_city",
+  "centroid": [
+   34.49,
+   132.78
+  ],
+  "neighbour_states": [
+   531,
+   1020
+  ],
+  "provinces": [
+   {
+    "id": 1092,
+    "lat": 34.39,
+    "lon": 132.44,
+    "name": "Hiroshima",
+    "vp": 30.0,
+    "borders_states": [
+     1020
+    ]
+   },
+   {
+    "id": 4197,
+    "lat": 34.86,
+    "lon": 133.61,
+    "borders_states": [
+     1020
+    ]
+   },
+   {
+    "id": 7212,
+    "lat": 34.73,
+    "lon": 134.04,
+    "name": "Okayama",
+    "vp": 10.0,
+    "borders_states": [
+     531,
+     1020
+    ]
+   },
+   {
+    "id": 9968,
+    "lat": 34.79,
+    "lon": 132.99,
+    "name": "Taishakugawa Dam",
+    "borders_states": [
+     1020
+    ]
+   },
+   {
+    "id": 10052,
+    "lat": 34.07,
+    "lon": 132.0,
+    "name": "Yamaguchi",
+    "borders_states": [
+     1020
+    ]
+   },
+   {
+    "id": 11946,
+    "lat": 34.47,
+    "lon": 133.19,
+    "name": "Fukuyama"
+   },
+   {
+    "id": 11985,
+    "lat": 34.1,
+    "lon": 131.23,
+    "name": "Shimonoseki",
+    "vp": 2.0,
+    "borders_states": [
+     1020
+    ]
+   }
+  ]
+ },
+ {
+  "id": 530,
+  "name": "Shikoku",
+  "file": "530-Tokushima.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 4154000,
+  "category": "city",
+  "centroid": [
+   33.65,
+   133.53
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 4094,
+    "lat": 34.03,
+    "lon": 133.9,
+    "name": "Takamatsu"
+   },
+   {
+    "id": 4179,
+    "lat": 33.83,
+    "lon": 133.13,
+    "name": "Matsuyama"
+   },
+   {
+    "id": 7046,
+    "lat": 33.44,
+    "lon": 132.75
+   },
+   {
+    "id": 7197,
+    "lat": 33.58,
+    "lon": 133.53,
+    "name": "Kochi",
+    "vp": 10.0
+   },
+   {
+    "id": 9965,
+    "lat": 34.05,
+    "lon": 134.46,
+    "name": "Tokushima"
+   },
+   {
+    "id": 11997,
+    "lat": 33.0,
+    "lon": 132.88
+   },
+   {
+    "id": 12028,
+    "lat": 33.64,
+    "lon": 134.22
+   }
+  ]
+ },
+ {
+  "id": 531,
+  "name": "Kansai",
+  "file": "531-Osaka.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 22713000,
+  "category": "megalopolis",
+  "centroid": [
+   34.76,
+   135.68
+  ],
+  "neighbour_states": [
+   529,
+   532,
+   535,
+   1020
+  ],
+  "provinces": [
+   {
+    "id": 1051,
+    "lat": 34.27,
+    "lon": 136.06
+   },
+   {
+    "id": 1067,
+    "lat": 35.38,
+    "lon": 136.09,
+    "borders_states": [
+     532,
+     535
+    ]
+   },
+   {
+    "id": 1133,
+    "lat": 33.78,
+    "lon": 135.77,
+    "name": "Kushimoto"
+   },
+   {
+    "id": 1136,
+    "lat": 35.23,
+    "lon": 135.32,
+    "name": "Maizuru"
+   },
+   {
+    "id": 4054,
+    "lat": 34.48,
+    "lon": 136.57,
+    "name": "Ise"
+   },
+   {
+    "id": 4142,
+    "lat": 34.99,
+    "lon": 136.46,
+    "name": "Suzuka",
+    "borders_states": [
+     532
+    ]
+   },
+   {
+    "id": 7072,
+    "lat": 34.69,
+    "lon": 135.5,
+    "name": "Osaka",
+    "vp": 40.0
+   },
+   {
+    "id": 7113,
+    "lat": 34.17,
+    "lon": 135.36,
+    "name": "Wakayama"
+   },
+   {
+    "id": 9985,
+    "lat": 35.46,
+    "lon": 134.86,
+    "borders_states": [
+     1020
+    ]
+   },
+   {
+    "id": 11960,
+    "lat": 34.9,
+    "lon": 135.94,
+    "name": "Kyoto"
+   },
+   {
+    "id": 12031,
+    "lat": 34.94,
+    "lon": 134.73,
+    "name": "Himeji",
+    "borders_states": [
+     529,
+     1020
+    ]
+   }
+  ]
+ },
+ {
+  "id": 532,
+  "name": "Tokai",
+  "file": "532-Nagoya.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 13961000,
+  "category": "metropolis",
+  "centroid": [
+   35.32,
+   137.8
+  ],
+  "neighbour_states": [
+   282,
+   531,
+   534,
+   535
+  ],
+  "provinces": [
+   {
+    "id": 4069,
+    "lat": 35.28,
+    "lon": 137.62,
+    "name": "Ōi Dam"
+   },
+   {
+    "id": 4172,
+    "lat": 35.54,
+    "lon": 136.65,
+    "borders_states": [
+     531,
+     535
+    ]
+   },
+   {
+    "id": 7087,
+    "lat": 35.1,
+    "lon": 138.3,
+    "name": "Shizuoka",
+    "vp": 3.0
+   },
+   {
+    "id": 7157,
+    "lat": 35.06,
+    "lon": 138.88,
+    "borders_states": [
+     282
+    ]
+   },
+   {
+    "id": 7187,
+    "lat": 35.67,
+    "lon": 137.26,
+    "borders_states": [
+     534,
+     535
+    ]
+   },
+   {
+    "id": 10100,
+    "lat": 35.59,
+    "lon": 138.1,
+    "borders_states": [
+     534
+    ]
+   },
+   {
+    "id": 10125,
+    "lat": 35.1,
+    "lon": 137.07,
+    "name": "Nagoya",
+    "vp": 25.0,
+    "borders_states": [
+     531
+    ]
+   },
+   {
+    "id": 12072,
+    "lat": 35.69,
+    "lon": 138.63,
+    "borders_states": [
+     282,
+     534
+    ]
+   },
+   {
+    "id": 12097,
+    "lat": 34.81,
+    "lon": 137.74,
+    "name": "Hamamatsu"
+   }
+  ]
+ },
+ {
+  "id": 533,
+  "name": "Tohoku",
+  "file": "533-Akita.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 4081000,
+  "category": "large_town",
+  "centroid": [
+   39.97,
+   140.97
+  ],
+  "neighbour_states": [
+   1019
+  ],
+  "provinces": [
+   {
+    "id": 1063,
+    "lat": 39.36,
+    "lon": 140.26,
+    "name": "Akita",
+    "vp": 2.0,
+    "borders_states": [
+     1019
+    ]
+   },
+   {
+    "id": 1165,
+    "lat": 38.98,
+    "lon": 141.54,
+    "borders_states": [
+     1019
+    ]
+   },
+   {
+    "id": 3848,
+    "lat": 40.02,
+    "lon": 140.85
+   },
+   {
+    "id": 6870,
+    "lat": 39.79,
+    "lon": 141.84
+   },
+   {
+    "id": 6873,
+    "lat": 40.96,
+    "lon": 140.44
+   },
+   {
+    "id": 6994,
+    "lat": 40.73,
+    "lon": 140.92,
+    "name": "Aomori",
+    "vp": 5.0
+   },
+   {
+    "id": 9807,
+    "lat": 39.64,
+    "lon": 141.34,
+    "name": "Morioka",
+    "vp": 1.0
+   },
+   {
+    "id": 9859,
+    "lat": 41.31,
+    "lon": 141.28,
+    "name": "Mutsu"
+   },
+   {
+    "id": 9865,
+    "lat": 40.26,
+    "lon": 140.24
+   },
+   {
+    "id": 11847,
+    "lat": 40.43,
+    "lon": 141.51,
+    "name": "Hachinohe"
+   },
+   {
+    "id": 12056,
+    "lat": 39.15,
+    "lon": 140.85,
+    "borders_states": [
+     1019
+    ]
+   }
+  ]
+ },
+ {
+  "id": 534,
+  "name": "Hokuriku",
+  "file": "534-Niigata.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 5497000,
+  "category": "city",
+  "centroid": [
+   37.02,
+   138.52
+  ],
+  "neighbour_states": [
+   282,
+   532,
+   535,
+   1019
+  ],
+  "provinces": [
+   {
+    "id": 1117,
+    "lat": 37.56,
+    "lon": 139.12,
+    "name": "Niigata",
+    "vp": 10.0,
+    "borders_states": [
+     1019
+    ]
+   },
+   {
+    "id": 9952,
+    "lat": 38.02,
+    "lon": 138.38,
+    "name": "Sado"
+   },
+   {
+    "id": 10015,
+    "lat": 36.08,
+    "lon": 137.9,
+    "name": "Nagano",
+    "vp": 10.0,
+    "borders_states": [
+     282,
+     532,
+     535
+    ]
+   },
+   {
+    "id": 10128,
+    "lat": 36.6,
+    "lon": 137.8,
+    "name": "Toyama",
+    "vp": 1.0,
+    "borders_states": [
+     535
+    ]
+   },
+   {
+    "id": 11930,
+    "lat": 38.04,
+    "lon": 139.55,
+    "borders_states": [
+     1019
+    ]
+   },
+   {
+    "id": 11989,
+    "lat": 36.81,
+    "lon": 138.67,
+    "borders_states": [
+     282,
+     1019
+    ]
+   },
+   {
+    "id": 12007,
+    "lat": 37.1,
+    "lon": 138.35
+   }
+  ]
+ },
+ {
+  "id": 535,
+  "name": "Koshinetsu",
+  "file": "535-Nagano.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 2170000,
+  "category": "city",
+  "centroid": [
+   36.36,
+   136.81
+  ],
+  "neighbour_states": [
+   531,
+   532,
+   534
+  ],
+  "provinces": [
+   {
+    "id": 998,
+    "lat": 37.19,
+    "lon": 136.95
+   },
+   {
+    "id": 7102,
+    "lat": 35.94,
+    "lon": 136.32,
+    "borders_states": [
+     531,
+     532
+    ]
+   },
+   {
+    "id": 7217,
+    "lat": 36.17,
+    "lon": 137.1,
+    "borders_states": [
+     532,
+     534
+    ]
+   },
+   {
+    "id": 10032,
+    "lat": 36.51,
+    "lon": 136.83,
+    "name": "Kanazawa",
+    "vp": 15.0,
+    "borders_states": [
+     534
+    ]
+   }
+  ]
+ },
+ {
+  "id": 591,
+  "name": "Hainan",
+  "file": "591-Hainan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 7672385,
+  "category": "town",
+  "centroid": [
+   19.22,
+   109.77
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 994,
+    "lat": 18.62,
+    "lon": 109.31,
+    "name": "Yaxian",
+    "vp": 1.0
+   },
+   {
+    "id": 1038,
+    "lat": 19.72,
+    "lon": 109.81
+   },
+   {
+    "id": 1070,
+    "lat": 19.63,
+    "lon": 110.56,
+    "name": "Haikou",
+    "vp": 1.0
+   },
+   {
+    "id": 11963,
+    "lat": 19.26,
+    "lon": 109.15
+   },
+   {
+    "id": 11990,
+    "lat": 18.94,
+    "lon": 110.04
+   }
+  ]
+ },
+ {
+  "id": 592,
+  "name": "Guangzhou",
+  "file": "592-Guangzhou.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 36254785,
+  "category": "megalopolis",
+  "centroid": [
+   22.53,
+   112.15
+  ],
+  "neighbour_states": [
+   593,
+   594,
+   599,
+   728,
+   729,
+   1033
+  ],
+  "provinces": [
+   {
+    "id": 1047,
+    "lat": 22.89,
+    "lon": 113.38,
+    "name": "Guangzhou",
+    "vp": 5.0,
+    "borders_states": [
+     593,
+     729
+    ]
+   },
+   {
+    "id": 1087,
+    "lat": 22.83,
+    "lon": 111.68,
+    "borders_states": [
+     594,
+     599
+    ]
+   },
+   {
+    "id": 1131,
+    "lat": 22.36,
+    "lon": 111.13,
+    "borders_states": [
+     594,
+     1033
+    ]
+   },
+   {
+    "id": 1187,
+    "lat": 22.5,
+    "lon": 112.36
+   },
+   {
+    "id": 4092,
+    "lat": 23.21,
+    "lon": 112.1,
+    "borders_states": [
+     599
+    ]
+   },
+   {
+    "id": 7039,
+    "lat": 21.7,
+    "lon": 111.12,
+    "borders_states": [
+     728,
+     1033
+    ]
+   },
+   {
+    "id": 7152,
+    "lat": 22.58,
+    "lon": 112.9,
+    "borders_states": [
+     729
+    ]
+   },
+   {
+    "id": 9963,
+    "lat": 21.76,
+    "lon": 111.92
+   },
+   {
+    "id": 11938,
+    "lat": 21.93,
+    "lon": 112.7,
+    "borders_states": [
+     729
+    ]
+   },
+   {
+    "id": 11941,
+    "lat": 23.44,
+    "lon": 112.74,
+    "borders_states": [
+     593,
+     599
+    ]
+   },
+   {
+    "id": 12077,
+    "lat": 22.19,
+    "lon": 111.82,
+    "name": "Maoming"
+   }
+  ]
+ },
+ {
+  "id": 593,
+  "name": "Guangdong",
+  "file": "593-Guangdong.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 44235730,
+  "category": "metropolis",
+  "centroid": [
+   23.86,
+   114.58
+  ],
+  "neighbour_states": [
+   326,
+   592,
+   595,
+   599,
+   600,
+   602
+  ],
+  "provinces": [
+   {
+    "id": 1078,
+    "lat": 24.24,
+    "lon": 115.45,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 1120,
+    "lat": 24.2,
+    "lon": 114.05,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 1162,
+    "lat": 23.94,
+    "lon": 114.78,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 1202,
+    "lat": 23.23,
+    "lon": 114.31,
+    "borders_states": [
+     592
+    ]
+   },
+   {
+    "id": 4050,
+    "lat": 22.94,
+    "lon": 114.94
+   },
+   {
+    "id": 4165,
+    "lat": 23.63,
+    "lon": 115.97
+   },
+   {
+    "id": 4207,
+    "lat": 23.55,
+    "lon": 115.43
+   },
+   {
+    "id": 7067,
+    "lat": 22.89,
+    "lon": 115.63
+   },
+   {
+    "id": 7108,
+    "lat": 22.69,
+    "lon": 114.22,
+    "name": "Bao'an",
+    "vp": 1.0,
+    "borders_states": [
+     326,
+     592
+    ]
+   },
+   {
+    "id": 7141,
+    "lat": 24.38,
+    "lon": 116.14,
+    "borders_states": [
+     595,
+     600
+    ]
+   },
+   {
+    "id": 7182,
+    "lat": 24.04,
+    "lon": 116.63,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 9938,
+    "lat": 23.51,
+    "lon": 116.63,
+    "name": "Shantou",
+    "vp": 1.0,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 9970,
+    "lat": 24.95,
+    "lon": 113.79,
+    "name": "Kukong",
+    "vp": 2.0,
+    "borders_states": [
+     600,
+     602
+    ]
+   },
+   {
+    "id": 9978,
+    "lat": 23.05,
+    "lon": 116.29
+   },
+   {
+    "id": 9997,
+    "lat": 24.58,
+    "lon": 112.27,
+    "borders_states": [
+     599,
+     602
+    ]
+   },
+   {
+    "id": 10080,
+    "lat": 24.11,
+    "lon": 113.26,
+    "borders_states": [
+     592
+    ]
+   },
+   {
+    "id": 10121,
+    "lat": 24.03,
+    "lon": 112.68,
+    "borders_states": [
+     592,
+     599
+    ]
+   },
+   {
+    "id": 12014,
+    "lat": 24.75,
+    "lon": 112.9,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 12095,
+    "lat": 23.49,
+    "lon": 113.63,
+    "borders_states": [
+     592
+    ]
+   }
+  ]
+ },
+ {
+  "id": 594,
+  "name": "Nanning",
+  "file": "594-Nanning.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "GXC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 23630215,
+  "category": "large_town",
+  "centroid": [
+   23.48,
+   107.99
+  ],
+  "neighbour_states": [
+   325,
+   592,
+   599,
+   603,
+   671,
+   1033
+  ],
+  "provinces": [
+   {
+    "id": 1469,
+    "lat": 23.1,
+    "lon": 107.32,
+    "borders_states": [
+     671
+    ]
+   },
+   {
+    "id": 1625,
+    "lat": 24.55,
+    "lon": 105.52,
+    "borders_states": [
+     325,
+     603
+    ]
+   },
+   {
+    "id": 4028,
+    "lat": 23.44,
+    "lon": 109.6,
+    "borders_states": [
+     599
+    ]
+   },
+   {
+    "id": 4077,
+    "lat": 23.65,
+    "lon": 107.43
+   },
+   {
+    "id": 4085,
+    "lat": 24.85,
+    "lon": 106.71,
+    "borders_states": [
+     599,
+     603
+    ]
+   },
+   {
+    "id": 4121,
+    "lat": 22.39,
+    "lon": 107.38,
+    "borders_states": [
+     671,
+     1033
+    ]
+   },
+   {
+    "id": 4177,
+    "lat": 22.51,
+    "lon": 108.0,
+    "borders_states": [
+     1033
+    ]
+   },
+   {
+    "id": 4628,
+    "lat": 24.22,
+    "lon": 107.33,
+    "borders_states": [
+     599
+    ]
+   },
+   {
+    "id": 4656,
+    "lat": 23.42,
+    "lon": 106.36,
+    "borders_states": [
+     325,
+     671
+    ]
+   },
+   {
+    "id": 7044,
+    "lat": 23.09,
+    "lon": 110.81,
+    "borders_states": [
+     592,
+     599
+    ]
+   },
+   {
+    "id": 7137,
+    "lat": 23.1,
+    "lon": 108.31,
+    "name": "Nanning",
+    "vp": 10.0,
+    "borders_states": [
+     1033
+    ]
+   },
+   {
+    "id": 7650,
+    "lat": 23.67,
+    "lon": 108.53,
+    "borders_states": [
+     599
+    ]
+   },
+   {
+    "id": 10459,
+    "lat": 24.11,
+    "lon": 106.51,
+    "name": "Bose",
+    "vp": 1.0,
+    "borders_states": [
+     325
+    ]
+   },
+   {
+    "id": 10050,
+    "lat": 22.96,
+    "lon": 109.27,
+    "borders_states": [
+     1033
+    ]
+   },
+   {
+    "id": 11983,
+    "lat": 22.34,
+    "lon": 110.39,
+    "borders_states": [
+     592,
+     1033
+    ]
+   },
+   {
+    "id": 12023,
+    "lat": 22.78,
+    "lon": 110.15,
+    "borders_states": [
+     1033
+    ]
+   }
+  ]
+ },
+ {
+  "id": 595,
+  "name": "Fujian",
+  "file": "595-Fujian.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 34609470,
+  "category": "city",
+  "centroid": [
+   25.9,
+   118.05
+  ],
+  "neighbour_states": [
+   593,
+   596,
+   600
+  ],
+  "provinces": [
+   {
+    "id": 1006,
+    "lat": 25.5,
+    "lon": 116.96,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 1094,
+    "lat": 27.29,
+    "lon": 119.39,
+    "borders_states": [
+     596
+    ]
+   },
+   {
+    "id": 1138,
+    "lat": 26.64,
+    "lon": 117.55,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 1166,
+    "lat": 25.97,
+    "lon": 118.63
+   },
+   {
+    "id": 1193,
+    "lat": 26.12,
+    "lon": 117.94
+   },
+   {
+    "id": 4053,
+    "lat": 25.1,
+    "lon": 116.41,
+    "borders_states": [
+     593,
+     600
+    ]
+   },
+   {
+    "id": 4070,
+    "lat": 27.58,
+    "lon": 118.75,
+    "borders_states": [
+     596,
+     600
+    ]
+   },
+   {
+    "id": 4113,
+    "lat": 27.05,
+    "lon": 117.92,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 4169,
+    "lat": 26.59,
+    "lon": 119.23
+   },
+   {
+    "id": 4196,
+    "lat": 25.95,
+    "lon": 119.35,
+    "name": "Fuzhou",
+    "vp": 3.0
+   },
+   {
+    "id": 7027,
+    "lat": 25.45,
+    "lon": 118.97
+   },
+   {
+    "id": 7071,
+    "lat": 24.65,
+    "lon": 118.25,
+    "name": "Xiamen",
+    "vp": 1.0
+   },
+   {
+    "id": 7099,
+    "lat": 24.77,
+    "lon": 116.83,
+    "borders_states": [
+     593
+    ]
+   },
+   {
+    "id": 7131,
+    "lat": 25.19,
+    "lon": 118.13
+   },
+   {
+    "id": 10010,
+    "lat": 24.33,
+    "lon": 117.72
+   },
+   {
+    "id": 10012,
+    "lat": 27.44,
+    "lon": 118.25,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 10042,
+    "lat": 26.75,
+    "lon": 118.55
+   },
+   {
+    "id": 10054,
+    "lat": 24.43,
+    "lon": 117.2,
+    "borders_states": [
+     593
+    ]
+   },
+   {
+    "id": 10069,
+    "lat": 26.94,
+    "lon": 119.8,
+    "borders_states": [
+     596
+    ]
+   },
+   {
+    "id": 10084,
+    "lat": 26.27,
+    "lon": 117.01,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 10093,
+    "lat": 23.86,
+    "lon": 117.29,
+    "borders_states": [
+     593
+    ]
+   },
+   {
+    "id": 11986,
+    "lat": 25.11,
+    "lon": 118.6
+   },
+   {
+    "id": 12057,
+    "lat": 25.62,
+    "lon": 117.68
+   },
+   {
+    "id": 12084,
+    "lat": 25.02,
+    "lon": 117.53
+   }
+  ]
+ },
+ {
+  "id": 596,
+  "name": "Zhejiang",
+  "file": "596-Zhejiang.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 45462865,
+  "category": "large_city",
+  "centroid": [
+   29.06,
+   120.15
+  ],
+  "neighbour_states": [
+   595,
+   600,
+   613,
+   749,
+   1034
+  ],
+  "provinces": [
+   {
+    "id": 1055,
+    "lat": 27.92,
+    "lon": 120.41,
+    "name": "Wenzhou"
+   },
+   {
+    "id": 1096,
+    "lat": 29.68,
+    "lon": 120.8
+   },
+   {
+    "id": 1168,
+    "lat": 28.51,
+    "lon": 121.27,
+    "name": "Taizhou"
+   },
+   {
+    "id": 1195,
+    "lat": 28.71,
+    "lon": 120.24
+   },
+   {
+    "id": 4013,
+    "lat": 28.28,
+    "lon": 120.79
+   },
+   {
+    "id": 4042,
+    "lat": 30.65,
+    "lon": 120.73,
+    "borders_states": [
+     613,
+     1034
+    ]
+   },
+   {
+    "id": 4099,
+    "lat": 27.34,
+    "lon": 120.16,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 7058,
+    "lat": 29.88,
+    "lon": 121.23
+   },
+   {
+    "id": 7086,
+    "lat": 27.79,
+    "lon": 119.87,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 7146,
+    "lat": 29.01,
+    "lon": 120.77
+   },
+   {
+    "id": 7174,
+    "lat": 29.05,
+    "lon": 118.7,
+    "name": "Quzhou",
+    "borders_states": [
+     749
+    ]
+   },
+   {
+    "id": 7191,
+    "lat": 30.35,
+    "lon": 120.14,
+    "name": "Hangzhou",
+    "vp": 1.0,
+    "borders_states": [
+     1034
+    ]
+   },
+   {
+    "id": 9944,
+    "lat": 28.43,
+    "lon": 118.82,
+    "borders_states": [
+     595,
+     600,
+     749
+    ]
+   },
+   {
+    "id": 9972,
+    "lat": 27.8,
+    "lon": 119.21,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 9974,
+    "lat": 29.68,
+    "lon": 121.78,
+    "name": "Ningbo",
+    "vp": 1.0
+   },
+   {
+    "id": 10014,
+    "lat": 29.87,
+    "lon": 119.51,
+    "borders_states": [
+     749
+    ]
+   },
+   {
+    "id": 10058,
+    "lat": 29.13,
+    "lon": 121.36
+   },
+   {
+    "id": 10086,
+    "lat": 29.33,
+    "lon": 119.21,
+    "borders_states": [
+     749
+    ]
+   },
+   {
+    "id": 10101,
+    "lat": 30.62,
+    "lon": 119.79,
+    "borders_states": [
+     749,
+     1034
+    ]
+   },
+   {
+    "id": 11920,
+    "lat": 28.74,
+    "lon": 119.47
+   },
+   {
+    "id": 11947,
+    "lat": 28.31,
+    "lon": 119.7
+   },
+   {
+    "id": 11991,
+    "lat": 29.85,
+    "lon": 120.27
+   },
+   {
+    "id": 12059,
+    "lat": 29.32,
+    "lon": 120.02
+   }
+  ]
+ },
+ {
+  "id": 597,
+  "name": "Shandong",
+  "file": "597-Shandong.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 26379850,
+  "category": "city",
+  "centroid": [
+   36.67,
+   120.08
+  ],
+  "neighbour_states": [
+   598,
+   743,
+   1038
+  ],
+  "provinces": [
+   {
+    "id": 1104,
+    "lat": 37.54,
+    "lon": 120.71,
+    "name": "Yantai",
+    "vp": 2.0
+   },
+   {
+    "id": 1154,
+    "lat": 35.75,
+    "lon": 118.95,
+    "borders_states": [
+     1038
+    ]
+   },
+   {
+    "id": 1184,
+    "lat": 36.74,
+    "lon": 119.75,
+    "borders_states": [
+     743
+    ]
+   },
+   {
+    "id": 1200,
+    "lat": 37.29,
+    "lon": 121.13
+   },
+   {
+    "id": 4089,
+    "lat": 37.37,
+    "lon": 118.67,
+    "borders_states": [
+     1038
+    ]
+   },
+   {
+    "id": 4157,
+    "lat": 35.83,
+    "lon": 119.65,
+    "borders_states": [
+     743
+    ]
+   },
+   {
+    "id": 4186,
+    "lat": 36.69,
+    "lon": 120.82,
+    "borders_states": [
+     743
+    ]
+   },
+   {
+    "id": 4205,
+    "lat": 37.23,
+    "lon": 122.21,
+    "name": "Weihaiwei",
+    "vp": 1.0
+   },
+   {
+    "id": 7089,
+    "lat": 36.33,
+    "lon": 119.44,
+    "borders_states": [
+     743,
+     1038
+    ]
+   },
+   {
+    "id": 7105,
+    "lat": 36.98,
+    "lon": 120.27,
+    "borders_states": [
+     743
+    ]
+   },
+   {
+    "id": 9971,
+    "lat": 35.3,
+    "lon": 119.31,
+    "borders_states": [
+     598,
+     1038
+    ]
+   },
+   {
+    "id": 10018,
+    "lat": 37.01,
+    "lon": 121.58
+   },
+   {
+    "id": 12074,
+    "lat": 36.85,
+    "lon": 118.99,
+    "borders_states": [
+     1038
+    ]
+   }
+  ]
+ },
+ {
+  "id": 598,
+  "name": "Jiangsu",
+  "file": "598-Jiansu.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 42944650,
+  "category": "large_town",
+  "centroid": [
+   33.54,
+   118.9
+  ],
+  "neighbour_states": [
+   597,
+   606,
+   607,
+   1034,
+   1035,
+   1038
+  ],
+  "provinces": [
+   {
+    "id": 1001,
+    "lat": 32.84,
+    "lon": 118.35,
+    "borders_states": [
+     606,
+     1035
+    ]
+   },
+   {
+    "id": 1029,
+    "lat": 34.5,
+    "lon": 119.09,
+    "name": "Donghai",
+    "vp": 2.0,
+    "borders_states": [
+     597,
+     1038
+    ]
+   },
+   {
+    "id": 1076,
+    "lat": 34.0,
+    "lon": 118.62,
+    "borders_states": [
+     1038
+    ]
+   },
+   {
+    "id": 1121,
+    "lat": 33.65,
+    "lon": 118.08
+   },
+   {
+    "id": 1161,
+    "lat": 33.29,
+    "lon": 117.68,
+    "borders_states": [
+     606
+    ]
+   },
+   {
+    "id": 4001,
+    "lat": 32.36,
+    "lon": 119.61,
+    "name": "Yangzhou",
+    "vp": 1.0,
+    "borders_states": [
+     1034,
+     1035
+    ]
+   },
+   {
+    "id": 4005,
+    "lat": 33.13,
+    "lon": 118.95
+   },
+   {
+    "id": 4031,
+    "lat": 34.14,
+    "lon": 119.91
+   },
+   {
+    "id": 4082,
+    "lat": 33.89,
+    "lon": 119.5
+   },
+   {
+    "id": 4123,
+    "lat": 33.46,
+    "lon": 119.3
+   },
+   {
+    "id": 7025,
+    "lat": 34.55,
+    "lon": 116.97,
+    "name": "Xuzhou",
+    "vp": 1.0,
+    "borders_states": [
+     607,
+     1038
+    ]
+   },
+   {
+    "id": 7142,
+    "lat": 33.29,
+    "lon": 119.88
+   },
+   {
+    "id": 7181,
+    "lat": 32.8,
+    "lon": 119.38,
+    "borders_states": [
+     1035
+    ]
+   },
+   {
+    "id": 9953,
+    "lat": 32.81,
+    "lon": 120.55,
+    "borders_states": [
+     1034
+    ]
+   },
+   {
+    "id": 10095,
+    "lat": 32.77,
+    "lon": 119.97,
+    "borders_states": [
+     1034
+    ]
+   },
+   {
+    "id": 11973,
+    "lat": 33.8,
+    "lon": 117.26,
+    "borders_states": [
+     606,
+     607
+    ]
+   },
+   {
+    "id": 12055,
+    "lat": 34.13,
+    "lon": 117.63,
+    "borders_states": [
+     1038
+    ]
+   },
+   {
+    "id": 12067,
+    "lat": 33.55,
+    "lon": 120.3
+   },
+   {
+    "id": 13144,
+    "lat": 33.39,
+    "lon": 118.56,
+    "type": "lake"
+   }
+  ]
+ },
+ {
+  "id": 599,
+  "name": "Guangxi",
+  "file": "599-Guanxi.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "GXC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 15584310,
+  "category": "town",
+  "centroid": [
+   24.62,
+   109.97
+  ],
+  "neighbour_states": [
+   592,
+   593,
+   594,
+   602,
+   603
+  ],
+  "provinces": [
+   {
+    "id": 1023,
+    "lat": 24.95,
+    "lon": 110.73,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 1597,
+    "lat": 23.93,
+    "lon": 109.59,
+    "name": "Liuzhou",
+    "vp": 1.0,
+    "borders_states": [
+     594
+    ]
+   },
+   {
+    "id": 4134,
+    "lat": 24.3,
+    "lon": 108.37,
+    "borders_states": [
+     594
+    ]
+   },
+   {
+    "id": 4152,
+    "lat": 23.62,
+    "lon": 110.83,
+    "borders_states": [
+     592,
+     594
+    ]
+   },
+   {
+    "id": 7095,
+    "lat": 24.52,
+    "lon": 109.63
+   },
+   {
+    "id": 7128,
+    "lat": 24.31,
+    "lon": 111.34,
+    "borders_states": [
+     593,
+     602
+    ]
+   },
+   {
+    "id": 7168,
+    "lat": 24.33,
+    "lon": 110.36
+   },
+   {
+    "id": 7210,
+    "lat": 23.82,
+    "lon": 111.85,
+    "borders_states": [
+     592,
+     593
+    ]
+   },
+   {
+    "id": 10039,
+    "lat": 25.36,
+    "lon": 109.52,
+    "borders_states": [
+     602,
+     603
+    ]
+   },
+   {
+    "id": 10404,
+    "lat": 25.36,
+    "lon": 110.12,
+    "name": "Guilin",
+    "vp": 3.0,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 10431,
+    "lat": 25.01,
+    "lon": 108.72,
+    "borders_states": [
+     603
+    ]
+   },
+   {
+    "id": 12407,
+    "lat": 25.71,
+    "lon": 110.86,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 12436,
+    "lat": 24.87,
+    "lon": 107.72,
+    "borders_states": [
+     594,
+     603
+    ]
+   }
+  ]
+ },
+ {
+  "id": 600,
+  "name": "Jiangxi",
+  "file": "600-Jiangxi.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 39481470,
+  "category": "large_town",
+  "centroid": [
+   27.29,
+   115.71
+  ],
+  "neighbour_states": [
+   593,
+   595,
+   596,
+   602,
+   606,
+   749,
+   1036
+  ],
+  "provinces": [
+   {
+    "id": 1036,
+    "lat": 29.62,
+    "lon": 115.1,
+    "borders_states": [
+     602,
+     606,
+     1036
+    ]
+   },
+   {
+    "id": 1053,
+    "lat": 25.64,
+    "lon": 115.47
+   },
+   {
+    "id": 1066,
+    "lat": 28.16,
+    "lon": 118.29,
+    "borders_states": [
+     595,
+     596,
+     749
+    ]
+   },
+   {
+    "id": 1110,
+    "lat": 26.98,
+    "lon": 116.75,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 1628,
+    "lat": 29.15,
+    "lon": 115.81,
+    "borders_states": [
+     606
+    ]
+   },
+   {
+    "id": 3992,
+    "lat": 28.34,
+    "lon": 116.19,
+    "name": "Nanchang",
+    "vp": 3.0
+   },
+   {
+    "id": 4038,
+    "lat": 28.34,
+    "lon": 116.85
+   },
+   {
+    "id": 4081,
+    "lat": 24.88,
+    "lon": 115.64,
+    "borders_states": [
+     593,
+     595
+    ]
+   },
+   {
+    "id": 4083,
+    "lat": 27.59,
+    "lon": 115.91
+   },
+   {
+    "id": 4156,
+    "lat": 26.83,
+    "lon": 114.19,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 4183,
+    "lat": 26.04,
+    "lon": 114.55,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 4185,
+    "lat": 28.83,
+    "lon": 117.16,
+    "borders_states": [
+     749
+    ]
+   },
+   {
+    "id": 7004,
+    "lat": 25.42,
+    "lon": 114.06,
+    "borders_states": [
+     593,
+     602
+    ]
+   },
+   {
+    "id": 7054,
+    "lat": 28.17,
+    "lon": 117.67,
+    "borders_states": [
+     595,
+     749
+    ]
+   },
+   {
+    "id": 7172,
+    "lat": 27.01,
+    "lon": 115.81
+   },
+   {
+    "id": 7199,
+    "lat": 26.35,
+    "lon": 115.45,
+    "name": "Ganzhou",
+    "vp": 1.0
+   },
+   {
+    "id": 7653,
+    "lat": 28.39,
+    "lon": 115.59
+   },
+   {
+    "id": 9942,
+    "lat": 25.4,
+    "lon": 114.78,
+    "borders_states": [
+     593
+    ]
+   },
+   {
+    "id": 9984,
+    "lat": 27.7,
+    "lon": 116.6
+   },
+   {
+    "id": 10057,
+    "lat": 26.88,
+    "lon": 114.94
+   },
+   {
+    "id": 10112,
+    "lat": 25.64,
+    "lon": 116.17,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 10114,
+    "lat": 28.96,
+    "lon": 115.09,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 10501,
+    "lat": 27.77,
+    "lon": 115.17
+   },
+   {
+    "id": 11945,
+    "lat": 24.72,
+    "lon": 114.81,
+    "borders_states": [
+     593
+    ]
+   },
+   {
+    "id": 11961,
+    "lat": 27.57,
+    "lon": 117.38,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 11988,
+    "lat": 28.5,
+    "lon": 114.59,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 12030,
+    "lat": 26.34,
+    "lon": 116.23,
+    "borders_states": [
+     595
+    ]
+   },
+   {
+    "id": 12495,
+    "lat": 27.53,
+    "lon": 114.38,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 13141,
+    "lat": 29.1,
+    "lon": 116.43,
+    "type": "lake",
+    "borders_states": [
+     606,
+     749
+    ]
+   }
+  ]
+ },
+ {
+  "id": 602,
+  "name": "Hunan",
+  "file": "602-China 2.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 54397910,
+  "category": "large_town",
+  "centroid": [
+   27.23,
+   112.16
+  ],
+  "neighbour_states": [
+   593,
+   599,
+   600,
+   603,
+   620,
+   750,
+   1036
+  ],
+  "provinces": [
+   {
+    "id": 1448,
+    "lat": 26.5,
+    "lon": 113.68,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 1640,
+    "lat": 28.11,
+    "lon": 113.91,
+    "borders_states": [
+     600
+    ]
+   },
+   {
+    "id": 4125,
+    "lat": 25.84,
+    "lon": 111.71,
+    "borders_states": [
+     599
+    ]
+   },
+   {
+    "id": 4480,
+    "lat": 26.47,
+    "lon": 110.1,
+    "borders_states": [
+     599,
+     603
+    ]
+   },
+   {
+    "id": 4631,
+    "lat": 29.29,
+    "lon": 114.15,
+    "borders_states": [
+     600,
+     1036
+    ]
+   },
+   {
+    "id": 7097,
+    "lat": 28.34,
+    "lon": 113.09,
+    "name": "Changsha",
+    "vp": 5.0
+   },
+   {
+    "id": 7159,
+    "lat": 26.27,
+    "lon": 112.46
+   },
+   {
+    "id": 7502,
+    "lat": 27.13,
+    "lon": 112.49
+   },
+   {
+    "id": 7665,
+    "lat": 28.24,
+    "lon": 110.82,
+    "borders_states": [
+     750
+    ]
+   },
+   {
+    "id": 9982,
+    "lat": 25.77,
+    "lon": 113.46,
+    "borders_states": [
+     593,
+     600
+    ]
+   },
+   {
+    "id": 9999,
+    "lat": 28.87,
+    "lon": 113.59,
+    "borders_states": [
+     600,
+     1036
+    ]
+   },
+   {
+    "id": 10335,
+    "lat": 27.5,
+    "lon": 109.94,
+    "borders_states": [
+     603,
+     750
+    ]
+   },
+   {
+    "id": 10377,
+    "lat": 26.8,
+    "lon": 111.75
+   },
+   {
+    "id": 10517,
+    "lat": 28.41,
+    "lon": 112.04,
+    "borders_states": [
+     750
+    ]
+   },
+   {
+    "id": 11918,
+    "lat": 25.42,
+    "lon": 112.63,
+    "borders_states": [
+     593
+    ]
+   },
+   {
+    "id": 12017,
+    "lat": 27.31,
+    "lon": 110.78
+   },
+   {
+    "id": 12053,
+    "lat": 26.53,
+    "lon": 111.05,
+    "borders_states": [
+     599
+    ]
+   },
+   {
+    "id": 12310,
+    "lat": 27.69,
+    "lon": 111.59
+   },
+   {
+    "id": 12350,
+    "lat": 26.51,
+    "lon": 113.05,
+    "name": "Hengyang",
+    "vp": 1.0
+   },
+   {
+    "id": 12378,
+    "lat": 25.01,
+    "lon": 111.67,
+    "borders_states": [
+     593,
+     599
+    ]
+   },
+   {
+    "id": 12483,
+    "lat": 27.8,
+    "lon": 112.64
+   },
+   {
+    "id": 13140,
+    "lat": 29.07,
+    "lon": 112.71,
+    "type": "lake",
+    "borders_states": [
+     620,
+     750,
+     1036
+    ]
+   },
+   {
+    "id": 13143,
+    "lat": 27.41,
+    "lon": 113.43,
+    "borders_states": [
+     600
+    ]
+   }
+  ]
+ },
+ {
+  "id": 603,
+  "name": "Guizhou",
+  "file": "603-China 3.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 24857350,
+  "category": "town",
+  "centroid": [
+   26.34,
+   106.92
+  ],
+  "neighbour_states": [
+   325,
+   594,
+   599,
+   602,
+   605,
+   748,
+   750
+  ],
+  "provinces": [
+   {
+    "id": 1474,
+    "lat": 27.68,
+    "lon": 108.8,
+    "borders_states": [
+     602,
+     605,
+     748,
+     750
+    ]
+   },
+   {
+    "id": 1884,
+    "lat": 25.35,
+    "lon": 105.38,
+    "borders_states": [
+     325,
+     594
+    ]
+   },
+   {
+    "id": 4504,
+    "lat": 26.36,
+    "lon": 105.32,
+    "name": "Guiyang",
+    "vp": 3.0,
+    "borders_states": [
+     325,
+     748
+    ]
+   },
+   {
+    "id": 4532,
+    "lat": 25.61,
+    "lon": 106.73,
+    "borders_states": [
+     594,
+     599
+    ]
+   },
+   {
+    "id": 7521,
+    "lat": 26.12,
+    "lon": 109.13,
+    "borders_states": [
+     599,
+     602
+    ]
+   },
+   {
+    "id": 7549,
+    "lat": 25.91,
+    "lon": 108.04,
+    "borders_states": [
+     599
+    ]
+   },
+   {
+    "id": 7577,
+    "lat": 26.91,
+    "lon": 108.77,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 8095,
+    "lat": 26.95,
+    "lon": 107.45,
+    "borders_states": [
+     748
+    ]
+   },
+   {
+    "id": 10616,
+    "lat": 26.42,
+    "lon": 106.76,
+    "borders_states": [
+     748
+    ]
+   },
+   {
+    "id": 10819,
+    "lat": 27.06,
+    "lon": 104.43,
+    "borders_states": [
+     325,
+     748
+    ]
+   }
+  ]
+ },
+ {
+  "id": 605,
+  "name": "Sichuan",
+  "file": "605-China 5.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 42010850,
+  "category": "large_town",
+  "centroid": [
+   30.81,
+   107.7
+  ],
+  "neighbour_states": [
+   283,
+   603,
+   620,
+   744,
+   748,
+   750,
+   753,
+   1037,
+   1041
+  ],
+  "provinces": [
+   {
+    "id": 1893,
+    "lat": 29.97,
+    "lon": 107.21,
+    "borders_states": [
+     1037
+    ]
+   },
+   {
+    "id": 2030,
+    "lat": 30.65,
+    "lon": 106.9,
+    "borders_states": [
+     1037,
+     1041
+    ]
+   },
+   {
+    "id": 2091,
+    "lat": 32.14,
+    "lon": 107.04,
+    "borders_states": [
+     744
+    ]
+   },
+   {
+    "id": 4041,
+    "lat": 30.44,
+    "lon": 108.98,
+    "borders_states": [
+     750
+    ]
+   },
+   {
+    "id": 4141,
+    "lat": 29.2,
+    "lon": 107.1,
+    "borders_states": [
+     748,
+     1037
+    ]
+   },
+   {
+    "id": 5048,
+    "lat": 31.33,
+    "lon": 107.51
+   },
+   {
+    "id": 7256,
+    "lat": 32.32,
+    "lon": 105.84,
+    "borders_states": [
+     283,
+     744,
+     753,
+     1041
+    ]
+   },
+   {
+    "id": 7948,
+    "lat": 31.08,
+    "lon": 109.49,
+    "borders_states": [
+     620,
+     750
+    ]
+   },
+   {
+    "id": 10144,
+    "lat": 31.68,
+    "lon": 108.41,
+    "borders_states": [
+     620,
+     744
+    ]
+   },
+   {
+    "id": 10304,
+    "lat": 29.63,
+    "lon": 108.14,
+    "borders_states": [
+     748,
+     750
+    ]
+   },
+   {
+    "id": 10822,
+    "lat": 28.8,
+    "lon": 108.82,
+    "borders_states": [
+     603,
+     748,
+     750
+    ]
+   },
+   {
+    "id": 11865,
+    "lat": 30.76,
+    "lon": 108.23,
+    "name": "Wanxian",
+    "vp": 1.0
+   },
+   {
+    "id": 12274,
+    "lat": 31.55,
+    "lon": 106.57,
+    "borders_states": [
+     1041
+    ]
+   }
+  ]
+ },
+ {
+  "id": 606,
+  "name": "Anhui",
+  "file": "606-China 6.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 43431850,
+  "category": "large_town",
+  "centroid": [
+   31.66,
+   116.63
+  ],
+  "neighbour_states": [
+   598,
+   600,
+   607,
+   620,
+   749,
+   1035,
+   1036
+  ],
+  "provinces": [
+   {
+    "id": 1083,
+    "lat": 30.64,
+    "lon": 116.98,
+    "name": "Anqing",
+    "vp": 1.0,
+    "borders_states": [
+     749
+    ]
+   },
+   {
+    "id": 4079,
+    "lat": 32.62,
+    "lon": 116.44
+   },
+   {
+    "id": 4158,
+    "lat": 31.76,
+    "lon": 115.66,
+    "borders_states": [
+     607,
+     620
+    ]
+   },
+   {
+    "id": 4203,
+    "lat": 31.16,
+    "lon": 116.16
+   },
+   {
+    "id": 7035,
+    "lat": 30.22,
+    "lon": 116.56,
+    "borders_states": [
+     749
+    ]
+   },
+   {
+    "id": 7094,
+    "lat": 32.44,
+    "lon": 117.52,
+    "borders_states": [
+     598
+    ]
+   },
+   {
+    "id": 7222,
+    "lat": 31.78,
+    "lon": 117.52,
+    "name": "Hefei",
+    "vp": 1.0,
+    "borders_states": [
+     1035
+    ]
+   },
+   {
+    "id": 7637,
+    "lat": 29.97,
+    "lon": 115.87,
+    "borders_states": [
+     600,
+     749,
+     1036
+    ]
+   },
+   {
+    "id": 9937,
+    "lat": 32.56,
+    "lon": 115.74,
+    "name": "Jinjiazhai",
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 9959,
+    "lat": 30.7,
+    "lon": 115.58,
+    "borders_states": [
+     620,
+     1036
+    ]
+   },
+   {
+    "id": 10008,
+    "lat": 32.27,
+    "lon": 118.1,
+    "borders_states": [
+     598,
+     1035
+    ]
+   },
+   {
+    "id": 10017,
+    "lat": 31.28,
+    "lon": 116.98
+   },
+   {
+    "id": 10040,
+    "lat": 33.33,
+    "lon": 116.84,
+    "borders_states": [
+     598,
+     607
+    ]
+   },
+   {
+    "id": 10064,
+    "lat": 31.76,
+    "lon": 116.39
+   },
+   {
+    "id": 10079,
+    "lat": 33.22,
+    "lon": 115.95,
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 11916,
+    "lat": 32.93,
+    "lon": 117.37,
+    "borders_states": [
+     598
+    ]
+   },
+   {
+    "id": 11994,
+    "lat": 31.35,
+    "lon": 117.97,
+    "borders_states": [
+     749,
+     1035
+    ]
+   },
+   {
+    "id": 12036,
+    "lat": 32.21,
+    "lon": 116.91
+   },
+   {
+    "id": 12061,
+    "lat": 30.92,
+    "lon": 117.58,
+    "borders_states": [
+     749
+    ]
+   }
+  ]
+ },
+ {
+  "id": 607,
+  "name": "Henan",
+  "file": "607-China 7.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 95538905,
+  "category": "large_town",
+  "centroid": [
+   33.72,
+   113.63
+  ],
+  "neighbour_states": [
+   598,
+   606,
+   614,
+   615,
+   620,
+   744,
+   1032,
+   1038
+  ],
+  "provinces": [
+   {
+    "id": 1004,
+    "lat": 34.15,
+    "lon": 112.87
+   },
+   {
+    "id": 1139,
+    "lat": 34.99,
+    "lon": 113.72,
+    "borders_states": [
+     614,
+     615
+    ]
+   },
+   {
+    "id": 1603,
+    "lat": 33.74,
+    "lon": 111.73,
+    "borders_states": [
+     744
+    ]
+   },
+   {
+    "id": 4058,
+    "lat": 36.35,
+    "lon": 114.06,
+    "borders_states": [
+     614,
+     615
+    ]
+   },
+   {
+    "id": 4066,
+    "lat": 33.8,
+    "lon": 114.69
+   },
+   {
+    "id": 4144,
+    "lat": 35.57,
+    "lon": 114.52,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 4519,
+    "lat": 32.65,
+    "lon": 111.89,
+    "borders_states": [
+     620
+    ]
+   },
+   {
+    "id": 4547,
+    "lat": 33.06,
+    "lon": 111.3,
+    "borders_states": [
+     620,
+     744
+    ]
+   },
+   {
+    "id": 4606,
+    "lat": 34.91,
+    "lon": 112.68,
+    "borders_states": [
+     615
+    ]
+   },
+   {
+    "id": 6932,
+    "lat": 34.25,
+    "lon": 110.82,
+    "borders_states": [
+     615,
+     744,
+     1032
+    ]
+   },
+   {
+    "id": 7074,
+    "lat": 35.61,
+    "lon": 113.96,
+    "borders_states": [
+     615
+    ]
+   },
+   {
+    "id": 7085,
+    "lat": 34.21,
+    "lon": 116.35,
+    "borders_states": [
+     598,
+     1038
+    ]
+   },
+   {
+    "id": 7126,
+    "lat": 33.16,
+    "lon": 115.19,
+    "borders_states": [
+     606
+    ]
+   },
+   {
+    "id": 7459,
+    "lat": 32.52,
+    "lon": 112.95,
+    "borders_states": [
+     620
+    ]
+   },
+   {
+    "id": 7508,
+    "lat": 33.35,
+    "lon": 112.57
+   },
+   {
+    "id": 7540,
+    "lat": 33.08,
+    "lon": 114.42
+   },
+   {
+    "id": 7568,
+    "lat": 32.45,
+    "lon": 113.87,
+    "borders_states": [
+     620
+    ]
+   },
+   {
+    "id": 7656,
+    "lat": 34.38,
+    "lon": 114.7,
+    "name": "Kaifeng",
+    "vp": 1.0,
+    "borders_states": [
+     614,
+     1038
+    ]
+   },
+   {
+    "id": 9958,
+    "lat": 34.47,
+    "lon": 113.72,
+    "name": "Zhengzhou",
+    "vp": 1.0
+   },
+   {
+    "id": 9995,
+    "lat": 33.79,
+    "lon": 116.45,
+    "borders_states": [
+     598,
+     606
+    ]
+   },
+   {
+    "id": 10098,
+    "lat": 34.05,
+    "lon": 115.54,
+    "borders_states": [
+     606,
+     1038
+    ]
+   },
+   {
+    "id": 10364,
+    "lat": 33.88,
+    "lon": 113.75
+   },
+   {
+    "id": 10434,
+    "lat": 32.32,
+    "lon": 114.98,
+    "borders_states": [
+     606
+    ]
+   },
+   {
+    "id": 10446,
+    "lat": 31.85,
+    "lon": 114.24,
+    "borders_states": [
+     620
+    ]
+   },
+   {
+    "id": 11931,
+    "lat": 34.46,
+    "lon": 112.04,
+    "name": "Luoyang",
+    "vp": 1.0,
+    "borders_states": [
+     615
+    ]
+   },
+   {
+    "id": 12012,
+    "lat": 33.24,
+    "lon": 113.51
+   },
+   {
+    "id": 12426,
+    "lat": 31.66,
+    "lon": 114.93,
+    "borders_states": [
+     606,
+     620
+    ]
+   }
+  ]
+ },
+ {
+  "id": 608,
+  "name": "Beijing",
+  "file": "608-Beijing.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 33777170,
+  "category": "megalopolis",
+  "centroid": [
+   39.29,
+   116.37
+  ],
+  "neighbour_states": [
+   609,
+   614,
+   615,
+   1039
+  ],
+  "provinces": [
+   {
+    "id": 1134,
+    "lat": 39.11,
+    "lon": 116.37,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 4137,
+    "lat": 38.74,
+    "lon": 117.45,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 4140,
+    "lat": 39.55,
+    "lon": 115.99,
+    "borders_states": [
+     1039
+    ]
+   },
+   {
+    "id": 6828,
+    "lat": 39.27,
+    "lon": 115.14,
+    "borders_states": [
+     614,
+     615,
+     1039
+    ]
+   },
+   {
+    "id": 9843,
+    "lat": 39.81,
+    "lon": 116.52,
+    "name": "Beijing",
+    "vp": 20.0,
+    "borders_states": [
+     609,
+     1039
+    ]
+   },
+   {
+    "id": 9969,
+    "lat": 38.86,
+    "lon": 116.94,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 10068,
+    "lat": 39.32,
+    "lon": 117.31,
+    "name": "Tianjin",
+    "vp": 1.0,
+    "borders_states": [
+     609
+    ]
+   },
+   {
+    "id": 11761,
+    "lat": 39.59,
+    "lon": 116.87,
+    "borders_states": [
+     609
+    ]
+   },
+   {
+    "id": 12026,
+    "lat": 39.31,
+    "lon": 115.7,
+    "name": "Baoding",
+    "borders_states": [
+     614,
+     1039
+    ]
+   }
+  ]
+ },
+ {
+  "id": 609,
+  "name": "East Hebei",
+  "file": "609-China 8.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 11205600,
+  "category": "city",
+  "centroid": [
+   39.9,
+   118.31
+  ],
+  "neighbour_states": [
+   608,
+   610,
+   1039
+  ],
+  "provinces": [
+   {
+    "id": 900,
+    "lat": 40.1,
+    "lon": 118.1,
+    "borders_states": [
+     610
+    ]
+   },
+   {
+    "id": 1052,
+    "lat": 39.51,
+    "lon": 118.75,
+    "name": "Tangshan",
+    "vp": 1.0
+   },
+   {
+    "id": 3830,
+    "lat": 40.19,
+    "lon": 118.65,
+    "borders_states": [
+     610
+    ]
+   },
+   {
+    "id": 3900,
+    "lat": 39.79,
+    "lon": 119.27,
+    "borders_states": [
+     610
+    ]
+   },
+   {
+    "id": 9905,
+    "lat": 40.31,
+    "lon": 119.27,
+    "borders_states": [
+     610
+    ]
+   },
+   {
+    "id": 11822,
+    "lat": 40.13,
+    "lon": 117.25,
+    "name": "Tongzhou",
+    "vp": 2.0,
+    "borders_states": [
+     608,
+     610,
+     1039
+    ]
+   },
+   {
+    "id": 12043,
+    "lat": 39.41,
+    "lon": 117.91,
+    "borders_states": [
+     608
+    ]
+   }
+  ]
+ },
+ {
+  "id": 613,
+  "name": "Shanghai",
+  "file": "613-China 12.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 16653105,
+  "category": "megalopolis",
+  "centroid": [
+   31.17,
+   121.16
+  ],
+  "neighbour_states": [
+   596,
+   1034
+  ],
+  "provinces": [
+   {
+    "id": 7014,
+    "lat": 31.23,
+    "lon": 121.47,
+    "name": "Shanghai",
+    "vp": 5.0
+   },
+   {
+    "id": 10034,
+    "lat": 31.09,
+    "lon": 120.78,
+    "borders_states": [
+     596,
+     1034
+    ]
+   },
+   {
+    "id": 12052,
+    "lat": 31.48,
+    "lon": 121.03,
+    "borders_states": [
+     1034
+    ]
+   },
+   {
+    "id": 12076,
+    "lat": 30.92,
+    "lon": 121.44,
+    "borders_states": [
+     596
+    ]
+   }
+  ]
+ },
+ {
+  "id": 614,
+  "name": "Hebei",
+  "file": "614-China 13.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 41584550,
+  "category": "large_town",
+  "centroid": [
+   37.6,
+   115.29
+  ],
+  "neighbour_states": [
+   607,
+   608,
+   615,
+   1038
+  ],
+  "provinces": [
+   {
+    "id": 1169,
+    "lat": 36.26,
+    "lon": 115.15,
+    "borders_states": [
+     607,
+     1038
+    ]
+   },
+   {
+    "id": 1188,
+    "lat": 36.91,
+    "lon": 115.08,
+    "borders_states": [
+     607,
+     1038
+    ]
+   },
+   {
+    "id": 4032,
+    "lat": 37.7,
+    "lon": 115.77,
+    "borders_states": [
+     1038
+    ]
+   },
+   {
+    "id": 4093,
+    "lat": 38.0,
+    "lon": 114.51,
+    "borders_states": [
+     615
+    ]
+   },
+   {
+    "id": 4114,
+    "lat": 35.23,
+    "lon": 114.84,
+    "borders_states": [
+     607,
+     1038
+    ]
+   },
+   {
+    "id": 4190,
+    "lat": 37.74,
+    "lon": 115.08,
+    "name": "Shimen",
+    "vp": 3.0
+   },
+   {
+    "id": 4208,
+    "lat": 38.97,
+    "lon": 114.64,
+    "borders_states": [
+     608,
+     615
+    ]
+   },
+   {
+    "id": 7000,
+    "lat": 38.49,
+    "lon": 115.04,
+    "borders_states": [
+     608
+    ]
+   },
+   {
+    "id": 7109,
+    "lat": 38.51,
+    "lon": 115.61,
+    "borders_states": [
+     608
+    ]
+   },
+   {
+    "id": 10022,
+    "lat": 38.42,
+    "lon": 116.14,
+    "borders_states": [
+     608
+    ]
+   },
+   {
+    "id": 10053,
+    "lat": 38.49,
+    "lon": 114.17,
+    "borders_states": [
+     615
+    ]
+   },
+   {
+    "id": 11944,
+    "lat": 38.3,
+    "lon": 117.47,
+    "borders_states": [
+     608,
+     1038
+    ]
+   },
+   {
+    "id": 11996,
+    "lat": 38.08,
+    "lon": 116.68,
+    "borders_states": [
+     608,
+     1038
+    ]
+   },
+   {
+    "id": 12062,
+    "lat": 37.18,
+    "lon": 114.48,
+    "borders_states": [
+     607,
+     615
+    ]
+   }
+  ]
+ },
+ {
+  "id": 615,
+  "name": "Shanxi",
+  "file": "615-Shanxi.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "SHX",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 32958065,
+  "category": "large_town",
+  "centroid": [
+   37.23,
+   112.43
+  ],
+  "neighbour_states": [
+   607,
+   608,
+   614,
+   621,
+   622,
+   746,
+   1032,
+   1039,
+   1046
+  ],
+  "provinces": [
+   {
+    "id": 1027,
+    "lat": 38.8,
+    "lon": 113.75,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 1034,
+    "lat": 35.84,
+    "lon": 111.18,
+    "borders_states": [
+     622,
+     1032
+    ]
+   },
+   {
+    "id": 1180,
+    "lat": 35.59,
+    "lon": 113.1,
+    "name": "Jincheng",
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 1203,
+    "lat": 37.75,
+    "lon": 113.35,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 1438,
+    "lat": 38.54,
+    "lon": 113.2
+   },
+   {
+    "id": 1519,
+    "lat": 36.81,
+    "lon": 112.59,
+    "name": "Taiyuan",
+    "vp": 3.0
+   },
+   {
+    "id": 1531,
+    "lat": 36.63,
+    "lon": 111.29,
+    "borders_states": [
+     622,
+     1046
+    ]
+   },
+   {
+    "id": 1575,
+    "lat": 34.87,
+    "lon": 111.0,
+    "borders_states": [
+     607,
+     1032
+    ]
+   },
+   {
+    "id": 4074,
+    "lat": 37.97,
+    "lon": 111.39,
+    "borders_states": [
+     1046
+    ]
+   },
+   {
+    "id": 4174,
+    "lat": 37.0,
+    "lon": 112.32,
+    "name": "Taiyuan"
+   },
+   {
+    "id": 4469,
+    "lat": 37.88,
+    "lon": 112.63
+   },
+   {
+    "id": 4538,
+    "lat": 36.94,
+    "lon": 113.56,
+    "borders_states": [
+     607,
+     614
+    ]
+   },
+   {
+    "id": 4634,
+    "lat": 36.11,
+    "lon": 112.28
+   },
+   {
+    "id": 7571,
+    "lat": 35.34,
+    "lon": 112.01,
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 10367,
+    "lat": 36.96,
+    "lon": 111.51,
+    "name": "Attu Island",
+    "borders_states": [
+     1046
+    ]
+   },
+   {
+    "id": 10421,
+    "lat": 36.25,
+    "lon": 113.21,
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 10480,
+    "lat": 39.27,
+    "lon": 114.22,
+    "borders_states": [
+     608,
+     614,
+     1039
+    ]
+   },
+   {
+    "id": 10507,
+    "lat": 38.93,
+    "lon": 112.31,
+    "borders_states": [
+     621,
+     746,
+     1046
+    ]
+   },
+   {
+    "id": 12078,
+    "lat": 37.68,
+    "lon": 113.99,
+    "borders_states": [
+     614
+    ]
+   },
+   {
+    "id": 12300,
+    "lat": 37.94,
+    "lon": 112.01
+   },
+   {
+    "id": 12344,
+    "lat": 37.12,
+    "lon": 113.16
+   },
+   {
+    "id": 12432,
+    "lat": 39.64,
+    "lon": 113.38,
+    "name": "Datong",
+    "borders_states": [
+     621,
+     1039
+    ]
+   }
+  ]
+ },
+ {
+  "id": 616,
+  "name": "Ningxia",
+  "file": "616-China 14.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "XSM",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 3877300,
+  "category": "rural",
+  "centroid": [
+   38.73,
+   105.0
+  ],
+  "neighbour_states": [
+   621,
+   622,
+   746,
+   1040,
+   1044,
+   1045
+  ],
+  "provinces": [
+   {
+    "id": 3742,
+    "lat": 37.1,
+    "lon": 105.51,
+    "borders_states": [
+     1044,
+     1045
+    ]
+   },
+   {
+    "id": 5031,
+    "lat": 39.29,
+    "lon": 102.58,
+    "name": "Alxa Right Banner",
+    "vp": 1.0,
+    "borders_states": [
+     1040,
+     1044
+    ]
+   },
+   {
+    "id": 7511,
+    "lat": 37.62,
+    "lon": 104.44,
+    "borders_states": [
+     1044
+    ]
+   },
+   {
+    "id": 8055,
+    "lat": 39.84,
+    "lon": 106.16,
+    "borders_states": [
+     621,
+     746,
+     1040
+    ]
+   },
+   {
+    "id": 8081,
+    "lat": 37.31,
+    "lon": 106.68,
+    "borders_states": [
+     622,
+     746,
+     1045
+    ]
+   },
+   {
+    "id": 8127,
+    "lat": 38.15,
+    "lon": 105.36,
+    "name": "Yinchuan",
+    "vp": 3.0,
+    "borders_states": [
+     1044
+    ]
+   },
+   {
+    "id": 10724,
+    "lat": 38.8,
+    "lon": 106.33,
+    "borders_states": [
+     746
+    ]
+   },
+   {
+    "id": 12750,
+    "lat": 39.6,
+    "lon": 104.6,
+    "borders_states": [
+     1040,
+     1044
+    ]
+   }
+  ]
+ },
+ {
+  "id": 619,
+  "name": "Yarkand",
+  "file": "619-China 16.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "SIK",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 2364950,
+  "category": "rural",
+  "centroid": [
+   39.42,
+   76.84
+  ],
+  "neighbour_states": [
+   287,
+   617,
+   732,
+   742,
+   787,
+   1005,
+   1042
+  ],
+  "provinces": [
+   {
+    "id": 1766,
+    "lat": 39.21,
+    "lon": 74.7,
+    "borders_states": [
+     732,
+     742
+    ]
+   },
+   {
+    "id": 2015,
+    "lat": 38.97,
+    "lon": 76.86,
+    "name": "Kashgar",
+    "vp": 2.0,
+    "borders_states": [
+     287,
+     1042
+    ]
+   },
+   {
+    "id": 4828,
+    "lat": 41.05,
+    "lon": 78.9,
+    "borders_states": [
+     617,
+     732
+    ]
+   },
+   {
+    "id": 5087,
+    "lat": 37.68,
+    "lon": 75.66,
+    "borders_states": [
+     742,
+     787,
+     1005,
+     1042
+    ]
+   },
+   {
+    "id": 7949,
+    "lat": 40.3,
+    "lon": 79.41,
+    "borders_states": [
+     287,
+     617
+    ]
+   },
+   {
+    "id": 12119,
+    "lat": 40.13,
+    "lon": 76.87,
+    "borders_states": [
+     732
+    ]
+   }
+  ]
+ },
+ {
+  "id": 620,
+  "name": "Hubei",
+  "file": "620-China 17.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 32165350,
+  "category": "large_town",
+  "centroid": [
+   31.33,
+   112.04
+  ],
+  "neighbour_states": [
+   602,
+   605,
+   606,
+   607,
+   744,
+   750,
+   1036
+  ],
+  "provinces": [
+   {
+    "id": 1612,
+    "lat": 30.51,
+    "lon": 112.17,
+    "name": "Yichang",
+    "vp": 1.0,
+    "borders_states": [
+     750
+    ]
+   },
+   {
+    "id": 4009,
+    "lat": 31.87,
+    "lon": 112.57,
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 4130,
+    "lat": 29.83,
+    "lon": 112.93,
+    "name": "Mienyang",
+    "vp": 1.0,
+    "borders_states": [
+     602,
+     750,
+     1036
+    ]
+   },
+   {
+    "id": 7019,
+    "lat": 32.26,
+    "lon": 110.68,
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 7580,
+    "lat": 31.74,
+    "lon": 113.51,
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 7596,
+    "lat": 31.11,
+    "lon": 110.69,
+    "borders_states": [
+     605,
+     750
+    ]
+   },
+   {
+    "id": 7609,
+    "lat": 31.23,
+    "lon": 111.75
+   },
+   {
+    "id": 7625,
+    "lat": 30.57,
+    "lon": 113.28,
+    "borders_states": [
+     1036
+    ]
+   },
+   {
+    "id": 8072,
+    "lat": 31.83,
+    "lon": 109.87,
+    "borders_states": [
+     605,
+     744
+    ]
+   },
+   {
+    "id": 9934,
+    "lat": 31.15,
+    "lon": 113.14,
+    "borders_states": [
+     1036
+    ]
+   },
+   {
+    "id": 10462,
+    "lat": 31.18,
+    "lon": 114.69,
+    "borders_states": [
+     606,
+     607,
+     1036
+    ]
+   },
+   {
+    "id": 10474,
+    "lat": 31.81,
+    "lon": 111.31,
+    "borders_states": [
+     607
+    ]
+   },
+   {
+    "id": 12408,
+    "lat": 32.77,
+    "lon": 110.3,
+    "borders_states": [
+     607,
+     744
+    ]
+   }
+  ]
+ },
+ {
+  "id": 621,
+  "name": "Suiyuan",
+  "file": "621-China 18.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "MEN",
+   "CHI"
+  ],
+  "claims": [
+   "TAW",
+   "MON"
+  ],
+  "manpower": 8607200,
+  "category": "town",
+  "centroid": [
+   40.85,
+   109.74
+  ],
+  "neighbour_states": [
+   611,
+   615,
+   616,
+   746,
+   817,
+   1039,
+   1040,
+   1043
+  ],
+  "provinces": [
+   {
+    "id": 2087,
+    "lat": 40.69,
+    "lon": 108.9,
+    "name": "Wuyuan",
+    "borders_states": [
+     746
+    ]
+   },
+   {
+    "id": 4525,
+    "lat": 40.52,
+    "lon": 110.57,
+    "borders_states": [
+     746,
+     1043
+    ]
+   },
+   {
+    "id": 7158,
+    "lat": 40.23,
+    "lon": 113.53,
+    "name": "Ulanqab",
+    "vp": 1.0,
+    "borders_states": [
+     611,
+     615,
+     1039
+    ]
+   },
+   {
+    "id": 7631,
+    "lat": 39.76,
+    "lon": 111.7,
+    "name": "Kweisui",
+    "vp": 1.0,
+    "borders_states": [
+     615,
+     746
+    ]
+   },
+   {
+    "id": 10424,
+    "lat": 40.48,
+    "lon": 112.15,
+    "borders_states": [
+     615,
+     1043
+    ]
+   },
+   {
+    "id": 10629,
+    "lat": 41.43,
+    "lon": 107.61,
+    "borders_states": [
+     746,
+     817
+    ]
+   },
+   {
+    "id": 12403,
+    "lat": 40.84,
+    "lon": 113.44,
+    "borders_states": [
+     611,
+     1043
+    ]
+   },
+   {
+    "id": 12609,
+    "lat": 41.57,
+    "lon": 109.3,
+    "borders_states": [
+     817,
+     1043
+    ]
+   },
+   {
+    "id": 12880,
+    "lat": 41.08,
+    "lon": 106.45,
+    "borders_states": [
+     616,
+     746,
+     817,
+     1040
+    ]
+   }
+  ]
+ },
+ {
+  "id": 622,
+  "name": "Shaanxi",
+  "file": "622-China 19.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 2461375,
+  "category": "rural",
+  "centroid": [
+   36.57,
+   108.63
+  ],
+  "neighbour_states": [
+   615,
+   616,
+   746,
+   1032,
+   1045,
+   1046
+  ],
+  "provinces": [
+   {
+    "id": 4939,
+    "lat": 36.3,
+    "lon": 107.78,
+    "borders_states": [
+     1032,
+     1045
+    ]
+   },
+   {
+    "id": 10880,
+    "lat": 36.91,
+    "lon": 108.39,
+    "borders_states": [
+     616,
+     746,
+     1045,
+     1046
+    ]
+   },
+   {
+    "id": 12356,
+    "lat": 36.49,
+    "lon": 109.32,
+    "name": "Wayaobu",
+    "vp": 1.0,
+    "borders_states": [
+     615,
+     1032,
+     1046
+    ]
+   }
+  ]
+ },
+ {
+  "id": 645,
+  "name": "Iwo Jima",
+  "file": "645-Iwo Jima.txt",
+  "owner": "JAP",
+  "cores": [
+   "JAP"
+  ],
+  "claims": [],
+  "manpower": 2800,
+  "category": "small_island",
+  "centroid": [
+   25.69,
+   142.33
+  ],
+  "neighbour_states": [],
+  "provinces": [
+   {
+    "id": 13025,
+    "lat": 25.69,
+    "lon": 142.33,
+    "name": "Iwo Jima",
+    "vp": 5.0
+   }
+  ]
+ },
+ {
+  "id": 670,
+  "name": "Laos",
+  "file": "670-Laos.txt",
+  "owner": "LAO",
+  "cores": [
+   "LAO"
+  ],
+  "claims": [],
+  "manpower": 3797000,
+  "category": "rural",
+  "centroid": [
+   19.47,
+   103.39
+  ],
+  "neighbour_states": [
+   325,
+   671,
+   868,
+   869,
+   993,
+   1017,
+   1068,
+   1069
+  ],
+  "provinces": [
+   {
+    "id": 1362,
+    "lat": 18.76,
+    "lon": 104.78,
+    "borders_states": [
+     1017
+    ]
+   },
+   {
+    "id": 1390,
+    "lat": 18.19,
+    "lon": 104.53,
+    "borders_states": [
+     868
+    ]
+   },
+   {
+    "id": 1464,
+    "lat": 18.39,
+    "lon": 102.76,
+    "name": "Vientiane",
+    "vp": 1.0,
+    "borders_states": [
+     868
+    ]
+   },
+   {
+    "id": 1507,
+    "lat": 18.56,
+    "lon": 102.01,
+    "borders_states": [
+     868,
+     1069
+    ]
+   },
+   {
+    "id": 1520,
+    "lat": 17.3,
+    "lon": 105.04,
+    "borders_states": [
+     868
+    ]
+   },
+   {
+    "id": 4260,
+    "lat": 17.45,
+    "lon": 105.69,
+    "borders_states": [
+     1017
+    ]
+   },
+   {
+    "id": 4339,
+    "lat": 19.84,
+    "lon": 103.81,
+    "borders_states": [
+     1017
+    ]
+   },
+   {
+    "id": 4539,
+    "lat": 16.5,
+    "lon": 105.27,
+    "borders_states": [
+     868,
+     1068
+    ]
+   },
+   {
+    "id": 4568,
+    "lat": 20.93,
+    "lon": 100.98,
+    "borders_states": [
+     325,
+     869,
+     993
+    ]
+   },
+   {
+    "id": 4613,
+    "lat": 20.44,
+    "lon": 102.52,
+    "name": "Luang Prabang",
+    "vp": 2.0,
+    "borders_states": [
+     1069
+    ]
+   },
+   {
+    "id": 7075,
+    "lat": 20.26,
+    "lon": 103.19
+   },
+   {
+    "id": 7103,
+    "lat": 20.39,
+    "lon": 101.38,
+    "borders_states": [
+     869,
+     1069
+    ]
+   },
+   {
+    "id": 7218,
+    "lat": 20.89,
+    "lon": 103.79,
+    "borders_states": [
+     671
+    ]
+   },
+   {
+    "id": 7356,
+    "lat": 19.28,
+    "lon": 103.03
+   },
+   {
+    "id": 9961,
+    "lat": 20.36,
+    "lon": 104.56,
+    "borders_states": [
+     671,
+     1017
+    ]
+   },
+   {
+    "id": 10195,
+    "lat": 16.95,
+    "lon": 106.08,
+    "borders_states": [
+     1017
+    ]
+   },
+   {
+    "id": 10238,
+    "lat": 16.42,
+    "lon": 106.18,
+    "borders_states": [
+     1017,
+     1068
+    ]
+   },
+   {
+    "id": 10326,
+    "lat": 18.02,
+    "lon": 105.33,
+    "borders_states": [
+     1017
+    ]
+   },
+   {
+    "id": 10496,
+    "lat": 19.48,
+    "lon": 102.19,
+    "borders_states": [
+     1069
+    ]
+   },
+   {
+    "id": 12332,
+    "lat": 18.86,
+    "lon": 103.86,
+    "borders_states": [
+     868,
+     1017
+    ]
+   },
+   {
+    "id": 12392,
+    "lat": 22.04,
+    "lon": 102.38,
+    "borders_states": [
+     325,
+     671
+    ]
+   },
+   {
+    "id": 12433,
+    "lat": 21.23,
+    "lon": 102.48,
+    "borders_states": [
+     325,
+     671
+    ]
+   }
+  ]
+ },
+ {
+  "id": 671,
+  "name": "Northern Vietnam",
+  "file": "671-Annam.txt",
+  "owner": "VIN",
+  "cores": [
+   "VIN"
+  ],
+  "claims": [],
+  "manpower": 28220000,
+  "category": "large_town",
+  "centroid": [
+   21.88,
+   105.38
+  ],
+  "neighbour_states": [
+   325,
+   594,
+   670,
+   1017,
+   1033
+  ],
+  "provinces": [
+   {
+    "id": 1073,
+    "lat": 22.09,
+    "lon": 105.46
+   },
+   {
+    "id": 1157,
+    "lat": 21.47,
+    "lon": 106.91
+   },
+   {
+    "id": 1185,
+    "lat": 20.46,
+    "lon": 106.13,
+    "borders_states": [
+     1017
+    ]
+   },
+   {
+    "id": 4075,
+    "lat": 21.03,
+    "lon": 105.85,
+    "name": "Hanoi",
+    "vp": 1.0
+   },
+   {
+    "id": 4119,
+    "lat": 20.9,
+    "lon": 106.58,
+    "name": "Haiphong",
+    "vp": 2.0
+   },
+   {
+    "id": 4529,
+    "lat": 21.59,
+    "lon": 103.62,
+    "borders_states": [
+     670
+    ]
+   },
+   {
+    "id": 7015,
+    "lat": 21.97,
+    "lon": 106.24
+   },
+   {
+    "id": 7093,
+    "lat": 21.6,
+    "lon": 107.48,
+    "borders_states": [
+     594,
+     1033
+    ]
+   },
+   {
+    "id": 7518,
+    "lat": 22.97,
+    "lon": 105.54,
+    "borders_states": [
+     325,
+     594
+    ]
+   },
+   {
+    "id": 9948,
+    "lat": 22.18,
+    "lon": 106.83,
+    "name": "Lang Son",
+    "vp": 1.0,
+    "borders_states": [
+     594
+    ]
+   },
+   {
+    "id": 10075,
+    "lat": 21.97,
+    "lon": 104.31
+   },
+   {
+    "id": 10103,
+    "lat": 21.06,
+    "lon": 104.77,
+    "borders_states": [
+     670
+    ]
+   },
+   {
+    "id": 10129,
+    "lat": 20.68,
+    "lon": 105.35,
+    "borders_states": [
+     670,
+     1017
+    ]
+   },
+   {
+    "id": 12008,
+    "lat": 22.61,
+    "lon": 104.73,
+    "borders_states": [
+     325
+    ]
+   },
+   {
+    "id": 12048,
+    "lat": 21.49,
+    "lon": 106.02
+   },
+   {
+    "id": 12065,
+    "lat": 22.72,
+    "lon": 106.32,
+    "name": "Cao Bang",
+    "vp": 1.0,
+    "borders_states": [
+     594
+    ]
+   },
+   {
+    "id": 12075,
+    "lat": 21.5,
+    "lon": 105.09
+   },
+   {
+    "id": 12319,
+    "lat": 22.48,
+    "lon": 103.46,
+    "name": "Lào Cai",
+    "vp": 1.0,
+    "borders_states": [
+     325,
+     670
+    ]
+   }
+  ]
+ },
+ {
+  "id": 728,
+  "name": "Guangzhouwan",
+  "file": "728-Guangzhouwan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 2096990,
+  "category": "enclave",
+  "centroid": [
+   21.29,
+   110.55
+  ],
+  "neighbour_states": [
+   592,
+   1033
+  ],
+  "provinces": [
+   {
+    "id": 11981,
+    "lat": 21.29,
+    "lon": 110.55,
+    "name": "Zhanjiang",
+    "borders_states": [
+     592,
+     1033
+    ]
+   }
+  ]
+ },
+ {
+  "id": 729,
+  "name": "Macau",
+  "file": "729-Macau.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 431000,
+  "category": "enclave",
+  "centroid": [
+   22.22,
+   113.39
+  ],
+  "neighbour_states": [
+   592
+  ],
+  "provinces": [
+   {
+    "id": 4189,
+    "lat": 22.22,
+    "lon": 113.39,
+    "name": "Macau",
+    "vp": 1.0,
+    "borders_states": [
+     592
+    ]
+   }
+  ]
+ },
+ {
+  "id": 743,
+  "name": "Qingdao",
+  "file": "743-Qingdao.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 3045000,
+  "category": "large_city",
+  "centroid": [
+   36.19,
+   120.3
+  ],
+  "neighbour_states": [
+   597
+  ],
+  "provinces": [
+   {
+    "id": 10000,
+    "lat": 36.19,
+    "lon": 120.3,
+    "name": "Qingdao",
+    "vp": 5.0,
+    "borders_states": [
+     597
+    ]
+   }
+  ]
+ },
+ {
+  "id": 744,
+  "name": "Xian",
+  "file": "744-Xian.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 16150680,
+  "category": "large_city",
+  "centroid": [
+   33.22,
+   108.23
+  ],
+  "neighbour_states": [
+   283,
+   605,
+   607,
+   620,
+   1032
+  ],
+  "provinces": [
+   {
+    "id": 1976,
+    "lat": 33.71,
+    "lon": 108.16,
+    "borders_states": [
+     1032
+    ]
+   },
+   {
+    "id": 2006,
+    "lat": 33.81,
+    "lon": 106.91,
+    "borders_states": [
+     283,
+     1032
+    ]
+   },
+   {
+    "id": 4167,
+    "lat": 32.53,
+    "lon": 107.82,
+    "borders_states": [
+     605
+    ]
+   },
+   {
+    "id": 4256,
+    "lat": 33.08,
+    "lon": 108.42
+   },
+   {
+    "id": 4295,
+    "lat": 33.05,
+    "lon": 105.88,
+    "borders_states": [
+     283,
+     605
+    ]
+   },
+   {
+    "id": 5092,
+    "lat": 33.31,
+    "lon": 110.28,
+    "borders_states": [
+     607,
+     620
+    ]
+   },
+   {
+    "id": 7301,
+    "lat": 33.8,
+    "lon": 109.18,
+    "name": "Xi'an",
+    "borders_states": [
+     1032
+    ]
+   },
+   {
+    "id": 7406,
+    "lat": 32.85,
+    "lon": 109.27,
+    "borders_states": [
+     620
+    ]
+   },
+   {
+    "id": 7418,
+    "lat": 32.24,
+    "lon": 108.97,
+    "name": "Xi'an",
+    "vp": 1.0,
+    "borders_states": [
+     605,
+     620
+    ]
+   },
+   {
+    "id": 10257,
+    "lat": 33.16,
+    "lon": 107.24
+   },
+   {
+    "id": 12713,
+    "lat": 33.98,
+    "lon": 110.0,
+    "borders_states": [
+     607,
+     1032
+    ]
+   }
+  ]
+ },
+ {
+  "id": 745,
+  "name": "Dalian",
+  "file": "745-Dalian.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "MAN",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 5531750,
+  "category": "large_city",
+  "centroid": [
+   39.11,
+   121.86
+  ],
+  "neighbour_states": [
+   716
+  ],
+  "provinces": [
+   {
+    "id": 1150,
+    "lat": 38.92,
+    "lon": 121.62,
+    "name": "Dalian",
+    "vp": 1.0,
+    "borders_states": [
+     716
+    ]
+   },
+   {
+    "id": 6851,
+    "lat": 39.33,
+    "lon": 122.16,
+    "name": "Zhuanghe",
+    "borders_states": [
+     716
+    ]
+   }
+  ]
+ },
+ {
+  "id": 746,
+  "name": "Ordos",
+  "file": "746-Ordos.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW",
+   "MON"
+  ],
+  "manpower": 1827000,
+  "category": "rural",
+  "centroid": [
+   38.91,
+   108.72
+  ],
+  "neighbour_states": [
+   615,
+   616,
+   621,
+   622,
+   1046
+  ],
+  "provinces": [
+   {
+    "id": 1959,
+    "lat": 39.73,
+    "lon": 107.51,
+    "borders_states": [
+     616,
+     621
+    ]
+   },
+   {
+    "id": 3427,
+    "lat": 38.71,
+    "lon": 109.87,
+    "name": "Ordos",
+    "borders_states": [
+     1046
+    ]
+   },
+   {
+    "id": 4960,
+    "lat": 39.93,
+    "lon": 108.8,
+    "borders_states": [
+     621
+    ]
+   },
+   {
+    "id": 4986,
+    "lat": 37.9,
+    "lon": 108.36,
+    "borders_states": [
+     616,
+     622,
+     1046
+    ]
+   },
+   {
+    "id": 10451,
+    "lat": 39.34,
+    "lon": 110.82,
+    "borders_states": [
+     615,
+     621,
+     1046
+    ]
+   },
+   {
+    "id": 10854,
+    "lat": 38.42,
+    "lon": 107.23,
+    "name": "Wuhai",
+    "borders_states": [
+     616
+    ]
+   },
+   {
+    "id": 12706,
+    "lat": 39.01,
+    "lon": 108.44
+   }
+  ]
+ },
+ {
+  "id": 747,
+  "name": "Dali",
+  "file": "747-Dali Bai.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "YUN",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 11961775,
+  "category": "rural",
+  "centroid": [
+   25.6,
+   99.71
+  ],
+  "neighbour_states": [
+   325,
+   601,
+   751,
+   752,
+   993,
+   998,
+   999
+  ],
+  "provinces": [
+   {
+    "id": 4559,
+    "lat": 25.95,
+    "lon": 101.35,
+    "borders_states": [
+     325,
+     751
+    ]
+   },
+   {
+    "id": 4937,
+    "lat": 26.85,
+    "lon": 100.83,
+    "borders_states": [
+     751,
+     752
+    ]
+   },
+   {
+    "id": 5009,
+    "lat": 23.38,
+    "lon": 99.7,
+    "borders_states": [
+     325,
+     999
+    ]
+   },
+   {
+    "id": 7965,
+    "lat": 26.01,
+    "lon": 100.22,
+    "name": "Dali",
+    "vp": 3.0,
+    "borders_states": [
+     325
+    ]
+   },
+   {
+    "id": 7976,
+    "lat": 24.45,
+    "lon": 99.77,
+    "borders_states": [
+     325,
+     999
+    ]
+   },
+   {
+    "id": 8126,
+    "lat": 27.73,
+    "lon": 99.79,
+    "borders_states": [
+     752
+    ]
+   },
+   {
+    "id": 10413,
+    "lat": 22.19,
+    "lon": 100.22,
+    "borders_states": [
+     325,
+     993,
+     999
+    ]
+   },
+   {
+    "id": 10863,
+    "lat": 24.71,
+    "lon": 98.33,
+    "name": "Heshun",
+    "borders_states": [
+     998,
+     999
+    ]
+   },
+   {
+    "id": 12789,
+    "lat": 27.75,
+    "lon": 99.1,
+    "borders_states": [
+     601,
+     752,
+     998
+    ]
+   },
+   {
+    "id": 12898,
+    "lat": 25.72,
+    "lon": 99.29,
+    "borders_states": [
+     998
+    ]
+   }
+  ]
+ },
+ {
+  "id": 748,
+  "name": "Zunyi",
+  "file": "748-Zunyi.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 10921400,
+  "category": "town",
+  "centroid": [
+   27.94,
+   106.97
+  ],
+  "neighbour_states": [
+   325,
+   603,
+   605,
+   1037
+  ],
+  "provinces": [
+   {
+    "id": 1010,
+    "lat": 28.22,
+    "lon": 106.74,
+    "name": "Zunyi",
+    "vp": 3.0,
+    "borders_states": [
+     605,
+     1037
+    ]
+   },
+   {
+    "id": 4325,
+    "lat": 27.45,
+    "lon": 107.0,
+    "borders_states": [
+     603
+    ]
+   },
+   {
+    "id": 9939,
+    "lat": 28.42,
+    "lon": 107.98,
+    "borders_states": [
+     603,
+     605
+    ]
+   },
+   {
+    "id": 10763,
+    "lat": 27.25,
+    "lon": 105.75,
+    "borders_states": [
+     325,
+     603,
+     1037
+    ]
+   }
+  ]
+ },
+ {
+  "id": 749,
+  "name": "Huangshan",
+  "file": "749-Huangshan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 7399350,
+  "category": "town",
+  "centroid": [
+   29.96,
+   118.12
+  ],
+  "neighbour_states": [
+   596,
+   600,
+   606,
+   1034,
+   1035
+  ],
+  "provinces": [
+   {
+    "id": 1125,
+    "lat": 29.77,
+    "lon": 118.71,
+    "borders_states": [
+     596
+    ]
+   },
+   {
+    "id": 1153,
+    "lat": 29.42,
+    "lon": 116.89,
+    "borders_states": [
+     600,
+     606
+    ]
+   },
+   {
+    "id": 1171,
+    "lat": 30.75,
+    "lon": 118.33,
+    "borders_states": [
+     606,
+     1035
+    ]
+   },
+   {
+    "id": 4105,
+    "lat": 30.94,
+    "lon": 119.2,
+    "borders_states": [
+     596,
+     1034,
+     1035
+    ]
+   },
+   {
+    "id": 4173,
+    "lat": 30.4,
+    "lon": 119.15,
+    "borders_states": [
+     596
+    ]
+   },
+   {
+    "id": 7007,
+    "lat": 28.94,
+    "lon": 117.92,
+    "borders_states": [
+     596,
+     600
+    ]
+   },
+   {
+    "id": 7104,
+    "lat": 30.19,
+    "lon": 118.39
+   },
+   {
+    "id": 10044,
+    "lat": 29.85,
+    "lon": 117.3,
+    "borders_states": [
+     606
+    ]
+   },
+   {
+    "id": 11937,
+    "lat": 30.29,
+    "lon": 117.76,
+    "borders_states": [
+     606
+    ]
+   },
+   {
+    "id": 12019,
+    "lat": 29.55,
+    "lon": 117.99,
+    "name": "Huangshan",
+    "vp": 1.0,
+    "borders_states": [
+     596
+    ]
+   }
+  ]
+ },
+ {
+  "id": 750,
+  "name": "Changde",
+  "file": "750-Changde.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 13176730,
+  "category": "town",
+  "centroid": [
+   29.45,
+   110.4
+  ],
+  "neighbour_states": [
+   602,
+   603,
+   605,
+   620
+  ],
+  "provinces": [
+   {
+    "id": 4896,
+    "lat": 29.03,
+    "lon": 109.58,
+    "borders_states": [
+     605
+    ]
+   },
+   {
+    "id": 5030,
+    "lat": 30.21,
+    "lon": 109.99,
+    "borders_states": [
+     605,
+     620
+    ]
+   },
+   {
+    "id": 7101,
+    "lat": 29.01,
+    "lon": 111.75,
+    "name": "Changde",
+    "vp": 10.0,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 7201,
+    "lat": 29.52,
+    "lon": 110.18
+   },
+   {
+    "id": 7279,
+    "lat": 28.96,
+    "lon": 110.67,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 7434,
+    "lat": 29.54,
+    "lon": 111.43,
+    "borders_states": [
+     602
+    ]
+   },
+   {
+    "id": 10006,
+    "lat": 28.29,
+    "lon": 109.72,
+    "borders_states": [
+     602,
+     603,
+     605
+    ]
+   },
+   {
+    "id": 10757,
+    "lat": 30.34,
+    "lon": 110.75,
+    "borders_states": [
+     620
+    ]
+   },
+   {
+    "id": 12086,
+    "lat": 29.81,
+    "lon": 111.95,
+    "borders_states": [
+     602,
+     620
+    ]
+   },
+   {
+    "id": 12414,
+    "lat": 29.85,
+    "lon": 109.13,
+    "borders_states": [
+     605
+    ]
+   }
+  ]
+ },
+ {
+  "id": 751,
+  "name": "Liangshan",
+  "file": "751-Liangshan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 6505135,
+  "category": "rural",
+  "centroid": [
+   28.17,
+   102.4
+  ],
+  "neighbour_states": [
+   325,
+   747,
+   752,
+   753,
+   1041
+  ],
+  "provinces": [
+   {
+    "id": 2067,
+    "lat": 28.39,
+    "lon": 102.76,
+    "borders_states": [
+     325,
+     752,
+     1041
+    ]
+   },
+   {
+    "id": 7294,
+    "lat": 26.95,
+    "lon": 102.49,
+    "name": "Liangshan",
+    "vp": 1.0,
+    "borders_states": [
+     325,
+     747
+    ]
+   },
+   {
+    "id": 10726,
+    "lat": 27.59,
+    "lon": 101.5,
+    "borders_states": [
+     747,
+     752
+    ]
+   },
+   {
+    "id": 10841,
+    "lat": 30.01,
+    "lon": 102.73,
+    "name": "Ya'an",
+    "vp": 3.0,
+    "borders_states": [
+     752,
+     753,
+     1041
+    ]
+   }
+  ]
+ },
+ {
+  "id": 752,
+  "name": "Ganzi",
+  "file": "752-Chamdo.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW",
+   "TIB"
+  ],
+  "manpower": 892185,
+  "category": "pastoral",
+  "centroid": [
+   30.83,
+   100.26
+  ],
+  "neighbour_states": [
+   601,
+   604,
+   747,
+   751,
+   753,
+   754
+  ],
+  "provinces": [
+   {
+    "id": 1918,
+    "lat": 31.11,
+    "lon": 101.55,
+    "borders_states": [
+     751,
+     753
+    ]
+   },
+   {
+    "id": 1999,
+    "lat": 28.55,
+    "lon": 100.66,
+    "borders_states": [
+     747,
+     751
+    ]
+   },
+   {
+    "id": 7988,
+    "lat": 32.75,
+    "lon": 99.76,
+    "borders_states": [
+     604,
+     753,
+     754
+    ]
+   },
+   {
+    "id": 8104,
+    "lat": 32.29,
+    "lon": 98.87,
+    "borders_states": [
+     601,
+     604
+    ]
+   },
+   {
+    "id": 12724,
+    "lat": 29.64,
+    "lon": 99.67,
+    "name": "Ba'an",
+    "vp": 1.0,
+    "borders_states": [
+     601,
+     747
+    ]
+   },
+   {
+    "id": 12837,
+    "lat": 30.33,
+    "lon": 100.53
+   },
+   {
+    "id": 4999,
+    "lat": 29.35,
+    "lon": 101.71,
+    "name": "Kangding",
+    "vp": 1.0,
+    "borders_states": [
+     751
+    ]
+   }
+  ]
+ },
+ {
+  "id": 753,
+  "name": "Gannan",
+  "file": "753-Gannan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "CHI"
+  ],
+  "claims": [
+   "TAW",
+   "TIB"
+  ],
+  "manpower": 2176911,
+  "category": "rural",
+  "centroid": [
+   32.67,
+   102.75
+  ],
+  "neighbour_states": [
+   283,
+   605,
+   751,
+   752,
+   754,
+   1041
+  ],
+  "provinces": [
+   {
+    "id": 1257,
+    "lat": 32.58,
+    "lon": 103.31,
+    "borders_states": [
+     1041
+    ]
+   },
+   {
+    "id": 2045,
+    "lat": 32.6,
+    "lon": 104.49,
+    "name": "Tianshui",
+    "vp": 1.0,
+    "borders_states": [
+     283,
+     605,
+     1041
+    ]
+   },
+   {
+    "id": 4375,
+    "lat": 31.37,
+    "lon": 103.24,
+    "borders_states": [
+     751,
+     1041
+    ]
+   },
+   {
+    "id": 4403,
+    "lat": 33.78,
+    "lon": 103.06,
+    "borders_states": [
+     283,
+     754
+    ]
+   },
+   {
+    "id": 5193,
+    "lat": 33.6,
+    "lon": 104.05,
+    "name": "Minsien",
+    "borders_states": [
+     283
+    ]
+   },
+   {
+    "id": 9966,
+    "lat": 31.62,
+    "lon": 102.33,
+    "borders_states": [
+     751,
+     752
+    ]
+   },
+   {
+    "id": 10787,
+    "lat": 33.15,
+    "lon": 102.17,
+    "borders_states": [
+     754
+    ]
+   },
+   {
+    "id": 10903,
+    "lat": 32.81,
+    "lon": 101.27,
+    "borders_states": [
+     752,
+     754
+    ]
+   }
+  ]
+ },
+ {
+  "id": 754,
+  "name": "Golog",
+  "file": "754-Golog.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "XSM",
+   "CHI"
+  ],
+  "claims": [
+   "TAW",
+   "TIB"
+  ],
+  "manpower": 6313300,
+  "category": "town",
+  "centroid": [
+   35.15,
+   100.7
+  ],
+  "neighbour_states": [
+   283,
+   604,
+   752,
+   753,
+   755,
+   1044
+  ],
+  "provinces": [
+   {
+    "id": 1882,
+    "lat": 34.09,
+    "lon": 98.58,
+    "borders_states": [
+     604,
+     752,
+     755
+    ]
+   },
+   {
+    "id": 4536,
+    "lat": 35.33,
+    "lon": 99.2,
+    "borders_states": [
+     755
+    ]
+   },
+   {
+    "id": 4888,
+    "lat": 35.43,
+    "lon": 102.43,
+    "borders_states": [
+     283
+    ]
+   },
+   {
+    "id": 7270,
+    "lat": 35.23,
+    "lon": 101.21
+   },
+   {
+    "id": 10490,
+    "lat": 36.07,
+    "lon": 100.86,
+    "borders_states": [
+     755
+    ]
+   },
+   {
+    "id": 10817,
+    "lat": 33.81,
+    "lon": 100.28,
+    "borders_states": [
+     752,
+     753
+    ]
+   },
+   {
+    "id": 11448,
+    "lat": 34.13,
+    "lon": 101.79,
+    "name": "Labrang",
+    "vp": 1.0,
+    "borders_states": [
+     283,
+     753
+    ]
+   },
+   {
+    "id": 12732,
+    "lat": 36.58,
+    "lon": 102.51,
+    "name": "Lanzhou",
+    "vp": 3.0,
+    "borders_states": [
+     283,
+     1044
+    ]
+   },
+   {
+    "id": 12815,
+    "lat": 34.38,
+    "lon": 100.21
+   },
+   {
+    "id": 13380,
+    "lat": 37.16,
+    "lon": 101.42,
+    "borders_states": [
+     755,
+     1044
+    ]
+   }
+  ]
+ },
+ {
+  "id": 755,
+  "name": "Haixi",
+  "file": "755-Haixi.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "XSM",
+   "CHI"
+  ],
+  "claims": [
+   "TAW",
+   "TIB"
+  ],
+  "manpower": 253750,
+  "category": "pastoral",
+  "centroid": [
+   37.34,
+   96.01
+  ],
+  "neighbour_states": [
+   604,
+   754,
+   756,
+   759,
+   1042,
+   1044
+  ],
+  "provinces": [
+   {
+    "id": 2053,
+    "lat": 37.64,
+    "lon": 99.98,
+    "borders_states": [
+     754,
+     756,
+     1044
+    ]
+   },
+   {
+    "id": 2099,
+    "lat": 37.55,
+    "lon": 98.24
+   },
+   {
+    "id": 7997,
+    "lat": 38.12,
+    "lon": 95.47,
+    "borders_states": [
+     756,
+     759
+    ]
+   },
+   {
+    "id": 10750,
+    "lat": 36.46,
+    "lon": 98.7,
+    "name": "Dulan",
+    "vp": 1.0,
+    "borders_states": [
+     754
+    ]
+   },
+   {
+    "id": 10796,
+    "lat": 37.28,
+    "lon": 96.73
+   },
+   {
+    "id": 10834,
+    "lat": 37.06,
+    "lon": 94.86,
+    "borders_states": [
+     604
+    ]
+   },
+   {
+    "id": 10865,
+    "lat": 37.33,
+    "lon": 92.21,
+    "borders_states": [
+     604,
+     759,
+     1042
+    ]
+   },
+   {
+    "id": 12846,
+    "lat": 35.63,
+    "lon": 97.17,
+    "borders_states": [
+     604,
+     754
+    ]
+   },
+   {
+    "id": 12890,
+    "lat": 38.44,
+    "lon": 93.06,
+    "borders_states": [
+     759
+    ]
+   },
+   {
+    "id": 13146,
+    "lat": 36.8,
+    "lon": 100.42,
+    "type": "lake",
+    "borders_states": [
+     754
+    ]
+   },
+   {
+    "id": 13381,
+    "lat": 38.19,
+    "lon": 98.3,
+    "borders_states": [
+     756
+    ]
+   }
+  ]
+ },
+ {
+  "id": 756,
+  "name": "Jiuquan",
+  "file": "756-Jiuquan.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "XSM",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 1461600,
+  "category": "pastoral",
+  "centroid": [
+   39.99,
+   97.02
+  ],
+  "neighbour_states": [
+   755,
+   759,
+   760,
+   817,
+   1040,
+   1044
+  ],
+  "provinces": [
+   {
+    "id": 1778,
+    "lat": 41.38,
+    "lon": 97.2,
+    "borders_states": [
+     760,
+     817,
+     1040
+    ]
+   },
+   {
+    "id": 2028,
+    "lat": 39.39,
+    "lon": 99.53,
+    "borders_states": [
+     755,
+     1040,
+     1044
+    ]
+   },
+   {
+    "id": 5076,
+    "lat": 38.99,
+    "lon": 97.22,
+    "borders_states": [
+     755
+    ]
+   },
+   {
+    "id": 7971,
+    "lat": 39.99,
+    "lon": 97.57,
+    "name": "Jiuquan",
+    "vp": 1.0,
+    "borders_states": [
+     1040
+    ]
+   },
+   {
+    "id": 12596,
+    "lat": 39.39,
+    "lon": 95.36,
+    "borders_states": [
+     755,
+     759
+    ]
+   },
+   {
+    "id": 12820,
+    "lat": 40.63,
+    "lon": 95.3,
+    "borders_states": [
+     759,
+     760
+    ]
+   }
+  ]
+ },
+ {
+  "id": 759,
+  "name": "Kunlun Shan",
+  "file": "759-Kunlun.txt",
+  "owner": "PRC",
+  "cores": [
+   "PRC",
+   "SIK",
+   "CHI"
+  ],
+  "claims": [
+   "TAW"
+  ],
+  "manpower": 30450,
+  "category": "wasteland",
+  "centroid": [
+   40.12,
+   91.32
+  ],
+  "neighbour_states": [
+   287,
+   617,
+   755,
+   756,
+   760,
+   1042
+  ],
+  "provinces": [
+   {
+    "id": 1698,
+    "lat": 39.49,
+    "lon": 92.85,
+    "borders_states": [
+     755,
+     756
+    ]
+   },
+   {
+    "id": 2074,
+    "lat": 39.51,
+    "lon": 90.33,
+    "name": "Ruoqiang",
+    "vp": 1.0,
+    "borders_states": [
+     287,
+     755,
+     1042
+    ]
+   },
+   {
+    "id": 4947,
+    "lat": 40.62,
+    "lon": 92.67,
+    "borders_states": [
+     756,
+     760
+    ]
+   },
+   {
+    "id": 5736,
+    "lat": 40.88,
+    "lon": 90.17,
+    "borders_states": [
+     287,
+     617,
+     760
+    ]
+   }
+  ]
+ },
+ {
+  "id": 869,
+  "name": "Lanna",
+  "file": "869-Lanna.txt",
+  "owner": "SIA",
+  "cores": [
+   "SIA"
+  ],
+  "claims": [],
+  "manpower": 5560000,
+  "category": "town",
+  "centroid": [
+   18.8,
+   99.33
+  ],
+  "neighbour_states": [
+   289,
+   670,
+   993,
+   994,
+   999,
+   1069,
+   1077
+  ],
+  "provinces": [
+   {
+    "id": 1253,
+    "lat": 17.94,
+    "lon": 97.98,
+    "borders_states": [
+     289,
+     994,
+     999
+    ]
+   },
+   {
+    "id": 1488,
+    "lat": 18.68,
+    "lon": 98.5,
+    "name": "Chiang Mai",
+    "vp": 1.0
+   },
+   {
+    "id": 1990,
+    "lat": 20.0,
+    "lon": 99.73,
+    "borders_states": [
+     670,
+     993,
+     999,
+     1069
+    ]
+   },
+   {
+    "id": 4496,
+    "lat": 19.21,
+    "lon": 100.04,
+    "borders_states": [
+     1069
+    ]
+   },
+   {
+    "id": 7492,
+    "lat": 18.02,
+    "lon": 99.03,
+    "name": "Lamphun",
+    "borders_states": [
+     289,
+     1077
+    ]
+   },
+   {
+    "id": 7531,
+    "lat": 18.16,
+    "lon": 100.07,
+    "name": "Lampang",
+    "borders_states": [
+     1069,
+     1077
+    ]
+   },
+   {
+    "id": 7675,
+    "lat": 19.13,
+    "lon": 98.08,
+    "borders_states": [
+     999
+    ]
+   },
+   {
+    "id": 8045,
+    "lat": 19.08,
+    "lon": 100.87,
+    "borders_states": [
+     1069
+    ]
+   },
+   {
+    "id": 10371,
+    "lat": 19.16,
+    "lon": 99.14,
+    "borders_states": [
+     999
+    ]
+   }
+  ]
+ },
+ {
+  "id": 993,
+  "name": "STATE_993",
+  "file": "993-Kentung and Yawnghwe.txt",
+  "owner": "BRM",
+  "cores": [
+   "BRM"
+  ],
+  "claims": [],
+  "manpower": 600000,
+  "category": "rural",
+  "centroid": [
+   21.3,
+   99.5
+  ],
+  "neighbour_states": [
+   325,
+   670,
+   747,
+   869,
+   999
+  ],
+  "provinces": [
+   {
+    "id": 4175,
+    "lat": 20.66,
+    "lon": 99.02,
+    "borders_states": [
+     869,
+     999
+    ]
+   },
+   {
+    "id": 7400,
+    "lat": 21.9,
+    "lon": 99.08,
+    "borders_states": [
+     747,
+     999
+    ]
+   },
+   {
+    "id": 7909,
+    "lat": 21.47,
+    "lon": 100.15,
+    "name": "Kyaingtong",
+    "vp": 1.0,
+    "borders_states": [
+     325,
+     670,
+     747
+    ]
+   },
+   {
+    "id": 7974,
+    "lat": 20.82,
+    "lon": 99.8,
+    "borders_states": [
+     670,
+     869
+    ]
+   }
+  ]
+ }
+]
