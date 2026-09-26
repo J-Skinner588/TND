@@ -1,0 +1,45 @@
+
+state = {
+	id = 503
+	name = "STATE_503"
+<<<<<<< HEAD
+	manpower = 961350 # Was split with Parana from 1922700
+=======
+	manpower = 8058000
+>>>>>>> 9026c29b77a22c62259578f046c2fd5ccc673741
+	
+	state_category = rural
+
+	history = {
+
+		owner = BRA
+		add_core_of = BRA
+
+		buildings = {
+			infrastructure = 2 #was: 5, then 3
+		}
+
+		victory_points = {
+<<<<<<< HEAD
+			4548 2 
+		}
+
+		victory_points = {
+			10405 1 
+=======
+			4548 10 
+		}
+
+		victory_points = {
+			10405 10 
+>>>>>>> 9026c29b77a22c62259578f046c2fd5ccc673741
+		}
+		
+	}
+
+	provinces = {
+		1529 4548 10405 12466 
+	}
+
+	local_supplies = 0.0 
+}

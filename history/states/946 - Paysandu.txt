@@ -1,0 +1,49 @@
+
+state = {
+	id = 946
+	name = "STATE_946"
+<<<<<<< HEAD
+	manpower = 320000
+=======
+	manpower = 597000
+>>>>>>> 9026c29b77a22c62259578f046c2fd5ccc673741
+	
+	state_category = rural
+	
+	resources = {
+		oil = 3 
+	}
+
+	history = {
+
+		owner = URG
+		add_core_of = URG
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+
+		victory_points = {
+<<<<<<< HEAD
+			12468 2
+		}
+
+		victory_points = {
+			10502 1
+=======
+			12468 20
+		}
+
+		victory_points = {
+			10502 10
+>>>>>>> 9026c29b77a22c62259578f046c2fd5ccc673741
+		}
+	}
+
+	provinces = {
+		1613 1626 10502 12440 12468
+	}
+
+	local_supplies = 0.0 
+}
